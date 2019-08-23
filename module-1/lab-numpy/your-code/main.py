@@ -73,12 +73,17 @@ print(eq)
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
-
+d_max = d.max()
+d_min = d.min()
+d_mean = d.mean()
+print("d_max= ",d_max)
+print("d_min= ",d_min)
+print("d_mean= ",d_mean)
 
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
-
+f = np.empty((2,3,5))
 
 
 """
@@ -90,11 +95,23 @@ Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
-
-
-
+#listd = ([[[d[i][j][k] for k in range(len(d[i][j]))] for j in range(len(d[i]))] for i in range(len(d))])
+print(d[0][0][0])
+for idx in np.ndindex(d.shape[:3]):
+        if d_min < d[idx] < d_mean:
+                f[idx] = 25
+        elif d_mean < d[idx] < d_max:
+                f[idx] = 75
+        elif d[idx] == d_mean:
+                f[idx] = 50
+        elif d[idx] == d_min:
+                f[idx] = 0
+        elif d[idx] == d_max:
+                f[idx] = 100
+print(f)
 
 """
+
 #17. Print d and f. Do you have your expected f?
 For instance, if your d is:
 array([[[1.85836099, 1.67064465, 1.62576044, 1.40243961, 1.88454931],
