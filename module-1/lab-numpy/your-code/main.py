@@ -6,12 +6,13 @@ import numpy as np
 print("NUMPY VERSION:", np.version.version)
 print("NUMPY CONFIG:", np.show_config())
 
+
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
-# Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
+# Challenge: there are at least three easy ways that use numpy to generate random arrays. 
+# How many ways can you find?
 a = np.random.random((1,3,5))
 
 #BUSCAR DOS MANERAS MÁS PARA ARRAYS EN NUMPY
-
 
 #4. Print a.
 print("ARRAY A:", a)
@@ -21,41 +22,39 @@ print("ARRAY A:", a)
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 b = np.ones((5,2,3))
-
-
-
+#si quito uno de los dos paréntesis, aparece error, no sé or qué es.
 #6. Print b.
 print("ARRAY B:", b)
 
 
-
 #7. Do a and b have the same size? How do you prove that in Python code?
-
 if a.shape == b.shape:
     print("Array A & B ARE equal")
 else:
     print("Array A & B ARN`T equal")
 
-
-
 #8. Are you able to add a and b? Why or why not?
 
-
+unidos=[zip(a,b)]
+print(unidos)
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
-c = b.reshape(2,3,5)
+c = b.transpose(2,0,1)
 print(c)
 
-
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
+unidos=[zip(a,c)]
+print(unidos)
+
+
+#11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 print("ARRAY A: ", a)
 print("ARRAY B: ", b)
 print("Difference between A & D arrays: ", np.setdiff1d(a, b))
 print("A & D HAVE DIFFERENT VALUES INSIDE")
 
 
-
-#11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
+#12. Multiply a and c. Assign the result to e.
 e = np.multiply(a,c)
 
 
