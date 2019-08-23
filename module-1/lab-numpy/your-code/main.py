@@ -63,18 +63,20 @@ print('\nOur arrays "a" and "d" are :\n',a,'\n\n',d)
 e = np.multiply(a,c)
 
 print('\nThe result of multiply "a" and "c" is: \n',e)
+
 #13. Does e equal to a? Why or why not?
 
-
+# e is not equal to a because although the have the same size and dimension, their values are different.
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
-
-
+d_max = d.max()
+d_min = d.min()
+d_mean = d.mean()
 
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
-
+f = np.empty((2,3,5))
 
 
 
