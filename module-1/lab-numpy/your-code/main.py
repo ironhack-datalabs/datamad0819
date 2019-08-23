@@ -1,5 +1,5 @@
 
-### Lab Solved and Completed
+### Lab Completed
 ### Answers are made available to be read in terminal if code executed.
 
 #1. Import the NUMPY package under the name np.
