@@ -39,7 +39,7 @@ print(np.prod(np.shape(a))==np.prod(np.shape(b)))
 
 #8. Are you able to add a and b? Why or why not?
 
-# No you cannot because altough they have the same size the structures are not compatible.
+print("No, you cannot because altough they have the same size the structures are not compatible.")
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
@@ -56,27 +56,38 @@ print(d)
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
+print(a)
+print(d)
 
-
+print("The difference and relation of the values in the two arrays is d[i] = a[i] + 1")
 
 #12. Multiply a and c. Assign the result to e.
 
+e = np.multiply(a,c)
 
+print(e)
 
 #13. Does e equal to a? Why or why not?
 
-
-
+print("Yes, it does because we are multiplying every value by 1. a[i]*1 = a[i]")
+print(a==e)
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
+d_max = np.max(d)
+d_min = np.min(d)
+d_mean = np.mean(d)
 
 
+print(d_max)
+print(d_min)
+print(d_mean)
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
+f = np.empty([2,3,5])
 
-
+print(f)
 
 '''
 #16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
