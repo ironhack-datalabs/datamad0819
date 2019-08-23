@@ -51,14 +51,14 @@ print("\n")
 #7. Do a and b have the same size? How do you prove that in Python code?
 print("#7")
 
-print(a.size == b.size)
+print("'a.size == b.size' is {}".format(a.size == b.size))
 
 print("\n")
 #8. Are you able to add a and b? Why or why not?
 print("#8")
 
 #print(a + b)
-print("I can't add them because they aren't structured the same way and a ValueError raises")
+print("I can't add them because 'a.shape == b.shape' is {} so a ValueError raises".format((a.shape == b.shape)))
 
 print("\n")
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
