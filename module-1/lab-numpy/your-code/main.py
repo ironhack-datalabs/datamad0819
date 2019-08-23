@@ -43,15 +43,20 @@ else:
 
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
-
+c = b.reshape(2,3,5)
+print(c)
 
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
-c.reshape(2,3,5)
+print("ARRAY A: ", a)
+print("ARRAY B: ", b)
+print("Difference between A & D arrays: ", np.setdiff1d(a, b))
+print("A & D HAVE DIFFERENT VALUES INSIDE")
 
 
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
+e = np.multiply(a,c)
 
 
 
