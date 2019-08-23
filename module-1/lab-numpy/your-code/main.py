@@ -3,30 +3,38 @@ import numpy as np
 
 
 #2. Print the NUMPY version and the configuration.
-print(np.__version__)
-print(np.show_config())
-
+print("NUMPY VERSION:", np.version.version)
+print("NUMPY CONFIG:", np.show_config())
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
+a = np.random.random((1,3,5))
 
+#BUSCAR DOS MANERAS MÁS PARA ARRAYS EN NUMPY
 
 
 #4. Print a.
+print("ARRAY A:", a)
 
 
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
+b = np.ones((5,2,3))
 
 
 
 #6. Print b.
+print("ARRAY B:", b)
 
 
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
+if a.shape == b.shape:
+    print("Array A & B ARE equal")
+else:
+    print("Array A & B ARN`T equal")
 
 
 
