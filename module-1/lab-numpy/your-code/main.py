@@ -1,37 +1,83 @@
 #1. Import the NUMPY package under the name np.
 
-
+import numpy as np
 
 #2. Print the NUMPY version and the configuration.
+
+$ python3 -m pip show numpy 
+Name: numpy
+Version: 1.17.0
+Summary: NumPy is the fundamental package for array computing with Python.
+Home-page: https://www.numpy.org
+Author: Travis E. Oliphant et al.
+Author-email: None
+License: BSD
+Location: c:\users\david\appdata\local\programs\python\python37-32\lib\site-packages
+Requires:
+Required-by: pandas
 
 
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
+a = np.random.random((2,3,5))
 
 
 #4. Print a.
+
+[[[0.55560201 0.09725896 0.27730659 0.91387179 0.91251196]
+  [0.48958978 0.49038877 0.70675384 0.93762862 0.7953841 ]
+  [0.24027796 0.55528132 0.59130435 0.06312534 0.09786939]]
+
+ [[0.12397164 0.60802355 0.93612415 0.76362798 0.73784694]
+  [0.34998824 0.08274676 0.66320567 0.98131649 0.90312513]
+  [0.54342087 0.20041009 0.7879777  0.47362782 0.18967117]]]
 
 
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-
+b = np.ones((5,2,3))
 
 #6. Print b.
 
+[[[1. 1. 1.]
+  [1. 1. 1.]]
+
+ [[1. 1. 1.]
+  [1. 1. 1.]]
+
+ [[1. 1. 1.]
+  [1. 1. 1.]]
+
+ [[1. 1. 1.]
+  [1. 1. 1.]]
+
+ [[1. 1. 1.]
+  [1. 1. 1.]]]
 
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
+yes, they have the same size
+
+print(np.size(a))
+print(np.size(b))
+
+30
+30
 
 
 
 #8. Are you able to add a and b? Why or why not?
 
+no por que son diferentes estructuras:
+    2x3x5
+    5x2x3
 
+no puedes sumar 2 con 3, ni 3 con 2....
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
