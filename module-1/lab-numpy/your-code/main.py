@@ -96,7 +96,7 @@ In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
 #listd = ([[[d[i][j][k] for k in range(len(d[i][j]))] for j in range(len(d[i]))] for i in range(len(d))])
-print(d[0][0][0])
+
 for idx in np.ndindex(d.shape[:3]):
         if d_min < d[idx] < d_mean:
                 f[idx] = 25
@@ -108,7 +108,7 @@ for idx in np.ndindex(d.shape[:3]):
                 f[idx] = 0
         elif d[idx] == d_max:
                 f[idx] = 100
-print(f)
+
 
 """
 
@@ -131,8 +131,10 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-
-
+print(d)
+print(f.dtype)
+f = f.astype('<U1') 
+print(f.dtype)
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
 ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
@@ -145,3 +147,16 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
 """
+for idx in np.ndindex(d.shape[:3]):
+        if d_min < d[idx] < d_mean:
+                f[idx] = "B"
+        elif d_mean < d[idx] < d_max:
+                f[idx] = "D"
+        elif d[idx] == d_mean:
+                f[idx] = "C"
+        elif d[idx] == d_min:
+                f[idx] = "A"
+        elif d[idx] == d_max:
+                f[idx] = "E"
+
+print(f)
