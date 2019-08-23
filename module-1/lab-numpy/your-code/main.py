@@ -1,58 +1,74 @@
 #1. Import the NUMPY package under the name np.
-
+import numpy as np
 
 
 #2. Print the NUMPY version and the configuration.
 
-
+#print(np.__version__)
+#print(np.show_config())
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
-
+a = np.random.rand(2,3,5)
+#generate random numbers from the uniform distribution
+a2 = np.random.uniform(size=(2,3,5))
+#generate random numbers from the normal distribution
+a3 = np.random.normal(size=(2,3,5))
 
 
 #4. Print a.
 
-
+print(a)
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-
+b=np.ones((5,2,3))
 
 #6. Print b.
 
-
+print(b)
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-
+if a.size == b.size:
+        print("A and B have the same size, {}".format(a.size))
+else:
+        print("A and B does not have the same size. A: {} and B: {}".format(a.size,b.size))
 
 
 #8. Are you able to add a and b? Why or why not?
 
-
+#No you are not able to add a and b because they have the same size but not the same shape
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
-
+c = b.reshape(2,3,5)
+print(c)
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
-
+d = a+c
+print(d)
+# It works because now they have the same shape
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
+print("Array A: ",a)
+print("Array D: ",d)
 
-
+# They are both with decimals. The values of A are under 1 and the values of D are above 1
 
 #12. Multiply a and c. Assign the result to e.
 
-
+e = a*c
+print(e)
 
 #13. Does e equal to a? Why or why not?
 
-
+eq = np.array_equal(e,a)
+print(eq)
+#They are equal because c was the transpose of an array of 1, so if you multiply a with an array of 1 the result will be the same array
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
