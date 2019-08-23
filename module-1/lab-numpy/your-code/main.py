@@ -1,62 +1,91 @@
 #1. Import the NUMPY package under the name np.
 
-
+import numpy as np
 
 #2. Print the NUMPY version and the configuration.
 
-
+print('--->numpy version:', np.__version__)
+print('--->configuration:')
+np.show_config()
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
+print('\n# GENERATING RANDOM MATRIX WITH:\n#    a = np.random.rand(2,3,5)')
+a = np.random.rand(2,3,5)
+print(a)
 
+print('\n# GENERATING RANDOM MATRIX WITH:\n#    import random')
+print('#    a = np.array([[[random.random() for i in range(5)] for j in range(3)] for k in range(2)])')
+import random
+a = np.array([[[random.random() for i in range(5)] for j in range(3)] for k in range(2)])
+print(a)
+
+print('\n# GENERATING RANDOM MATRIX WITH:\n#    a = np.random.random((2,3,5))')
+a = np.random.random((2,3,5))
 
 #4. Print a.
 
-
+print(a)
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-
+b = np.ones((5,2,3))
 
 #6. Print b.
 
-
+print('\n# Matrix b:')
+print(b)
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-
-
+print('\n# Do the matrices a and b have the same size?')
+print((np.prod(a.shape)) == (np.prod(b.shape)))
 
 #8. Are you able to add a and b? Why or why not?
 
+print('\n# Are you able to add a and b? Why or why not?')
 
+"""
+'a+b' results in error:
+Traceback (most recent call last):
+  File "main.py", line 47, in <module>
+    print(a+b)
+ValueError: operands could not be broadcast together with shapes (2,3,5) (5,2,3) 
+"""
+
+print('Matrices a and b may not be added because they have the same SIZE, but not the same SHAPE')
+print("i.e.: there isn't an element of a with the same indexes for every element of b and vice-versa.")
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
-
+c = b.reshape(2,3,5)
+print('\n# Matrix c (the transposed of b):')
+print(c)
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
-
+d = a+c
+print('\n# Matrices a and c may be added because both have the same shape.\n')
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
-
-
+print('# Matrix a:\n', a,'\n\nMatrix d = a+c:\n',d)
+print('\n The values of d are the values of a, with the same index, incremented by 1.\n')
 
 #12. Multiply a and c. Assign the result to e.
 
-
+print('# Matrix e = a*c:')
+e = a*c
+print(e)
 
 #13. Does e equal to a? Why or why not?
 
-
-
+print('\n# Does e == a?\n',np.array_equal(a,e))
+print(" They are equal because 'a*c' multiplies every element of a by 1.\n")
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
-
 
 
 
@@ -73,10 +102,8 @@ Assign 0 to the corresponding value(s) in f for d_min in d.
 Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
+
 """
-
-
-
 
 """
 #17. Print d and f. Do you have your expected f?
