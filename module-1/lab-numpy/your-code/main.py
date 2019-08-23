@@ -9,7 +9,7 @@ print("=        Ejercicio 2        =")
 print("=============================")
 print("\n\n")
 
-print("La version de numpy es " + np.version.version)
+print("The version of numpy is " + np.version.version)
 
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
@@ -42,10 +42,7 @@ print("\n\n=============================")
 print("=        Ejercicio 7        =")
 print("=============================\n\n")
 
-print("Tienen a y b el mismo tamano?")
-print(a.shape==b.shape)
-
-
+print("Equal Size? "+str(a.size==b.size))
 #8. Are you able to add a and b? Why or why not?
 print("\n\n=============================")
 print("=        Ejercicio 8        =")
@@ -54,13 +51,14 @@ print("=============================\n\n")
 #c=a+b
 print("a+b")
 print("ERROR: operands could not be broadcast together with shapes (2,3,5) (5,2,3)")
-print("Tienen tamanos distintos")
+print("Equal Shape? " + str(a.shape==b.shape))
+print("They have different shape")
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 print("\n\n=============================")
 print("=        Ejercicio 9        =")
 print("=============================\n\n")
 c=np.transpose(b,(1,2,0))
-print("La nueva forma de c(b) es "+str(c.shape))
+print("The new form of c(old b) is "+str(c.shape))
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
 
@@ -111,6 +109,8 @@ print("La media de d es: "+ str(d_mean))
 
 
 
+
+
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 print("\n\n=============================")
 print("=        Ejercicio 15       =")
@@ -143,8 +143,19 @@ def equivalen_Value(a, d_min, d_mean, d_max):
                 return 100
 
 
-vfunc = np.vectorize(equivalen_Value)
-f=vfunc(d,d_min, d_mean, d_max)
+#vfunc = np.vectorize(equivalen_Value)
+#f=vfunc(d,d_min, d_mean, d_max)
+
+for x in range(len(d)):
+        for y in range(len(d[x])):
+                for z in range(len(d[x][y])):
+                        f[x][y][z]=equivalen_Value(d[x][y][z],d_min, d_mean, d_max)
+
+
+
+        
+
+
 
 
 """
@@ -212,8 +223,17 @@ def equivalen_letter(a, d_min, d_mean, d_max):
                 return "E"
 
 
-vfunc = np.vectorize(equivalen_letter)
-g=vfunc(d,d_min, d_mean, d_max)
+#vfunc = np.vectorize(equivalen_letter)
+#f=vfunc(d,d_min, d_mean, d_max)
+
+f=f.astype(str)
+print("F string")
+print(f)
+for x in range(len(d)):
+        for y in range(len(d[x])):
+                for z in range(len(d[x][y])):
+                        f[x][y][z]=equivalen_letter(d[x][y][z],d_min, d_mean, d_max)
+
 
 print("El maximo de d es: "+ str(d_max))
 print("El minimo de d es: "+ str(d_min))
@@ -221,7 +241,7 @@ print("La media de d es: "+ str(d_mean))
 
 print("Array d")
 print(d)
-print("\nArray g")
-print(g)
+print("\nArray f")
+print(f)
 
 
