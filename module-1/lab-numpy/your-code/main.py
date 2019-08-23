@@ -31,10 +31,15 @@ print( '6.- Our array "b" is:\n' ,b,'\n')
 
 
 #7. Do a and b have the same size? How do you prove that in Python code?
-def 
-size = sum(a.shape) == sum(b.shape)
 
 
+
+def array_size_comparator(arr1,arr2):
+        #returns True if sime size, False if diffrent size.
+        size = sum(arr1.shape) == sum(arr2.shape)
+        return size
+
+print(" Do a and b have the same size?",array_size_comparator(a,b))
 
 #8. Are you able to add a and b? Why or why not?
 
