@@ -4,8 +4,8 @@ import numpy as np
 
 #2. Print the NUMPY version and the configuration.
 
-#print(np.__version__)
-#print(np.show_config())
+print("2- Numpy version = ",np.__version__ , "\n")
+#print("Numpy config = ",np.show_config() , "\n")
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
@@ -17,8 +17,7 @@ a3 = np.random.normal(size=(2,3,5))
 
 
 #4. Print a.
-
-print(a)
+print("4- 2X3X5 3-dimensional array with random values: \n\n",a,"\n")
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
@@ -27,48 +26,45 @@ b=np.ones((5,2,3))
 
 #6. Print b.
 
-print(b)
+print("6- 5X2X3 3-dimensional array with valuews equal 1: \n\n",b,"\n")
 
 #7. Do a and b have the same size? How do you prove that in Python code?
-
+print("7- Do a and b have the same size? How do you prove that in Python code?")
 if a.size == b.size:
-        print("A and B have the same size, {}".format(a.size))
+        print("A and B have the same size, {}\n".format(a.size))
 else:
-        print("A and B does not have the same size. A: {} and B: {}".format(a.size,b.size))
+        print("A and B does not have the same size. A: {} and B: {}\n".format(a.size,b.size))
 
 
 #8. Are you able to add a and b? Why or why not?
-
-#No you are not able to add a and b because they have the same size but not the same shape
+print("8- Are you able to add a and b? Why or why not?")
+print("No you are not able to add a and b because they have the same size but not the same shape\n")
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
 c = b.reshape(2,3,5)
-print(c)
+print("9- Array B with the same structure of A\n\n",c,"\n")
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
 d = a+c
-print(d)
-# It works because now they have the same shape
+print("10- Now they can be summed as they have the same shape\n\n")
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
-print("Array A: ",a)
-print("Array D: ",d)
-
-# They are both with decimals. The values of A are under 1 and the values of D are above 1
+print("Array A: \n",a,"\n")
+print("Array D: \n",d,"\n")
+print("11- They are both with decimals. The values of A are under 1 and the values of D are above 1\n\n")
 
 #12. Multiply a and c. Assign the result to e.
 
 e = a*c
-print(e)
+#print(e)
 
 #13. Does e equal to a? Why or why not?
-
+print("13- Does e equal to a? Why or why not?\n")
 eq = np.array_equal(e,a)
-print(eq)
-#They are equal because c was the transpose of an array of 1, so if you multiply a with an array of 1 the result will be the same array
+print(eq,"\nThey are equal because c was the transpose of an array of 1, so if you multiply a with an array of 1 the result will be the same array\n\n")
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
@@ -78,7 +74,7 @@ d_min = d.min()
 d_mean = d.mean()
 print("d_max= ",d_max)
 print("d_min= ",d_min)
-print("d_mean= ",d_mean)
+print("d_mean= ",d_mean,"\n")
 
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
@@ -131,10 +127,9 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-print(d)
-print(f.dtype)
+print("17- \nArray D: \n",d,"\n")
+print("Array F: \n",f,"\n")
 f = f.astype('<U1') 
-print(f.dtype)
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
 ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
@@ -159,4 +154,4 @@ for idx in np.ndindex(d.shape[:3]):
         elif d[idx] == d_max:
                 f[idx] = "E"
 
-print(f)
+print("18- \n Array F: \n",f)
