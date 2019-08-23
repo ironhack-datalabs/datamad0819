@@ -3,10 +3,10 @@
 import numpy as np
 
 #2. Print the NUMPY version and the configuration.
-print('This NumPy version is:')
+print('\nThis NumPy version is:')
 print(np.version.version)
-
-
+print('\nThis NumPy configuration is:')
+np.show_config()
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
@@ -32,36 +32,37 @@ print( '6.- Our array "b" is:\n' ,b,'\n')
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-
-
 def array_size_comparator(arr1,arr2):
         #returns True if sime size, False if diffrent size.
         size = sum(arr1.shape) == sum(arr2.shape)
         return size
 
-print(" Do a and b have the same size?",array_size_comparator(a,b))
+print("7.-Do a and b have the same size?",array_size_comparator(a,b))
 
 #8. Are you able to add a and b? Why or why not?
-
-
+'''
+It is not possible beacuase even having the same size, their elements are distributed in diferent sized elements.
+It is necessary to traspose them to be able to add.
+'''
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
-
+c = b.transpose(1,2,0)
 
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
-
-
+d = a +c
+print('\n10.-The value of "d" is:\n',d)
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
-
-
+print('\nOur arrays "a" and "d" are :\n',a,'\n\n',d)
+#The difference between a and d is that the elements of d are the elements of a+1.
 
 #12. Multiply a and c. Assign the result to e.
 
+e = np.multiply(a,c)
 
-
+print('\nThe result of multiply "a" and "c" is: \n',e)
 #13. Does e equal to a? Why or why not?
 
 
