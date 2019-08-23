@@ -1,69 +1,94 @@
 #1. Import the NUMPY package under the name np.
 
-
+import numpy as np
 
 #2. Print the NUMPY version and the configuration.
 
-
+np.version.version
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
+a = np.random.random((2,3,5))
 
 
 #4. Print a.
 
-
+print(a)
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-
+b = np.ones((5,2,3))
 
 #6. Print b.
 
-
+print(b)
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-
+if len(b.shape) == len(a.shape):
+    print("es igual💪💪")
+else:
+    print("sigue intentandolo")
 
 
 #8. Are you able to add a and b? Why or why not?
 
+#No se pueden sumar ya que el numero de elementos son diferentes, habria que transponerlas para que tengan el mismo formato.
 
+
+c = b.transpose(1,2,0)
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
+c = b.transpose(1,2,0)
 
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
+
+d = a + c
+
+print(d)
 
 
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
+#se nota perfectamente, previamente todos los numeros estaban por debajo de 0 y ahora todos estan por encima.
 
 
 
 #12. Multiply a and c. Assign the result to e.
 
-
+e = a*c
+print(e)
 
 #13. Does e equal to a? Why or why not?
 
+a==e
 
+# son iguales, ya que los numeros se estan multiplicando por 1 y no varian.
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
+d_max = np.max(d)
+                
+print(d_max)
 
+d_min = np.min(d)
 
+print(d_min)
+
+d_men = np.mean(d)
+
+print(d_men)
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
-
-
+f = np.empty(np.shape(d))
+print(f)
 
 """
 #16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
@@ -75,7 +100,22 @@ In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
 
-
+for i in range(2):
+    for j in range(3):
+        for k in range(5):
+            valor = d[i][j][k]
+            if valor > d_min and valor < d_men:
+                f[i][j][k] = 25
+            elif valor > d_men and valor < d_max:
+                f[i][j][k] = 75
+            elif valor == d_men:
+                f[i][j][k] = 50
+            elif valor == d_min:
+                f[i][j][k] = 0
+            elif valor == d_max:
+                f[i][j][k] = 100
+            
+print(f)
 
 
 """
