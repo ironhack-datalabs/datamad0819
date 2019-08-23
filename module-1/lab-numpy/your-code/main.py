@@ -47,6 +47,7 @@ else:
 
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
+c.reshape(2,3,5)
 
 
 
