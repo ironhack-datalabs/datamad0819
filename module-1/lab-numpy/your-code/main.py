@@ -106,13 +106,17 @@ d_max = d.max()
 d_min = d.min()
 d_mean = d.mean()
 
+print(d)
 print("El máximo de la matrix d es",d_max)
 print("El mínimo de la matrix d es",d_min)
 print("El valor medio de la matrix d es",d_mean)
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 print("----------EJERCICIO 15------------\n")
+
+#emply te da los valores en memoria, que en este caso es d
 f = np.empty((2,3,5))
+
 
 print(f)
 
@@ -127,6 +131,33 @@ Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
+print("----------EJERCICIO 16------------\n")
+# 0 -> si es igual que d-min
+# 25 -> si es mayor que  d-min y menor que d_mean
+# 50-> si es igual que d_mean
+# 75-> si es mayor que d-mean y menor que d_max
+# 100-> si es igual que d_max
+
+def watchValues(num):
+  
+    if num == d_min:
+        return 0
+    elif num >  d_min and num < d_mean:
+        return 25
+    elif num == d_mean:
+        return 50
+    elif num > d_mean and num < d_max:
+        return 75
+    elif num == d_max:
+        return 100
+
+
+
+
+for indexI,i in enumerate(f):
+    for indexJ,j in enumerate(i):
+        for indexK,k in enumerate(j):
+            f[indexI][indexJ][indexK] = watchValues(k)
 
 
 
@@ -152,6 +183,11 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
 
+print("----------EJERCICIO 17------------\n")
+
+print(d)
+print("-------------")
+print(f)
 
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
@@ -165,3 +201,29 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
 """
+print("----------EJERCICIO 18------------\n")
+
+def watchValuesString(num):
+  
+    if num == "0.0":
+        return "A"
+    elif num =="25.0":
+        return "B"
+    elif num == "50.0":
+        return "C"
+    elif num=="75.0":
+        return "D"
+    elif num=="100.0":
+        return "E"
+
+
+#Con astype se cambia de tipo la matrix
+f = f.astype(np.str)
+
+for indexI,i in enumerate(f):
+    for indexJ,j in enumerate(i):
+        for indexK,k in enumerate(j):
+            f[indexI][indexJ][indexK] = watchValuesString(k)
+
+
+print(f)
