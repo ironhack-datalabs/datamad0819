@@ -32,11 +32,10 @@ print( '6.- Our array "b" is:\n' ,b,'\n')
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-def array_size_comparator(arr1,arr2):
-        #returns True if sime size, False if diffrent size.
-        size = sum(arr1.shape) == sum(arr2.shape)
-        return size
+def array_size_comparator(arr1,arr2):#Returns True if sime size, False if diffrent size
 
+    return sum(arr1.shape) == sum(arr2.shape)
+ 
 print("7.-Do a and b have the same size?",array_size_comparator(a,b))
 
 #8. Are you able to add a and b? Why or why not?
@@ -89,6 +88,28 @@ Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
+for array in range(d.shape[0]):
+        for lst in range(d.shape[1]):
+                for element in range(d.shape[2]):
+                        if d[array][lst][element] == d_min:
+                                f[array][lst][element] = 0
+
+                        elif d[array][lst][element] > d_min and d[array][lst][element] < d_mean:
+                                f[array][lst][element] = 25
+
+                        elif d[array][lst][element] == d_mean:
+                                f[array][lst][element] = 50
+
+                        elif d[array][lst][element] > d_mean and d[array][lst][element] < d_max:
+                                f[array][lst][element] = 75
+
+                        elif d[array][lst][element] == d_max:
+                                f[array][lst][element] = 100
+
+                                
+
+             
+                        
 
 
 
@@ -113,8 +134,8 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-
-
+print('\n17.-The value of "d" is:\n',d)
+print('\n17.-The value of "f" is:\n',f)
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
 ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
