@@ -89,48 +89,43 @@ f = np.empty([2,3,5])
 
 print(f)
 
-'''
-#16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
-If a value in d is larger than d_mean but smaller than d_max, assign 75 to the corresponding value in f.
-If a value equals to d_mean, assign 50 to the corresponding value in f.
-Assign 0 to the corresponding value(s) in f for d_min in d.
-Assign 100 to the corresponding value(s) in f for d_max in d.
-In the end, f should have only the following values: 0, 25, 50, 75, and 100.
-Note: you don't have to use Numpy in this question.
 
+# 16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
+# If a value in d is larger than d_mean but smaller than d_max, assign 75 to the corresponding value in f.
+# If a value equals to d_mean, assign 50 to the corresponding value in f.
+# Assign 0 to the corresponding value(s) in f for d_min in d.
+# Assign 100 to the corresponding value(s) in f for d_max in d.
+# In the end, f should have only the following values: 0, 25, 50, 75, and 100.
+# Note: you don't have to use Numpy in this question.
 
+for z in range(len(f)):
+        for y in range(len(f[z])):
+                for x in range(len(f[z][y])):
+                        if (d[z][y][x] > d_min and d[z][y][x]<d_mean):
+                                f[z][y][x] = 25
+                        elif (d[z][y][x] > d_mean and d[z][y][x]<d_max):
+                                f[z][y][x] = 75
+                        elif d[z][y][x] == d_mean:
+                                f[z][y][x] = 50
+                        elif d[z][y][x] == d_min:
+                                f[z][y][x] = 0
+                        elif d[z][y][x] == d_max:
+                                f[z][y][x] = 100
 
 
 #17. Print d and f. Do you have your expected f?
-For instance, if your d is:
-array([[[1.85836099, 1.67064465, 1.62576044, 1.40243961, 1.88454931],
-        [1.75354326, 1.69403643, 1.36729252, 1.61415071, 1.12104981],
-        [1.72201435, 1.1862918 , 1.87078449, 1.7726778 , 1.88180042]],
 
-       [[1.44747908, 1.31673383, 1.02000951, 1.52218947, 1.97066381],
-        [1.79129243, 1.74983003, 1.96028037, 1.85166831, 1.65450881],
-        [1.18068344, 1.9587381 , 1.00656599, 1.93402165, 1.73514584]]])
 
-Your f should be:
-array([[[ 75.,  75.,  75.,  25.,  75.],
-        [ 75.,  75.,  25.,  25.,  25.],
-        [ 75.,  25.,  75.,  75.,  75.]],
-
-       [[ 25.,  25.,  25.,  25., 100.],
-        [ 75.,  75.,  75.,  75.,  75.],
-        [ 25.,  75.,   0.,  75.,  75.]]])
+print("The matrxi D: ",d)
+print("The matrix F: ",f)
 
 
 
 
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
-("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
-array([[[ 'D',  'D',  'D',  'B',  'D'],
-        [ 'D',  'D',  'B',  'B',  'B'],
-        [ 'D',  'B',  'D',  'D',  'D']],
+# ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
 
-       [[ 'B',  'B',  'B',  'B',  'E'],
-        [ 'D',  'D',  'D',  'D',  'D'],
-        [ 'B',  'D',   'A',  'D', 'D']]])
-Again, you don't need Numpy in this question.
-'''
+
+new_f = np.select([f==0,f==25,f==50,f==75,f==100],["A", "B", "C", "D","E"])
+
+print("New F: ",new_f)
