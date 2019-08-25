@@ -70,7 +70,8 @@ print(d.mean())
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
-
+f = np.empty(np.shape(d))
+print(f)
 
 
 """
@@ -83,7 +84,20 @@ In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
 
-
+for i in range(len(d)):
+    for j in range(len(d[i])):
+        for g in range(len(d[i][j])):
+            if d[i][j][g] > d_min and d[i][j][g] < d_mean:
+                f[i][j][g]=25
+            if d[i][j][g] > d_mean and d[i][j][g] < d_max:
+                f[i][j][g]=75
+            if d[i][j][g] == d_mean:
+                f[i][j][g]=50
+            if d[i][j][g] == d_min:
+                f[i][j][g]=0
+            if d[i][j][g] == d_max:
+                f[i][j][g]=100
+print(f)
 
 
 """
