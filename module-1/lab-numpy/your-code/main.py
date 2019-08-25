@@ -20,14 +20,6 @@ b = np.random.randint(1,3,3)
 c = np.random.uniform(1,100,(1,2,3))
 
 
-
-
-
-
-
-
-
-
 #4. Print a.
 
 print(a)
@@ -35,16 +27,17 @@ print(a)
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-
+b = np.ones((5,2,3))
 
 
 #6. Print b.
 
+print(b)
 
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
-
+print("'a.size == b.size' is {}".format(a.size == b.size))
 
 
 #8. Are you able to add a and b? Why or why not?
