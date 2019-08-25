@@ -20,7 +20,7 @@ print(a)
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
 
-b = np.ones((3,2,5))
+b = np.ones((5,2,3))
 
 #6. Print b.
 
@@ -42,11 +42,13 @@ ValueError: operands could not be broadcast together with shapes (3,2,5) (2,3,5)
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
-
+c = b.reshape(2,3,5)
+print(c)
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
-
+d = a + c
+print(d)
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
@@ -59,18 +61,17 @@ ValueError: operands could not be broadcast together with shapes (3,2,5) (2,3,5)
 
 #13. Does e equal to a? Why or why not?
 
-
-
+Yes because you are multiplying by 1 every item in the array "a".
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
-
-
+d_max = d.max()
+d_min = d.min()
+d_mean = d.mean()
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
-
-
+f = np.empty((2,3,5))
 
 """
 #16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
