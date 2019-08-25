@@ -45,7 +45,7 @@ print(b)
 #7. Do a and b have the same size? How do you prove that in Python code?
 
 print('\n# Do the matrices a and b have the same size?')
-print((np.prod(a.shape)) == (np.prod(b.shape)))
+print(a.size == b.size)
 
 #8. Are you able to add a and b? Why or why not?
 
@@ -59,8 +59,8 @@ Traceback (most recent call last):
 ValueError: operands could not be broadcast together with shapes (2,3,5) (5,2,3) 
 """
 
-print('Matrices a and b may not be added because they have the same SIZE, but not the same SHAPE')
-print("i.e.: there isn't an element of a with the same indexes for every element of b and vice-versa.")
+print(' Matrices a and b may not be added because they have the same SIZE, but not the same SHAPE')
+print(" i.e.: there isn't an element of a with the same indexes for every element of b and vice-versa.")
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
@@ -76,7 +76,7 @@ print('\n# Matrices a and c may be added because both have the same shape.\n')
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
 print('# Matrix a:\n', a,'\n\n# Matrix d = a+c:\n',d)
-print('\n The values of d are the values of a, with the same index, incremented by 1.\n')
+print('\n The values of d are the values of a incremented by 1.\n')
 
 #12. Multiply a and c. Assign the result to e.
 
@@ -114,7 +114,7 @@ Note: you don't have to use Numpy in this question.
 """
 
 print("\n# Assigning values 0, 25, 50, 75 and 100 to matrix f from d, based on the distribution of it's values.")
-f = np.array([[[0 if num == d_min else 50 if num == d_mean else 100 if num == d_max else 25 if (num>d_min and num<d_mean) else 75 if (num>d_mean and num<d_max) else 'A' for num in d[i][j] ]for j in range(len(d[i]))]for i in range(len(d))], dtype='float64')
+f = np.array([[[0 if num == d_min else 50 if num == d_mean else 100 if num == d_max else 25 if (num>d_min and num<d_mean) else 75 if (num>d_mean and num<d_max) else '' for num in d[i][j] ]for j in range(len(d[i]))]for i in range(len(d))], dtype='float64')
 
 '''
 # Alternatively:
@@ -177,6 +177,7 @@ Again, you don't need Numpy in this question.
 e = np.empty_like(d,str)
 letter = {100.:'A',75.:'B',50.:'C',25.:'D',0.:'E'}
 e = np.vectorize(lambda x: letter[x],[str])(f)
+
 print('\n# Converting values of f to letters (A highest, E lowest):')
 print(e)
 
