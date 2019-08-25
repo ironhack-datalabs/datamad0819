@@ -55,7 +55,8 @@ e = a*c
 
 #13. Does e equal to a? Why or why not?
 
-print(e==a)
+print("Es e == a?(explicacion comentada en línea 59)",e==a)
+#e es igual a a porque c es una matriz de igual shape que a llena de de unos, por lo que un siempre el elemento por uno será el elemento
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
@@ -138,8 +139,8 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
 """
-"""
-f.astype(np.bytes)
+
+f = f.astype(str)
       
 for i in range(2):
         for j in range(3):
@@ -155,4 +156,3 @@ for i in range(2):
                         elif d[i][j][z]== d_max:
                                 f[i][j][z] = "E"
 print(f)
-"""
