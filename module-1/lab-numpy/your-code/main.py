@@ -107,13 +107,6 @@ for array in range(d.shape[0]):
                                 f[array][lst][element] = 100
 
                                 
-
-             
-                        
-
-
-
-
 """
 #17. Print d and f. Do you have your expected f?
 For instance, if your d is:
@@ -148,3 +141,24 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
 """
+f = f.astype(str)
+
+for array in range(f.shape[0]):
+        for lst in range(f.shape[1]):
+                for element in range(f.shape[2]):
+                        if f[array][lst][element] == '0.0':
+                                f[array][lst][element] = 'A'
+
+                        elif f[array][lst][element] == '25.0':
+                                f[array][lst][element] = 'B'
+
+                        elif f[array][lst][element] == '50.0':
+                                f[array][lst][element] = 'C'
+
+                        elif f[array][lst][element] == '75.0' :
+                                f[array][lst][element] = 'D'
+
+                        elif f[array][lst][element] == '100.0':
+                                f[array][lst][element] = 'E'
+
+print('\n18.-The value of "f" is now:\n',f)
