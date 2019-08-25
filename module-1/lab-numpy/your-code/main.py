@@ -14,12 +14,7 @@ print(np.show_config())
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
 a = np.random.rand(2,3,5)
-
-b = np.random.randint(1,3,3)
-
-c = np.random.uniform(1,100,(1,2,3))
-
-
+b = np.random.uniform(1,100,(2,3,5))
 #4. Print a.
 
 print(a)
@@ -37,43 +32,64 @@ print(b)
 
 #7. Do a and b have the same size? How do you prove that in Python code?
 
+print(np.size(a))
+print(np.size(b))
+
+#Opción más completa:
 print("'a.size == b.size' is {}".format(a.size == b.size))
 
 
 #8. Are you able to add a and b? Why or why not?
 
+c = np.add(a,b)
 
+print("No es posible realizar add de las dos matrices puesto que tienen rangos diferentes.")
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
 
+c = b.reshape(2,3,5)
 
+print(c)
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
+d = np.add(a,c)
 
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
-
+print(a)
+print(d)
 
 
 #12. Multiply a and c. Assign the result to e.
 
+e = np.multiply(a,c)
+
+print(e)
 
 
 #13. Does e equal to a? Why or why not?
 
+e_equal = np.array_equal(e,a)
+print(e_equal)
 
-
+print("Sí que son iguales porque se están multiplicando sus valores por 1")
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
+d_max = np.amax(d)
+d_min = np.amin(d)
+d_mean = np.mean(d)
 
-
+print(d_max)
+print(d_min)
+print(d_mean)
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
 
-
+f = np.empty((2,3,5))
+print(f)
 
 
 """
@@ -85,6 +101,21 @@ Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
+
+for e in range(len(d)):
+    for a in range(len(d[e])):
+        for o in range(len(d[e][a])):
+            if d[e][a][o] == d_min:
+                f[e][a][o] = 0
+            elif d_min < d[e][a][o] < d_mean:
+                f[e][a][o] = 25
+            elif d[e][a][o] == d_mean:
+                f[e][a][o] = 50
+            elif d_mean < d[e][a][o] < d_max:
+                f[e][a][o] = 75
+            else:
+                f[e][a][o] = 100       
+                                
 
 
 
@@ -109,8 +140,8 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-
-
+print(d)
+print(f)
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
 ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
@@ -123,3 +154,5 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
 """
+
+#No hay manera.
