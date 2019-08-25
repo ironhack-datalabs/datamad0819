@@ -129,19 +129,20 @@ Note: you don't have to use Numpy in this question.
 """
 print("#16")
 
+
 for x,arr1 in enumerate(d):
         for y,arr2 in enumerate(arr1):
                 for z,num in enumerate(arr2):
                         if num > d_min and num < d_mean:
-                                f[x][y][z] = 25
+                                f[x, y, z] = 25
                         elif num > d_mean and num < d_max:
-                                f[x][y][z] = 75
+                                f[x, y, z] = 75
                         elif num == d_mean:
-                                f[x][y][z] = 50
+                                f[x, y, z] = 50
                         elif num == d_min:
-                                f[x][y][z] = 0
+                                f[x, y, z] = 0
                         elif num == d_max:
-                                f[x][y][z] = 100
+                                f[x, y, z] = 100
 
 print(f)
 
@@ -194,15 +195,15 @@ for x,arr1 in enumerate(d):
         for y,arr2 in enumerate(arr1):
                 for z,num in enumerate(arr2):
                         if num > d_min and num < d_mean:
-                                f[x][y][z] = "B"
+                                f[x, y, z] = "B"
                         elif num > d_mean and num < d_max:
-                                f[x][y][z] = "D"
+                                f[x, y, z] = "D"
                         elif num == d_mean:
-                                f[x][y][z] = "C"
+                                f[x, y, z] = "C"
                         elif num == d_min:
-                                f[x][y][z] = "A"
+                                f[x, y, z] = "A"
                         elif num == d_max:
-                                f[x][y][z] = "E"
+                                f[x, y, z] = "E"
 
 print(f)
 
