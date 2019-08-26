@@ -37,6 +37,7 @@ else:
 #8. Are you able to add a and b? Why or why not?
 
 No. 
+You are not able since both arrays do not have the same structure.
 
 ValueError: operands could not be broadcast together with shapes (3,2,5) (2,3,5)
 
@@ -50,18 +51,22 @@ print(c)
 d = a + c
 print(d)
 
+Now we can add both arrays because they have the same structure.
+
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
 
+print(a, d)
 
+Array d has all the values of a plus 1. Since array c is an array with all of its values equaling 1, array d will contain all values of array a plus 1.
 
 
 #12. Multiply a and c. Assign the result to e.
 
-
+e = a * c
 
 #13. Does e equal to a? Why or why not?
 
-Yes because you are multiplying by 1 every item in the array "a".
+Yes, because you are multiplying by 1 every item in the array a.
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
 
