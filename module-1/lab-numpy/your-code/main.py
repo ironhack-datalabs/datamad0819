@@ -49,6 +49,7 @@ print(c)
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
 
 d = a + c
+
 print(d)
 
 Now we can add both arrays because they have the same structure.
@@ -89,6 +90,21 @@ Note: you don't have to use Numpy in this question.
 """
 
 
+            
+for x, j in enumerate(d):
+        for y, k in enumerate(j):
+                for z, item in enumerate(k):
+                    
+                    if item > d_min and item < d_mean:
+                        f[x][y][z] = 25
+                    elif item < d_max and item > d_max:
+                        f[x][y][z] = 75
+                    elif item == d_mean:
+                        f[x][y][z] = 50
+                    elif item == d_min:
+                        f[x][y][z] = 0
+                    elif item == d_max:
+                        f[x][y][z] = 100
 
 
 """
@@ -111,7 +127,8 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-
+print(d)
+print(f)
 
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
