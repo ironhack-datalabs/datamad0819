@@ -113,7 +113,7 @@ In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
 
-print("\n# Assigning values 0, 25, 50, 75 and 100 to matrix f from d, based on the distribution of it's values.")
+print("\n# Assigning values 0, 25, 50, 75 and 100 to matrix f from d, based on the distribution of its values.")
 f = np.array([[[0 if num == d_min else 50 if num == d_mean else 100 if num == d_max else 25 if (num>d_min and num<d_mean) else 75 if (num>d_mean and num<d_max) else '' for num in d[i][j] ]for j in range(len(d[i]))]for i in range(len(d))], dtype='float64')
 
 '''
