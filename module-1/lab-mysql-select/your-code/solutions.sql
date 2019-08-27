@@ -47,7 +47,7 @@ Select
 	a.au_id as AUTHOR_ID,
 	a.au_lname as LAST_NAME,
     a.au_fname as FIRST_NAME,
-    IFNULL(sum(qty),0) as TOTAL
+    IFNULL(sum(s.qty),0) as TOTAL
 from authors as a
 LEFT JOIN titleauthor as ta on a.au_id=ta.au_id
 LEFT JOIN sales as s on ta.title_id=s.title_id
@@ -56,19 +56,18 @@ order by TOTAL desc
 
 # Bonus Challenge - Most Profiting Authors
 
--- Select 
--- 	a.au_id as AUTHOR_ID,
--- 	a.au_lname as LAST_NAME,
---     a.au_fname as FIRST_NAME,
---     sum(t.advance)*(ta.royaltyper/100) as anticipo,
---     sum(t.price),
---     sum(s.qty)
---     #sum((t.advance +t.price*(t.royalty/100)))*(ta.royaltyper/100)) as PROFIT
--- from authors as a
--- LEFT JOIN titleauthor as ta on a.au_id=ta.au_id
--- LEFT JOIN titles as t on ta.title_id=t.title_id
--- LEFT JOIN sales as s on ta.title_id=s.title_id
--- group by a.au_id
+Select 
+	a.au_id as AUTHOR_ID,
+	a.au_lname as LAST_NAME,
+    a.au_fname as FIRST_NAME,
+	sum((t.advance+t.price*t.ytd_sales*(t.royalty/100))*(ta.royaltyper/100)) as PROFIT
+    from authors as a
+LEFT JOIN titleauthor as ta on a.au_id=ta.au_id
+LEFT JOIN titles as t on ta.title_id=t.title_id
+LEFT JOIN sales as s on ta.title_id=s.title_id
+group by a.au_id
+order by PROFIT DESC
+limit 3
 
 
 
