@@ -74,3 +74,22 @@ group by au.au_id
 order by sum(sales.qty) DESC
 limit 23;
 
+#CHALLENGE 3
+SELECT 
+	a.au_id AS AUTHOR_ID, 
+	a.au_lname AS LAST_NAME, 
+	a.au_fname AS FIRST_NAME, 
+	sum(((titles.price *titles.royalty/100)+titles.advance)*(ta.royaltyper/100)) AS PROFIT
+ 
+FROM
+	titles
+JOIN
+	titleauthor AS ta
+ON
+	titles.title_id = ta.title_id
+JOIN authors AS a
+ON ta.au_id = a.au_id
+group by (a.au_id)
+order by PROFIT DESC
+LIMIT 3;
+    
