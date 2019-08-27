@@ -40,11 +40,11 @@ ORDER BY TOTAL DESC;
 # Challenge Bonus
 
 SELECT au.au_id as "AUTHOR ID", au.au_lname as "LAST NAME", au.au_fname as "FIRST NAME",
-round(sum(t.ytd_sales*t.price*t.royalty*ta.royaltyper) + sum(t.advance*ta.royaltyper),0) as "PROFIT" FROM authors as au
+round(sum(t.ytd_sales*t.price*t.(royalty/100)*(ta.royaltyper/100)) + sum(t.advance*(ta.royaltyper)/100),0) as "PROFIT" 
+FROM authors as au
 LEFT JOIN titleauthor as ta on au.au_id = ta.au_id
 LEFT JOIN titles as t on ta.title_id = t.title_id
 GROUP BY au.au_id
 ORDER BY PROFIT DESC
 LIMIT 3;
-
 
