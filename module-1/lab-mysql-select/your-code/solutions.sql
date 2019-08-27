@@ -34,3 +34,17 @@ SELECT au.au_id AS 'AUTHOR ID',
 					GROUP BY  au.au_id
                     ORDER BY TOTAL DESC
                     limit 3;
+
+#Challenge 4:
+SELECT au.au_id AS 'AUTHOR ID',
+       au.au_lname AS 'LAST NAME', 
+       au.au_fname AS 'FIRST NAME',
+         COALESCE(sum(sa.qty),0) AS 'TOTAL'
+			FROM authors AS au
+			LEFT JOIN titleauthor ON titleauthor.au_id = au.au_id
+			LEFT JOIN titles AS t ON t.title_id = titleauthor.title_id
+			LEFT JOIN sales AS sa ON sa.title_id = t.title_id
+					GROUP BY  au.au_id
+                    ORDER BY TOTAL DESC
+                    limit 23;
+
