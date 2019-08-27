@@ -1,7 +1,7 @@
 #challenge 1:
 SELECT au.au_id AS 'AUTHOR ID',
        au.au_lname AS 'LAST NAME', 
-       au.au_fname AS 'FAMILY NAME',
+       au.au_fname AS 'FIRST NAME',
        t.title AS 'TITLE',
        pu.pub_name AS 'PUBLISHER'
 	    FROM authors AS au
@@ -23,4 +23,14 @@ SELECT au.au_id AS 'AUTHOR ID',
 					GROUP BY  au.au_id, pu.pub_id;
 
 #challenge 3:
-
+SELECT au.au_id AS 'AUTHOR ID',
+       au.au_lname AS 'LAST NAME', 
+       au.au_fname AS 'FIRST NAME',
+       sum(sa.qty) AS 'TOTAL'
+			FROM authors AS au
+			LEFT JOIN titleauthor ON titleauthor.au_id = au.au_id
+			LEFT JOIN titles AS t ON t.title_id = titleauthor.title_id
+			LEFT JOIN sales AS sa ON sa.title_id = t.title_id
+					GROUP BY  au.au_id
+                    ORDER BY TOTAL DESC
+                    limit 3;
