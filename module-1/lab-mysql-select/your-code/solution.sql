@@ -74,7 +74,7 @@ group by au.au_id
 order by sum(sales.qty) DESC
 limit 23;
 
-#CHALLENGE 3
+#BONUS
 SELECT 
 	a.au_id AS AUTHOR_ID, 
 	a.au_lname AS LAST_NAME, 
