@@ -60,21 +60,17 @@ LIMIT 3
 
 #CHALLENGE 4
 SELECT
-au.au_id as AUTHOR_ID, au.au_lname as LAST_NAME, au.au_fname as FIRST_NAME, sum(sales.qty) AS TOTAL
+au.au_id as AUTHOR_ID, au.au_lname as LAST_NAME, au.au_fname as FIRST_NAME, COALESCE(sum(sales.qty),0) AS TOTAL
 FROM
 	authors as au
 LEFT JOIN
 	titleauthor as titau
 ON au.au_id = titau.au_id
-LEFT JOIN 
-	titles as tit
-ON
-	titau.title_id = tit.title_id
-JOIN sales
-on tit.title_id = sales.title_id
+
+LEFT JOIN sales
+on titau.title_id = sales.title_id
 
 group by au.au_id
 order by sum(sales.qty) DESC
-LIMIT 23
-;
+limit 23;
 
