@@ -17,3 +17,8 @@ ON titleauthor.title_id = titles.title_id
 LEFT JOIN publications.publishers
 ON titles.pub_id = publishers.pub_id
 WHERE title IS NOT Null
+
+ORDER BY authors.au_id
+; 
+
+
