@@ -93,3 +93,5 @@ FROM
 GROUP BY authors.au_id
 ORDER BY profit DESC
 LIMIT 3
+
+;
