@@ -1,3 +1,3 @@
 # delete
 
-DELETE FROM car where id = 4;
+DELETE FROM car where id = 5;

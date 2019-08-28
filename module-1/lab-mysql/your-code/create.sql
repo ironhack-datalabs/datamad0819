@@ -65,14 +65,10 @@ CREATE TABLE `invoice`(
     `car` int, 
     `customer` int,
     `sales_person` int,
-    PRIMARY KEY (`id`)
-    #,
-    #FOREIGN KEY (`car`) 
-    #    REFERENCES `car`(`id`),
-    #FOREIGN KEY (`customer`) 
-    #    REFERENCES `customer`(`id`),
-    #FOREIGN KEY (`sales_person`)
-    #    REFERENCES `salesperson`(`id`)
+    PRIMARY KEY (`id`),
+    FOREIGN KEY (`car`) REFERENCES `car`(id),
+    FOREIGN KEY (`customer`) REFERENCES `customer`(id),
+    FOREIGN KEY (`sales_person`) REFERENCES `salesperson`(id)
 );
 
 ALTER TABLE `invoice` AUTO_INCREMENT=0;
