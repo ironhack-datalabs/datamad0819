@@ -20,9 +20,9 @@ INSERT INTO salesperson (staff_id, name, store) VALUES (6, 'Bob Frapples', 'Mexi
 INSERT INTO salesperson (staff_id, name, store) VALUES (7, 'Walter Melon', 'Amsterdam');
 INSERT INTO salesperson (staff_id, name, store) VALUES (8, 'Shonda Leer', 'São Paulo');
 
-INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (852399038, '20180822', 0, 1, 3);
-INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (731166526, '20181231', 3, 0, 5);
-INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (271135104, '20190122', 2, 2, 7);
+INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (852399038, '20180822', 0, 20001, 3);
+INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (731166526, '20181231', 3, 10001, 5);
+INSERT INTO invoice (invoice_id, date, car, customer, salesperson) VALUES (271135104, '20190122', 2, 30001, 7);
 
 SELECT * FROM car_company.car;
 SELECT * FROM car_company.customer;
