@@ -8,7 +8,7 @@ select a.au_id as AUTHOR_ID,
 from authors as a
 RIGHT JOIN titleauthor as ta on a.au_id=ta.au_id
 LEFT JOIN titles as t on ta.title_id=t.title_id
-LEFT JOIN publishers as p on t.pub_id=p.pub_id
+LEFT JOIN publishers as p on t.pub_id=p.pub_id;
 
 
 #Challenge 2 - Who Have Published How Many At Where?
@@ -23,7 +23,7 @@ from authors as a
 RIGHT JOIN titleauthor as ta on a.au_id=ta.au_id
 LEFT JOIN titles as t on ta.title_id=t.title_id
 LEFT JOIN publishers as p on t.pub_id=p.pub_id
-GROUP BY a.au_id,p.pub_id
+GROUP BY a.au_id,p.pub_id;
 
 
 #Challenge 3 - Best Selling Authors
@@ -38,7 +38,7 @@ RIGHT JOIN titleauthor as ta on a.au_id=ta.au_id
 LEFT JOIN sales as s on ta.title_id=s.title_id
 group by a.au_id
 order by TOTAL desc
-limit 3
+limit 3;
 
 #Challenge 4 - Best Selling Authors Ranking
 
@@ -52,7 +52,7 @@ from authors as a
 LEFT JOIN titleauthor as ta on a.au_id=ta.au_id
 LEFT JOIN sales as s on ta.title_id=s.title_id
 group by a.au_id
-order by TOTAL desc
+order by TOTAL desc;
 
 # Bonus Challenge - Most Profiting Authors
 
@@ -67,7 +67,7 @@ LEFT JOIN titles as t on ta.title_id=t.title_id
 LEFT JOIN sales as s on ta.title_id=s.title_id
 group by a.au_id
 order by PROFIT DESC
-limit 3
+limit 3;
 
 
 
