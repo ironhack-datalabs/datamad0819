@@ -1,0 +1,6 @@
+La clave para entender por qué no he hecho una tabla Reproducciones es el atributo persistent de favorites,
+entiendo que cuando un usuario reproduce una canción que no está en favorites, internamente se puede programar
+(si no me equivoco con un disparadador) que se añada un registro a favorites con persistent = False, al acabar
+si el usuario no la añade a favoritos otro disparadador evalua si es False y en caso afirmativo hace un remove
+sobre ese registro en favorites. Creo que eso simplifica bastante el sistema. Creo que el resto de cauística la cubre el esquema
+a grandes rasgos.
