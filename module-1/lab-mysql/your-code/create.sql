@@ -18,12 +18,13 @@ USE `lab_mysql` ;
 -- Table `lab_mysql`.`Cars`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `lab_mysql`.`Cars` (
-  `car_VIN` INT NOT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `car_VIN` VARCHAR(45) NOT NULL,
   `manufacturer` VARCHAR(45) NOT NULL,
   `model` VARCHAR(45) NOT NULL,
-  `year` DATE NOT NULL,
+  `year` VARCHAR(45) NOT NULL,
   `color` VARCHAR(45) NOT NULL,
-  PRIMARY KEY (`car_VIN`))
+  PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
 
@@ -31,16 +32,17 @@ ENGINE = InnoDB;
 -- Table `lab_mysql`.`Customers`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `lab_mysql`.`Customers` (
-  `customer_id` INT NOT NULL AUTO_INCREMENT,
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `customer_id` INT NOT NULL,
   `name` VARCHAR(45) NOT NULL,
-  `phone number` INT(10) NOT NULL,
+  `phone number` VARCHAR(45) NOT NULL,
   `email` VARCHAR(45) NULL,
   `address` VARCHAR(45) NULL,
   `city` VARCHAR(45) NULL,
   `province` VARCHAR(45) NULL,
   `country` VARCHAR(45) NULL,
   `zip` INT(6) NULL,
-  PRIMARY KEY (`customer_id`))
+  PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
 
@@ -48,10 +50,11 @@ ENGINE = InnoDB;
 -- Table `lab_mysql`.`Salesperson`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `lab_mysql`.`Salesperson` (
+  `id` INT NOT NULL AUTO_INCREMENT,
   `staff_id` INT NOT NULL,
   `name` VARCHAR(45) NOT NULL,
   `store` VARCHAR(45) NULL,
-  PRIMARY KEY (`staff_id`))
+  PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
 
@@ -59,43 +62,29 @@ ENGINE = InnoDB;
 -- Table `lab_mysql`.`Invoices`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `lab_mysql`.`Invoices` (
-  `invoice_id` INT NOT NULL AUTO_INCREMENT,
-  `date` DATE NOT NULL,
-  `Cars_car_VIN` INT NOT NULL,
-  `Customers_customer_id` INT NOT NULL,
-  PRIMARY KEY (`invoice_id`),
-  INDEX `fk_Invoices_Cars_idx` (`Cars_car_VIN` ASC) VISIBLE,
-  INDEX `fk_Invoices_Customers1_idx` (`Customers_customer_id` ASC) VISIBLE,
-  CONSTRAINT `fk_Invoices_Cars`
-    FOREIGN KEY (`Cars_car_VIN`)
-    REFERENCES `lab_mysql`.`Cars` (`car_VIN`)
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `invoice_number` INT NOT NULL,
+  `date` VARCHAR(45) NOT NULL,
+  `Cars_id` INT NOT NULL,
+  `Customers_id` INT NOT NULL,
+  `Salesperson_id` INT NOT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `fk_Invoices_Cars1_idx` (`Cars_id` ASC) VISIBLE,
+  INDEX `fk_Invoices_Customers1_idx` (`Customers_id` ASC) VISIBLE,
+  INDEX `fk_Invoices_Salesperson1_idx` (`Salesperson_id` ASC) VISIBLE,
+  CONSTRAINT `fk_Invoices_Cars1`
+    FOREIGN KEY (`Cars_id`)
+    REFERENCES `lab_mysql`.`Cars` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_Invoices_Customers1`
-    FOREIGN KEY (`Customers_customer_id`)
-    REFERENCES `lab_mysql`.`Customers` (`customer_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `lab_mysql`.`Sales`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `lab_mysql`.`Sales` (
-  `Invoices_invoice_id` INT NOT NULL,
-  `Salesperson_staff_id` INT NOT NULL,
-  PRIMARY KEY (`Invoices_invoice_id`, `Salesperson_staff_id`),
-  INDEX `fk_Invoices_has_Salesperson_Salesperson1_idx` (`Salesperson_staff_id` ASC) VISIBLE,
-  INDEX `fk_Invoices_has_Salesperson_Invoices1_idx` (`Invoices_invoice_id` ASC) VISIBLE,
-  CONSTRAINT `fk_Invoices_has_Salesperson_Invoices1`
-    FOREIGN KEY (`Invoices_invoice_id`)
-    REFERENCES `lab_mysql`.`Invoices` (`invoice_id`)
+    FOREIGN KEY (`Customers_id`)
+    REFERENCES `lab_mysql`.`Customers` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_Invoices_has_Salesperson_Salesperson1`
-    FOREIGN KEY (`Salesperson_staff_id`)
-    REFERENCES `lab_mysql`.`Salesperson` (`staff_id`)
+  CONSTRAINT `fk_Invoices_Salesperson1`
+    FOREIGN KEY (`Salesperson_id`)
+    REFERENCES `lab_mysql`.`Salesperson` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
