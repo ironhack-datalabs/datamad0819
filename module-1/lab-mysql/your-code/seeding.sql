@@ -34,5 +34,5 @@ INSERT INTO SalesPerson (staffId,name,store) VALUES (101,"Andrea","Barcelona");
 INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-05-10', 1, 2, 3);
 INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-06-11', 2, 3, 3);
 INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-07-22', 3, 1, 2);
-INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-08-14', 4, 4, 1);
+INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-08-14', 4, 3, 1);
 INSERT INTO Invoice (`invoiceNumber`, `date`, `idSalesPerson`, `idCar`, `customerId`) VALUES (1232143, '2019-09-22', 5, 2, 5);
