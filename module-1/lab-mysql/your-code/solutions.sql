@@ -1,4 +1,3 @@
-
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
@@ -6,19 +5,19 @@ SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
 
 -- -----------------------------------------------------
--- Schema lab-mysql
+-- Schema mydb
 -- -----------------------------------------------------
 
 -- -----------------------------------------------------
--- Schema lab-mysql
+-- Schema mydb
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `lab-mysql` DEFAULT CHARACTER SET utf8 ;
-USE `lab-mysql` ;
+CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
+USE `mydb` ;
 
 -- -----------------------------------------------------
--- Table `lab-mysql`.`salespersons`
+-- Table `mydb`.`salespersons`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `lab-mysql`.`salespersons` (
+CREATE TABLE IF NOT EXISTS `mydb`.`salespersons` (
   `idsalespersons` INT NOT NULL,
   `name` VARCHAR(45) NULL,
   `store` VARCHAR(45) NULL,
@@ -27,9 +26,9 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `lab-mysql`.`customers`
+-- Table `mydb`.`customers`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `lab-mysql`.`customers` (
+CREATE TABLE IF NOT EXISTS `mydb`.`customers` (
   `idcustomers` INT NOT NULL,
   `name` VARCHAR(45) NULL,
   `phone_number` INT NULL,
@@ -39,8 +38,8 @@ CREATE TABLE IF NOT EXISTS `lab-mysql`.`customers` (
   `province` VARCHAR(45) NULL,
   `customerscol` VARCHAR(45) NULL,
   `country` VARCHAR(45) NULL,
-  `zip_customer` INT NULL,
-  `salespersons_idsalespersons` INT NOT NULL,
+  `postal` INT NULL,
+  `salespersons_idsalespersons` INT NULL,
   PRIMARY KEY (`idcustomers`),
   INDEX `fk_customers_salespersons1_idx` (`salespersons_idsalespersons` ASC) VISIBLE,
   CONSTRAINT `fk_customers_salespersons1`
@@ -52,16 +51,16 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `lab-mysql`.`invoices`
+-- Table `mydb`.`invoices`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `lab-mysql`.`invoices` (
+CREATE TABLE IF NOT EXISTS `mydb`.`invoices` (
   `idinvoices` INT NOT NULL,
   `date` DATE NULL,
   `car` VARCHAR(45) NULL,
   `customer` VARCHAR(45) NULL,
   `salesperson` VARCHAR(45) NULL,
-  `salespersons_idsalespersons` INT NOT NULL,
-  `customers_idcustomers` INT NOT NULL,
+  `salespersons_idsalespersons` INT NULL,
+  `customers_idcustomers` INT NULL,
   PRIMARY KEY (`idinvoices`),
   INDEX `fk_invoices_salespersons1_idx` (`salespersons_idsalespersons` ASC) VISIBLE,
   INDEX `fk_invoices_customers1_idx` (`customers_idcustomers` ASC) VISIBLE,
@@ -79,17 +78,18 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `lab-mysql`.`cars`
+-- Table `mydb`.`cars`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `lab-mysql`.`cars` (
+CREATE TABLE IF NOT EXISTS `mydb`.`cars` (
   `idCars` INT NOT NULL,
-  `manufacturer` VARCHAR(45) NULL,
+  `vin` VARCHAR(45) NULL,
+  `manufacturer` VARCHAR(45) COLLATE 'DEFAULT' NULL,
   `model` VARCHAR(45) NULL,
-  `year` DATE NULL,
+  `year` YEAR(4) NULL,
   `color` VARCHAR(45) NULL,
-  `salespersons_idsalespersons` INT NOT NULL,
-  `customers_idcustomers` INT NOT NULL,
-  `invoices_idinvoices` INT NOT NULL,
+  `salespersons_idsalespersons` INT NULL,
+  `customers_idcustomers` INT NULL,
+  `invoices_idinvoices` INT NULL,
   PRIMARY KEY (`idCars`),
   INDEX `fk_cars_salespersons_idx` (`salespersons_idsalespersons` ASC) VISIBLE,
   INDEX `fk_cars_customers1_idx` (`customers_idcustomers` ASC) VISIBLE,
