@@ -33,10 +33,31 @@ ORDER BY 3 DESC;
 # STEP 3
 # Author ID, Profits of each author aggregating the advance and total royalties of each title
 
-SELECT author_id, ROUND(SUM(titles.advance + royalty), 2)
+CREATE TEMPORARY TABLE Result
+SELECT author_id, ROUND(SUM(titles.advance + royalty), 2) AS "Total_profit"
 FROM Total
 LEFT JOIN titles
 ON total.title_id = titles.title_id
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 3;
+
+#CHALLANGE 3
+#CREATE A PERMANENT TABLE NAMED MOST_PROFITING-AUTHORS
+#
+
+
+SELECT author_id, total_profit
+FROM (
+	SELECT author_id, total_profit
+    FROM result
+) most_profiting_authors
+WHERE most_profiting_authors.total_profit > 0;
+
+
+
+
+
+
+
+
