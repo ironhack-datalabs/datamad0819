@@ -1,0 +1,539 @@
+"Id";"PostTypeId";"AcceptedAnswerId";"CreaionDate";"Score";"ViewCount";"Body";"OwnerUserId";"LasActivityDate";"Title";"Tags";"AnswerCount";"CommentCount";"FavoriteCount";"LastEditorUserId";"LastEditDate";"CommunityOwnedDate";"ParentId";"ClosedDate";"OwnerDisplayName";"LastEditorDisplayName"
+1;1;15;"2010-07-19 19:12:12";23;1278;"<p>How should I elicit prior distributions from experts when fitting a Bayesian model?</p>
+";8;"2010-09-15 21:08:26";"Eliciting priors from experts";"<bayesian><prior><elicitation>";5;1;14;0;"";"";0;"";"";""
+2;1;59;"2010-07-19 19:12:57";22;8198;"<p>In many different statistical methods there is an ""assumption of normality"".  What is ""normality"" and how do I know if there is normality?</p>
+";24;"2012-11-12 09:21:54";"What is normality?";"<distributions><normality>";7;1;8;88;"2010-08-07 17:56:44";"";0;"";"";""
+3;1;5;"2010-07-19 19:13:28";54;3613;"<p>What are some valuable Statistical Analysis open source projects available right now?</p>
+
+<p>Edit: as pointed out by Sharpie, valuable could mean helping you get things done faster or more cheaply.</p>
+";18;"2013-05-27 14:48:36";"What are some valuable Statistical Analysis open source projects?";"<software><open-source>";19;4;36;183;"2011-02-12 05:50:03";"2010-07-19 19:13:28";0;"";"";""
+4;1;135;"2010-07-19 19:13:31";13;5224;"<p>I have two groups of data.  Each with a different distribution of multiple variables.  I'm trying to determine if these two groups' distributions are different in a statistically significant way.  I have the data in both raw form and binned up in easier to deal with discrete categories with frequency counts in each.  </p>
+
+<p>What tests/procedures/methods should I use to determine whether or not these two groups are significantly different and how do I do that in SAS or R (or Orange)?</p>
+";23;"2010-09-08 03:00:19";"Assessing the significance of differences in distributions";"<distributions><statistical-significance>";5;2;2;0;"";"";0;"";"";""
+5;2;0;"2010-07-19 19:14:43";81;0;"<p>The R-project</p>
+
+<p><a href=""http://www.r-project.org/"">http://www.r-project.org/</a></p>
+
+<p>R is valuable and significant because it was the first widely-accepted Open-Source alternative to big-box packages.  It's mature, well supported, and a standard within many scientific communities.</p>
+
+<ul>
+<li><a href=""http://www.inside-r.org/why-use-r"">Some reasons why it is useful and valuable</a> </li>
+<li>There are some nice tutorials <a href=""http://gettinggeneticsdone.blogspot.com/search/label/ggplot2"">here</a>.</li>
+</ul>
+";23;"2010-07-19 19:21:15";"";"";0;3;0;23;"2010-07-19 19:21:15";"2010-07-19 19:14:43";3;"";"";""
+6;1;0;"2010-07-19 19:14:44";152;29229;"<p>Last year, I read a blog post from <a href=""http://anyall.org/"">Brendan O'Connor</a> entitled <a href=""http://anyall.org/blog/2008/12/statistics-vs-machine-learning-fight/"">""Statistics vs. Machine Learning, fight!""</a> that discussed some of the differences between the two fields.  <a href=""http://andrewgelman.com/2008/12/machine_learnin/"">Andrew Gelman responded favorably to this</a>:</p>
+
+<p>Simon Blomberg: </p>
+
+<blockquote>
+  <p>From R's fortunes
+  package: To paraphrase provocatively,
+  'machine learning is statistics minus
+  any checking of models and
+  assumptions'.
+  -- Brian D. Ripley (about the difference between machine learning
+  and statistics) useR! 2004, Vienna
+  (May 2004) :-) Season's Greetings!</p>
+</blockquote>
+
+<p>Andrew Gelman:</p>
+
+<blockquote>
+  <p>In that case, maybe we should get rid
+  of checking of models and assumptions
+  more often. Then maybe we'd be able to
+  solve some of the problems that the
+  machine learning people can solve but
+  we can't!</p>
+</blockquote>
+
+<p>There was also the <a href=""http://projecteuclid.org/euclid.ss/1009213726""><strong>""Statistical Modeling: The Two Cultures""</strong> paper</a> by Leo Breiman in 2001 which argued that statisticians rely too heavily on data modeling, and that machine learning techniques are making progress by instead relying on the <em>predictive accuracy</em> of models.</p>
+
+<p>Has the statistics field changed over the last decade in response to these critiques?  Do the <em>two cultures</em> still exist or has statistics grown to embrace machine learning techniques such as neural networks and support vector machines?</p>
+";5;"2014-05-29 03:54:31";"The Two Cultures: statistics vs. machine learning?";"<machine-learning>";15;5;137;22047;"2013-06-07 06:38:10";"2010-08-09 13:05:50";0;"";"";""
+7;1;18;"2010-07-19 19:15:59";76;5808;"<p>I've been working on a new method for analyzing and parsing datasets to identify and isolate subgroups of a population without foreknowledge of any subgroup's characteristics.  While the method works well enough with artificial data samples (i.e. datasets created specifically for the purpose of identifying and segregating subsets of the population), I'd like to try testing it with live data.</p>
+
+<p>What I'm looking for is a freely available (i.e. non-confidential, non-proprietary) data source.  Preferably one containing bimodal or multimodal distributions or being obviously comprised of multiple subsets that cannot be easily pulled apart via traditional means.  Where would I go to find such information?</p>
+";38;"2013-12-28 06:53:10";"Locating freely available data samples";"<dataset><sample><population><teaching>";24;3;79;253;"2013-09-26 21:50:36";"2010-07-20 20:50:48";0;"";"";""
+8;1;0;"2010-07-19 19:16:21";0;288;"<p>Sorry, but the emptyness was a bit overwhelming. And this has been stuck in my head since it got asked at Area51!</p>
+";37;"2010-10-18 07:57:31";"So how many staticians *does* it take to screw in a lightbulb?";"<humor>";1;2;0;449;"2010-10-18 07:57:31";"";0;"2010-07-19 20:19:46";"";""
+9;2;0;"2010-07-19 19:16:27";13;0;"<p><a href=""http://incanter.org/"">Incanter</a> is a Clojure-based, R-like platform (environment + libraries) for statistical computing and graphics. </p>
+";50;"2010-07-19 19:16:27";"";"";0;3;0;0;"";"2010-07-19 19:16:27";3;"";"";""
+10;1;1887;"2010-07-19 19:17:47";23;21925;"<p>Many studies in the social sciences use Likert scales.  When is it appropriate to use Likert data as ordinal and when is it appropriate to use it as interval data?</p>
+";24;"2012-10-23 17:33:41";"Under what conditions should Likert scales be used as ordinal or interval data?";"<scales><measurement><ordinal><interval><likert>";4;4;12;919;"2011-03-30 15:31:46";"";0;"";"";""
+11;1;1201;"2010-07-19 19:18:30";2;224;"<p>Is there a good, modern treatment covering the various methods of multivariate interpolation, including which methodologies are typically best for particular types of problems? I'm interested in a solid statistical treatment including error estimates under various model assumptions.</p>
+
+<p>An example:</p>
+
+<p><a href=""http://en.wikipedia.org/wiki/Inverse_distance_weighting"" rel=""nofollow"">Shepard's method</a></p>
+
+<p>Say we're sampling from a multivariate normal distribution with unknown parameters. What can we say about the standard error of the interpolated estimates?</p>
+
+<p>I was hoping for a pointer to a general survey addressing similar questions for the various types of multivariate interpolations in common use. </p>
+";34;"2010-08-03 21:50:09";"Multivariate Interpolation Approaches";"<multivariable><interpolation>";1;2;1;34;"2010-07-28 07:58:52";"";0;"";"";""
+12;2;0;"2010-07-19 19:18:41";20;0;"<p>See my response to <a href=""http://stackoverflow.com/questions/2252144/datasets-for-running-statistical-analysis-on/2252450#2252450"">""Datasets for Running Statistical Analysis on""</a> in reference to datasets in R.</p>
+";5;"2010-07-19 19:18:41";"";"";0;1;0;0;"";"2011-08-12 20:29:33";7;"";"";""
+13;2;0;"2010-07-19 19:18:56";14;0;"<p>Machine Learning seems to have its basis in the pragmatic - a Practical observation or simulation of reality.  Even within statistics, mindless ""checking of models and assumptions"" can lead to discarding methods that are useful.</p>
+
+<p>For example, years ago, the very first commercially available (and working) Bankruptcy model implemented by the credit bureaus was created through a plain old linear regression model targeting a 0-1 outcome.  Technically, that's a bad approach, but practically, it worked.</p>
+";23;"2010-07-19 19:18:56";"";"";0;4;0;0;"";"";6;"";"";""
+14;2;0;"2010-07-19 19:19:03";5;0;"<p>I second that Jay. Why is R valuable? Here's a short list of reasons. <a href=""http://www.inside-r.org/why-use-r"" rel=""nofollow"">http://www.inside-r.org/why-use-r</a>. Also check out <a href=""http://had.co.nz/ggplot2/"" rel=""nofollow"">ggplot2</a> - a very nice graphics package for R. Some nice tutorials <a href=""http://gettinggeneticsdone.blogspot.com/search/label/ggplot2"" rel=""nofollow"">here</a>.</p>
+";36;"2010-07-19 19:19:03";"";"";0;1;0;0;"";"2010-07-19 19:19:03";3;"";"";""
+15;2;0;"2010-07-19 19:19:46";13;0;"<p>John Cook gives some interesting recommendations. Basically, get percentiles/quantiles (not means or obscure scale parameters!) from the experts, and fit them with the appropriate distribution.</p>
+
+<p><a href=""http://www.johndcook.com/blog/2010/01/31/parameters-from-percentiles/"">http://www.johndcook.com/blog/2010/01/31/parameters-from-percentiles/</a></p>
+";6;"2010-07-19 19:19:46";"";"";0;0;0;0;"";"";1;"";"";""
+16;2;0;"2010-07-19 19:22:31";16;0;"<p>Two projects spring to mind:</p>
+
+<ol>
+<li><a href=""http://www.mrc-bsu.cam.ac.uk/bugs/"">Bugs</a> - taking (some of) the pain out of Bayesian statistics. It allows the user to focus more on the model and a bit less on MCMC.</li>
+<li><a href=""http://www.bioconductor.org/"">Bioconductor</a> - perhaps the most popular statistical tool in Bioinformatics. I know it's a R repository, but there are a large number of people who want to learn R, just for Bioconductor. The number of packages available for cutting edge analysis, make it second to none.</li>
+</ol>
+";8;"2010-07-19 20:43:02";"";"";0;3;0;8;"2010-07-19 20:43:02";"2010-07-19 19:22:31";3;"";"";""
+17;1;29;"2010-07-19 19:24:12";9;1261;"<p>I have four competing models which I use to predict a binary outcome variable (say, employment status after graduating, 1 = employed, 0 = not-employed) for n subjects. A natural metric of model performance is hit rate which is the percentage of correct predictions for each one of the models. </p>
+
+<p>It seems to me that I cannot use ANOVA in this setting as the data violates the assumptions underlying ANOVA. Is there an equivalent procedure I could use instead of ANOVA in the above setting to test for the hypothesis that all four models are equally effective?</p>
+";0;"2012-01-22 23:34:51";"How can I adapt ANOVA for binary data?";"<anova><chi-squared><generalized-linear-model>";1;0;1;7972;"2012-01-22 23:34:51";"";0;"";"user28";""
+18;2;0;"2010-07-19 19:24:18";31;0;"<p>Also see the UCI machine learning Data Repository.</p>
+
+<p><a href=""http://archive.ics.uci.edu/ml/"">http://archive.ics.uci.edu/ml/</a></p>
+";36;"2010-07-19 19:24:18";"";"";0;1;0;0;"";"2011-08-12 20:31:32";7;"";"";""
+19;2;0;"2010-07-19 19:24:21";12;0;"<p><a href=""http://www.gapminder.org/data/"">Gapminder</a> has a number (430 at the last look) of datasets, which may or may not be of use to you.</p>
+";55;"2010-07-19 19:24:21";"";"";0;0;0;0;"";"2011-08-12 20:29:45";7;"";"";""
+20;2;0;"2010-07-19 19:24:35";3;0;"<p>The assumption of normality assumes your data is normally distributed (the bell curve, or gaussian distribution). You can check this by plotting the data or checking the measures for kurtosis (how sharp the peak is) and skewdness (?) (if more than half the data is on one side of the peak).</p>
+";37;"2010-07-19 19:24:35";"";"";0;2;0;0;"";"";2;"";"";""
+21;1;0;"2010-07-19 19:24:36";4;184;"<p>What are some of the ways to forecast demographic census with some validation and calibration techniques?</p>
+
+<p>Some of the concerns:</p>
+
+<ul>
+<li>Census blocks vary in sizes as rural
+areas are a lot larger than condensed
+urban areas. Is there a need to account for the area size difference?</li>
+<li>if let's say I have census data
+dating back to 4 - 5 census periods,
+how far can i forecast it into the
+future?</li>
+<li>if some of the census zone change
+lightly in boundaries, how can i
+account for that change?</li>
+<li>What are the methods to validate
+census forecasts? for example, if i
+have data for existing 5 census
+periods, should I model the first 3
+and test it on the latter two? or is
+there another way?</li>
+<li>what's the state of practice in
+forecasting census data, and what are
+some of the state of the art methods?</li>
+</ul>
+";59;"2010-09-30 21:14:45";"Forecasting demographic census";"<forecasting><population><census>";1;1;1;930;"2010-09-30 21:14:45";"";0;"";"";""
+22;1;0;"2010-07-19 19:25:39";102;21916;"<p>How would you describe in plain English the characteristics that distinguish Bayesian from Frequentist reasoning?</p>
+";66;"2014-06-05 02:06:32";"Bayesian and frequentist reasoning in plain English";"<bayesian><frequentist>";15;1;67;930;"2011-10-04 07:05:14";"";0;"";"";""
+23;1;91;"2010-07-19 19:26:04";10;7694;"<p>How can I find the PDF (probability density function) of a distribution given the CDF (cumulative distribution function)?</p>
+";69;"2010-07-20 08:52:27";"Finding the PDF given the CDF";"<distributions><pdf><cdf>";2;1;2;0;"";"";0;"";"";""
+24;2;0;"2010-07-19 19:26:13";17;0;"<p>For doing a variety of MCMC tasks in Python, there's <a href=""http://code.google.com/p/pymc/"">PyMC</a>, which I've gotten quite a bit of use out of.  I haven't run across anything that I can do in BUGS that I can't do in PyMC, and the way you specify models and bring in data seems to be a lot more intuitive to me.</p>
+";61;"2010-07-19 19:26:13";"";"";0;0;0;0;"";"2010-07-19 19:26:13";3;"";"";""
+25;1;32;"2010-07-19 19:27:13";7;2095;"<p>What modern tools (Windows-based) do you suggest for modeling financial time series?</p>
+";69;"2014-08-13 20:29:48";"Tools for modeling financial time series";"<modeling><time-series><finance><software>";7;4;5;69;"2010-07-26 23:38:29";"2010-07-26 23:38:29";0;"";"";""
+26;1;61;"2010-07-19 19:27:43";18;3476;"<p>What is a standard deviation, how is it calculated and what is its use in statistics?</p>
+";75;"2013-07-30 10:19:04";"What is a standard deviation?";"<standard-deviation><basic-concepts>";8;14;7;22047;"2013-07-30 10:19:04";"";0;"";"";""
+27;2;0;"2010-07-19 19:28:12";4;0;"<p><a href=""http://mathforum.org/workshops/sum96/data.collections/datalibrary/data.set6.html"" rel=""nofollow"">http://mathforum.org/workshops/sum96/data.collections/datalibrary/data.set6.html</a></p>
+";68;"2010-07-19 19:28:12";"";"";0;0;0;0;"";"2011-08-12 20:29:55";7;"";"";""
+28;2;0;"2010-07-19 19:28:12";6;0;"<p><a href=""http://www.gnu.org/software/gsl/"" rel=""nofollow"">GSL</a> for those of you who wish to program in C / C++ is a valuable resource as it provides several routines for random generators, linear algebra etc. While GSL is primarily available for Linux there are also ports for Windows. (See: <a href=""http://gladman.plushost.co.uk/oldsite/computing/gnu_scientific_library.php"" rel=""nofollow"">http://gladman.plushost.co.uk/oldsite/computing/gnu_scientific_library.php</a> and <a href=""http://david.geldreich.free.fr/dev.html"" rel=""nofollow"">http://david.geldreich.free.fr/dev.html</a>)</p>
+";0;"2010-07-19 19:28:12";"";"";0;0;0;0;"";"2010-07-19 19:28:12";3;"";"user28";""
+29;2;0;"2010-07-19 19:28:15";5;0;"<p>Contingency table (chi-square). Also Logistic Regression is your friend - use dummy variables. </p>
+";36;"2010-07-19 19:28:15";"";"";0;0;0;0;"";"";17;"";"";""
+30;1;55;"2010-07-19 19:28:34";7;705;"<p>Which methods are used for testing random variate generation algorithms?</p>
+";69;"2011-05-12 18:38:27";"Testing random variate generation algorithms";"<algorithms><hypothesis-testing><random-variable><random-generation>";8;2;7;919;"2010-08-25 14:12:54";"";0;"";"";""
+31;1;0;"2010-07-19 19:28:44";66;175495;"<p>After taking a statistics course and then trying to help fellow students, I noticed one subject that inspires much head-desk banging is interpreting the results of statistical hypothesis tests.  It seems that students easily learn how to perform the calculations required by a given test but get hung up on interpreting the results.  Many computerized tools report test results in terms of ""p values"" or ""t values"".</p>
+
+<p>How would you explain the following points to college students taking their first course in statistics:</p>
+
+<ul>
+<li><p>What does a ""p-value"" mean in relation to the hypothesis being tested?  Are there cases when one should be looking for a high p-value or a low p-value?</p></li>
+<li><p>What is the relationship between a p-value and a t-value?</p></li>
+</ul>
+";13;"2014-07-19 03:34:11";"What is the meaning of p values and t values in statistical tests?";"<hypothesis-testing><t-test><p-value><interpretation><intuition>";10;3;56;919;"2013-10-13 16:33:10";"";0;"";"";""
+32;2;0;"2010-07-19 19:29:06";12;0;"<p>I recommend R (see <a href=""http://cran.r-project.org/web/views/TimeSeries.html"">the time series view on CRAN</a>).  </p>
+
+<p>Some useful references:</p>
+
+<ul>
+<li><a href=""http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf"">Econometrics in R</a>, by Grant Farnsworth</li>
+<li><a href=""http://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r/1715488#1715488"">Multivariate time series modelling in R</a></li>
+</ul>
+";5;"2010-07-19 19:29:06";"";"";0;0;0;0;"";"";25;"";"";""
+33;1;49;"2010-07-19 19:30:03";5;1428;"<p>What R packages should I install for seasonality analysis?</p>
+";69;"2012-11-08 00:40:55";"R packages for seasonality analysis";"<r><seasonality>";3;1;5;88;"2010-09-16 06:56:44";"";0;"";"";""
+34;2;0;"2010-07-19 19:30:07";3;0;"<p><a href=""http://scienceblogs.com/goodmath/2008/04/schools_of_thought_in_probabil.php"" rel=""nofollow"">Schools of thought in Probability Theory</a></p>
+";79;"2010-07-19 19:30:07";"";"";0;0;0;0;"";"";22;"";"";""
+35;1;72;"2010-07-19 19:30:30";10;1223;"<p>I have a data set that I'd expect to follow a Poisson distribution, but it is overdispersed by about 3-fold. At the present, I'm modelling this overdispersion using something like the following code in R.</p>
+
+<pre><code>## assuming a median value of 1500
+med = 1500
+rawdist = rpois(1000000,med)
+oDdist = rawDist + ((rawDist-med)*3)
+</code></pre>
+
+<p>Visually, this seems to fit my empirical data very well. If I'm happy with the fit, is there any reason that I should be doing something more complex, like using a <a href=""http://en.wikipedia.org/wiki/Overdispersion#Poisson"">negative binomial distribution, as described here</a>? (If so, any pointers or links on doing so would be much appreciated).</p>
+
+<p>Oh, and I'm aware that this creates a slightly jagged distribution (due to the multiplication by three), but that shouldn't matter for my application.</p>
+
+<hr>
+
+<p><strong>Update:</strong>  For the sake of anyone else who searches and finds this question, here's a simple R function to model an overdispersed poisson using a negative binomial distribution. Set d to the desired mean/variance ratio:</p>
+
+<pre><code>rpois.od&lt;-function (n, lambda,d=1) {
+  if (d==1)
+    rpois(n, lambda)
+  else
+     rnbinom(n, size=(lambda/(d-1)), mu=lambda)
+}
+</code></pre>
+
+<p>(via the R mailing list: <a href=""https://stat.ethz.ch/pipermail/r-help/2002-June/022425.html"">https://stat.ethz.ch/pipermail/r-help/2002-June/022425.html</a>)</p>
+";54;"2010-07-25 01:44:14";"Modelling a Poisson distribution with overdispersion";"<distributions><modeling><poisson><overdispersion>";2;0;4;54;"2010-07-25 01:44:14";"";0;"";"";""
+36;1;0;"2010-07-19 19:31:47";41;67396;"<p>There is an old saying: ""Correlation does not mean causation"". When I teach, I tend to use the following standard examples to illustrate this point:</p>
+
+<ol>
+<li>number of storks and birth rate in Denmark;</li>
+<li>number of priests in America and alcoholism;</li>
+<li>in the start of the 20th century it was noted that there was a strong correlation between 'Number of radios' and 'Number of people in Insane Asylums'</li>
+<li>and my favorite: <a href=""http://en.wikipedia.org/wiki/File%3aPiratesVsTemp%28en%29.svg"" rel=""nofollow"">pirates cause global warming</a>.</li>
+</ol>
+
+<p>However, I do not have any references for these examples and whilst amusing, they are obviously false.</p>
+
+<p>Does anyone have any other good examples?</p>
+";8;"2014-05-23 06:31:12";"Examples for teaching: Correlation does not mean causation";"<correlation><teaching>";27;7;21;43889;"2014-05-23 06:31:12";"2010-08-16 13:01:42";0;"";"";""
+38;2;0;"2010-07-19 19:32:28";2;0;"<p>If your mean value for the Poisson is 1500, then you're very close to a normal distribution; you might try using that as an approximation and then modelling the mean and variance separately.</p>
+";61;"2010-07-19 19:32:28";"";"";0;2;0;0;"";"";35;"";"";""
+39;1;721;"2010-07-19 19:32:29";4;210;"<p>I'm looking for worked out solutions using Bayesian and/or logit analysis similar to a workbook or an annal. </p>
+
+<p>The worked out problems could be of any field; however, I'm interested in urban planning / transportation related fields. </p>
+";59;"2010-07-27 05:40:44";"Sample problems on logit modeling and Bayesian methods";"<modeling><bayesian><logit><transportation>";1;0;1;190;"2010-07-27 04:57:47";"";0;"";"";""
+40;1;111;"2010-07-19 19:32:47";8;491;"<p>What algorithms are used in modern and good-quality random number generators? </p>
+";69;"2014-01-28 07:46:08";"Pseudo-random number generation algorithms";"<algorithms><random-variable><random-generation>";4;1;2;919;"2010-08-25 14:13:48";"";0;"";"";""
+41;2;0;"2010-07-19 19:33:13";8;0;"<p>A quote from <a href=""http://en.wikipedia.org/wiki/Standard_deviation"" rel=""nofollow"">wiki</a>.</p>
+
+<blockquote>
+  <p>It shows how much variation there is from the ""average"" (mean, or expected/budgeted value). A low standard deviation indicates that the data points tend to be very close to the mean, whereas high standard deviation indicates that the data is spread out over a large range of values.</p>
+</blockquote>
+";83;"2010-07-19 19:33:13";"";"";0;0;0;0;"";"";26;"";"";""
+42;2;0;"2010-07-19 19:33:19";12;0;"<p><a href=""http://www.cs.waikato.ac.nz/ml/weka"">Weka</a> for data mining - contains many classification and clustering algorithms in Java.</p>
+";80;"2010-07-19 19:33:19";"";"";0;3;0;0;"";"2010-07-19 19:33:19";3;"";"";""
+43;2;0;"2010-07-19 19:33:37";7;0;"<p>R is great, but I wouldn't really call it ""windows based"" :) That's like saying the cmd prompt is windows based. I guess it is technically in a window...</p>
+
+<p>RapidMiner is far easier to use [1]. It's a free, open-source, multi-platform, GUI. Here's a video on time series forecasting:</p>
+
+<p><a href=""http://rapidminerresources.com/index.php?page=financial-time-series-modelling---part-1"">http://rapidminerresources.com/index.php?page=financial-time-series-modelling---part-1</a></p>
+
+<p>Also, don't forget to read:</p>
+
+<p><a href=""http://www.forecastingprinciples.com/"">http://www.forecastingprinciples.com/</a></p>
+
+<p>[1] No, I don't work for them. </p>
+";74;"2010-07-19 20:24:23";"";"";0;5;0;74;"2010-07-19 20:24:23";"";25;"";"";""
+44;1;89;"2010-07-19 19:34:42";8;453;"<p>How would you explain data visualization and why it is important to a layman?</p>
+";68;"2013-07-27 00:28:49";"Explain data visualization";"<data-visualization><intuition>";5;1;5;12786;"2013-07-27 00:28:49";"";0;"";"";""
+45;2;0;"2010-07-19 19:34:44";5;0;"<p>The <a href=""http://en.wikipedia.org/wiki/Mersenne_twister"" rel=""nofollow"">Mersenne Twister</a> is one I've come across and used before now.</p>
+";55;"2010-07-19 19:34:44";"";"";0;1;0;0;"";"";40;"";"";""
+46;2;0;"2010-07-19 19:35:04";0;0;"<p>A standard deviation is the square root of the second central moment of a distribution. A central moment is the expected difference from the expected value of the distribution. A first central moment would usually be 0, so we define a second central moment as the expected value of the squared distance of a random variable from its expected value. </p>
+
+<p>To put it on a scale that is more in line with the original observations, we take the square root of that second central moment and call it the standard deviation. </p>
+
+<p>Standard deviation is a property of a population. It measures how much average ""dispersion"" there is to that population. Are all the obsrvations clustered around the mean, or are they widely spread out? </p>
+
+<p>To estimate the standard deviation of a population, we often calculate the standard deviation of a ""sample"" from that population. To do this, you take observations from that population, calculate a mean of those observations, and then calculate the square root of the average squared deviation from that ""sample mean"". </p>
+
+<p>To get an unbiased estimator of the variance, you don't actually calculate the average squared deviation from the sample mean, but instead, you divide by (N-1) where N is the number of observations in your sample. Note that this ""sample standard deviation"" is not an unbiased estimator of the standard deviation, but the square of the ""sample standard deviation"" is an unbiased estimator of the variance of the population. </p>
+";62;"2010-07-20 02:13:12";"";"";0;2;0;62;"2010-07-20 02:13:12";"";26;"";"";""
+47;1;268;"2010-07-19 19:36:12";7;312;"<p>I have a dataset of 130k internet users characterized by 4 variables describing users' number of sessions, locations visited, avg data download and session time aggregated from four months of activity.</p>
+
+<p>Dataset is very heavy-tailed. For example third of users logged only once during four months, whereas six users had more than 1000 sessions.</p>
+
+<p>I wanted to come up with a simple classification of users, preferably with indication of the most appropriate number of clusters.</p>
+
+<p>Is there anything you could recomend as a soultion?</p>
+";22;"2010-11-23 18:59:58";"Clustering of large, heavy-tailed dataset";"<clustering><large-data>";4;2;3;8;"2010-10-08 16:05:59";"";0;"";"";""
+48;2;0;"2010-07-19 19:36:20";3;0;"<p>Flip through Freakonomics for some great examples. Their bibliography is chock full of references.</p>
+";36;"2010-07-19 19:36:20";"";"";0;4;0;0;"";"2010-08-16 13:01:42";36;"";"";""
+49;2;0;"2010-07-19 19:36:52";6;0;"<p>You don't need to install any packages because this is possible with base-R functions.  Have a look at <a href=""http://www.stat.ucl.ac.be/ISdidactique/Rhelp/library/ts/html/arima.html"">the arima function</a>.  </p>
+
+<p>This is a basic function of <a href=""http://en.wikipedia.org/wiki/Box%E2%80%93Jenkins"">Box-Jenkins analysis</a>, so you should consider reading one of the R time series text-books for an overview; my favorite is Shumway and Stoffer. ""<a href=""http://rads.stackoverflow.com/amzn/click/0387293175"">Time Series Analysis and Its Applications: With R Examples</a>"".</p>
+";5;"2010-07-19 19:36:52";"";"";0;0;0;0;"";"";33;"";"";""
+50;1;85;"2010-07-19 19:37:31";18;2414;"<p>What do they mean when they say ""random variable""? </p>
+";62;"2014-07-18 11:34:37";"What is meant by a ""random variable""?";"<random-variable><intuition><definition>";7;4;9;919;"2013-04-01 19:24:52";"";0;"";"";""
+51;1;64;"2010-07-19 19:37:55";1;120;"<p>Are there any objective methods of assessment or standardized tests available to measure the effectiveness of a software that does pattern recognition?</p>
+";68;"2010-07-19 20:12:16";"Measuring the effectiveness of a pattern recognition software";"<pattern-recognition>";1;0;1;0;"";"";0;"";"";""
+52;2;0;"2010-07-19 19:39:06";7;0;"<p>Usually one (p=.042), but it also depends on power.</p>
+";36;"2010-07-19 19:39:06";"";"";0;0;0;0;"";"";8;"";"";""
+53;1;78;"2010-07-19 19:39:08";40;25962;"<p>What are the main differences between performing Principal Components Analysis on a correlation and covariance matrix? Do they give the same results?</p>
+";17;"2013-06-27 07:10:58";"PCA on correlation or covariance?";"<pca>";4;4;20;6029;"2013-06-27 07:10:58";"";0;"";"";""
+54;1;65;"2010-07-19 19:41:19";11;497;"<p>As I understand UK Schools teach that the Standard Deviation is found using:</p>
+
+<p><img src=""http://upload.wikimedia.org/math/e/e/4/ee485814ab9e19908f2b39d5d70406d5.png"" alt=""alt text""></p>
+
+<p>whereas US Schools teach:</p>
+
+<p><img src=""http://upload.wikimedia.org/math/8/3/a/83a7338b851dcaafaf5b64353af56596.png"" alt=""alt text""></p>
+
+<p>(at a basic level anyway).</p>
+
+<p>This has caused a number of my students problems in the past as they have searched on the Internet, but found the wrong explanation.</p>
+
+<p>Why the difference?</p>
+
+<p>With simple datasets say 10 values, what degree of error will there be if the wrong method is applied (eg in an exam)?</p>
+";55;"2012-12-26 19:02:47";"Why do US and UK Schools Teach Different methods of Calculating the Standard Deviation?";"<standard-deviation><error><teaching><unbiased-estimator>";5;5;2;919;"2012-12-26 19:02:47";"";0;"";"";""
+55;2;0;"2010-07-19 19:41:39";7;0;"<p>The <a href=""http://en.wikipedia.org/wiki/Diehard_tests"" rel=""nofollow"">Diehard Test Suite</a> is something close to a Golden Standard for testing random number generators. It includes a number of tests where a good random number generator should produce result distributed according to some know distribution against which the outcome using the tested generator can then be compared.</p>
+
+<p><strong>EDIT</strong></p>
+
+<p>I have to update this since I was not exactly right:
+Diehard might still be used a lot, but it is no longer maintained and not state-of-the-art anymore. NIST has come up with <a href=""http://csrc.nist.gov/groups/ST/toolkit/rng/index.html"" rel=""nofollow"">a set of improved tests</a> since.</p>
+";56;"2011-05-12 18:38:27";"";"";0;0;0;56;"2011-05-12 18:38:27";"";30;"";"";""
+56;2;0;"2010-07-19 19:42:28";56;0;"<p>Here is how I would explain the basic difference to my grandma:</p>
+
+<p>I have misplaced my phone somewhere in the home. I can use the phone locator on the base of the instrument to locate the phone and when I press the phone locator the phone starts beeping.</p>
+
+<p>Problem: Which area of my home should I search?</p>
+
+<p>Frequentist Reasoning: </p>
+
+<p>I can hear the phone beeping. I also have a mental model which helps me identify the area from which the sound is coming from. Therefore, upon hearing the beep, I infer the area of my home I must search to locate the phone.</p>
+
+<p>Bayesian Reasoning:</p>
+
+<p>I can hear the phone beeping. Now, apart from a mental model which helps me identify the area from which the sound is coming from, I also know the locations where I have misplaced the phone in the past. So, I combine my inferences using the beeps and my prior information about the locations I have misplaced the phone in the past to identify an area I must search to locate the phone.</p>
+";0;"2010-07-19 19:42:28";"";"";0;7;0;0;"";"";22;"";"user28";""
+57;2;0;"2010-07-19 19:42:34";2;0;"<p>From <a href=""http://en.wikipedia.org/wiki/Random_variable"" rel=""nofollow"">Wikipedia</a>:</p>
+
+<blockquote>
+  <p>In mathematics (especially probability
+  theory and statistics), a random
+  variable (or stochastic variable) is
+  (in general) a measurable function 
+  that maps a probability space into a
+  measurable space. Random variables
+  mapping all possible outcomes of an
+  event into the real numbers are
+  frequently studied in elementary
+  statistics and used in the sciences to
+  make predictions based on data
+  obtained from scientific experiments.
+  In addition to scientific
+  applications, random variables were
+  developed for the analysis of games of
+  chance and stochastic  events. The
+  utility of random variables comes from
+  their ability to capture only the
+  mathematical properties necessary to
+  answer probabilistic  questions.</p>
+</blockquote>
+
+<p>From <a href=""http://cnx.org/content/m13418/latest/"" rel=""nofollow"">cnx.org</a>:</p>
+
+<blockquote>
+  <p>A random variable is a function, which assigns unique numerical values to all possible
+  outcomes of a random experiment under fixed conditions. A random variable is not a 
+  variable but rather a function that maps events to numbers.</p>
+</blockquote>
+";69;"2010-07-19 19:47:54";"";"";0;4;0;69;"2010-07-19 19:47:54";"";50;"";"";""
+58;1;6988;"2010-07-19 19:42:57";10;1667;"<p>What is the back-propagation algorithm and how does it work?</p>
+";68;"2013-04-10 12:09:31";"Can someone please explain the back-propagation algorithm?";"<algorithms><optimization><neural-networks>";3;0;1;3911;"2011-04-29 00:38:41";"";0;"";"";""
+59;2;0;"2010-07-19 19:43:20";24;0;"<p>The assumption of normality is just the supposition that the underlying <a href=""http://en.wikipedia.org/wiki/Random_variable"">random variable</a> of interest is distributed <a href=""http://en.wikipedia.org/wiki/Normal_distribution"">normally</a>, or approximately so.  Intuitively, normality may be understood as the result of the sum of a large number of independent random events.</p>
+
+<p>More specifically, normal distributions are defined by the following function:</p>
+
+<p><img src=""http://upload.wikimedia.org/math/9/e/1/9e1e4a3af93c9680ba75669a0b69fbf6.png"" alt=""alt text""></p>
+
+<p>where $\\mu$ and $\\sigma^2$ are the mean and the variance, respectively, and which appears as follows:</p>
+
+<p><img src=""http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/300px-Normal_Distribution_PDF.svg.png"" alt=""alt text""></p>
+
+<p>This can be checked in <a href=""http://en.wikipedia.org/wiki/Normality_test"">multiple ways</a>, that may be more or less suited to your problem by its features, such as the size of n.  Basically, they all test for features expected if the distribution were normal (e.g. expected <a href=""http://en.wikipedia.org/wiki/Q-Q_plot"">quantile distribution</a>).</p>
+";39;"2012-10-06 10:39:27";"";"";0;1;0;805;"2012-10-06 10:39:27";"";2;"";"";""
+60;2;0;"2010-07-19 19:43:20";1;0;"<p><a href=""http://en.wikipedia.org/wiki/K-means_algorithm"" rel=""nofollow"">K-Means clustering</a> should work well for this type of problem.  However, it does require that you specify the number of clusters in advance.</p>
+
+<p>Given the nature of this data, however, you may be able to work with a <a href=""http://en.wikipedia.org/wiki/Cluster_analysis#Hierarchical_clustering"" rel=""nofollow"">hierarchical clustering algorithm</a> instead.  Since all 4 variables are most likely fairly highly correlated, you can most likely break out clusters, and stop when you reach a small enough distance between clusters.  This may be a much simpler approach in this specific case, and allows you to determine ""how many clusters"" by just stopping as soon as you've broken your set into fine enough clusters.</p>
+";41;"2010-07-19 19:43:20";"";"";0;1;0;0;"";"";47;"";"";""
+61;2;0;"2010-07-19 19:44:35";22;0;"<p>Standard deviation is a number that represents the ""spread"" or ""dispersion"" of a set of data. There are other measures for spread, such as range and variance. </p>
+
+<p>Here are some example sets of data, and their standard deviations:</p>
+
+<pre><code>[1,1,1]     standard deviation = 0   (there's no spread)  
+[-1,1,3]    standard deviation = 1.6 (some spread) 
+[-99,1,101] standard deviation = 82  (big spead)
+</code></pre>
+
+<p>The above data sets have the same mean. </p>
+
+<p>Deviation means ""distance from the mean"".</p>
+
+<p>""Standard"" here means ""standardized"", meaning the standard deviation and mean are in the same units, unlike variance. </p>
+
+<p>For example, if the mean height is 2 <strong>meters</strong>, the standard deviation might be 0.3 <strong>meters</strong>, whereas the variance would be 0.09 <strong>meters squared</strong>. </p>
+
+<p>It is convenient to know that <a href=""http://en.wikipedia.org/wiki/Chebyshev%27s_inequality"" rel=""nofollow"">at least 75%</a> of the data points <em>always</em> lie within 2 standard deviations of the mean (or <a href=""http://en.wikipedia.org/wiki/68-95-99.7_rule"" rel=""nofollow"">around 95%</a> if the distribution is Normal).</p>
+
+<p>For example, if the mean is 100, and the standard deviation is 15, then at least 75% of the values are between 70 and 130. </p>
+
+<p>If the distribution happens to be Normal, then 95% of the values are between 70 and 130. </p>
+
+<p>Generally speaking, IQ test scores are normally distributed and have an average of 100. Someone who is ""very bright"" is two standard deviations above the mean, meaning an IQ test score of 130.</p>
+";74;"2013-01-23 09:37:19";"";"";0;5;0;74;"2013-01-23 09:37:19";"2013-01-23 09:37:19";26;"";"";""
+62;1;80;"2010-07-19 19:44:58";4;124;"<p>With the recent FIFA world cup, I decided to have some fun and determine which months produced world cup football players. Turned out, most footballers in the 2010 world cup were born in the first half of the year.</p>
+
+<p>Someone pointed out, that children born in the first half of the year had a physical advantage over others and hence ""survivorship bias"" was involved in the equation. Is this an accurate observation? Can someone please explain why he says that?</p>
+
+<p>Also, when trying to understand the concept, I found most examples revolved around the financial sector. Are they any other everyday life examples explaining it?</p>
+
+<p>Thanks!</p>
+";58;"2010-07-20 16:19:51";"A case of survivorship bias?";"<statistical-bias>";2;0;0;58;"2010-07-19 19:50:45";"";0;"";"";""
+63;2;0;"2010-07-19 19:45:19";25;0;"<p>It might be useful to explain that ""causes"" is an asymmetric relation (X causes Y is different from Y causes X), whereas ""is correlated with"" is a symmetric relation.</p>
+
+<p>For instance, homeless population and crime rate might be correlated, in that both tend to be high or low in the same locations.  It is equally valid to say that homelesss population is correlated with crime rate, or crime rate is correlated with homeless population.  To say that crime causes homelessness, or homeless populations cause crime are different statements.  And correlation does not imply that either is true.  For instance, the underlying cause could be a 3rd variable such as drug abuse, or unemployment.  </p>
+
+<p>The mathematics of statistics is not good at identifying underlying causes, which requires some other form of judgement.</p>
+";87;"2010-07-19 19:45:19";"";"";0;2;0;0;"";"2010-08-16 13:01:42";36;"";"";""
+64;2;0;"2010-07-19 19:46:08";6;0;"<p>Yes, there are many methods.  You would need to specify which model you're using, because it can vary.  </p>
+
+<p>For instance, Some models will be compared based on the <a href=""http://en.wikipedia.org/wiki/Akaike_information_criterion"">AIC</a> or <a href=""http://en.wikipedia.org/wiki/Bayesian_information_criterion"">BIC</a> criteria.  In other cases, one would look at the <a href=""http://en.wikipedia.org/wiki/Cross-validation_%28statistics%29"">MSE from cross validation</a> (as, for instance, with a support vector machine).</p>
+
+<ol>
+<li>I recommend reading <a href=""http://research.microsoft.com/en-us/um/people/cmbishop/prml/"">Pattern Recognition and Machine Learning</a> by Christopher Bishop.</li>
+<li>This is also discussed in Chapter 5 on Credibility, and particularly section 5.5 ""Comparing data mining methods"" of <a href=""http://rads.stackoverflow.com/amzn/click/0120884070"">Data Mining: Practical Machine Learning Tools and Techniques</a> by Witten and Frank (which discusses Weka in detail).</li>
+<li>Lastly, you should also have a look at <a href=""http://www-stat.stanford.edu/~tibs/ElemStatLearn/"">The Elements of Statistical Learning</a> by Hastie, Tibshirani and Friedman which is available for free online.</li>
+</ol>
+";5;"2010-07-19 20:12:16";"";"";0;0;0;5;"2010-07-19 20:12:16";"";51;"";"";""
+65;2;0;"2010-07-19 19:46:11";14;0;"<p>The first formula is the <em>population</em> standard deviation and the second formula is the the <em>sample</em> standard deviation. The second formula is also related to the unbiased estimator of the variance - see <a href=""http://en.wikipedia.org/wiki/Variance#Population_variance_and_sample_variance"">wikipedia</a> for further details.</p>
+
+<p>I suppose (here) in the UK they don't make the distinction between sample and population at high school. They certainly don't touch concepts such as biased estimators. </p>
+";8;"2010-07-19 20:44:53";"";"";0;3;0;8;"2010-07-19 20:44:53";"";54;"";"";""
+66;2;0;"2010-07-19 19:46:11";5;0;"<p>This is <a href=""http://en.wikipedia.org/wiki/Bessel%27s_correction"">Bessel's Correction</a>.  The US version is showing the formula for the <em>sample standard deviation</em>, where the UK version above is the <em>standard deviation of the sample</em>.</p>
+";41;"2010-07-19 19:46:11";"";"";0;0;0;0;"";"";54;"";"";""
+67;2;0;"2010-07-19 19:47:16";2;0;"<p>From <a href=""http://en.wikipedia.org/wiki/Data_visualization"" rel=""nofollow"">Wikipedia</a>: Data visualization is the study of the visual representation of data, meaning ""information which has been abstracted in some schematic form, including attributes or variables for the units of information""</p>
+
+<p>Data viz is important for visualizing trends in data, telling a story - See <a href=""http://www.edwardtufte.com/tufte/posters"" rel=""nofollow"">Minard's map of Napoleon's march</a> - possibly one of the best data graphics ever printed.</p>
+
+<p>Also see any of Edward Tufte's books - especially <a href=""http://rads.stackoverflow.com/amzn/click/0961392142"" rel=""nofollow"">Visual Display of Quantitative Information.</a></p>
+";36;"2010-07-19 19:47:16";"";"";0;0;0;0;"";"";44;"";"";""
+69;2;0;"2010-07-19 19:47:49";3;0;"<p>Since N is the number of points in the data set, one could argue that by calculating the mean one has reduced the degree of freedom in the data set by one (since one introduced a dependency into the data set), so one should use N-1 when estimating the standard deviation from a data set for which one had to estimate the mean before.</p>
+";56;"2010-07-19 19:47:49";"";"";0;0;0;0;"";"";54;"";"";""
+70;2;0;"2010-07-19 19:48:45";15;0;"<p><a href=""http://data.worldbank.org/data-catalog""><strong>World Bank</strong></a> offers quite a lot of interesting data and has been recently very active in developing nice <a href=""http://data.worldbank.org/developers/api-overview"">API</a> for it.</p>
+
+<p>Also, <a href=""http://www.cs.purdue.edu/commugrate/data_access/all_data_sets.php""><strong>commugrate</strong></a> project has an interesting list available.</p>
+
+<p>For US health related data head for <a href=""http://www.healthindicators.gov/""><strong>Health Indicators Warehouse</strong></a>. </p>
+
+<p>Daniel Lemire's blog <a href=""http://lemire.me/blog/archives/2012/03/27/publicly-available-large-data-sets-for-database-research/"">points</a> to few interesting examples (mostly tailored towards DB research) including <strong>Canadian Census 1880</strong> and <strong>synoptic cloud reports</strong>.</p>
+
+<p>And as for today (03/04/2012) <a href=""http://1940census.archives.gov/""><strong>US 1940 census records</strong></a> are also available to download.</p>
+";22;"2012-04-03 09:51:07";"";"";0;1;0;22;"2012-04-03 09:51:07";"2011-08-12 20:30:59";7;"";"";""
+71;2;0;"2010-07-19 19:50:33";2;0;"<p>It's an algorithm for training feedforward multilayer neural networks (multilayer perceptrons). There are several nice java applets around the web that illustrate what's happening, like this one: <a href=""http://neuron.eng.wayne.edu/bpFunctionApprox/bpFunctionApprox.html"" rel=""nofollow"">http://neuron.eng.wayne.edu/bpFunctionApprox/bpFunctionApprox.html</a>. Also, <a href=""http://rads.stackoverflow.com/amzn/click/0198538642"" rel=""nofollow"">Bishop's book on NNs</a> is the standard desk reference for anything to do with NNs.</p>
+";36;"2010-07-19 19:50:33";"";"";0;0;0;0;"";"";58;"";"";""
+72;2;0;"2010-07-19 19:51:05";6;0;"<p>for overdispersed poisson, use the negative binomial, which allows you to parameterize the variance as a function of the mean precisely.  rnbinom(), etc. in R.</p>
+";96;"2010-07-19 19:51:05";"";"";0;0;0;0;"";"";35;"";"";""
+73;1;104362;"2010-07-19 19:51:32";24;5717;"<p><strong>Duplicate thread:</strong> <a href=""http://stats.stackexchange.com/questions/1676/i-just-installed-the-latest-version-of-r-what-packages-should-i-obtain"">I just installed the latest version of R. What packages should I obtain?</a></p>
+
+<p>What are the <a href=""http://www.r-project.org/"">R</a> packages you couldn't imagine your daily work with data?
+Please list both general and specific tools.</p>
+
+<p>UPDATE:
+As for 24.10.10 <code>ggplot2</code> seems to be the winer with 7 votes.</p>
+
+<p>Other packages mentioned more than one are:</p>
+
+<ul>
+<li><code>plyr</code> - 4</li>
+<li><code>RODBC</code>, <code>RMySQL</code> - 4</li>
+<li><code>sqldf</code> - 3</li>
+<li><code>lattice</code> - 2</li>
+<li><code>zoo</code> - 2</li>
+<li><code>Hmisc/rms</code> - 2</li>
+<li><code>Rcurl</code> - 2</li>
+<li><code>XML</code> - 2</li>
+</ul>
+
+<p>Thanks all for your answers!</p>
+";22;"2014-06-23 08:58:48";"What R packages do you find most useful in your daily work?";"<r>";24;5;26;88;"2011-05-11 12:29:47";"2010-07-19 20:07:49";0;"";"";""
+74;2;0;"2010-07-19 19:51:34";25;0;"<p>In such a discussion, I always recall the famous Ken Thompson quote </p>
+
+<blockquote>
+  <p>When in doubt, use brute force.</p>
+</blockquote>
+
+<p>In this case, machine learning is a salvation when the assumptions are hard to catch; or at least it is much better than guessing them wrong. </p>
+";88;"2010-07-19 19:51:34";"";"";0;0;0;0;"";"";6;"";"";""
+75;1;94;"2010-07-19 19:52:31";5;754;"<p>I'm using <a href=""http://www.r-project.org/"" rel=""nofollow""><strong>R</strong></a> and the manuals on the R site are really informative. However, I'd like to see some more examples and implementations with R which can help me develop my knowledge faster. Any suggestions?</p>
+";69;"2010-07-21 03:12:51";"Where can I find useful R tutorials with various implementations?";"<r><books><code>";5;4;7;0;"2010-07-21 03:12:51";"2010-10-19 11:13:59";0;"";"";"user28"
+76;2;0;"2010-07-19 19:52:49";22;0;"<p>I use <a href=""http://cran.r-project.org/web/packages/plyr/index.html""><strong>plyr</strong></a> and <a href=""http://cran.r-project.org/web/packages/ggplot2/index.html""><strong>ggplot2</strong></a> the most on a daily basis.</p>
+
+<p>I also rely heavily on time series packages; most especially, the <a href=""http://cran.r-project.org/web/packages/zoo/index.html""><strong>zoo</strong></a> package.</p>
+";5;"2010-07-19 19:52:49";"";"";0;3;0;0;"";"2010-08-09 13:16:41";73;"";"";""
+77;2;0;"2010-07-19 19:54:03";16;0;"<ol>
+<li><p>Sometimes correlation is enough. For example, in car insurance, male drivers are correlated with more accidents, so insurance companies charge them more. There is no way you could actually test this for causation. You cannot change the genders of the drivers experimentally. Google has made hundreds of billions of dollars not caring about causation. </p></li>
+<li><p>To find causation, you generally need experimental data, not observational data. Though, in economics, they often use observed ""shocks"" to the system to test for causation, like if a CEO dies suddenly and the stock price goes up, you can assume causation. </p></li>
+<li><p>Correlation is a necessary but not sufficient condition for causation. To show causation requires a counter-factual.</p></li>
+</ol>
+";74;"2010-09-09 18:16:59";"";"";0;7;0;74;"2010-09-09 18:16:59";"2010-08-16 13:01:42";36;"";"";""
+78;2;0;"2010-07-19 19:54:38";33;0;"<p>You tend to use the covariance matrix when the variable scales are similar and the correlation matrix when variables are on different scales. Using the correlation matrix <em>standardises</em> the data.</p>
+
+<p>In general they give different results. Especially when the scales are different.</p>
+
+<p>As example, take a look a look at this R heptathlon data set. Some of the variables have an average value of about 1.8 (the high jump), whereas other variables (200m) are around 20.</p>
+
+<pre><code>library(HSAUR)
+# look at heptathlon data
+heptathlon
+
+# correlations
+round(cor(heptathlon[,-8]),2)   # ignoring ""score"" 
+# covariance
+round(cov(heptathlon[,-8]),2)
+
+# PCA
+# scale=T bases the PCA on the correlation matrix
+hep.PC.cor = prcomp(heptathlon[,-8], scale=TRUE)
+hep.PC.cov = prcomp(heptathlon[,-8], scale=FALSE)
+
+# PC scores per competitor
+hep.scores.cor = predict(hep.PC.cor)
+hep.scores.cov = predict(hep.PC.cov)
+
+# Plot of PC1 vs PC2
+par(mfrow = c(2, 1))
+plot(hep.scores.cov[,1],hep.scores.cov[,2],
+     xlab=""PC 1"",ylab=""PC 2"", pch=NA, main=""Covariance"")
+text(hep.scores.cov[,1],hep.scores.cov[,2],labels=1:25) 
+
+plot(hep.scores.cor[,1],hep.scores.cor[,2],
+     xlab=""PC 1"",ylab=""PC 2"", pch=NA, main=""Correlation"")
+text(hep.scores.cor[,1],hep.scores.cor[,2],labels=1:25) 
+</code></pre>
+
+<p>Notice that the outlying individuals (in <em>this</em> data set) are outliers regardless of whether the covariance or correlation matrix is used.</p>
+";8;"2010-11-06 21:56:17";"";"";0;4;0;8;"2010-11-06 21:56:17";"";53;"";"";""
+79;2;0;"2010-07-19 19:56:04";4;0;"<p>I am not sure this is purely a US vs. British issue. Here is a brief page I wrote <a href=""http://www.graphpad.com/faq/viewfaq.cfm?faq=1382"" rel=""nofollow"">explaining the difference between using n vs. n-1 when computing a Standard Deviation</a>.</p>
+";25;"2010-07-19 19:56:04";"";"";0;1;0;0;"";"";54;"";"";""
+80;2;0;"2010-07-19 19:56:43";8;0;"<p>The basic idea behind this is that football clubs have an age cut-off when determining teams.  In the league my children participate in the age restrictions states that children born after July 31st are placed on the younger team.  This means that two children that are effectively the same age can be playing with two different age groups.  The child born July 31st will be playing on the older team and theoretically be the youngest and smallest on the team and in the league.  The child born on August 1st will be the oldest and largest child in the league and will be able to benefit from that.</p>
+
+<p>The survivorship bias comes because competitive leagues will select the best players for their teams.  The best players in childhood are often the older players since they have additional time for their bodies to mature.  This means that otherwise acceptable younger players are not selected simply because of their age.  Since they are not given the same opportunities as the older kids, they don’t develop the same skills and eventually drop out of competitive soccer.</p>
+
+<p>If the cut-off for competitive soccer in enough countries is January 1st, that would support the phenomena you see.  A similar phenomena has been observed in several other sports including baseball and ice hockey.</p>
+";93;"2010-07-19 19:56:43";"";"";0;2;0;0;"";"";62;"";"";""
+81;2;0;"2010-07-19 19:58:56";7;0;"<p>I use the <strong><a href=""http://cran.r-project.org/web/packages/xtable/index.html"">xtable</a></strong> package. The xtable package turns tables produced by R (in particular, the tables displaying the anova results) into LaTeX tables, to be included in an article. </p>
+";69;"2010-07-19 19:58:56";"";"";0;0;0;0;"";"2010-10-19 11:07:08";73;"";"";""
+83;2;0;"2010-07-19 20:02:51";2;0;"<p>R is designed around ideas such as ""reproducible research"" and ""trustworthy software"", as John Chambers says <a href=""http://books.google.com/books?id=UXneuOIvhEAC&amp;printsec=frontcover"" rel=""nofollow"">in his excellent book ""Software for Data Analysis: Programming with R""</a>.  </p>
+
+<p>One of the best ways to learn R is to look at the wealth of source code that available on <a href=""http://cran.r-project.org/"" rel=""nofollow"">CRAN</a> (with 2461 packages and counting).  Simple <code>install.packages</code>, load a <code>library()</code>, and start browsing the code.</p>
+";5;"2010-07-19 20:02:51";"";"";0;0;0;0;"";"2010-10-19 11:13:59";75;"";"";""
+84;2;0;"2010-07-19 20:03:34";6;0;"<p>I would explain it to a layman as:</p>
+
+<blockquote>
+  <p>Data visualization is taking data, and making a picture out of it.  This allows you to easily see and understand relationships within the data much more easily than just looking at the numbers.</p>
+</blockquote>
+";41;"2010-07-19 20:03:34";"";"";0;0;0;0;"";"";44;"";"";""
