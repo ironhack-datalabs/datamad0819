@@ -1,0 +1,1 @@
+DELETE FROM mydb.customer WHERE ID = 2 or ID = 1;
