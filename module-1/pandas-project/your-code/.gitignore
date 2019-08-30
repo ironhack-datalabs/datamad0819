@@ -1,2 +1,4 @@
 #Carpeta input
 input
+#Python cache
+__pycache__
