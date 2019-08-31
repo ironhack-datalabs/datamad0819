@@ -3,4 +3,4 @@ input
 #Python cache
 __pycache__
 #csv con valids href
-validHrefDf.csv
+.\\hrefvalids.csv
