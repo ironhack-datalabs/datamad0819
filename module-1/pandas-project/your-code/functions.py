@@ -1,5 +1,6 @@
 import requests
-import threading
+import re
+
 def cleanTextInFatal(text):
     """
     devuelve "N" si text contiene N o N o f o F o # o devuelve "UNKNOWN" si contiene "unkn"
@@ -77,4 +78,34 @@ def checkUrlValid(text):
             return "UNKNOWN"
     except:
             return "UNKNOWN" 
+
+
+
+"""def cleanShark(text):
+    listSpecies =["WHITE","TIGUER","BULL","WOBBEGONG","BLACKSTRIP","MAKO","BLUE","RAGGEDTOOTH","ZAMBESI","BRONZE WHALER"]
+    t = text.upper
+    if t.find("WHITE"):
+        return "WHITE"
+    elif t.find("TIGER"):
+        return "TIGER"
+    elif t.find "BULL"""
+
+def getLength(text):
+    """Busca en species patrones de longitud para inicializar una columna nueva"""
+    t = str(text)
+    t = t.replace("["," ")
+    t = t.replace("]"," ")
+    
+    longitud = re.findall("([\d.]+)\s+(\S+)",t)
+    if len(longitud)>0:
+        return " ".join([ele[0]+ele[1] for ele in longitud])
+    else:
+        longitud = re.findall("([\d.]+('))",t)
+        if len(longitud) != 0:
+            return " ".join([ele[0] for ele in longitud])
+        else:
+            return("UNKNOWN")
+
+
+        
 
