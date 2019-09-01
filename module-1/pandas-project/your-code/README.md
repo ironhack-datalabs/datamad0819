@@ -2,7 +2,12 @@
 
 ## Introduction
 
-This proyect consist in import and cleaning a pandas DataFrame  and export it to a csv file. The steps are explained in the comments in pandasProyect.ipynb and functions.py is commented
+This proyect consist in import and cleaning a pandas DataFrame  and export it to a csv file. The steps are explained in the comments in pandasProyect.ipynb and functions.py is commented.
+
+## Project
+* pandasProyect.ipynb is a script of Jupyter Notebook that execute the operations
+* functions.py contains functions that are called
+* output folder contains clean.csv with the result 
 
 ## Steps
 * Import the csv file and analyze ir

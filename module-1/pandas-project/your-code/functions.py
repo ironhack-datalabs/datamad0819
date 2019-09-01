@@ -108,26 +108,9 @@ def cleanShark(text,speciesList):
         
     
     
-        
-
-"""def getLength(text):
-    
-    t = str(text)
-    t = t.replace("["," ")
-    t = t.replace("]"," ")
-    
-    longitud = re.findall("([\d.]+)\s+(\S+)",t)
-    if len(longitud)>0:
-        return " ".join([ele[0]+ele[1] for ele in longitud])
-    else:
-        longitud = re.findall("([\d.]+('))",t)
-        if len(longitud) != 0:
-            return " ".join([ele[0] for ele in longitud])
-        else:
-            return("UNKNOWN")"""
 
 def getLength(text):
-    """Busca en species patrones de longitud y los devuelve"""
+    """Captura datos de metros, pies y pulgadas en text, les hace la media y los devuelve en metros, si no encuentra devuelve UNKNOWN"""
     t = str(text)
     t = t.replace("["," ")
     t = t.replace("]"," ")
@@ -146,11 +129,13 @@ def getLength(text):
             return("UNKNOWN")
         
 def getAvgM(listaMetros):
+    """Devuelve la media de una lista de valores en metros, lista vacía devuelve UNKNOWN"""
     if len(listaMetros) == 0:
         return "UNKNOWN"
     return round(sum(listaMetros)/len(listaMetros),3)
 
 def getAvgMConvertingPieNinches(listLenTwoTuple):
+    """Coge lista de tuplas len = 2, toma el primer valor de cada tupla, lo convierte a metros y devuelve la media de los valores, funciona si el elemento es en pies o pulgadas"""
     lista = [ele[0] for ele in listLenTwoTuple]
     for i in range(len(lista)):
         if lista[i].find("''")!=-1:
