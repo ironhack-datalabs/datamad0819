@@ -3,4 +3,4 @@ input
 #Python cache
 __pycache__
 #carpeta con ignore csv
-outputignore
+outputignore/
