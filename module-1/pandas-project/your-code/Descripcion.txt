@@ -27,6 +27,19 @@ Efectivamente Florida presenta unos 990 ataques. Una gran diferencia con respect
 
 
 Tras esto quiero averiguar si la llegada del (Carcharhinus longimanus) tiburón oceanico de puntas blanca
-(el mas peligroso de todos)a las costas de BAHAMAS por el mes de mayo, provoca un incremento de los ataques.
+a las costas de BAHAMAS por el mes de mayo, provoca un incremento de los ataques.Como quiero analizar 
+en base a la columna ("Date") Decido borrar los datos "NaN" que pudiera tener.
 
+(PREGUNTAR) 
 Para ello modifico la columna de fecha para poder evaluar los meses de abril/mayo/junio. 
+Pensaba hacer una funcion donde poder unirlas en etiqueta según las estaciones del año. Pero no deja de salirme un error que no soy capaz de quitar.
+
+
+Ahora separaria en dos la columna de "Sex" para poder analizarla por separado. Previamente quito los
+valores vacios con drop o con fillna(), adjudicandoles un valor 2. 
+
+Posteriormete veria que tipo de tiburon es el que mas ataques presenta. Se ve que es el tiburon blanco.
+
+
+
+

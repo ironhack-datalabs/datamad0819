@@ -1,6 +1,6 @@
 def calendario(date):
     mes = []
-    for e in df["Date"]:
+    for e in df[Date]:
         if e.find("Jan") != -1:
             mes.append(1)
         elif e.find("Feb") != -1:
@@ -27,4 +27,19 @@ def calendario(date):
             mes.append(12)
         else:
             pass
-    print(mes)
+    return mes
+
+
+def estaciones(date):
+    estacion=[]
+    for i in df["Date"]:
+        if i==1 or i==2 or i==12:
+            estacion.append("invierno")
+        elif i==3 or i==4 or i==5:
+            estacion.append("primavera")
+        elif i==6 or i==7 or i==8:
+            estacion.append("verano")
+        else:
+            estacion.append("otoño")
+    return estacion
+
