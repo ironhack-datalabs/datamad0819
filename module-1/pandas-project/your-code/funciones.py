@@ -87,3 +87,12 @@ def date_month(date):
             return "Fall"
         else:
             return "Undefined"
+
+#Lets us predict the date based on the year and on the probability 
+#of the season
+def year_to_date_with_season(val,season_prob):
+    year = val
+    month = np.random.choice([6, 9, 1 ,3], p=season_prob)
+    day = 1                      
+    return pd.to_datetime("{}/{}/{}".format(month,day,year))
+    

@@ -47,11 +47,3 @@ As expected, the data file was not going to be a very tidy dataset. To perform s
      
 
 
-
-### Missing Values 
-### Duplicates 
-### Special Characters
-### Incorrect Values
-
-
-
