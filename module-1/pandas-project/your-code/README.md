@@ -1,4 +1,4 @@
-# PANDAS-PROJECT
+# PANDAS-PROJECT by Francisco Rodrigo
 
 ## Introduction
 
