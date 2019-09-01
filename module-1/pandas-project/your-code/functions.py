@@ -60,17 +60,15 @@ def retornoTiposFish(text):
     else:
         return "Fishing"    
 
-def callChekcUrl(pdSerie):
-    return pdSerie.apply(checkUrlValid)
-
 
 def checkUrlValid(text):
     """analiza si un string contiene una url válida (404 no valida) y la devuelve si lo es, si no devuelve UNKNOWN"""
     r= requests.Response()
     try:
         
-        r = requests.get(text)
+        r = requests.get(text, allow_redirects=True)
         code = int(r.status_code)
+        print(code)
         del r
         if code == 200:
             return text
@@ -79,16 +77,54 @@ def checkUrlValid(text):
     except:
             return "UNKNOWN" 
 
+import urllib.request
+
+def url_is_alive(url):
+    """
+    Checks that a given URL is reachable.
+    :param url: A URL
+    :rtype: bool
+    """
+    request = urllib.request.Request(url)
+    request.get_method = lambda: 'HEAD'
+
+    try:
+        urllib.request.urlopen(request)
+        return True
+    except urllib.request.HTTPError:
+        return False
 
 
-"""def cleanShark(text):
-    listSpecies =["WHITE","TIGUER","BULL","WOBBEGONG","BLACKSTRIP","MAKO","BLUE","RAGGEDTOOTH","ZAMBESI","BRONZE WHALER"]
-    t = text.upper
-    if t.find("WHITE"):
-        return "WHITE"
-    elif t.find("TIGER"):
-        return "TIGER"
-    elif t.find "BULL"""
+def cleanShark(text,speciesList):
+    #UNKNOWN Thought , OR, ?,Possibly, involvement not cofirmed,probably
+    t = ""
+    t = str(text.upper())
+  
+    
+    if len(re.findall("INVOLVME|CONFIRM",t)) !=0:
+        
+        if t.find("NOT") != -1:
+            
+            return "SHARK INVOLVMENT NOT CONFIRMED"
+    
+        elif len(re.findall("THOUG|PROBAB|OR|POSSI",t)) != 0 or t.find("?")!=-1:
+            
+            return "UNKNOWN"
+    else:
+        tiburones= []
+        for specie in speciesList:
+            if specie in t:
+                tiburones.append(specie)
+        if len(tiburones) == 1:
+            return tiburones[0] + " SHARK"   
+        else:
+            return "UNKNOWN"
+        
+    
+        
+
+
+        
 
 def getLength(text):
     """Busca en species patrones de longitud para inicializar una columna nueva"""
