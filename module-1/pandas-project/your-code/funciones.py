@@ -1,6 +1,11 @@
+"""
+    Definition of functions used in the processing and transformation of a shark database
+"""
+import numpy as np
+import pandas as pd
+import re 
 
-
-#converts is fatal column to boolean data
+#Converts is fatal column to boolean data
 #Categorizes Y to True and rest of values to False (n, f(1), #Value(1), unknown(94),)
 
 def isfatal(string):
@@ -13,12 +18,14 @@ def isfatal(string):
 
 
 #Categorize hour 
+#Changes all type of time data found to a value that can be mapped and analysed
+
 def cat_hour(hour):
 
     hour = str(hour).strip()
     hour = hour.replace("<","")
     hour = hour.replace(">","")
-    
+
     if re.search("\d{2}[h,j,:]\d{2}",hour) and len(hour)<=5: #forma 13h30, 14:00, 12j30
         hour,minu = re.split("[jh:]",hour)
         h = int(hour)
@@ -47,9 +54,36 @@ def cat_hour(hour):
     elif text_in_var(["night", "dark"],hour):
         return 1 #night 
     return 25
-    
+
+#Used a auxiliary function in time mapping 
+
 def text_in_var(lists,var):
     for ele in lists: 
         if ele.lower() in var.lower(): 
             return True
     return False
+
+
+#Converts age column to ismale column boolean data
+def ismale(val):
+    val = str(val)
+    val = val.strip()
+    if val == "M":
+        return True
+    elif val == "F":
+        return False
+    else:
+        return np.nan
+
+#Converts date to season 
+def date_month(date):
+        if date.month in [1,2,12]:
+            return "Winter"
+        elif date.month in [3,4,5]:
+            return "Spring"
+        elif date.month in [6,7,8]:
+            return "Summer"
+        elif date.month in [9,10,11]: 
+            return "Fall"
+        else:
+            return "Undefined"
