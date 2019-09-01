@@ -2,5 +2,5 @@
 input
 #Python cache
 __pycache__
-#csv con valids href
-.\\hrefvalids.csv
+#carpeta con ignore csv
+outputignore
