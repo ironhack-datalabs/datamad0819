@@ -3,7 +3,7 @@
 Sharks are believed to be dangerous predators but the number of shark attacks is much smaller than most people think.
 This project will try to establish which countries have the highest number of attacks, which have the highest mortal rate and the reasons behind these attacks. This analysis might be able to help us reduce even more the number of attacks and make the beaches of the world a safer place.
 
-Hypothesis: I believe the analysis will determine that countries such as Australia, New Zeland or Bahamas are where most attacks take place given the fact that these countries receive a lot of turism related to aquatic sports: surfing, snorkling, diving, fishing and bathing.  
+Hypothesis: I believe the analysis will determine that countries such as USA, Australia, New Zeland or countries in the caribbean area are where most attacks take place given the fact that these countries receive a lot of turism related to aquatic sports: surfing, snorkling, diving, fishing and bathing.  
 
 
 
@@ -16,3 +16,4 @@ Once this data is clean, we wil use python to create a new dataframe with all th
 Using MySQL Workbench this data will be inserted into two different tables in a data base called shark_attacks, previously created. Here we will do one last check to make sure our data is clean and ready to use. Also using some sql queries might be usefull to re-organised the data to make it easier to manipulate.
 
 Finally, the analysis will be made using Tableua, a powerfull BI tool, this way it will be easier to present the result of the analysis in a visual and interactive way. 
+
