@@ -1,0 +1,3510 @@
+,Case Number,Year,Type,Country,Activity,Sex,Fatal
+0,2016.09.18.c,2016,Unprovoked,USA,Surfing,M,N
+1,2016.09.18.b,2016,Unprovoked,USA,Surfing,M,N
+2,2016.09.18.a,2016,Unprovoked,USA,Surfing,M,N
+3,2016.09.17,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+4,2016.09.15,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+5,2016.09.15.R,2016,Boat,AUSTRALIA,Fishing,,N
+6,2016.09.11,2016,Unprovoked,USA,Other,M,N
+7,2016.09.07,2016,Unprovoked,USA,Swimming,F,N
+8,2016.09.06,2016,Unprovoked,NEW CALEDONIA,Surfing,M,Y
+9,2016.09.05.b,2016,Unprovoked,USA,Surfing,F,N
+10,2016.09.05.a,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+11,2016.09.04,2016,Unprovoked,USA,Surfing,M,N
+12,2016.09.01,2016,Unprovoked,USA,Fishing,M,N
+13,2016.08.29.b,2016,Unprovoked,USA,Surfing,M,N
+14,2016.08.29.a,2016,Unprovoked,USA,Surfing,M,N
+15,2016.08.27,2016,Unprovoked,REUNION,Surfing,M,N
+16,2016.08.25,2016,Unprovoked,USA,Other,M,N
+17,2016.08.07,2016,Unprovoked,BAHAMAS,Snorkeling,M,N
+18,2016.08.06,2016,Unprovoked,USA,Surfing,M,N
+19,2016.08.04,2016,Unprovoked,USA,Surfing,M,N
+20,2016.07.29,2016,Unprovoked,SPAIN,Swimming,M,N
+22,2016.07.28,2016,Boat,AUSTRALIA,Rowing,M,N
+23,2016.07.27,2016,Provoked,USA,Other,M,N
+24,2016.07.26,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+25,2016.07.24,2016,Unprovoked,JAPAN,Surfing,M,N
+26,2016.07.23.b,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+27,2016.07.23.a,2016,Unprovoked,BAHAMAS,Fishing,M,N
+28,2016.07.20,2016,Provoked,AUSTRALIA,Fishing,M,N
+29,2016.07.17,2016,Boat,USA,Fishing,,N
+30,2016.07.16.b,2016,Unprovoked,USA,Surfing,F,N
+31,2016.07.16.a,2016,Unprovoked,USA,Other,F,N
+32,2016.07.15,2016,Unprovoked,USA,Swimming,M,N
+33,2016.07.14.4,2016,Unprovoked,BAHAMAS,Diving,M,N
+34,2016.07.08.R,2016,Unprovoked,SPAIN,Other,F,N
+35,2016.07.08,2016,Boat,USA,Fishing,M,N
+36,2016.07.07.b,2016,Provoked,USA,Fishing,M,N
+37,2016.07.07.a,2016,Boat,USA,Fishing,M,N
+38,2016.07.06,2016,Unprovoked,USA,Swimming,F,N
+39,2016.07.04,2016,Provoked,AUSTRALIA,Fishing,M,N
+40,2016.06.27,2016,Unprovoked,USA,Other,M,N
+41,2016.06.25,2016,Unprovoked,USA,Surfing,M,N
+43,2016.06.23,2016,Unprovoked,SOUTH AFRICA,Fishing,M,N
+44,2016.06.21.b,2016,Unprovoked,USA,Other,M,N
+45,2016.06.21.a,2016,Unprovoked,USA,Other,M,N
+46,2016.06.15.b,2016,Unprovoked,USA,Surfing,M,N
+47,2016.06.15.a,2016,Provoked,AUSTRALIA,Fishing,M,N
+48,2016.06.14,2016,Unprovoked,USA,Other,F,N
+49,2016.06.11,2016,Unprovoked,USA,Other,M,N
+51,2016.06.05.b,2016,Unprovoked,USA,Swimming,M,N
+52,2016.06.05.a,2016,Unprovoked,AUSTRALIA,Diving,F,Y
+53,2016.06.04,2016,Unprovoked,EGYPT,Swimming,M,N
+54,2016.06.02.b,2016,Unprovoked,AUSTRALIA,Fishing,M,N
+55,2016.06.02.a,2016,Unprovoked,NEW CALEDONIA,Surfing,M,N
+56,2016.05.31,2016,Unprovoked,AUSTRALIA,Surfing,M,Y
+57,2016.05.29.b,2016,Unprovoked,USA,Swimming,F,N
+58,2016.05.29.a,2016,Unprovoked,USA,Swimming,M,N
+59,2016.05.22,2016,Unprovoked,USA,Swimming,F,N
+60,2016.05.21.b,2016,Unprovoked,USA,Swimming,F,N
+61,2016.05.21.a,2016,Unprovoked,USA,Swimming,F,N
+62,2016.05.18,2016,Unprovoked,USA,Swimming,M,N
+63,2016.05.15,2016,Provoked,USA,Other,F,N
+64,2016.05.03,2016,Unprovoked,USA,Other,M,N
+65,2016.05.02,2016,Provoked,NEW ZEALAND,Fishing,M,N
+67,2016.04.23,2016,Unprovoked,USA,Surfing,M,N
+68,2016.04.22,2016,Unprovoked,SOUTH AFRICA,Surfing,M,N
+69,2016.04.19,2016,Unprovoked,AUSTRALIA,Swimming,M,N
+70,2016.04.18,2016,Provoked,FRENCH POLYNESIA,Fishing,M,N
+71,2016.04.13,2016,Unprovoked,USA,Fishing,M,N
+72,2016.04.09,2016,Unprovoked,NEW CALEDONIA,Treading Water,F,Y
+74,2016.04.07.b,2016,Unprovoked,USA,Fishing,M,N
+76,2016.03.31,2016,Unprovoked,USA,Snorkeling,F,N
+77,2016.03.30,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+78,2016.03.28.b,2016,Unprovoked,USA,Other,M,N
+79,2016.03.28.a,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+80,2016.03.26,2016,Provoked,BAHAMAS,Other,M,N
+82,2016.03.11,2016,Unprovoked,USA,Surfing,M,N
+84,2016.03.04,2016,Unprovoked,USA,Other,M,N
+85,2016.03.03.R,2016,Unprovoked,AUSTRALIA,Fishing,M,N
+86,2016.03.02,2016,Unprovoked,BRAZIL,Swimming,M,N
+87,2016.02.22,2016,Unprovoked,NEW CALEDONIA,Surfing,M,N
+88,2016.02.19,2016,Unprovoked,NEW CALEDONIA,Fishing,M,N
+92,2016.02.05,2016,Unprovoked,AUSTRALIA,Treading Water,F,N
+93,2016.02.04,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+94,2016.01.29,2016,Boat,SOUTH AFRICA,Fishing,M,N
+95,2016.01.28,2016,Unprovoked,USA,Surfing,M,N
+96,2016.01.25,2016,Unprovoked,USA,Surfing,F,N
+97,2016.01.24.b,2016,Unprovoked,USA,Fishing,M,N
+99,2016.01.23,2016,Unprovoked,USA,Surfing,M,N
+100,2016.01.11.R,2016,Unprovoked,AUSTRALIA,Surfing,M,N
+101,2016.01.05,2016,Unprovoked,AUSTRALIA,Other,M,N
+102,2016.01.02,2016,Unprovoked,AUSTRALIA,Fishing,M,N
+103,2015.12.26,2015,Boat,SOUTH AFRICA,Fishing,M,N
+104,2015.12.25,2015,Unprovoked,SPAIN,Swimming,F,N
+105,2015.12.22,2015,Unprovoked,USA,Surfing,M,N
+106,2015.12.21.b,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+107,2015.12.21.a,2015,Unprovoked,BRAZIL,Diving,M,N
+109,2015.12.13,2015,Boat,AUSTRALIA,Fishing,,N
+110,2015.12.11,2015,Unprovoked,BAHAMAS,Fishing,M,N
+111,2015.12.08,2015,Unprovoked,SOUTH AFRICA,Swimming,F,N
+112,2015.11.16,2015,Unprovoked,USA,Surfing,M,N
+113,2015.11.15.b,2015,Unprovoked,USA,Swimming,F,N
+114,2015.11.15.a,2015,Unprovoked,USA,Surfing,M,N
+115,2015.11.10,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+117,2015.11.03,2015,Unprovoked,USA,Swimming,M,N
+118,2015.11.01.b,2015,Unprovoked,USA,Other,F,N
+119,2015.11.01.a,2015,Unprovoked,MOZAMBIQUE,Fishing,M,N
+120,2015.10.30,2015,Unprovoked,AUSTRALIA,Fishing,M,N
+121,2015.10.28.a,2015,Unprovoked,USA,Surfing,M,N
+122,2015.10.25,2015,Unprovoked,SOUTH AFRICA,Surfing,M,N
+123,2015.10.21,2015,Unprovoked,USA,Surfing,M,N
+124,2015.10.19,2015,Unprovoked,USA,Surfing,M,N
+125,2015.10.17.c,2015,Unprovoked,MOZAMBIQUE,Fishing,F,Y
+127,2015.10.17.a,2015,Unprovoked,USA,Swimming,M,N
+128,2015.10.13,2015,Boat,USA,Fishing,M,N
+129,2015.10.09.b,2015,Unprovoked,USA,Surfing,F,N
+130,2015.10.09.a,2015,Unprovoked,USA,Surfing,M,N
+131,2015.10.08,2015,Unprovoked,MOZAMBIQUE,Fishing,M,N
+132,2015.10.07,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+133,2015.10.05.b,2015,Unprovoked,USA,Surfing,M,N
+134,2015.10.05.a,2015,Unprovoked,USA,Other,M,N
+135,2015.10.04,2015,Unprovoked,USA,Surfing,M,N
+136,2015.09.29,2015,Unprovoked,USA,Surfing,M,N
+137,2015.09.26,2015,Unprovoked,AUSTRALIA,Snorkeling,F,N
+138,2015.09.24,2015,Unprovoked,USA,Fishing,M,N
+139,2015.09.20.d,2015,Unprovoked,USA,Surfing,M,N
+140,2015.09.20.c,2015,Unprovoked,USA,Fishing,M,N
+141,2015.09.20.b,2015,Unprovoked,USA,Other,M,N
+142,2015.09.20.a,2015,Unprovoked,USA,Other,M,N
+143,2015.09.18,2015,Unprovoked,USA,Swimming,M,N
+144,2015.09.17,2015,Unprovoked,USA,Surfing,M,N
+145,2015.09.08,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+146,2015.09.06,2015,Unprovoked,USA,Surfing,F,N
+147,2015.09.05,2015,Provoked,USA,Fishing,M,N
+148,2015.09.04,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+149,2015.09.03,2015,Unprovoked,USA,Other,M,N
+151,2015.09.00,2015,Unprovoked,FIJI,Fishing,M,N
+152,2015.08.29.b,2015,Unprovoked,USA,Surfing,F,N
+153,2015.08.29.a,2015,Unprovoked,USA,Surfing,M,N
+155,2015.08.22.a,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+156,2015.08.20,2015,Unprovoked,USA,Surfing,M,N
+157,2015.08.19,2015,Unprovoked,USA,Treading Water,F,N
+158,2015.08.18.b,2015,Unprovoked,USA,Fishing,M,N
+160,2015.08.10,2015,Provoked,USA,Fishing,M,N
+161,2015.07.31,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+162,2015.07.26.b,2015,Unprovoked,USA,Surfing,M,N
+164,2015.07.25,2015,Unprovoked,AUSTRALIA,Diving,M,Y
+165,2015.07.23.b,2015,Provoked,USA,Fishing,M,N
+166,2015.07.23.a,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+167,2015.07.22,2015,Unprovoked,REUNION,Surfing,M,N
+168,2015.07.19,2015,Unprovoked,SOUTH AFRICA,Surfing,M,N
+169,2015.07-10,2015,Unprovoked,USA,Surfing,M,N
+172,2015.07.04.b,2015,Unprovoked,BAHAMAS,Fishing,F,N
+173,2015.07.04.a,2015,Unprovoked,USA,Other,M,N
+174,2015.07.03,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+175,2015.07.02,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+176,2015.07.01,2015,Unprovoked,USA,Swimming,M,N
+177,2015.06.30.b,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+178,2015.06.30.a,2015,Unprovoked,USA,Other,M,N
+179,2015.06.27.b,2015,Unprovoked,USA,Swimming,M,N
+180,2015.06.27.a,2015,Unprovoked,SOUTH AFRICA,Surfing,M,N
+182,2015.06.26.b,2015,Unprovoked,SOUTH AFRICA,Surfing,M,N
+183,2015.06.26.a,2015,Unprovoked,USA,Other,M,N
+184,2015.06.25.R,2015,Provoked,AUSTRALIA,Swimming,M,N
+185,2015.06.25,2015,Unprovoked,USA,Surfing,M,N
+186,2015.06.24.b,2015,Unprovoked,USA,Swimming,M,N
+188,2015.06.23,2015,Unprovoked,USA,Other,M,N
+190,2015.06.17,2015,Unprovoked,USA,Swimming,M,N
+191,2015.06.14.b,2015,Unprovoked,USA,Other,M,N
+192,2015.06.14.a,2015,Unprovoked,USA,Other,F,N
+193,2015.06.13,2015,Unprovoked,USA,Other,F,N
+194,2015.06.11,2015,Unprovoked,USA,Surfing,F,N
+195,2015.06.07,2015,Unprovoked,USA,Other,M,N
+196,2015.06.05,2015,Unprovoked,USA,Other,F,N
+197,2015.06.01,2015,Unprovoked,REUNION,Surfing,M,N
+198,2015.05.29.b,2015,Unprovoked,USA,Other,F,N
+199,2015.05.29.a,2015,Unprovoked,USA,Other,F,N
+200,2015.05.25,2015,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+201,2015.05.24,2015,Unprovoked,USA,Swimming,F,N
+202,2015.05.20,2015,Unprovoked,USA,Surfing,M,N
+203,2015.05.15,2015,Unprovoked,USA,Other,M,N
+204,2015.05.09,2015,Unprovoked,NEW CALEDONIA,Snorkeling,M,Y
+205,2015.05.07,2015,Unprovoked,USA,Swimming,M,N
+206,2015.05.03,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+207,2015.05.02,2015,Unprovoked,SOUTH AFRICA,Diving,M,N
+208,2015.04.29,2015,Unprovoked,USA,Snorkeling,F,Y
+209,2015.04.26,2015,Unprovoked,USA,Other,M,N
+210,2015.04.25,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+211,2015.04.24.c,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+212,2015.04.13,2015,Unprovoked,USA,Other,M,N
+213,2015.04.11,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+214,2015.04.12,2015,Unprovoked,REUNION,Surfing,M,Y
+216,2015.04.03,2015,Unprovoked,USA,Fishing,M,N
+218,2015.03.26,2015,Boat,SOUTH AFRICA,Fishing,M,N
+219,2015.03.21,2015,Unprovoked,EGYPT,Swimming,M,Y
+220,2015.03.18,2015,Unprovoked,USA,Snorkeling,M,N
+221,2015.03.16,2015,Unprovoked,FRENCH POLYNESIA,Other,M,N
+222,2015.03.11,2015,Boat,AUSTRALIA,Fishing,M,N
+223,2015.03.10,2015,Provoked,MEXICO,Fishing,M,N
+224,2015.03.07,2015,Unprovoked,FRENCH POLYNESIA,Other,M,N
+226,2015.02.14,2015,Unprovoked,REUNION,Swimming,F,Y
+227,2015.02.09,2015,Unprovoked,AUSTRALIA,Surfing,M,Y
+228,2015.02.08,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+229,2015.02.05,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+230,2015.01.30,2015,Boat,AUSTRALIA,Other,M,N
+231,2015.01.27,2015,Provoked,USA,Fishing,M,N
+232,2015.01.24,2015,Unprovoked,AUSTRALIA,Surfing,M,N
+233,2015.01.19.b,2015,Boat,USA,Fishing,M,N
+235,2015.01.17,2015,Boat,AUSTRALIA,Fishing,M,N
+236,2015.01.16,2015,Unprovoked,AUSTRALIA,Other,M,N
+238,2015.01.06,2015,Unprovoked,BAHAMAS,Snorkeling,F,N
+239,2015.01.03,2015,Unprovoked,SOUTH AFRICA,Surfing,M,N
+240,2015.01.01,2015,Unprovoked,USA,Other,M,N
+241,2014.12.29.b,2014,Unprovoked,AUSTRALIA,Surfing,,N
+242,2014.12.29.a,2014,Unprovoked,AUSTRALIA,Fishing,M,Y
+245,2014.12.28.b,2014,Unprovoked,USA,Surfing,M,N
+246,2014.12.28.a,2014,Provoked,AUSTRALIA,Fishing,M,N
+247,2014.12.23.R,2014,Unprovoked,JAPAN,Diving,M,N
+248,2014.12.15,2014,Unprovoked,AUSTRALIA,Fishing,M,Y
+249,2014.12.03.R,2014,Provoked,SPAIN,Fishing,M,N
+250,2014.11.29,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+252,2014.11.19,2014,Boat,AUSTRALIA,Fishing,M,N
+253,2014.11.16,2014,Unprovoked,USA,Surfing,M,N
+254,2014.11.17,2014,Boat,USA,Other,,N
+255,2014.11.13,2014,Unprovoked,USA,Snorkeling,M,N
+256,2014.11.10,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+257,2014.11.08,2014,Unprovoked,USA,Surfing,M,N
+258,2014.10.31,2014,Unprovoked,USA,Surfing,F,N
+259,2014.10.30,2014,Provoked,AUSTRALIA,Surfing,M,N
+260,2014.10.22,2014,Unprovoked,USA,Surfing,F,N
+261,2014.10.20,2014,Unprovoked,USA,Surfing,M,N
+262,2014.10.19,2014,Boat,USA,Rowing,F,N
+263,2014.10.18,2014,Unprovoked,USA,Surfing,M,N
+264,2014.10.17,2014,Unprovoked,AUSTRALIA,Surfing,F,N
+265,2014.10.14,2014,Unprovoked,USA,Other,F,N
+266,2014.10.12,2014,Unprovoked,USA,Surfing,F,N
+267,2014.10.07,2014,Unprovoked,USA,Fishing,F,N
+268,2014.10.11,2014,Boat,AUSTRALIA,Rowing,M,N
+269,2014.10.05.b,2014,Unprovoked,USA,Surfing,M,N
+270,2014.10.05.a,2014,Unprovoked,USA,Surfing,M,N
+271,2014.10.03.b,2014,Boat,USA,Rowing,M,N
+272,2014.10.03.a,2014,Boat,USA,Rowing,M,N
+273,2014.10.02.b,2014,Unprovoked,USA,Surfing,M,N
+274,2014.10.02.a,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+275,2014.09.21,2014,Unprovoked,USA,Surfing,M,N
+276,2014.09.13.R,2014,Unprovoked,FRENCH POLYNESIA,Other,F,N
+278,2014.09.09,2014,Unprovoked,AUSTRALIA,Swimming,M,Y
+279,2014.09.06,2014,Unprovoked,USA,Fishing,M,N
+280,2014.09.03,2014,Unprovoked,USA,Rowing,F,N
+281,2014.09.02,2014,Provoked,USA,Fishing,M,N
+282,2014.09.00,2014,Unprovoked,SPAIN,Other,M,N
+283,2014.08.31,2014,Unprovoked,USA,Surfing,F,N
+284,2014.08.29.b,2014,Unprovoked,USA,Surfing,M,N
+286,2014.08.28,2014,Provoked,USA,Fishing,M,N
+287,2014.08.27.c,2014,Unprovoked,SPAIN,Swimming,F,N
+288,2014.08.27.b,2014,Unprovoked,USA,Surfing,M,N
+289,2014.08.27.a,2014,Unprovoked,USA,Other,F,N
+290,2014.08.25,2014,Provoked,USA,Fishing,M,N
+291,2014.08.24,2014,Unprovoked,USA,Surfing,,N
+292,2014.08.16,2014,Unprovoked,AUSTRALIA,Fishing,M,N
+293,2014.08.12,2014,Unprovoked,USA,Other,M,N
+294,2014.08.10,2014,Unprovoked,USA,Other,M,N
+295,2014.08.09.R,2014,Unprovoked,BAHAMAS,Fishing,M,N
+296,2014.08.09,2014,Unprovoked,USA,Swimming,F,N
+297,2014.08.08,2014,Unprovoked,USA,Swimming,M,N
+298,2014.08.06,2014,Unprovoked,USA,Surfing,M,N
+299,2014.08.05,2014,Unprovoked,USA,Swimming,F,N
+300,2014.08.02,2014,Unprovoked,USA,Surfing,M,N
+301,2014.08.02,2014,Unprovoked,USA,Surfing,M,N
+302,2014.08.01,2014,Unprovoked,SOUTH AFRICA,Surfing,M,N
+304,2014.07.27,2014,Unprovoked,USA,Swimming,M,N
+305,2014.07.22,2014,Unprovoked,REUNION,Surfing,M,N
+306,2014.07.21,2014,Unprovoked,USA,Other,M,N
+307,2014.07.20,2014,Unprovoked,SPAIN,Other,,N
+308,2014.07.16,2014,Unprovoked,USA,Swimming,M,N
+309,2014.07.14,2014,Unprovoked,USA,Swimming,M,N
+311,2014.07.12,2014,Unprovoked,USA,Surfing,M,N
+312,2014.07.09,2014,Unprovoked,USA,Surfing,M,N
+313,2014.07.05.b,2014,Provoked,USA,Swimming,M,N
+314,2014.07.05.a,2014,Unprovoked,USA,Surfing,M,N
+315,2014.07.03,2014,Unprovoked,USA,Surfing,M,N
+317,2014.06.25,2014,Unprovoked,BAHAMAS,Fishing,M,N
+318,2014.06.18.b,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+319,2014.06.18.a,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+320,2014.06.17.R,2014,Provoked,AUSTRALIA,Other,M,N
+321,2014.06.09.c,2014,Unprovoked,BRAZIL,Fishing,M,N
+322,2014.06.09.b,2014,Unprovoked,USA,Other,M,N
+323,2014.06.09.a,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+324,2014.06.08,2014,Unprovoked,JAPAN,Surfing,M,N
+325,2014.06.07,2014,Unprovoked,USA,Other,F,N
+326,2014.06.01.c,2014,Unprovoked,USA,Swimming,F,N
+327,2014.06.01.b,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+328,2014.06.01.a,2014,Unprovoked,USA,Other,F,N
+329,2014.05.27.R,2014,Unprovoked,AUSTRALIA,Other,F,N
+331,2014.05.22,2014,Provoked,AUSTRALIA,Other,M,N
+333,2014.05.15,2014,Unprovoked,USA,Surfing,F,N
+334,2014.05.14,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+335,2014.05.13,2014,Unprovoked,USA,Other,F,N
+336,2014.05.11,2014,Unprovoked,USA,Surfing,M,N
+338,2014.05.06,2014,Unprovoked,USA,Swimming,F,N
+339,2014.05.01,2014,Unprovoked,USA,Surfing,M,N
+340,2014.04.24,2014,Unprovoked,AUSTRALIA,Fishing,M,N
+341,2014.04.22,2014,Unprovoked,USA,Swimming,M,N
+342,2014.04.15,2014,Unprovoked,USA,Other,M,N
+343,2014.04.12.R,2014,Boat,SOUTH AFRICA,Other,,N
+344,2014.04.12,2014,Provoked,SOUTH AFRICA,Fishing,M,N
+345,2014.04.04.b,2014,Unprovoked,USA,Surfing,M,N
+346,2014.04.04.a,2014,Unprovoked,USA,Surfing,M,N
+347,2014.04.03,2014,Unprovoked,AUSTRALIA,Swimming,F,Y
+349,2014.03.22.b,2014,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+350,2014.03.22.a,2014,Unprovoked,USA,Surfing,M,N
+351,2014.03.21,2014,Unprovoked,USA,Surfing,M,N
+352,2014.03.18.c,2014,Unprovoked,NEW CALEDONIA,Surfing,M,N
+353,2014.03.18.b,2014,Unprovoked,AUSTRALIA,Surfing,M,N
+356,2014.03.12,2014,Unprovoked,AUSTRALIA,Swimming,M,N
+357,2014.03.02,2014,Unprovoked,USA,Surfing,M,N
+358,2014.02.20,2014,Unprovoked,FRENCH POLYNESIA,Surfing,M,N
+359,2014.02.17,2014,Boat,PAPUA NEW GUINEA,Other,M,N
+360,2014.02.08,2014,Unprovoked,AUSTRALIA,Fishing,M,Y
+362,2014.02.07,2014,Unprovoked,NEW ZEALAND,Surfing,M,N
+363,2014.01.26,2014,Provoked,AUSTRALIA,Fishing,M,N
+364,2014.01.25,2014,Unprovoked,NEW ZEALAND,Fishing,M,N
+365,2014.01.04,2014,Unprovoked,JAPAN,Sea Disaster,M,N
+366,2014.00.00,2014,Boat,NEW ZEALAND,Other,,N
+367,2013.12.25,2013,Unprovoked,NEW CALEDONIA,Snorkeling,M,N
+368,2013.12.16,2013,Unprovoked,SOUTH AFRICA,Surfing,M,N
+370,2013.12.11,2013,Unprovoked,USA,Surfing,M,N
+371,2013.12.10,2013,Unprovoked,USA,Surfing,M,N
+372,2013.12.05,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+373,2013.12.02,2013,Unprovoked,USA,Fishing,M,Y
+374,2013.11.30,2013,Unprovoked,AUSTRALIA,Surfing,M,Y
+375,2013.11.29,2013,Unprovoked,USA,Snorkeling,F,N
+376,2013.11.23.a,2013,Unprovoked,AUSTRALIA,Surfing,M,Y
+377,2013.11.22,2013,Unprovoked,USA,Surfing,M,N
+378,2013.11.12,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+379,2013.11.10,2013,Provoked,BAHAMAS,Fishing,M,N
+380,2013.11.07.b,2013,Unprovoked,USA,Surfing,M,N
+381,2013.11.07.a,2013,Unprovoked,USA,Surfing,M,N
+382,2013.10.31,2013,Unprovoked,USA,Surfing,M,N
+383,2013.10.28,2013,Unprovoked,AUSTRALIA,Snorkeling,F,N
+384,2013.10.26.b,2013,Unprovoked,REUNION,Surfing,M,N
+385,2013.10.26.a,2013,Unprovoked,AUSTRALIA,Diving,M,N
+386,2013.10.24,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+387,2013.10.23,2013,Unprovoked,USA,Diving,M,N
+388,2013.10.20,2013,Unprovoked,USA,Surfing,M,N
+389,2013.10.19,2013,Unprovoked,USA,Other,M,N
+390,2013.10.11,2013,Unprovoked,SOUTH AFRICA,Snorkeling,M,Y
+391,2013.10.08,2013,Unprovoked,AUSTRALIA,Diving,M,N
+392,2013.10.05,2013,Unprovoked,USA,Surfing,M,N
+393,2013.10.05,2013,Unprovoked,USA,Other,M,N
+394,2013.09.29.b,2013,Unprovoked,USA,Surfing,M,N
+396,2013.09.25,2013,Unprovoked,USA,Other,M,N
+397,2013.09.21.b,2013,Unprovoked,USA,Swimming,M,N
+398,2013.09.21.a,2013,Unprovoked,USA,Surfing,M,N
+399,2013.09.14,2013,Unprovoked,USA,Swimming,M,N
+400,2013.09.12,2013,Unprovoked,USA,Surfing,F,N
+402,2013.09.07.b,2013,Provoked,USA,Surfing,M,N
+403,2013.09.07.a,2013,Unprovoked,USA,Other,M,N
+404,2013.09.02,2013,Unprovoked,USA,Swimming,M,N
+405,2013.09.01.c,2013,Provoked,USA,Other,M,N
+406,2013.09.01.b,2013,Unprovoked,BAHAMAS,Other,M,N
+407,2013.09.01.a,2013,Unprovoked,USA,Other,M,N
+408,2013.08.31.b,2013,Unprovoked,BAHAMAS,Fishing,M,N
+409,2013.08.31.a,2013,Unprovoked,USA,Swimming,M,N
+412,2013.08.25.b,2013,Unprovoked,USA,Surfing,F,N
+413,2013.08.25,2013,Unprovoked,AUSTRALIA,Other,M,N
+414,2013.08.18,2013,Unprovoked,USA,Surfing,M,N
+415,2013.08.17,2013,Unprovoked,USA,Surfing,F,N
+416,2013.08.14,2013,Unprovoked,USA,Snorkeling,F,Y
+417,2013.08.13,2013,Unprovoked,USA,Surfing,F,N
+418,2013.08.11,2013,Unprovoked,USA,Surfing,M,N
+419,2013.08.08.R,2013,Unprovoked,SOUTH AFRICA,Other,M,N
+420,2013.08.05,2013,Unprovoked,USA,Fishing,M,N
+421,2013.07.31,2013,Unprovoked,USA,Snorkeling,F,N
+422,2013.07.30,2013,Unprovoked,USA,Swimming,M,N
+423,2013.07.29.c,2013,Unprovoked,BAHAMAS,Fishing,M,N
+424,2013.07.29.b,2013,Unprovoked,MEXICO,Other,F,N
+425,2013.07.29.a,2013,Unprovoked,USA,Surfing,M,N
+426,2013.07.28.b,2013,Unprovoked,BAHAMAS,Other,M,N
+427,2013.07.28.a,2013,Unprovoked,BAHAMAS,Diving,M,N
+428,2013.07.22,2013,Unprovoked,BRAZIL,Swimming,F,Y
+429,2013.07.19,2013,Unprovoked,USA,Treading Water,F,N
+430,2013.07.17.R,2013,Unprovoked,USA,Swimming,M,N
+431,2013.07.15,2013,Unprovoked,REUNION,Snorkeling,F,Y
+433,2013.07.11,2013,Unprovoked,USA,Other,F,N
+435,2013.07.02,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+438,2013.06.25.c,2013,Unprovoked,USA,Fishing,M,N
+439,2013.06.25.b,2013,Unprovoked,USA,Swimming,M,N
+440,2013.06.25.a,2013,Unprovoked,USA,Swimming,M,N
+441,2013.06.18,2013,Unprovoked,USA,Swimming,M,N
+442,2013.06.17,2013,Unprovoked,USA,Swimming,M,N
+443,2013.06.16,2013,Unprovoked,SOUTH AFRICA,Surfing,M,N
+444,2013.06.15,2013,Unprovoked,USA,Surfing,F,N
+445,2013.06.14.R,2013,Unprovoked,USA,Surfing,F,N
+446,2013.06.06.b,2013,Provoked,USA,Fishing,M,N
+447,2013.06.06.a,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+448,2013.05.27.b,2013,Unprovoked,USA,Diving,M,N
+449,2013.05.27.a,2013,Unprovoked,USA,Swimming,M,N
+450,2013.05.23.b,2013,Unprovoked,BRAZIL,Other,M,Y
+454,2013.05.08.a,2013,Unprovoked,REUNION,Surfing,M,Y
+455,2013.05.04.a,2013,Unprovoked,USA,Surfing,M,N
+456,2013.04.28,2013,Provoked,AUSTRALIA,Fishing,M,N
+457,2013.04.24,2013,Unprovoked,MEXICO,Swimming,F,N
+458,2013.04.21,2013,Unprovoked,AUSTRALIA,Fishing,M,N
+459,2013.04.17,2013,Unprovoked,USA,Other,M,N
+460,2013.04.14,2013,Unprovoked,SOUTH AFRICA,Diving,M,N
+461,2013.04.13.b,2013,Unprovoked,USA,Surfing,M,N
+463,2013.04.10,2013,Unprovoked,FRENCH POLYNESIA,Surfing,M,N
+464,2013.04.04,2013,Unprovoked,USA,Swimming,M,N
+466,2013.04.02.a,2013,Unprovoked,USA,Surfing,M,N
+470,2013.03.21,2013,Unprovoked,BAHAMAS,Fishing,M,N
+471,2013.03.16.b,2013,Provoked,SOUTH AFRICA,Fishing,M,N
+472,2013.03.16.a,2013,Unprovoked,SOUTH AFRICA,Surfing,M,N
+474,2013.03.10.b,2013,Unprovoked,AUSTRALIA,Fishing,M,N
+475,2013.03.10.a,2013,Unprovoked,PHILIPPINES,Swimming,M,N
+476,2013.03.03,2013,Unprovoked,SOUTH AFRICA,Swimming,M,N
+477,2013.02.27,2013,Unprovoked,NEW ZEALAND,Swimming,M,Y
+478,2013.02.21.b,2013,Unprovoked,USA,Surfing,,N
+479,2013.02.21.a,2013,Unprovoked,USA,Surfing,M,N
+480,2013.02.10,2013,Unprovoked,USA,Surfing,M,N
+481,2013.02.09,2013,Unprovoked,FRENCH POLYNESIA,Diving,M,N
+483,2013.01.26,2013,Boat,AUSTRALIA,Fishing,M,N
+484,2013.01.25,2013,Unprovoked,AUSTRALIA,Surfing,M,N
+486,2013.01.16,2013,Unprovoked,USA,Surfing,M,N
+487,2013.01.13,2013,Unprovoked,NEW ZEALAND,Fishing,M,N
+488,2013.01.05,2013,Unprovoked,AUSTRALIA,Fishing,M,N
+489,2012.12.31,2012,Unprovoked,USA,Swimming,M,N
+490,2012.12.30,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+491,2012.12.28,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+492,2012.12.25,2012,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+493,2012.12.19,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+494,2012.12.05,2012,Unprovoked,USA,Surfing,M,N
+495,2012.12.02,2012,Unprovoked,AUSTRALIA,Fishing,M,N
+496,2012.12.00,2012,Unprovoked,NEW ZEALAND,Diving,F,N
+497,2012.11.30,2012,Unprovoked,USA,Snorkeling,M,N
+499,2012.11.22,2012,Unprovoked,MEXICO,Swimming,M,Y
+500,2012.11.19,2012,Unprovoked,USA,Surfing,M,N
+501,2012.11.04.b,2012,Unprovoked,USA,Diving,M,N
+502,2012.11.04.a,2012,Unprovoked,USA,Surfing,M,N
+503,2012.10.30,2012,Unprovoked,USA,Surfing,M,N
+504,2012.10.27,2012,Unprovoked,USA,Swimming,F,N
+505,2012.10.23,2012,Unprovoked,USA,Surfing,M,Y
+506,2012.10.19,2012,Unprovoked,USA,Other,F,N
+507,2012.10.18.b,2012,Unprovoked,USA,Surfing,M,N
+508,2012.10.18.a,2012,Unprovoked,USA,Surfing,M,N
+511,2012.10.07,2012,Unprovoked,USA,Surfing,M,N
+512,2012.10.02,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+513,2012.09.25,2012,Unprovoked,USA,Surfing,M,N
+514,2012.09.24,2012,Unprovoked,USA,Surfing,M,N
+515,2012.09.16,2012,Unprovoked,USA,Surfing,M,N
+516,2012.09.10,2012,Unprovoked,TONGA,Swimming,F,N
+517,2012.09.09,2012,Unprovoked,USA,Surfing,,N
+518,2012.09.08.b,2012,Unprovoked,USA,Surfing,M,N
+519,2012.09.08.a,2012,Unprovoked,USA,Swimming,M,N
+520,2012.09.06.b,2012,Unprovoked,USA,Surfing,M,N
+521,2012.09.06.a,2012,Unprovoked,USA,Surfing,M,N
+522,2012.09.04,2012,Unprovoked,USA,Surfing,M,N
+523,2012.09.02.b,2012,Unprovoked,USA,Surfing,F,N
+524,2012.09.02.b,2012,Provoked,USA,Fishing,,N
+525,2012.09.02.a,2012,Unprovoked,USA,Surfing,F,N
+527,2012.08.28,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+528,2012.08.26,2012,Unprovoked,BRAZIL,Swimming,M,Y
+529,2012.08.15,2012,Unprovoked,USA,Swimming,M,N
+530,2012.08.11,2012,Boat,AUSTRALIA,Fishing,,N
+531,2012.08.09,2012,Unprovoked,USA,Diving,M,N
+532,2012.08.05,2012,Unprovoked,REUNION,Surfing,M,N
+533,2012.08.04,2012,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+534,2012.07.31.b,2012,Unprovoked,USA,Surfing,M,N
+535,2012.07.31.a,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+536,2012.07.30.b,2012,Unprovoked,USA,Surfing,M,N
+537,2012.07.30.a,2012,Unprovoked,USA,Surfing,M,N
+539,2012.07.23,2012,Unprovoked,REUNION,Surfing,M,Y
+542,2012.07.14,2012,Unprovoked,AUSTRALIA,Surfing,M,Y
+543,2012.07.08,2012,Unprovoked,USA,Swimming,F,N
+544,2012.07.07.c,2012,Unprovoked,BAHAMAS,Fishing,M,N
+546,2012.07.07.a,2012,Unprovoked,USA,Rowing,M,N
+547,2012.07.06,2012,Unprovoked,SOUTH AFRICA,Surfing,M,N
+549,2012.06.26.c,2012,Unprovoked,USA,Swimming,M,N
+550,2012.06.26.b,2012,Unprovoked,USA,Surfing,M,N
+551,2012.06.26.a,2012,Unprovoked,USA,Other,F,N
+552,2012.06.22.b,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+553,2012.06.22.a,2012,Unprovoked,USA,Swimming,M,N
+554,2012.06.20,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+556,2012.06.18,2012,Unprovoked,USA,Other,F,N
+557,2012.06.15,2012,Provoked,USA,Fishing,M,N
+558,2012.06.14.d,2012,Unprovoked,USA,Swimming,F,N
+559,2012.06.14.c,2012,Unprovoked,USA,Swimming,M,N
+560,2012.06.14.b,2012,Unprovoked,USA,Swimming,M,N
+561,2012.06.14.a,2012,Unprovoked,USA,Swimming,M,N
+562,2012.06.12,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+563,2012.06.10,2012,Provoked,ITALY,Other,M,N
+564,2012.06.03,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+565,2012.06.02.b,2012,Unprovoked,USA,Surfing,F,N
+566,2012.06.02.a,2012,Unprovoked,USA,Surfing,M,N
+567,2012.05.31,2012,Unprovoked,USA,Other,F,N
+568,2012.05.29,2012,Unprovoked,MEXICO,Fishing,M,N
+569,2012.05.23,2012,Unprovoked,USA,Surfing,M,N
+570,2012.05.20,2012,Unprovoked,USA,Fishing,M,N
+571,2012.05.16,2012,Unprovoked,FIJI,Fishing,M,N
+572,2012.05.12,2012,Unprovoked,USA,Fishing,M,N
+573,2012.05.09,2012,Unprovoked,USA,Swimming,F,N
+574,2012.05.06,2012,Unprovoked,USA,Surfing,F,N
+575,2012.04.19.b,2012,Unprovoked,USA,Surfing,M,N
+576,2012.04.19.a,2012,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+577,2012.04.11,2012,Unprovoked,AUSTRALIA,Rowing,M,N
+578,2012.04.03,2012,Unprovoked,USA,Surfing,M,N
+579,2012.04.00,2012,Unprovoked,USA,Other,M,N
+580,2012.03.31,2012,Unprovoked,AUSTRALIA,Diving,M,Y
+581,2012.03.24,2012,Unprovoked,USA,Surfing,M,N
+582,2012.03.22,2012,Boat,AUSTRALIA,Fishing,,N
+583,2012.03.20,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+584,2012.03.15,2012,Unprovoked,USA,Surfing,M,N
+585,2012.03.14.b,2012,Unprovoked,USA,Surfing,F,N
+586,2012.03.14.a,2012,Unprovoked,USA,Surfing,M,N
+587,2012.03.06.b,2012,Unprovoked,NEW ZEALAND,Surfing,M,N
+588,2012.03.06.a,2012,Provoked,AUSTRALIA,Diving,F,N
+589,2012.03.05,2012,Unprovoked,REUNION,Surfing,M,N
+590,2012.03.04,2012,Unprovoked,USA,Surfing,M,N
+593,2012.02.26,2012,Provoked,USA,Surfing,M,N
+594,2012.02.25,2012,Unprovoked,AUSTRALIA,Fishing,M,N
+595,2012.02.20,2012,Boat,SOUTH AFRICA,Fishing,,N
+596,2012.02.06,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+597,2012.01.22.R,2012,Unprovoked,BAHAMAS,Diving,M,N
+598,2012.01.27,2012,Unprovoked,USA,Snorkeling,,N
+599,2012.01.19,2012,Unprovoked,AUSTRALIA,Snorkeling,M,N
+601,2012.01.18.a,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+602,2012.01.15,2012,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+603,2012.01.13,2012,Unprovoked,USA,Surfing,M,N
+604,2012.01.03,2012,Unprovoked,AUSTRALIA,Surfing,M,N
+605,2012.01.02,2012,Unprovoked,AUSTRALIA,Fishing,M,N
+606,2011.12.31,2011,Unprovoked,USA,Other,M,N
+609,2011.12.23,2011,Unprovoked,USA,Surfing,M,N
+610,2011.12.21.b,2011,Provoked,USA,Rowing,M,N
+611,2011.12.21.a,2011,Unprovoked,SOUTH AFRICA,Fishing,M,N
+612,2011.12.11,2011,Unprovoked,AUSTRALIA,Surfing,M,N
+614,2011.12.07.a,2011,Unprovoked,AUSTRALIA,Surfing,M,N
+615,2011.12.06,2011,Unprovoked,USA,Surfing,F,N
+617,2011.12.02,2011,Unprovoked,AUSTRALIA,Surfing,M,N
+619,2011.11.28,2011,Unprovoked,AUSTRALIA,Swimming,M,N
+620,2011.11.22,2011,Unprovoked,USA,Rowing,M,N
+621,2011.11.20.R,2011,Unprovoked,PAPUA NEW GUINEA,Diving,M,N
+622,2011.11.12,2011,Unprovoked,BRAZIL,Surfing,M,N
+623,2011.11.11,2011,Unprovoked,REUNION,Fishing,M,N
+624,2011.10.29.,2011,Unprovoked,USA,Surfing,M,N
+626,2011.10.28.,2011,Provoked,SOUTH AFRICA,Diving,,N
+627,2011.10.22,2011,Unprovoked,AUSTRALIA,Diving,M,Y
+628,2011.10.20,2011,Unprovoked,USA,Surfing,M,N
+629,2011.10.19,2011,Unprovoked,AUSTRALIA,Diving,M,N
+630,2011.10.11,2011,Unprovoked,USA,Surfing,M,N
+631,2011.10.10,2011,Unprovoked,USA,Surfing,M,N
+632,2011.10.09,2011,Unprovoked,AUSTRALIA,Swimming,M,Y
+633,2011.10.05,2011,Boat,REUNION,Rowing,M,N
+634,2011.10.02,2011,Unprovoked,USA,Fishing,M,N
+635,2011.10.01,2011,Unprovoked,USA,Other,M,N
+638,2011.09.28.a,2011,Unprovoked,SOUTH AFRICA,Swimming,M,N
+639,2011.09.24.b,2011,Unprovoked,USA,Fishing,M,N
+640,2011.09.24.a,2011,Unprovoked,USA,Other,M,N
+641,2011.09.20,2011,Boat,USA,Rowing,M,N
+642,2011.09.19,2011,Unprovoked,REUNION,Surfing,M,Y
+644,2011.09.16,2011,Unprovoked,USA,Surfing,M,N
+645,2011.09.11.b,2011,Unprovoked,USA,Surfing,M,N
+646,2011.09.11.a,2011,Unprovoked,PAPUA NEW GUINEA,Surfing,M,N
+647,2011.09.04.b,2011,Unprovoked,USA,Surfing,,N
+648,2011.09.04.a,2011,Unprovoked,AUSTRALIA,Surfing,M,Y
+649,2011.09.02,2011,Unprovoked,USA,Surfing,M,N
+650,2011.08.31,2011,Unprovoked,USA,Surfing,M,N
+652,2011.08.28.a,2011,Unprovoked,USA,Fishing,F,N
+654,2011.08.24.b,2011,Unprovoked,USA,Surfing,M,N
+655,2011.08.24.a,2011,Unprovoked,USA,Other,M,N
+656,2011.08.23,2011,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+658,2011.08.17.c.,2011,Unprovoked,USA,Other,F,N
+661,2011.08.16.c,2011,Unprovoked,FRENCH POLYNESIA,Surfing,M,N
+662,2011.08.16.b,2011,Unprovoked,USA,Other,M,N
+665,2011.08.11,2011,Unprovoked,USA,Swimming,M,N
+668,2011.07.30,2011,Unprovoked,PHILIPPINES,Sea Disaster,M,N
+669,2011.07.25,2011,Unprovoked,USA,Fishing,M,N
+670,2011.07.22,2011,Unprovoked,SOUTH AFRICA,Surfing,M,N
+671,2011.07.19,2011,Unprovoked,USA,Surfing,F,N
+672,2011.07.15,2011,Unprovoked,REUNION,Rowing,M,N
+673,2011.07.13.b,2011,Unprovoked,USA,Surfing,M,N
+674,2011.07.13.a,2011,Unprovoked,BAHAMAS,Diving,M,N
+675,2011.07.07.b,2011,Unprovoked,USA,Swimming,M,N
+676,2011.07.07.a,2011,Unprovoked,USA,Fishing,M,N
+677,2011.07.06,2011,Unprovoked,REUNION,Surfing,M,N
+680,2011.06.29,2011,Unprovoked,BRAZIL,Surfing,M,N
+681,2011.06.28,2011,Unprovoked,SOUTH AFRICA,Diving,M,N
+682,2011.06.26,2011,Unprovoked,USA,Other,F,N
+683,2011.06.24,2011,Unprovoked,USA,Surfing,M,N
+684,2011.06.21,2011,Unprovoked,USA,Other,M,N
+687,2011.06.15,2011,Unprovoked,REUNION,Surfing,M,Y
+689,2011.06.12,2011,Unprovoked,USA,Diving,M,N
+691,2011.06.06.b,2011,Unprovoked,USA,Fishing,M,N
+692,2011.06.06.a,2011,Unprovoked,USA,Other,M,N
+694,2011.05.30,2011,Unprovoked,USA,Other,F,N
+695,2011.05.29,2011,Unprovoked,SOUTH AFRICA,Surfing,M,N
+696,2011.05.25,2011,Unprovoked,USA,Surfing,F,N
+697,2011.05.22,2011,Unprovoked,USA,Surfing,F,N
+698,2011.05.21.a,2011,Unprovoked,NEW CALEDONIA,Surfing,M,Y
+699,2011.05.21.b,2011,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+700,2011.05.13.b,2011,Unprovoked,USA,Surfing,M,N
+701,2011.05.13.a,2011,Unprovoked,USA,Surfing,M,N
+702,2011.05.10,2011,Provoked,USA,Fishing,M,N
+704,2011.05.04,2011,Unprovoked,SOUTH AFRICA,Fishing,M,N
+705,2011.04.26,2011,Unprovoked,USA,Fishing,M,N
+706,2011.04.23,2011,Unprovoked,AUSTRALIA,Other,M,N
+707,2011.04.22,2011,Unprovoked,USA,Surfing,M,N
+708,2011.04.16,2011,Unprovoked,NEW ZEALAND,Surfing,M,N
+710,2011.04.08,2011,Unprovoked,FIJI,Diving,M,N
+711,2011.03.29.R,2011,Provoked,USA,Other,M,N
+712,2011.03.24,2011,Unprovoked,MEXICO,Swimming,F,N
+713,2011.03.23,2011,Unprovoked,AUSTRALIA,Surfing,M,N
+714,2011.03.21.b,2011,Unprovoked,MEXICO,Swimming,M,N
+715,2011.03.21.a,2011,Unprovoked,FIJI,Fishing,M,N
+716,2011.03.16,2011,Unprovoked,AUSTRALIA,Surfing,F,N
+718,2011.03.10,2011,Unprovoked,AUSTRALIA,Surfing,M,N
+719,2011.02.28.R,2011,Provoked,AUSTRALIA,Fishing,M,N
+720,2011.02.23,2011,Unprovoked,NEW CALEDONIA,Fishing,M,N
+721,2011.02.19,2011,Unprovoked,REUNION,Surfing,M,N
+722,2011.02.17,2011,Unprovoked,AUSTRALIA,Diving,M,Y
+723,2011.02.13,2011,Provoked,AUSTRALIA,Fishing,M,N
+724,2011.02.12,2011,Unprovoked,AUSTRALIA,Snorkeling,M,N
+725,2011.02.04.R,2011,Provoked,MEXICO,Fishing,M,N
+726,2011.02.02,2011,Unprovoked,SOUTH AFRICA,Surfing,M,N
+727,2011.01.31,2011,Unprovoked,MEXICO,Swimming,F,N
+728,2011.01.28,2011,Provoked,MEXICO,Fishing,M,N
+729,2011.01.26,2011,Unprovoked,BAHAMAS,Diving,M,N
+731,2011.01.15,2011,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+732,2011.01.12.R,2011,Unprovoked,MEXICO,Other,M,N
+733,2011.01.03,2011,Boat,AUSTRALIA,Fishing,,N
+734,2010.12.26,2010,Unprovoked,USA,Surfing,M,N
+735,2010.12.17,2010,Unprovoked,FIJI,Surfing,M,N
+736,2010.12.11,2010,Unprovoked,USA,Surfing,M,N
+737,2010.12.05,2010,Unprovoked,EGYPT,Snorkeling,F,Y
+739,2010.12.01.b,2010,Unprovoked,EGYPT,Snorkeling,M,N
+740,2010.12.01.a,2010,Unprovoked,EGYPT,Snorkeling,M,N
+741,2010.11.30.b,2010,Unprovoked,EGYPT,Snorkeling,F,N
+742,2010.11.30.a,2010,Unprovoked,EGYPT,Snorkeling,F,N
+745,2010.11.19,2010,Provoked,USA,Snorkeling,M,N
+748,2010.11.12.R,2010,Boat,AUSTRALIA,Fishing,M,N
+749,2010.10.30,2010,Unprovoked,AUSTRALIA,Snorkeling,F,N
+750,2010.10.28.R,2010,Unprovoked,AUSTRALIA,Fishing,M,N
+751,2010.10.28,2010,Unprovoked,USA,Surfing,M,N
+753,2010.10.23.b,2010,Unprovoked,USA,Diving,M,N
+754,2010.10.23.a,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+755,2010.10.22,2010,Unprovoked,USA,Surfing,M,Y
+756,2010.10.20,2010,Unprovoked,EGYPT,Snorkeling,F,N
+757,2010.10.09,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+758,2010.10.02.b,2010,Unprovoked,BAHAMAS,Snorkeling,M,N
+759,2010.10.02.a,2010,Unprovoked,BAHAMAS,Surfing,F,N
+760,2010.10.01,2010,Unprovoked,SOUTH AFRICA,Surfing,M,N
+761,2010.09.27,2010,Unprovoked,USA,Surfing,M,N
+762,2010.09.24,2010,Unprovoked,USA,Surfing,M,N
+763,2010.09.21,2010,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+764,2010.09.13,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+765,2010.09.07,2010,Unprovoked,USA,Swimming,M,N
+766,2010.09.06.R,2010,Unprovoked,TONGA,Swimming,M,N
+767,2010.09.04,2010,Unprovoked,USA,Surfing,M,N
+768,2010.09.03.b,2010,Unprovoked,USA,Surfing,M,N
+769,2010.09.03.a,2010,Unprovoked,USA,Surfing,M,N
+770,2010.09.02,2010,Unprovoked,SOLOMON ISLANDS,Other,M,N
+772,2010.08.18,2010,Unprovoked,USA,Surfing,M,N
+773,2010.08.17,2010,Unprovoked,AUSTRALIA,Surfing,M,Y
+774,2010.08.14,2010,Unprovoked,USA,Fishing,M,N
+775,2010.08.10.b,2010,Provoked,AUSTRALIA,Fishing,F,N
+777,2010.08.08,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+778,2010.08.07.b,2010,Unprovoked,USA,Surfing,M,N
+781,2010.08.02.b,2010,Unprovoked,USA,Rowing,M,N
+782,2010.08.02.a,2010,Unprovoked,USA,Other,F,N
+783,2010.07.25,2010,Unprovoked,USA,Other,M,N
+784,2010.07.23,2010,Unprovoked,USA,Surfing,M,N
+785,2010.07.19,2010,Unprovoked,USA,Swimming,M,N
+786,2010.07.17.b,2010,Unprovoked,USA,Swimming,F,N
+787,2010.07.17.a,2010,Unprovoked,USA,Surfing,M,N
+788,2010.07.16.b,2010,Provoked,SPAIN,Swimming,M,N
+789,2010.07.16.a,2010,Unprovoked,USA,Fishing,M,N
+790,2010.07.11,2010,Provoked,USA,Fishing,M,N
+791,2010.07.04,2010,Unprovoked,SOUTH AFRICA,Snorkeling,F,N
+792,2010.07.03,2010,Provoked,USA,Fishing,M,N
+793,2010.07.02.b,2010,Unprovoked,USA,Surfing,M,N
+794,2010.07.02.a,2010,Unprovoked,USA,Surfing,M,N
+795,2010.06.27,2010,Unprovoked,USA,Surfing,M,N
+796,2010.06.25.b,2010,Unprovoked,USA,Surfing,F,N
+797,2010.06.25.a,2010,Unprovoked,USA,Swimming,F,N
+798,2010.06.15,2010,Unprovoked,VIETNAM,Swimming,M,N
+799,2010.06.10,2010,Unprovoked,USA,Surfing,F,N
+800,2010.06.06,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+801,2010.06.00,2010,Unprovoked,USA,Surfing,M,N
+802,2010.05.30,2010,Provoked,USA,Fishing,M,N
+803,2010.05.18.c,2010,Unprovoked,VIETNAM,Other,F,N
+804,2010.05.18.b,2010,Unprovoked,VIETNAM,Swimming,F,N
+805,2010.05.18.a,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+807,2010.05.01,2010,Unprovoked,USA,Other,F,N
+808,2010.04.28,2010,Provoked,USA,Other,M,N
+809,2010.04.19,2010,Unprovoked,USA,Surfing,M,N
+810,2010.04.13,2010,Unprovoked,SOUTH AFRICA,Surfing,M,N
+811,2010.04.04,2010,Unprovoked,EGYPT,Swimming,M,N
+812,2010.03.27,2010,Unprovoked,REUNION,Surfing,M,N
+813,2010.02.19,2010,Unprovoked,NEW ZEALAND,Swimming,M,N
+814,2010.02.16,2010,Unprovoked,SOUTH AFRICA,Surfing,M,N
+815,2010.02.15,2010,Unprovoked,FIJI,Diving,M,Y
+816,2010.02.13,2010,Unprovoked,AUSTRALIA,Snorkeling,F,N
+817,2010.02.11,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+818,2010.02.06.R,2010,Provoked,NEW ZEALAND,Fishing,M,N
+819,2010.02.06.b,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+820,2010.02.06.a,2010,Provoked,USA,Surfing,M,N
+822,2010.02.03,2010,Unprovoked,USA,Surfing,M,Y
+823,2010.02.01,2010,Provoked,NEW ZEALAND,Surfing,F,N
+824,2010.01.30,2010,Unprovoked,BRAZIL,Surfing,M,N
+825,2010.01.27,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+827,2010.01.22.a,2010,Unprovoked,AUSTRALIA,Surfing,M,N
+828,2010.01.12,2010,Unprovoked,SOUTH AFRICA,Other,M,Y
+829,2010.01.09.d,2010,Unprovoked,AUSTRALIA,Snorkeling,F,N
+830,2010.01.09.c,2010,Unprovoked,VIETNAM,Other,F,N
+831,2010.01.09.b,2010,Unprovoked,VIETNAM,Other,M,N
+832,2010.01.09.a,2010,Unprovoked,VIETNAM,Swimming,M,N
+833,2010.01.06,2010,Unprovoked,USA,Fishing,M,N
+834,2010.01.05,2010,Unprovoked,SOUTH AFRICA,Surfing,M,N
+835,2009.12.29,2009,Unprovoked,SOUTH AFRICA,Other,M,N
+836,2009.12.26,2009,Provoked,AUSTRALIA,Swimming,M,N
+837,2009.12.22,2009,Unprovoked,MOZAMBIQUE,Swimming,M,N
+838,2009.12.20.b,2009,Boat,AUSTRALIA,Rowing,M,N
+839,2009.12.20.a,2009,Unprovoked,AUSTRALIA,Fishing,M,N
+840,2009.12.18,2009,Unprovoked,SOUTH AFRICA,Other,M,Y
+842,2009.12.16,2009,Unprovoked,NEW ZEALAND,Swimming,M,Y
+843,2009.12.13,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+844,2009.12.12,2009,Boat,AUSTRALIA,Other,,N
+845,2009.12.06,2009,Provoked,USA,Diving,M,N
+847,2009.11.24,2009,Unprovoked,USA,Other,M,N
+848,2009.11.16.b,2009,Unprovoked,USA,Fishing,M,N
+849,2009.11.16.a,2009,Unprovoked,USA,Surfing,M,N
+850,2009.11.13,2009,Unprovoked,USA,Surfing,F,N
+851,2009.11.11,2009,Unprovoked,USA,Surfing,M,N
+852,2009.11.08,2009,Unprovoked,AUSTRALIA,Rowing,M,N
+853,2009.11.05,2009,Unprovoked,USA,Surfing,M,N
+854,2009.10.30,2009,Unprovoked,AUSTRALIA,Rowing,M,N
+855,2009.10.29.R,2009,Unprovoked,MOZAMBIQUE,Fishing,M,N
+856,2009.10.28,2009,Unprovoked,AUSTRALIA,Surfing,F,N
+857,2009.10.24,2009,Unprovoked,USA,Surfing,M,N
+858,2009.10.19,2009,Unprovoked,USA,Surfing,M,N
+859,2009.10.18,2009,Unprovoked,PANAMA,Other,F,N
+861,2009.10.14.R,2009,Unprovoked,AUSTRALIA,Diving,M,N
+862,2009.10.09,2009,Unprovoked,USA,Surfing,M,N
+864,2009.09.26,2009,Unprovoked,USA,Swimming,M,N
+865,2009.09.18,2009,Unprovoked,VIETNAM,Other,M,N
+867,2009.09.13,2009,Provoked,BRAZIL,Other,M,Y
+869,2009.09.07,2009,Unprovoked,BRAZIL,Swimming,M,Y
+871,2009.09.01,2009,Provoked,SOLOMON ISLANDS,Fishing,M,N
+872,2009.08.30,2009,Unprovoked,USA,Surfing,M,N
+873,2009.08.29,2009,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+874,2009.08.25,2009,Unprovoked,USA,Swimming,F,N
+875,2009.08.11,2009,Unprovoked,SOUTH AFRICA,Surfing,M,N
+876,2009.08.10,2009,Unprovoked,USA,Swimming,M,N
+877,2009.08.06,2009,Unprovoked,USA,Surfing,M,N
+878,2009.08.01,2009,Unprovoked,USA,Fishing,M,N
+879,2009.07.31,2009,Unprovoked,BAHAMAS,Fishing,M,N
+880,2009.07.30,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+881,2009.07.29,2009,Unprovoked,VIETNAM,Swimming,F,N
+883,2009.07.24.b,2009,Unprovoked,USA,Other,F,N
+885,2009.07.22.b,2009,Unprovoked,USA,Swimming,F,N
+886,2009.07.22.a,2009,Unprovoked,USA,Swimming,F,N
+887,2009.07.18,2009,Unprovoked,VIETNAM,Swimming,M,N
+888,2009.07.11.b,2009,Provoked,BAHAMAS,Fishing,M,N
+889,2009.07.11.a,2009,Unprovoked,USA,Surfing,M,N
+890,2009.07.07,2009,Unprovoked,SOUTH AFRICA,Surfing,M,N
+891,2009.07.05,2009,Unprovoked,USA,Surfing,F,N
+892,2009.07.04,2009,Provoked,USA,Swimming,F,N
+893,2009.06.27,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+896,2009.06.14.R,2009,Provoked,VIETNAM,Fishing,M,N
+897,2009.06.02.b,2009,Unprovoked,EGYPT,Diving,M,N
+898,2009.06.02.a,2009,Unprovoked,EGYPT,Diving,M,N
+899,2009.06.01,2009,Unprovoked,EGYPT,Snorkeling,F,Y
+901,2009.05.25,2009,Provoked,USA,Swimming,M,N
+902,2009.05.17,2009,Unprovoked,USA,Surfing,M,N
+903,2009.05.16.b,2009,Unprovoked,USA,Surfing,M,N
+904,2009.05.16.a,2009,Unprovoked,USA,Surfing,M,N
+906,2009.05.06,2009,Provoked,BAHAMAS,Fishing,M,N
+907,2009.04.28,2009,Unprovoked,USA,Other,F,N
+908,2009.04.25.R,2009,Unprovoked,USA,Surfing,M,N
+909,2009.04.21,2009,Unprovoked,USA,Surfing,M,N
+910,2009.04.20,2009,Unprovoked,PHILIPPINES,Swimming,M,N
+911,2009.04.19,2009,Unprovoked,USA,Surfing,M,N
+912,2009.04.12,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+913,2009.04.17.,2009,Unprovoked,USA,Surfing,M,N
+916,2009.04.06.a,2009,Unprovoked,USA,Fishing,M,N
+917,2009.04.03,2009,Unprovoked,USA,Other,M,N
+918,2009.03.27,2009,Provoked,SOUTH AFRICA,Fishing,M,N
+919,2009.03.21,2009,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+920,2009.03.20,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+921,2009.03.19.b,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+922,2009.03.19.a,2009,Unprovoked,AUSTRALIA,Surfing,F,N
+923,2009.03.18.a,2009,Unprovoked,USA,Surfing,F,N
+925,2009.03.17,2009,Unprovoked,USA,Swimming,M,N
+926,2009.03.16.R,2009,Provoked,AUSTRALIA,Other,M,N
+927,2009.03.06,2009,Unprovoked,NEW CALEDONIA,Surfing,M,Y
+928,2009.03.02,2009,Provoked,SOUTH AFRICA,Fishing,M,N
+929,2009.03.01.b,2009,Boat,NEW ZEALAND,Fishing,M,N
+930,2009.03.01.a,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+931,2009.02.22,2009,Unprovoked,AUSTRALIA,Fishing,M,N
+932,2009.02.18,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+933,2009.02.12,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+934,2009.02.11,2009,Unprovoked,AUSTRALIA,Diving,M,N
+935,2009.02.08,2009,Unprovoked,USA,Air Disaster,M,Y
+936,2009.02.07.b,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+937,2009.02.07.a,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+940,2009.01.25,2009,Unprovoked,CUBA,Fishing,M,N
+941,2009.01.24.c,2009,Boat,NEW ZEALAND,Fishing,,N
+942,2009.01.24.b,2009,Unprovoked,AUSTRALIA,Swimming,M,N
+943,2009.01.24.a,2009,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+945,2009.01.18,2009,Boat,AUSTRALIA,Fishing,M,N
+946,2009.01.16,2009,Unprovoked,NEW ZEALAND,Surfing,M,N
+947,2009.01.13.R,2009,Unprovoked,SOUTH AFRICA,Other,,Y
+948,2009.01.12,2009,Unprovoked,AUSTRALIA,Snorkeling,M,N
+949,2009.01.11.b,2009,Unprovoked,AUSTRALIA,Surfing,F,N
+950,2009.01.11.a,2009,Unprovoked,AUSTRALIA,Surfing,M,N
+951,2009.01.10.R,2009,Boat,NEW ZEALAND,Fishing,,N
+953,2009.01.06,2009,Unprovoked,NEW ZEALAND,Swimming,M,N
+954,2009.01.00,2009,Unprovoked,CUBA,Fishing,,N
+956,2008.12.27.d,2008,Boat,AUSTRALIA,Other,,N
+957,2008.12.27.c,2008,Unprovoked,AUSTRALIA,Surfing,M,N
+958,2008.12.27.b,2008,Unprovoked,AUSTRALIA,Rowing,M,N
+959,2008.12.27.a,2008,Unprovoked,AUSTRALIA,Snorkeling,M,Y
+960,2008.12.20,2008,Unprovoked,USA,Rowing,M,N
+961,2008.12.14,2008,Unprovoked,NEW ZEALAND,Fishing,M,N
+962,2008.12.10,2008,Provoked,SOUTH AFRICA,Fishing,M,N
+963,2008.12.06,2008,Boat,AUSTRALIA,Fishing,,N
+964,2008.12.00,2008,Unprovoked,MOZAMBIQUE,Fishing,M,Y
+965,2008.11.28,2008,Unprovoked,EGYPT,Diving,F,N
+966,2008.11.25,2008,Unprovoked,PHILIPPINES,Other,M,N
+968,2008.11.09.b,2008,Boat,AUSTRALIA,Fishing,M,N
+970,2008.11.06,2008,Unprovoked,PHILIPPINES,Fishing,M,Y
+971,2008.10.22,2008,Provoked,AUSTRALIA,Diving,M,N
+972,2008.10.21,2008,Unprovoked,NEW CALEDONIA,Fishing,M,N
+973,2008.10.12,2008,Provoked,AUSTRALIA,Fishing,M,N
+974,2008.10.11,2008,Unprovoked,AUSTRALIA,Surfing,M,N
+975,2008.10.08,2008,Unprovoked,USA,Fishing,M,N
+977,2008.09.28.b,2008,Unprovoked,USA,Surfing,M,N
+978,2008.09.28.a,2008,Unprovoked,USA,Surfing,M,N
+979,2008.09.15,2008,Provoked,AUSTRALIA,Swimming,M,N
+980,2008.09.14,2008,Unprovoked,USA,Swimming,M,N
+981,2008.09.09,2008,Unprovoked,USA,Surfing,M,N
+982,2008.09.08,2008,Unprovoked,USA,Surfing,M,N
+983,2008.09.07,2008,Unprovoked,AUSTRALIA,Surfing,M,N
+984,2008.09.06.b,2008,Unprovoked,USA,Surfing,M,N
+985,2008.09.06.a,2008,Unprovoked,USA,Surfing,M,N
+986,2008.09.01,2008,Unprovoked,USA,Surfing,M,N
+987,2008.09.00,2008,Unprovoked,USA,Surfing,M,N
+988,2008.08.30.c,2008,Unprovoked,AUSTRALIA,Surfing,M,N
+991,2008.08.28,2008,Unprovoked,USA,Surfing,M,N
+992,2008.08.27,2008,Unprovoked,USA,Surfing,M,N
+993,2008.08.24,2008,Unprovoked,USA,Swimming,M,N
+995,2008.08.20,2008,Unprovoked,USA,Swimming,M,N
+997,2008.08.16,2008,Unprovoked,USA,Other,F,N
+998,2008.08.12,2008,Unprovoked,USA,Other,F,N
+999,2008.08.11,2008,Unprovoked,USA,Diving,M,N
+1000,2008.07.30.R,2008,Unprovoked,AUSTRALIA,Surfing,M,N
+1001,2008.07.30,2008,Unprovoked,SOUTH AFRICA,Other,M,N
+1002,2008.07.27,2008,Unprovoked,PANAMA,Surfing,M,N
+1003,2008.07.26.b,2008,Unprovoked,MEXICO,Swimming,M,N
+1004,2008.07.26.a,2008,Unprovoked,USA,Swimming,M,N
+1005,2008.07.25.b,2008,Unprovoked,USA,Surfing,M,N
+1006,2008.07.25.a,2008,Unprovoked,USA,Snorkeling,F,N
+1007,2008.07.24.b,2008,Unprovoked,USA,Other,M,N
+1008,2008.07.24.a,2008,Unprovoked,USA,Other,F,N
+1009,2008.07.23,2008,Provoked,USA,Surfing,M,N
+1010,2008.07.19,2008,Unprovoked,USA,Other,M,N
+1011,2008.07.18,2008,Unprovoked,EGYPT,Diving,M,N
+1013,2008.07.11,2008,Unprovoked,USA,Surfing,M,N
+1014,2008.07.09,2008,Unprovoked,USA,Swimming,F,N
+1015,2008.07.05,2008,Unprovoked,USA,Other,F,N
+1018,2008.06.28.b,2008,Unprovoked,BAHAMAS,Fishing,M,N
+1019,2008.06.28.a,2008,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1020,2008.06.26.R,2008,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1021,2008.06.26.b,2008,Unprovoked,USA,Surfing,M,N
+1022,2008.06.26.a,2008,Unprovoked,USA,Swimming,M,N
+1023,2008.06.24,2008,Unprovoked,BRAZIL,Surfing,M,N
+1024,2008.06.21,2008,Unprovoked,USA,Rowing,F,N
+1025,2008.06.20,2008,Unprovoked,USA,Other,F,N
+1026,2008.06.11,2008,Unprovoked,BRAZIL,Surfing,M,N
+1027,2008.06.07,2008,Unprovoked,USA,Surfing,M,N
+1029,2008.06.01.b,2008,Unprovoked,USA,Surfing,F,N
+1030,2008.06.01.a,2008,Unprovoked,BRAZIL,Swimming,M,N
+1031,2008.05.26,2008,Unprovoked,USA,Surfing,M,N
+1032,2008.05.24.b,2008,Unprovoked,BAHAMAS,Sea Disaster,M,N
+1033,2008.05.24.a,2008,Unprovoked,MEXICO,Surfing,M,N
+1034,2008.05.23,2008,Unprovoked,MEXICO,Surfing,M,Y
+1035,2008.05.14,2008,Unprovoked,FIJI,Diving,M,Y
+1036,2008.05.10,2008,Unprovoked,AUSTRALIA,Swimming,M,N
+1037,2008.05.07.b,2008,Unprovoked,NEW CALEDONIA,Fishing,M,N
+1038,2008.05.07.a,2008,Unprovoked,USA,Other,M,N
+1039,2008.05.01,2008,Provoked,SOUTH AFRICA,Fishing,M,N
+1040,2008.04.28.b,2008,Unprovoked,MEXICO,Surfing,M,Y
+1041,2008.04.28.a,2008,Unprovoked,USA,Surfing,M,N
+1042,2008.04.27,2008,Unprovoked,USA,Surfing,M,N
+1043,2008.04.26.b,2008,Unprovoked,NEW CALEDONIA,Swimming,M,N
+1044,2008.04.26.a,2008,Provoked,USA,Surfing,M,N
+1045,2008.04.25,2008,Unprovoked,USA,Swimming,M,Y
+1046,2008.04.20.b,2008,Unprovoked,USA,Surfing,M,N
+1051,2008.04.15,2008,Unprovoked,USA,Surfing,M,N
+1052,2008.03.28.a,2008,Unprovoked,USA,Surfing,M,N
+1053,2008.04.09.R,2008,Unprovoked,FIJI,Fishing,M,N
+1054,2008.04.08.R,2008,Unprovoked,USA,Surfing,,N
+1055,2008.04.08,2008,Unprovoked,AUSTRALIA,Surfing,M,Y
+1056,2008.04.03,2008,Unprovoked,USA,Surfing,M,N
+1057,2008.03.28.c,2008,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1058,2008.03.28.b,2008,Unprovoked,USA,Surfing,M,N
+1059,2008.03.25,2008,Unprovoked,USA,Other,M,N
+1060,2008.03.23,2008,Unprovoked,USA,Surfing,M,N
+1061,2008.03.21,2008,Unprovoked,USA,Other,M,N
+1062,2008.03.15,2008,Unprovoked,USA,Other,M,N
+1063,2008.03.07,2008,Unprovoked,USA,Surfing,M,N
+1064,2008.02.24,2008,Unprovoked,BAHAMAS,Diving,M,Y
+1065,2008.02.21.R,2008,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+1066,2008.02.15,2008,Unprovoked,USA,Surfing,M,N
+1067,2008.02.07,2008,Unprovoked,AUSTRALIA,Surfing,F,N
+1068,2008.02.06,2008,Unprovoked,USA,Surfing,M,N
+1069,2008.01.29,2008,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1070,2008.01.27,2008,Provoked,AUSTRALIA,Other,M,N
+1072,2008.01.14,2008,Boat,NEW ZEALAND,Other,,N
+1073,2008.01.10,2008,Unprovoked,USA,Surfing,M,N
+1074,2008.00.00.b,2008,Provoked,USA,Fishing,M,N
+1075,2008.00.00.a,2008,Unprovoked,MEXICO,Surfing,M,N
+1078,2007.12.18,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1079,2007.12.15,2007,Unprovoked,AUSTRALIA,Swimming,M,N
+1081,2007.12.10,2007,Unprovoked,USA,Surfing,M,N
+1082,2007.12.09,2007,Unprovoked,NEW ZEALAND,Surfing,F,N
+1083,2007.12.07,2007,Unprovoked,BRAZIL,Other,M,N
+1084,2007.11.18,2007,Provoked,AUSTRALIA,Fishing,M,N
+1085,2007.11.08,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1086,2007.11.07,2007,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1087,2007.11.06,2007,Unprovoked,USA,Surfing,M,N
+1088,2007.11.04,2007,Unprovoked,USA,Surfing,M,N
+1089,2007.11.03,2007,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1091,2007.10.29,2007,Unprovoked,USA,Other,M,N
+1092,2007.10.15,2007,Unprovoked,AUSTRALIA,Surfing,F,N
+1093,2007.10.13,2007,Unprovoked,AUSTRALIA,Fishing,M,N
+1094,2007.10.07,2007,Unprovoked,USA,Surfing,M,N
+1095,2007.10.06,2007,Unprovoked,USA,Surfing,M,N
+1096,2007.09.30.c,2007,Unprovoked,USA,Surfing,M,N
+1097,2007.09.30.b,2007,Unprovoked,PHILIPPINES,Other,M,Y
+1098,2007.09.30.a,2007,Unprovoked,NEW CALEDONIA,Swimming,F,Y
+1099,2007.09.28,2007,Unprovoked,BAHAMAS,Fishing,F,N
+1100,2007.09.27.b,2007,Unprovoked,USA,Surfing,F,N
+1101,2007.09.27.a,2007,Unprovoked,EGYPT,Swimming,F,N
+1103,2007.09.22.a,2007,Unprovoked,USA,Surfing,F,N
+1104,2007.09.20,2007,Unprovoked,USA,Surfing,M,N
+1105,2007.09.17,2007,Unprovoked,SOLOMON ISLANDS,Fishing,M,N
+1106,2007.09.16.b,2007,Unprovoked,USA,Other,M,N
+1107,2007.09.16.a,2007,Unprovoked,USA,Surfing,F,N
+1108,2007.09.13,2007,Unprovoked,USA,Snorkeling,M,N
+1109,2007.09.08,2007,Unprovoked,USA,Other,F,N
+1110,2007.09.05,2007,Unprovoked,USA,Other,F,N
+1111,2007.09.04,2007,Unprovoked,USA,Other,M,N
+1112,2007.09.03.b,2007,Unprovoked,USA,Other,F,N
+1113,2007.09.03.a,2007,Unprovoked,USA,Swimming,M,N
+1114,2007.08.28.b,2007,Unprovoked,USA,Surfing,M,N
+1115,2007.08.28.a,2007,Unprovoked,USA,Surfing,M,N
+1116,2007.08.26,2007,Unprovoked,USA,Surfing,M,N
+1117,2007.08.25,2007,Unprovoked,USA,Surfing,M,N
+1118,2007.08.22,2007,Provoked,USA,Diving,M,N
+1119,2007.08.20,2007,Provoked,USA,Fishing,M,N
+1120,2007.08.19.c,2007,Unprovoked,USA,Swimming,M,N
+1121,2007.08.19.b,2007,Unprovoked,USA,Surfing,M,N
+1122,2007.08.19.a.,2007,Unprovoked,USA,Other,M,N
+1123,2007.08.15,2007,Unprovoked,USA,Other,M,N
+1124,2007.08.12,2007,Unprovoked,USA,Swimming,F,N
+1125,2007.08.11,2007,Unprovoked,USA,Surfing,M,N
+1126,2007.08.09.b,2007,Unprovoked,USA,Swimming,M,N
+1127,2007.08.09.a,2007,Unprovoked,USA,Surfing,M,N
+1128,2007.08.07,2007,Unprovoked,USA,Other,F,N
+1129,2007.07.29,2007,Unprovoked,USA,Surfing,M,N
+1130,2007.07.28,2007,Unprovoked,USA,Surfing,M,N
+1131,2007.07.22,2007,Unprovoked,USA,Surfing,M,N
+1132,2007.07.21,2007,Boat,USA,Fishing,M,N
+1133,2007.07.19.b,2007,Unprovoked,USA,Snorkeling,M,N
+1134,2007.07.19.a,2007,Unprovoked,AUSTRALIA,Other,M,N
+1135,2007.07.18.b,2007,Unprovoked,USA,Swimming,M,N
+1138,2007.07.17.a,2007,Unprovoked,USA,Other,F,N
+1139,2007.07.10,2007,Unprovoked,BAHAMAS,Fishing,F,N
+1140,2007.07.05,2007,Unprovoked,USA,Surfing,M,N
+1141,2007.07.04,2007,Unprovoked,REUNION,Surfing,M,N
+1143,2007.06.30.b,2007,Provoked,USA,Other,M,N
+1144,2007.06.30.a,2007,Unprovoked,USA,Swimming,F,N
+1145,2007.06.25,2007,Unprovoked,USA,Surfing,M,N
+1146,2007.06.24,2007,Unprovoked,USA,Surfing,M,N
+1148,2007.06.12,2007,Unprovoked,USA,Swimming,F,N
+1149,2007.06.05,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1150,2007.05.26,2007,Unprovoked,USA,Other,F,N
+1151,2007.05.24,2007,Provoked,USA,Diving,F,N
+1153,2007.05.16,2007,Unprovoked,AUSTRALIA,Other,F,N
+1154,2007.05.12,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1155,2007.05.10,2007,Unprovoked,USA,Surfing,F,N
+1158,2007.05.07.b,2007,Unprovoked,USA,Snorkeling,F,N
+1159,2007.05.07.a,2007,Unprovoked,USA,Swimming,M,N
+1161,2007.05.00,2007,Provoked,BAHAMAS,Other,F,N
+1162,2007.04.26,2007,Unprovoked,AUSTRALIA,Swimming,F,N
+1163,2007.04.22,2007,Unprovoked,USA,Surfing,M,N
+1164,2007.04.20,2007,Unprovoked,USA,Surfing,M,N
+1165,2007.04.13.R,2007,Boat,USA,Fishing,,N
+1166,2007.04.09,2007,Unprovoked,NEW CALEDONIA,Surfing,M,N
+1167,2007.04.01,2007,Unprovoked,USA,Other,M,N
+1168,2007.03.31.b,2007,Unprovoked,USA,Surfing,M,N
+1169,2007.03.31.a,2007,Unprovoked,USA,Other,M,N
+1171,2007.03.21,2007,Unprovoked,USA,Surfing,M,N
+1172,2007.03.20,2007,Unprovoked,AUSTRALIA,Surfing,F,N
+1173,2007.03.14.R,2007,Provoked,USA,Fishing,M,N
+1174,2007.03.12,2007,Unprovoked,AUSTRALIA,Swimming,F,N
+1175,2007.03.11,2007,Unprovoked,USA,Surfing,M,N
+1176,2007.03.05.R,2007,Provoked,NEW ZEALAND,Fishing,M,N
+1178,2007.02.03,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1179,2007.02.00,2007,Unprovoked,NEW CALEDONIA,Fishing,M,N
+1180,2007.01.25.b,2007,Unprovoked,NEW CALEDONIA,Fishing,M,N
+1181,2007.01.25.a,2007,Boat,USA,Other,,N
+1182,2007.01.23,2007,Unprovoked,AUSTRALIA,Diving,M,N
+1184,2007.01.14,2007,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+1185,2007.01.09,2007,Unprovoked,AUSTRALIA,Surfing,M,N
+1187,2007.01.05,2007,Unprovoked,USA,Surfing,M,N
+1188,2006.12.18,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1189,2006.12.11,2006,Unprovoked,NEW ZEALAND,Surfing,M,N
+1190,2006.12.10,2006,Unprovoked,USA,Surfing,M,N
+1191,2006.12.06,2006,Provoked,SOUTH AFRICA,Fishing,M,N
+1192,2006.12.02,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1193,2006.11.25,2006,Unprovoked,PHILIPPINES,Sea Disaster,,Y
+1194,2006.11.11,2006,Unprovoked,USA,Swimming,M,N
+1195,2006.11.09,2006,Provoked,SOUTH AFRICA,Rowing,M,N
+1196,2006.10.31,2006,Unprovoked,USA,Surfing,M,N
+1197,2006.10.16,2006,Unprovoked,USA,Fishing,M,N
+1198,2006.10.10,2006,Unprovoked,USA,Surfing,M,N
+1199,2006.10.07,2006,Unprovoked,USA,Surfing,M,N
+1200,2006.10.05,2006,Unprovoked,USA,Other,M,N
+1201,2006.10.00.b,2006,Unprovoked,BAHAMAS,Diving,F,N
+1204,2006.09.29,2006,Unprovoked,USA,Surfing,M,N
+1205,2006.09.18.R,2006,Provoked,USA,Diving,M,N
+1206,2006.09.16,2006,Unprovoked,USA,Surfing,M,N
+1207,2006.09.14,2006,Unprovoked,USA,Swimming,M,N
+1208,2006.09.11,2006,Unprovoked,USA,Surfing,M,N
+1210,2006.09.03.b,2006,Unprovoked,BRAZIL,Other,M,Y
+1211,2006.09.03.a,2006,Unprovoked,USA,Other,M,N
+1212,2006.09.02,2006,Unprovoked,USA,Swimming,M,N
+1213,2006.09.02,2006,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1214,2006.08.29.b,2006,Unprovoked,USA,Surfing,M,N
+1215,2006.08.29.a,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1216,2006.08.27,2006,Unprovoked,REUNION,Surfing,M,N
+1219,2006.08.20.b,2006,Unprovoked,ITALY,Sea Disaster,M,Y
+1220,2006.08.20.a,2006,Unprovoked,REUNION,Surfing,M,Y
+1221,2006.08.15,2006,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1222,2006.08.13,2006,Unprovoked,SOUTH AFRICA,Other,M,N
+1223,2006.08.00.b,2006,Unprovoked,USA,Other,F,N
+1224,2006.08.00.a,2006,Unprovoked,REUNION,Fishing,M,N
+1225,2006.07.31.R,2006,Provoked,USA,Other,,N
+1226,2006.07.31.a,2006,Unprovoked,USA,Surfing,M,N
+1228,2006.07.29.a,2006,Unprovoked,USA,Surfing,M,N
+1229,2006.07.28,2006,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1230,2006.07.25,2006,Unprovoked,USA,Surfing,M,N
+1231,2006.07.23,2006,Unprovoked,USA,Surfing,M,N
+1233,2006.07.17,2006,Unprovoked,USA,Other,M,N
+1235,2006.07.12,2006,Unprovoked,USA,Swimming,F,N
+1236,2006.07.10,2006,Unprovoked,BRAZIL,Other,M,Y
+1237,2006.07.09.b,2006,Unprovoked,USA,Other,M,N
+1238,2006.07.09.a,2006,Unprovoked,USA,Treading Water,M,N
+1239,2006.07.08.b,2006,Unprovoked,USA,Surfing,F,N
+1240,2006.07.08.a,2006,Unprovoked,USA,Swimming,M,N
+1241,2006.06.30.b,2006,Unprovoked,USA,Fishing,F,N
+1242,2006.06.30.a,2006,Unprovoked,USA,Fishing,M,N
+1243,2006.06.27,2006,Unprovoked,USA,Surfing,F,N
+1244,2006.06.26,2006,Provoked,USA,Fishing,M,N
+1245,2006.06.24,2006,Unprovoked,BAHAMAS,Fishing,M,N
+1246,2006.06.20,2006,Unprovoked,USA,Surfing,F,N
+1247,2006.06.18,2006,Unprovoked,BRAZIL,Surfing,M,Y
+1248,2006.06.17,2006,Unprovoked,USA,Diving,M,N
+1249,2006.06.15,2006,Unprovoked,USA,Surfing,M,N
+1250,2006.06.07,2006,Unprovoked,USA,Other,F,N
+1251,2006.06.05,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1252,2006.05.31,2006,Unprovoked,USA,Fishing,M,N
+1253,2006.05.28,2006,Provoked,USA,Other,,N
+1254,2006.05.27,2006,Unprovoked,USA,Surfing,M,N
+1255,2006.05.24,2006,Provoked,USA,Fishing,M,N
+1256,2006.05.21,2006,Unprovoked,BRAZIL,Surfing,M,N
+1257,2006.05.19,2006,Unprovoked,USA,Diving,F,N
+1258,2006.05.10,2006,Unprovoked,USA,Other,M,N
+1259,2006.05.04,2006,Unprovoked,USA,Swimming,F,N
+1260,2006.05.02,2006,Provoked,AUSTRALIA,Snorkeling,M,N
+1262,2006.04.21,2006,Unprovoked,USA,Surfing,M,N
+1263,2006.04.19,2006,Unprovoked,USA,Other,F,N
+1264,2006.04.13,2006,Provoked,USA,Fishing,M,N
+1265,2006.04.11,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1266,2006.04.09.b,2006,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1267,2006.04.09.a,2006,Unprovoked,BRAZIL,Swimming,M,N
+1268,2006.04.03,2006,Unprovoked,USA,Other,M,N
+1270,2006.03.23,2006,Unprovoked,USA,Surfing,F,N
+1272,2006.03.19,2006,Unprovoked,FIJI,Surfing,M,N
+1273,2006.03.15,2006,Unprovoked,AUSTRALIA,Surfing,M,N
+1274,2006.02.27,2006,Unprovoked,USA,Other,F,N
+1276,2006.02.13,2006,Unprovoked,AUSTRALIA,Other,M,N
+1277,2006.02.12.b,2006,Unprovoked,AUSTRALIA,Swimming,M,N
+1278,2006.02.12.a,2006,Boat,AUSTRALIA,Fishing,M,N
+1279,2006.02.08,2006,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1280,2006.02.01.b,2006,Unprovoked,TONGA,Swimming,F,Y
+1281,2006.02.01.a,2006,Boat,USA,Rowing,M,N
+1283,2006.01.25,2006,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1285,2006.01.18,2006,Unprovoked,USA,Surfing,M,N
+1286,2006.01.15,2006,Unprovoked,AUSTRALIA,Diving,M,N
+1288,2006.01.07,2006,Unprovoked,AUSTRALIA,Swimming,F,Y
+1289,2006.01.04,2006,Unprovoked,USA,Surfing,M,N
+1290,2006.01.01,2006,Unprovoked,SOUTH AFRICA,Diving,M,N
+1291,2005.12.24,2005,Unprovoked,USA,Surfing,M,N
+1292,2005.12.21,2005,Unprovoked,USA,Swimming,M,N
+1294,2005.12.11,2005,Unprovoked,AUSTRALIA,Fishing,M,N
+1295,2005.12.05.R,2005,Boat,AUSTRALIA,Fishing,,N
+1296,2005.11.29.R,2005,Unprovoked,USA,Surfing,M,N
+1297,2005.11.27,2005,Unprovoked,USA,Surfing,M,N
+1298,2005.11.25.c,2005,Boat,AUSTRALIA,Fishing,,N
+1299,2005.11.25.b,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1300,2005.11.25.a,2005,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1301,2005.11.24,2005,Unprovoked,NEW CALEDONIA,Fishing,,N
+1302,2005.11.21,2005,Unprovoked,USA,Surfing,M,N
+1303,2005.11.20,2005,Unprovoked,USA,Surfing,M,N
+1304,2005.11.16.R,2005,Boat,NEW CALEDONIA,Other,,N
+1305,2005.11.15,2005,Provoked,SOUTH AFRICA,Fishing,M,N
+1306,2005.11.12,2005,Unprovoked,USA,Surfing,M,N
+1307,2005.11.02.b,2005,Unprovoked,USA,Surfing,M,N
+1308,2005.11.02.a,2005,Unprovoked,USA,Surfing,M,N
+1309,2005.10.29,2005,Unprovoked,USA,Other,M,N
+1311,2005.10.22,2005,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1312,2005.10.21,2005,Unprovoked,USA,Surfing,M,N
+1313,2005.10.19,2005,Unprovoked,USA,Surfing,F,N
+1314,2005.10.15,2005,Provoked,USA,Other,M,N
+1315,2005.10.13,2005,Unprovoked,USA,Surfing,M,N
+1317,2005.10.06,2005,Unprovoked,USA,Surfing,M,N
+1318,2005.10.03,2005,Unprovoked,BAHAMAS,Diving,M,N
+1319,2005.10.01,2005,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1320,2005.09.27.R,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1321,2005.09.24,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1322,2005.09.23,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1324,2005.09.20,2005,Unprovoked,USA,Surfing,F,N
+1325,2005.09.11,2005,Unprovoked,USA,Surfing,M,Y
+1326,2005.09.07,2005,Unprovoked,AUSTRALIA,Other,M,N
+1327,2005.09.05,2005,Unprovoked,USA,Other,F,N
+1328,2005.09.04.a,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1329,2005.09.02.b,2005,Unprovoked,USA,Surfing,M,N
+1331,2005.08.24.b,2005,Unprovoked,AUSTRALIA,Diving,M,Y
+1332,2005.08.24.a,2005,Unprovoked,USA,Surfing,M,N
+1334,2005.08.21,2005,Unprovoked,USA,Swimming,M,N
+1335,2005.08.19,2005,Unprovoked,USA,Treading Water,M,N
+1337,2005.08.12,2005,Unprovoked,USA,Surfing,M,N
+1338,2005.08.06,2005,Unprovoked,USA,Swimming,M,N
+1340,2005.07.27,2005,Unprovoked,USA,Other,F,N
+1341,2005.07.23,2005,Unprovoked,USA,Surfing,M,N
+1346,2005.07.15,2005,Unprovoked,USA,Swimming,M,N
+1347,2005.07.13,2005,Unprovoked,USA,Other,F,N
+1348,2005.07.01,2005,Unprovoked,USA,Other,M,N
+1349,2005.06.27,2005,Unprovoked,USA,Fishing,M,N
+1350,2005.06.25,2005,Unprovoked,USA,Swimming,F,Y
+1351,2005.06.22,2005,Unprovoked,VANUATU,Swimming,F,Y
+1354,2005.06.16,2005,Unprovoked,USA,Swimming,M,N
+1356,2005.06.07,2005,Unprovoked,USA,Surfing,F,N
+1358,2005.06.04,2005,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+1359,2005.06.02,2005,Unprovoked,USA,Other,M,N
+1360,2005.05.28,2005,Unprovoked,USA,Swimming,M,N
+1361,2005.05.27,2005,Unprovoked,USA,Other,F,N
+1362,2005.05.25,2005,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1363,2005.05.15,2005,Unprovoked,AUSTRALIA,Fishing,M,N
+1364,2005.05.14,2005,Unprovoked,USA,Rowing,,N
+1366,2005.05.02.R,2005,Unprovoked,USA,Sea Disaster,M,N
+1367,2005.05.02,2005,Unprovoked,USA,Surfing,M,N
+1368,2005.04.25,2005,Provoked,AUSTRALIA,Fishing,M,N
+1369,2005.04.17.R,2005,Unprovoked,AUSTRALIA,Other,,N
+1370,2005.04.16.b,2005,Unprovoked,AUSTRALIA,Fishing,M,N
+1371,2005.04.16.a,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1372,2005.04.13,2005,Unprovoked,USA,Other,F,N
+1374,2005.04.07,2005,Unprovoked,USA,Surfing,M,N
+1375,2005.04.06,2005,Unprovoked,USA,Other,F,N
+1377,2005.03.28,2005,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1378,2005.03.27.R,2005,Unprovoked,AUSTRALIA,Surfing,M,N
+1380,2005.03.19,2005,Unprovoked,AUSTRALIA,Snorkeling,M,Y
+1381,2005.03.12,2005,Provoked,USA,Diving,M,N
+1383,2005.03.09,2005,Provoked,NEW ZEALAND,Fishing,M,N
+1384,2005.03.05,2005,Unprovoked,SOLOMON ISLANDS,Diving,M,N
+1385,2005.02.26,2005,Unprovoked,AUSTRALIA,Swimming,M,N
+1386,2005.02.22,2005,Provoked,USA,Fishing,M,N
+1387,2005.02.16,2005,Unprovoked,USA,Surfing,M,N
+1388,2005.02.13,2005,Unprovoked,USA,Fishing,M,N
+1389,2005.02.04,2005,Unprovoked,BRAZIL,Surfing,M,N
+1390,2005.01.20,2005,Unprovoked,CUBA,Swimming,M,N
+1391,2005.01.19,2005,Provoked,AUSTRALIA,Fishing,M,N
+1392,2005.01.14,2005,Provoked,AUSTRALIA,Other,,N
+1393,2005.01.08,2005,Unprovoked,NEW ZEALAND,Fishing,M,N
+1395,2004.12.16,2004,Unprovoked,AUSTRALIA,Surfing,M,Y
+1396,2004.12.11,2004,Unprovoked,AUSTRALIA,Fishing,M,Y
+1397,2004.11.27,2004,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1398,2004.11.26,2004,Unprovoked,SOUTH AFRICA,Other,M,N
+1399,2004.11.15,2004,Unprovoked,SOUTH AFRICA,Swimming,F,Y
+1400,2004.11.11.b,2004,Unprovoked,USA,Surfing,M,N
+1401,2004.11.11.a,2004,Unprovoked,VANUATU,Snorkeling,M,N
+1402,2004.11.00,2004,Unprovoked,NEW CALEDONIA,Diving,,N
+1403,2004.10.31,2004,Unprovoked,CUBA,Diving,M,N
+1405,2004.10.30.a,2004,Unprovoked,SOUTH AFRICA,Other,M,N
+1406,2004.10.21,2004,Unprovoked,AUSTRALIA,Surfing,M,N
+1407,2004.10.10,2004,Unprovoked,USA,Surfing,M,N
+1408,2004.10.09.b,2004,Unprovoked,USA,Fishing,M,N
+1409,2004.10.09.a,2004,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1410,2004.10.06,2004,Unprovoked,REUNION,Surfing,M,N
+1411,2004.10.02,2004,Unprovoked,USA,Surfing,M,N
+1412,2004.10.01,2004,Unprovoked,USA,Surfing,M,N
+1413,2004.09.25,2004,Boat,AUSTRALIA,Fishing,,N
+1414,2004.09.20,2004,Unprovoked,USA,Surfing,M,N
+1416,2004.09.08,2004,Unprovoked,BRAZIL,Swimming,,Y
+1417,2004.09.04,2004,Unprovoked,USA,Other,F,N
+1418,2004.08.29,2004,Unprovoked,USA,Treading Water,F,N
+1419,2004.08.21,2004,Unprovoked,BRAZIL,Swimming,M,N
+1420,2004.08.20,2004,Unprovoked,USA,Surfing,M,N
+1421,2004.08.15,2004,Unprovoked,USA,Diving,M,Y
+1422,2004.08.06,2004,Unprovoked,USA,Swimming,M,N
+1423,2004.08.03,2004,Unprovoked,AUSTRALIA,Fishing,M,N
+1424,2004.08.00,2004,Boat,SOUTH AFRICA,Fishing,,N
+1425,2004.07.31,2004,Unprovoked,USA,Surfing,F,N
+1427,2004.07.28,2004,Unprovoked,USA,Surfing,F,N
+1428,2004.07.27.b,2004,Unprovoked,USA,Swimming,F,N
+1429,2004.07.27.a,2004,Unprovoked,USA,Swimming,F,N
+1430,2004.07.25,2004,Unprovoked,USA,Fishing,M,N
+1431,2004.07.19.R,2004,Boat,AUSTRALIA,Fishing,,N
+1432,2004.07.15,2004,Unprovoked,JAPAN,Fishing,M,N
+1433,2004.07.10,2004,Unprovoked,AUSTRALIA,Surfing,M,Y
+1434,2004.07.02.b,2004,Unprovoked,EGYPT,Snorkeling,F,N
+1435,2004.07.02.a,2004,Unprovoked,USA,Other,M,N
+1436,2004.06.26.b,2004,Unprovoked,USA,Surfing,M,N
+1438,2004.06.14,2004,Unprovoked,USA,Diving,F,N
+1439,2004.06.10.b,2004,Unprovoked,AUSTRALIA,Surfing,M,N
+1440,2004.06.10.a,2004,Unprovoked,USA,Swimming,M,N
+1441,2004.06.02,2004,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+1442,2004.05.29,2004,Unprovoked,USA,Other,M,N
+1443,2004.05.23.b,2004,Unprovoked,BRAZIL,Swimming,M,N
+1444,2004.05.28,2004,Unprovoked,USA,Surfing,M,N
+1445,2004.05.23.a,2004,Unprovoked,USA,Surfing,M,N
+1447,2004.05.22.b,2004,Unprovoked,USA,Other,F,N
+1448,2004.05.22.a,2004,Unprovoked,BRAZIL,Other,F,N
+1449,2004.05.18,2004,Provoked,BAHAMAS,Fishing,M,N
+1450,2004.05.04,2004,Unprovoked,USA,Surfing,M,N
+1451,2004.05.01,2004,Unprovoked,BRAZIL,Swimming,M,Y
+1452,2004.04.26,2004,Unprovoked,AUSTRALIA,Diving,M,N
+1453,2004.04.22,2004,Boat,NEW ZEALAND,Fishing,,N
+1456,2004.04.07,2004,Unprovoked,USA,Surfing,M,Y
+1457,2004.04.05,2004,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1459,2004.03.31.b,2004,Unprovoked,USA,Other,M,N
+1460,2004.03.31.a,2004,Unprovoked,USA,Surfing,M,N
+1461,2004.03.29,2004,Unprovoked,BRAZIL,Surfing,M,N
+1462,2004.03.28,2004,Unprovoked,USA,Surfing,M,N
+1463,2004.03.27.b,2004,Unprovoked,REUNION,Surfing,M,N
+1464,2004.03.27.a,2004,Unprovoked,USA,Swimming,M,N
+1465,2004.03.24,2004,Unprovoked,USA,Snorkeling,F,N
+1466,2004.03.22,2004,Unprovoked,NEW ZEALAND,Fishing,M,N
+1467,2004.03.16,2004,Unprovoked,USA,Surfing,M,N
+1468,2004.03.06,2004,Unprovoked,AUSTRALIA,Fishing,M,N
+1469,2004.02.29,2004,Unprovoked,BRAZIL,Swimming,M,Y
+1470,2004.02.26,2004,Unprovoked,NEW ZEALAND,Surfing,M,N
+1471,2004.02.21,2004,Unprovoked,AUSTRALIA,Swimming,M,N
+1473,2004.02.14,2004,Unprovoked,EGYPT,Snorkeling,M,Y
+1474,2004.02.11,2004,Unprovoked,AUSTRALIA,Snorkeling,M,N
+1475,2004.01.25,2004,Unprovoked,AUSTRALIA,Diving,M,N
+1480,2004.01.15.R,2004,Boat,SOUTH AFRICA,Surfing,M,N
+1481,2004.01.12,2004,Unprovoked,AUSTRALIA,Diving,M,N
+1482,2004.01.07,2004,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1484,2004.01.03.a,2004,Unprovoked,EGYPT,Air Disaster,,Y
+1485,2004.00.00,2004,Unprovoked,AUSTRALIA,Surfing,M,N
+1486,2003.12.31,2003,Boat,SOUTH AFRICA,Other,,N
+1488,2003.12.13.b,2003,Unprovoked,USA,Swimming,M,N
+1489,2003.12.13.a,2003,Unprovoked,NEW ZEALAND,Swimming,M,Y
+1490,2003.12.08,2003,Unprovoked,AUSTRALIA,Surfing,M,N
+1491,2003.11.30.b,2003,Unprovoked,AUSTRALIA,Swimming,M,N
+1492,2003.11.30.a,2003,Unprovoked,AUSTRALIA,Swimming,M,N
+1493,2003.11.27,2003,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+1494,2003.11.22,2003,Unprovoked,USA,Surfing,F,N
+1496,2003.11.12.a,2003,Unprovoked,USA,Surfing,M,N
+1497,2003.11.06.b,2003,Unprovoked,EGYPT,Snorkeling,M,N
+1498,2003.11.06.a,2003,Unprovoked,SOUTH AFRICA,Surfing,,N
+1499,2003.11.01,2003,Unprovoked,AUSTRALIA,Other,M,N
+1500,2003.11.00,2003,Provoked,PANAMA,Fishing,M,N
+1501,2003.10.31.c,2003,Unprovoked,USA,Surfing,M,N
+1502,2003.10.31.b,2003,Unprovoked,AUSTRALIA,Surfing,M,N
+1503,2003.10.31.a,2003,Unprovoked,USA,Surfing,F,N
+1504,2003.10.27,2003,Unprovoked,USA,Surfing,M,N
+1506,2003.10.14,2003,Unprovoked,USA,Surfing,M,N
+1508,2003.10.05.e,2003,Unprovoked,USA,Surfing,F,N
+1509,2003.10.05.d,2003,Unprovoked,USA,Surfing,M,N
+1510,2003.10.05.c,2003,Provoked,USA,Surfing,M,N
+1511,2003.10.05.b,2003,Unprovoked,USA,Other,M,N
+1512,2003.10.05.a,2003,Unprovoked,USA,Fishing,F,N
+1513,2003.09.29,2003,Unprovoked,FIJI,Other,M,Y
+1514,2003.09.28,2003,Unprovoked,USA,Surfing,M,N
+1515,2003.09.21,2003,Unprovoked,USA,Surfing,M,N
+1516,2003.09.19,2003,Unprovoked,USA,Surfing,M,N
+1517,2003.09.17,2003,Unprovoked,USA,Surfing,M,N
+1518,2003.09.14.c,2003,Unprovoked,USA,Surfing,M,N
+1519,2003.09.14.b,2003,Boat,SOUTH AFRICA,Fishing,,N
+1521,2003.09.13.b,2003,Unprovoked,USA,Surfing,M,N
+1522,2003.09.13.a,2003,Unprovoked,USA,Other,M,N
+1523,2003.09.12,2003,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+1524,2003.09.00,2003,Unprovoked,USA,Fishing,M,N
+1525,2003.08.29,2003,Provoked,USA,Fishing,M,N
+1526,2003.08.19,2003,Unprovoked,USA,Swimming,F,Y
+1528,2003.08.08,2003,Unprovoked,SOUTH AFRICA,Other,M,N
+1529,2003.07.26.R,2003,Unprovoked,AUSTRALIA,Surfing,M,N
+1530,2003.07.20,2003,Unprovoked,USA,Surfing,M,N
+1531,2003.07.15,2003,Unprovoked,USA,Other,F,N
+1532,2003.07.09,2003,Unprovoked,BAHAMAS,Fishing,M,N
+1533,2003.07.05.b,2003,Provoked,USA,Treading Water,M,N
+1534,2003.07.05.a,2003,Unprovoked,USA,Surfing,M,N
+1535,2003.07.04,2003,Unprovoked,BAHAMAS,Fishing,M,N
+1536,2003.07.00.c,2003,Unprovoked,USA,Fishing,M,N
+1537,2003.07.00.b,2003,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+1538,2003.07.00.a,2003,Unprovoked,NEW ZEALAND,Snorkeling,M,N
+1539,2003.06.30,2003,Unprovoked,USA,Surfing,M,N
+1540,2003.06.26,2003,Unprovoked,USA,Surfing,M,N
+1541,2003.06.24.c,2003,Unprovoked,BRAZIL,Other,M,Y
+1542,2003.06.24.b,2003,Unprovoked,USA,Other,F,N
+1543,2003.06.24.a,2003,Unprovoked,USA,Swimming,M,N
+1544,2003.06.22,2003,Unprovoked,USA,Swimming,M,N
+1545,2003.06.19,2003,Unprovoked,USA,Surfing,M,N
+1546,2003.06.08,2003,Unprovoked,USA,Surfing,,N
+1548,2003.05.25,2003,Unprovoked,USA,Surfing,M,N
+1549,2003.05.14,2003,Unprovoked,USA,Other,M,N
+1550,2003.05.10,2003,Unprovoked,USA,Swimming,M,N
+1551,2003.05.07,2003,Provoked,USA,Surfing,M,N
+1552,2003.05.03,2003,Unprovoked,USA,Treading Water,F,N
+1553,2003.05.00,2003,Unprovoked,PHILIPPINES,Other,,N
+1554,2003.04.26,2003,Provoked,BRAZIL,Other,M,N
+1555,2003.04.25,2003,Unprovoked,BRAZIL,Swimming,M,N
+1556,2003.04.23.b,2003,Unprovoked,BRAZIL,Surfing,M,N
+1557,2003.04.23.a,2003,Unprovoked,BRAZIL,Swimming,M,N
+1558,2003.04.21.b,2003,Unprovoked,USA,Surfing,M,N
+1559,2003.04.21.a,2003,Unprovoked,USA,Surfing,M,N
+1560,2003.04.20.c,2003,Unprovoked,USA,Surfing,M,N
+1561,2003.04.20.b,2003,Unprovoked,USA,Surfing,M,N
+1562,2003.04.20.a,2003,Unprovoked,USA,Surfing,M,N
+1563,2003.04.19,2003,Unprovoked,USA,Other,M,N
+1564,2003.04.18,2003,Unprovoked,USA,Surfing,M,N
+1565,2003.04.15,2003,Unprovoked,USA,Swimming,M,N
+1567,2003.04.09,2003,Unprovoked,USA,Surfing,M,N
+1568,2003.04.04,2003,Unprovoked,USA,Surfing,M,N
+1569,2003.03.10,2003,Provoked,USA,Other,F,N
+1570,2003.02.27,2003,Unprovoked,NEW ZEALAND,Diving,M,N
+1571,2003.02.15.b,2003,Unprovoked,AUSTRALIA,Other,M,N
+1572,2003.02.15.a,2003,Unprovoked,USA,Swimming,M,N
+1573,2003.02.11,2003,Unprovoked,AUSTRALIA,Swimming,M,N
+1574,2003.02.08,2003,Unprovoked,AUSTRALIA,Swimming,M,Y
+1577,2003.01.02,2003,Unprovoked,AUSTRALIA,Surfing,F,N
+1578,2002.12.29,2002,Unprovoked,AUSTRALIA,Snorkeling,F,N
+1579,2002.12.24,2002,Unprovoked,SOUTH AFRICA,Snorkeling,M,N
+1580,2002.12.21,2002,Unprovoked,AUSTRALIA,Diving,M,N
+1582,2002.12.16,2002,Unprovoked,AUSTRALIA,Swimming,M,Y
+1583,2002.12.01,2002,Unprovoked,BRAZIL,Surfing,M,Y
+1585,2002.11.28.a,2002,Unprovoked,USA,Surfing,M,N
+1586,2002.11.17,2002,Unprovoked,USA,Swimming,F,N
+1588,2002.11.11,2002,Unprovoked,USA,Surfing,M,N
+1589,2002.11.02,2002,Unprovoked,USA,Surfing,M,N
+1590,2002.11.00.a,2002,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+1591,2002.10.30,2002,Unprovoked,USA,Swimming,F,N
+1592,2002.10.14,2002,Unprovoked,BRAZIL,Swimming,M,Y
+1593,2002.10.11,2002,Unprovoked,USA,Surfing,M,N
+1594,2002.10.05.b,2002,Unprovoked,USA,Surfing,M,N
+1595,2002.10.05.a,2002,Unprovoked,USA,Surfing,M,N
+1596,2002.10.03,2002,Unprovoked,USA,Surfing,M,N
+1597,2002.09.30,2002,Unprovoked,USA,Surfing,M,N
+1598,2002.09.29,2002,Unprovoked,USA,Surfing,M,N
+1599,2002.09.27.c,2002,Unprovoked,USA,Surfing,M,N
+1600,2002.09.27.b,2002,Provoked,USA,Fishing,M,N
+1601,2002.09.27.a,2002,Provoked,TONGA,Swimming,M,N
+1602,2002.09.21.b,2002,Unprovoked,USA,Surfing,M,N
+1603,2002.09.21.a,2002,Unprovoked,USA,Surfing,M,N
+1604,2002.09.16.b,2002,Unprovoked,BRAZIL,Swimming,M,N
+1605,2002.09.16.a,2002,Unprovoked,USA,Surfing,,N
+1606,2002.09.13,2002,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1607,2002.09.09,2002,Unprovoked,USA,Surfing,M,N
+1608,2002.09.05,2002,Provoked,USA,Other,M,N
+1609,2002.08.28,2002,Unprovoked,USA,Surfing,M,N
+1610,2002.08.17,2002,Unprovoked,USA,Swimming,F,N
+1611,2002.08.14,2002,Unprovoked,USA,Surfing,M,N
+1612,2002.08.11,2002,Unprovoked,USA,Surfing,M,N
+1613,2002.08.07,2002,Unprovoked,USA,Other,M,N
+1615,2002.08.05,2002,Unprovoked,USA,Other,M,N
+1616,2002.07.26,2002,Unprovoked,USA,Surfing,M,N
+1617,2002.07.20,2002,Unprovoked,USA,Swimming,F,N
+1618,2002.07.10,2002,Provoked,USA,Surfing,M,N
+1619,2002.07.09.b,2002,Provoked,USA,Fishing,M,Y
+1620,2002.07.09.a,2002,Unprovoked,BRAZIL,Surfing,M,N
+1621,2002.07.04,2002,Unprovoked,USA,Other,F,N
+1622,2002.06.20.b,2002,Unprovoked,AUSTRALIA,Surfing,M,N
+1623,2002.06.20.a,2002,Unprovoked,USA,Swimming,F,N
+1625,2002.06.13.R2,2002,Unprovoked,PAPUA NEW GUINEA,Other,,N
+1626,2002.06.13.R1,2002,Unprovoked,PAPUA NEW GUINEA,Other,,Y
+1627,2002.06.11.b,2002,Unprovoked,USA,Other,,N
+1628,2002.06.11.a,2002,Unprovoked,USA,Surfing,M,N
+1629,2002.06.09.b,2002,Unprovoked,USA,Surfing,M,N
+1630,2002.06.09.a,2002,Unprovoked,USA,Swimming,M,N
+1631,2002.06.03,2002,Unprovoked,SOUTH AFRICA,Snorkeling,M,N
+1632,2002.05.31.b,2002,Unprovoked,USA,Surfing,M,N
+1633,2002.05.31.a,2002,Unprovoked,USA,Other,M,N
+1634,2002.05.22.b,2002,Provoked,USA,Fishing,M,N
+1635,2002.05.22.a,2002,Unprovoked,USA,Other,M,N
+1637,2002.05.21,2002,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+1638,2002.05.13,2002,Unprovoked,USA,Fishing,M,N
+1639,2002.05.10,2002,Unprovoked,BRAZIL,Surfing,M,N
+1640,2002.05.07,2002,Provoked,AUSTRALIA,Fishing,M,N
+1641,2002.04.30,2002,Unprovoked,AUSTRALIA,Diving,M,Y
+1643,2002.04.20,2002,Unprovoked,USA,Surfing,M,N
+1644,2002.04.18,2002,Unprovoked,USA,Surfing,M,N
+1645,2002.04.12,2002,Unprovoked,AUSTRALIA,Swimming,M,N
+1646,2002.04.09,2002,Unprovoked,BAHAMAS,Other,M,N
+1647,2002.04.02,2002,Unprovoked,USA,Other,M,N
+1648,2002.04.01,2002,Unprovoked,USA,Swimming,M,N
+1649,2002.03.25.b,2002,Unprovoked,USA,Surfing,M,N
+1650,2002.03.25.a,2002,Unprovoked,USA,Other,F,N
+1651,2002.03.24,2002,Unprovoked,BRAZIL,Swimming,M,Y
+1652,2002.03.19,2002,Unprovoked,USA,Surfing,M,N
+1653,2002.03.15.b,2002,Unprovoked,USA,Snorkeling,M,N
+1654,2002.03.15.a,2002,Unprovoked,USA,Surfing,M,N
+1657,2002.02.16,2002,Unprovoked,AUSTRALIA,Surfing,M,N
+1658,2002.02.11,2002,Unprovoked,FIJI,Other,M,Y
+1659,2002.02.07,2002,Unprovoked,AUSTRALIA,Rowing,M,N
+1660,2002.01.30.b,2002,Unprovoked,AUSTRALIA,Surfing,M,N
+1661,2002.01.30.a,2002,Unprovoked,AUSTRALIA,Swimming,M,N
+1662,2002.01.04,2002,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1663,2002.01.03,2002,Unprovoked,BRAZIL,Swimming,,Y
+1664,2002.01.01.b,2002,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1665,2002.01.01.a,2002,Unprovoked,USA,Snorkeling,M,N
+1667,2001.11.23,2001,Unprovoked,AUSTRALIA,Surfing,M,N
+1668,2001.11.14,2001,Unprovoked,USA,Surfing,,N
+1670,2001.10.07,2001,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1671,2001.10.02,2001,Unprovoked,AUSTRALIA,Snorkeling,F,N
+1672,2001.09.30.b,2001,Unprovoked,MEXICO,Surfing,M,N
+1673,2001.09.30.a,2001,Boat,AUSTRALIA,Other,M,N
+1674,2001.09.24,2001,Provoked,USA,Surfing,M,N
+1675,2001.09.18,2001,Unprovoked,USA,Surfing,M,N
+1677,2001.09.15.b,2001,Unprovoked,USA,Surfing,M,N
+1678,2001.09.15.a,2001,Unprovoked,USA,Surfing,M,N
+1680,2001.09.08,2001,Provoked,USA,Fishing,M,N
+1681,2001.09.07.b,2001,Unprovoked,USA,Treading Water,M,N
+1683,2001.09.03.b,2001,Unprovoked,USA,Swimming,M,Y
+1684,2001.09.03.a,2001,Unprovoked,USA,Swimming,F,N
+1685,2001.09.02,2001,Unprovoked,USA,Other,M,N
+1686,2001.09.01,2001,Unprovoked,USA,Swimming,M,Y
+1687,2001.08.31,2001,Unprovoked,BAHAMAS,Fishing,M,N
+1688,2001.08.29,2001,Unprovoked,USA,Other,F,N
+1689,2001.08.27,2001,Unprovoked,USA,Other,M,N
+1690,2001.08.26,2001,Unprovoked,USA,Surfing,M,N
+1691,2001.08.25,2001,Unprovoked,USA,Surfing,M,N
+1692,2001.08.22,2001,Unprovoked,USA,Surfing,M,N
+1693,2001.08.21,2001,Unprovoked,USA,Surfing,M,N
+1694,2001.08.19.c,2001,Unprovoked,USA,Surfing,M,N
+1695,2001.08.19.b,2001,Unprovoked,USA,Surfing,F,N
+1696,2001.08.19.a,2001,Unprovoked,USA,Surfing,F,N
+1697,2001.08.18.c,2001,Unprovoked,USA,Surfing,M,N
+1698,2001.08.18.b,2001,Unprovoked,USA,Surfing,M,N
+1699,2001.08.18.a,2001,Unprovoked,USA,Surfing,M,N
+1700,2001.08.16,2001,Unprovoked,BAHAMAS,Fishing,M,N
+1702,2001.08.05,2001,Unprovoked,USA,Other,F,N
+1703,2001.08.04,2001,Unprovoked,BAHAMAS,Swimming,M,N
+1704,2001.08.03,2001,Boat,ITALY,Fishing,,N
+1705,2001.07.26,2001,Unprovoked,USA,Other,F,N
+1706,2001.07.25,2001,Unprovoked,USA,Other,M,N
+1707,2001.07.24,2001,Unprovoked,USA,Other,F,N
+1708,2001.07.21,2001,Boat,USA,Fishing,,N
+1709,2001.07.15.b,2001,Unprovoked,USA,Surfing,M,N
+1710,2001.07.15.a,2001,Unprovoked,USA,Surfing,M,N
+1711,2001.07.06.b,2001,Unprovoked,MEXICO,Surfing,M,N
+1712,2001.07.06.a,2001,Unprovoked,USA,Swimming,M,N
+1713,2001.07.03,2001,Unprovoked,USA,Other,,N
+1714,2001.07.00,2001,Unprovoked,USA,Other,M,N
+1715,2001.06.12,2001,Unprovoked,USA,Swimming,M,N
+1716,2001.06.10,2001,Provoked,USA,Fishing,M,N
+1718,2001.06.03,2001,Unprovoked,USA,Other,F,N
+1719,2001.05.29,2001,Unprovoked,USA,Other,M,N
+1720,2001.05.23 ,2001,Unprovoked,USA,Swimming,M,N
+1721,2001.05.20,2001,Unprovoked,USA,Swimming,M,N
+1722,2001.05.18,2001,Provoked,PHILIPPINES,Fishing,M,N
+1724,2001.05.08,2001,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1725,2001.05.04,2001,Unprovoked,AUSTRALIA,Surfing,M,N
+1726,2001.05.03,2001,Unprovoked,USA,Surfing,M,N
+1727,2001.05.00,2001,Unprovoked,FIJI,Fishing,M,Y
+1728,2001.04.28,2001,Unprovoked,USA,Surfing,M,N
+1729,2001.04.13.b,2001,Unprovoked,USA,Surfing,M,N
+1730,2001.04.13.a,2001,Unprovoked,USA,Surfing,M,N
+1731,2001.04.12.e,2001,Unprovoked,USA,Other,M,N
+1732,2001.04.12.d,2001,Unprovoked,USA,Surfing,M,N
+1733,2001.04.12.c,2001,Unprovoked,USA,Surfing,M,N
+1734,2001.04.12.b,2001,Unprovoked,USA,Surfing,M,N
+1735,2001.04.12.a,2001,Unprovoked,USA,Surfing,M,N
+1736,2001.04.11.d,2001,Unprovoked,USA,Surfing,M,N
+1737,2001.04.11.c,2001,Unprovoked,USA,Surfing,M,N
+1738,2001.04.11.a,2001,Unprovoked,USA,Surfing,M,N
+1739,2001.04.10,2001,Unprovoked,USA,Surfing,,N
+1740,2001.04.08.b,2001,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1741,2001.04.08.a,2001,Provoked,AUSTRALIA,Snorkeling,M,N
+1742,2001.04.05,2001,Unprovoked,USA,Other,M,N
+1743,2001.04.02.b,2001,Unprovoked,BRAZIL,Other,F,N
+1744,2001.04.02.a,2001,Unprovoked,AUSTRALIA,Surfing,M,N
+1745,2001.03.23,2001,Unprovoked,USA,Surfing,M,N
+1746,2001.03.09,2001,Unprovoked,USA,Surfing,M,N
+1748,2001.03.03,2001,Unprovoked,BRAZIL,Swimming,M,Y
+1750,2001.02.26,2001,Boat,AUSTRALIA,Fishing,,N
+1752,2001.02.04,2001,Unprovoked,AUSTRALIA,Surfing,M,N
+1753,2001.01.24.R,2001,Boat,AUSTRALIA,Rowing,M,N
+1754,2001.01.24,2001,Unprovoked,CUBA,Swimming,F,N
+1755,2001.01.21 ,2001,Boat,AUSTRALIA,Fishing,,N
+1756,2001.01.09,2001,Unprovoked,USA,Surfing,M,N
+1757,2001.01.06,2001,Boat,NEW ZEALAND,Rowing,M,N
+1758,2000.12.24,2000,Unprovoked,AUSTRALIA,Diving,M,N
+1759,2000.12.12,2000,Unprovoked,FIJI,Swimming,M,Y
+1760,2000.12.11,2000,Boat,AUSTRALIA,Fishing,,N
+1762,2000.12.03,2000,Unprovoked,AUSTRALIA,Fishing,M,N
+1763,2000.12.00,2000,Unprovoked,NEW ZEALAND,Surfing,F,Y
+1764,2000.11.21,2000,Unprovoked,AUSTRALIA,Diving,M,N
+1766,2000.11.18,2000,Unprovoked,USA,Swimming,M,N
+1768,2000.11.06.b,2000,Unprovoked,AUSTRALIA,Swimming,M,N
+1769,2000.11.06.a,2000,Unprovoked,AUSTRALIA,Swimming,M,Y
+1770,2000.11.04,2000,Unprovoked,USA,Surfing,M,N
+1771,2000.10.29,2000,Boat,AUSTRALIA,Fishing,,N
+1772,2000.10.20,2000,Unprovoked,USA,Surfing,M,N
+1773,2000.10.18,2000,Unprovoked,USA,Snorkeling,F,N
+1774,2000.10.14,2000,Unprovoked,USA,Swimming,M,N
+1775,2000.10.09,2000,Unprovoked,USA,Surfing,M,N
+1776,2000.10.06.b,2000,Unprovoked,USA,Surfing,M,N
+1777,2000.10.06.a,2000,Unprovoked,USA,Surfing,M,N
+1778,2000.10.02,2000,Unprovoked,USA,Surfing,M,N
+1779,2000.09.29,2000,Unprovoked,USA,Other,M,N
+1780,2000.09.25,2000,Unprovoked,AUSTRALIA,Surfing,M,Y
+1781,2000.09.24,2000,Unprovoked,AUSTRALIA,Surfing,M,Y
+1782,2000.09.18,2000,Provoked,AUSTRALIA,Other,M,N
+1784,2000.09.16.a,2000,Unprovoked,USA,Other,,N
+1785,2000.09.15,2000,Unprovoked,USA,Surfing,M,N
+1786,2000.09.12,2000,Unprovoked,USA,Surfing,F,N
+1787,2000.09.11,2000,Unprovoked,USA,Surfing,M,N
+1788,2000.09.10.b,2000,Unprovoked,USA,Swimming,M,N
+1789,2000.09.10.a,2000,Unprovoked,SOUTH AFRICA,Diving,M,N
+1791,2000.09.08.b,2000,Unprovoked,USA,Other,M,N
+1792,2000.09.08.a,2000,Unprovoked,REUNION,Surfing,M,N
+1794,2000.08.31,2000,Unprovoked,USA,Swimming,M,N
+1795,2000.08.30,2000,Unprovoked,USA,Other,M,Y
+1796,2000.08.27.R,2000,Provoked,USA,Other,M,N
+1797,2000.08.21,2000,Unprovoked,USA,Swimming,M,N
+1798,2000.08.15,2000,Unprovoked,USA,Surfing,M,N
+1799,2000.08.13,2000,Unprovoked,USA,Surfing,M,N
+1800,2000.08.12,2000,Unprovoked,USA,Other,F,N
+1804,2000.07.25,2000,Unprovoked,USA,Other,M,N
+1805,2000.07.22,2000,Unprovoked,USA,Snorkeling,F,N
+1806,2000.07.17,2000,Unprovoked,USA,Surfing,M,N
+1807,2000.07.16.b,2000,Unprovoked,USA,Surfing,M,N
+1808,2000.07.16.a,2000,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1809,2000.07.15.b,2000,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1810,2000.07.15.a,2000,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1812,2000.07.10,2000,Unprovoked,USA,Other,M,N
+1813,2000.07.09,2000,Unprovoked,USA,Swimming,M,N
+1814,2000.07.07,2000,Unprovoked,USA,Other,M,N
+1815,2000.07.06,2000,Unprovoked,USA,Other,F,N
+1816,2000.07.04.b,2000,Unprovoked,USA,Other,F,N
+1817,2000.07.04.a,2000,Unprovoked,USA,Fishing,F,N
+1818,2000.07.02.b,2000,Unprovoked,USA,Other,F,N
+1819,2000.07.02.a,2000,Unprovoked,USA,Other,F,N
+1821,2000.06.30,2000,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+1822,2000.06.29,2000,Boat,NEW ZEALAND,Fishing,M,N
+1823,2000.06.19,2000,Unprovoked,USA,Other,M,N
+1824,2000.06.13,2000,Boat,USA,Other,,N
+1825,2000.06.10,2000,Unprovoked,USA,Surfing,M,N
+1826,2000.06.09.b,2000,Unprovoked,USA,Swimming,M,N
+1827,2000.06.09.a,2000,Unprovoked,USA,Swimming,M,N
+1828,2000.06.02,2000,Unprovoked,USA,Snorkeling,M,N
+1830,2000.05.13,2000,Unprovoked,NEW CALEDONIA,Air Disaster,,Y
+1832,2000.05.07.b,2000,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+1833,2000.05.07.a,2000,Unprovoked,PAPUA NEW GUINEA,Diving,M,Y
+1834,2000.04.14,2000,Unprovoked,USA,Treading Water,M,N
+1835,2000.04.09,2000,Unprovoked,USA,Surfing,M,N
+1836,2000.03.31,2000,Unprovoked,USA,Fishing,M,N
+1837,2000.03.30,2000,Unprovoked,AUSTRALIA,Swimming,M,N
+1838,2000.03.26,2000,Unprovoked,USA,Surfing,F,N
+1839,2000.03.24,2000,Unprovoked,USA,Surfing,M,N
+1840,2000.03.15,2000,Unprovoked,NEW CALEDONIA,Fishing,M,Y
+1841,2000.03.14,2000,Unprovoked,AUSTRALIA,Surfing,M,N
+1842,2000.03.10,2000,Boat,AUSTRALIA,Other,,N
+1843,2000.03.09,2000,Boat,AUSTRALIA,Other,,N
+1845,2000.03.02,2000,Unprovoked,AUSTRALIA,Swimming,M,N
+1846,2000.03.00,2000,Unprovoked,USA,Fishing,M,N
+1847,2000.02.21,2000,Unprovoked,USA,Other,M,N
+1848,2000.02.19,2000,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1850,2000.02.03,2000,Unprovoked,NEW ZEALAND,Surfing,M,N
+1851,2000.02.01,2000,Unprovoked,AUSTRALIA,Surfing,M,N
+1852,2000.01.28.R,2000,Boat,REUNION,Rowing,M,Y
+1854,2000.00.00,2000,Boat,USA,Fishing,M,N
+1855,1999.12.31.c,1999,Unprovoked,NEW ZEALAND,Surfing,M,N
+1856,1999.12.31.b,1999,Unprovoked,NEW ZEALAND,Swimming,F,N
+1857,1999.12.31.a,1999,Unprovoked,NEW ZEALAND,Swimming,F,N
+1858,1999.12.26,1999,Unprovoked,BRAZIL,Surfing,M,N
+1861,1999.12.02,1999,Unprovoked,USA,Surfing,M,N
+1862,1999.11.30,1999,Unprovoked,USA,Surfing,M,N
+1863,1999.11.23,1999,Unprovoked,USA,Swimming,F,N
+1864,1999.11.15,1999,Unprovoked,USA,Surfing,M,N
+1865,1999.11.13,1999,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1866,1999.11.06,1999,Unprovoked,BRAZIL,Fishing,M,N
+1869,1999.10.30.b,1999,Unprovoked,USA,Surfing,M,N
+1870,1999.10.30.a,1999,Unprovoked,USA,Surfing,M,N
+1871,1999.10.20,1999,Unprovoked,USA,Surfing,M,N
+1872,1999.10.01,1999,Unprovoked,USA,Surfing,M,N
+1873,1999.09.29,1999,Unprovoked,USA,Surfing,M,N
+1874,1999.09.24,1999,Boat,ITALY,Fishing,,N
+1875,1999.09.16,1999,Unprovoked,USA,Other,F,N
+1876,1999.09.10,1999,Unprovoked,USA,Other,F,N
+1877,1999.09.05,1999,Unprovoked,USA,Surfing,M,N
+1878,1999.09.04.b,1999,Provoked,USA,Other,M,N
+1879,1999.09.04.a,1999,Unprovoked,USA,Other,M,N
+1880,1999.08.26,1999,Unprovoked,USA,Surfing,M,N
+1881,1999.08.24,1999,Unprovoked,USA,Surfing,M,N
+1883,1999.08.21,1999,Unprovoked,USA,Surfing,M,N
+1884,1999.08.16,1999,Unprovoked,USA,Other,M,N
+1885,1999.08.05.a,1999,Unprovoked,USA,Surfing,M,N
+1886,1999.08.05,1999,Unprovoked,BAHAMAS,Fishing,M,N
+1887,1999.07.29,1999,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1888,1999.07.26,1999,Unprovoked,USA,Swimming,M,N
+1889,1999.07.21,1999,Unprovoked,USA,Surfing,M,N
+1890,1999.07.15,1999,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+1891,1999.07.06,1999,Unprovoked,USA,Other,M,N
+1892,1999.07.04,1999,Unprovoked,USA,Other,F,N
+1893,1999.07.03,1999,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1894,1999.06.19,1999,Unprovoked,USA,Other,M,N
+1895,1999.06.17,1999,Unprovoked,USA,Surfing,M,N
+1896,1999.06.12,1999,Unprovoked,USA,Swimming,M,N
+1897,1999.06.09,1999,Unprovoked,USA,Other,M,N
+1898,1999.05.29,1999,Unprovoked,AUSTRALIA,Surfing,M,Y
+1899,1999.05.01,1999,Unprovoked,BRAZIL,Surfing,M,N
+1901,1999.04.11,1999,Unprovoked,REUNION,Swimming,M,Y
+1902,1999.04.01,1999,Unprovoked,USA,Surfing,M,N
+1903,1999.03.18.R,1999,Unprovoked,NEW ZEALAND,Fishing,M,N
+1904,1999.03.18.b,1999,Provoked,BRAZIL,Other,M,N
+1905,1999.03.18.a,1999,Unprovoked,USA,Swimming,F,Y
+1906,1999.03.14.b,1999,Unprovoked,NEW CALEDONIA,Fishing,M,N
+1907,1999.03.14.a,1999,Provoked,NEW ZEALAND,Fishing,M,N
+1908,1999.03.08,1999,Unprovoked,USA,Surfing,M,N
+1909,1999.03.05,1999,Unprovoked,USA,Swimming,F,N
+1910,1999.02.26.R,1999,Boat,USA,Other,,N
+1911,1999.02.23,1999,Unprovoked,AUSTRALIA,Surfing,M,N
+1912,1999.02.03,1999,Unprovoked,USA,Surfing,M,N
+1914,1999.01.13,1999,Unprovoked,SOUTH AFRICA,Paddle Sport,M,N
+1915,1999.01.07,1999,Boat,NEW ZEALAND,Other,,N
+1917,1999.01.03,1999,Unprovoked,REUNION,Fishing,,Y
+1918,1999.00.00.b,1999,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1920,1998.12.24,1998,Provoked,USA,Surfing,M,N
+1921,1998.12.22,1998,Unprovoked,AUSTRALIA,Other,F,N
+1922,1998.12.20.R,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1923,1998.12.18,1998,Unprovoked,SOUTH AFRICA,Other,M,N
+1924,1998.12.15,1998,Unprovoked,AUSTRALIA,Surfing,F,N
+1925,1998.11.21,1998,Unprovoked,USA,Swimming,M,Y
+1926,1998.11.14,1998,Unprovoked,USA,Surfing,M,N
+1927,1998.11.11,1998,Unprovoked,USA,Treading Water,M,N
+1928,1998.11.05,1998,Unprovoked,USA,Surfing,M,N
+1929,1998.11.02.b,1998,Provoked,JAPAN,Fishing,M,N
+1930,1998.11.02.a,1998,Unprovoked,BRAZIL,Surfing,M,Y
+1931,1998.10.24,1998,Unprovoked,USA,Swimming,F,N
+1932,1998.10.18,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1933,1998.10.10,1998,Unprovoked,USA,Surfing,M,N
+1934,1998.10.04,1998,Unprovoked,BRAZIL,Surfing,M,N
+1935,1998.10.01.b,1998,Unprovoked,REUNION,Diving,,N
+1936,1998.10.01.a,1998,Unprovoked,USA,Other,M,N
+1937,1998.09.27,1998,Unprovoked,USA,Surfing,M,N
+1938,1998.09.22,1998,Unprovoked,USA,Surfing,M,N
+1939,1998.09.16.R,1998,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1940,1998.09.14,1998,Unprovoked,USA,Surfing,M,N
+1942,1998.08.30,1998,Unprovoked,USA,Surfing,M,N
+1944,1998.08.26,1998,Unprovoked,USA,Surfing,M,N
+1945,1998.08.23.R,1998,Unprovoked,USA,Fishing,M,N
+1946,1998.08.15,1998,Unprovoked,BAHAMAS,Fishing,M,N
+1947,1998.08.13,1998,Unprovoked,USA,Surfing,M,N
+1948,1998.08.12,1998,Provoked,SOUTH AFRICA,Other,M,N
+1949,1998.08.01.b,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1950,1998.08.01.a,1998,Unprovoked,SOUTH AFRICA,Fishing,M,N
+1951,1998.07.26,1998,Unprovoked,BRAZIL,Surfing,M,N
+1952,1998.07.25,1998,Unprovoked,USA,Surfing,M,N
+1953,1998.07.06.b,1998,Unprovoked,SOUTH AFRICA,Other,M,N
+1954,1998.07.11,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1955,1998.07.06.a,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1956,1998.06.28.a,1998,Unprovoked,AUSTRALIA,Diving,M,Y
+1957,1998.06.22,1998,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+1958,1998.06.08,1998,Unprovoked,USA,Surfing,M,N
+1959,1998.06.05,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1960,1998.05.30,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1961,1998.05.29.b,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1962,1998.05.29.a,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1963,1998.05.25,1998,Unprovoked,USA,Surfing,M,N
+1964,1998.05.16.c,1998,Unprovoked,USA,Swimming,F,N
+1965,1998.05.16.b,1998,Unprovoked,USA,Surfing,M,N
+1966,1998.05.16.a,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1967,1998.04.26,1998,Unprovoked,MOZAMBIQUE,Other,F,Y
+1968,1998.04.21,1998,Unprovoked,USA,Surfing,M,N
+1969,1998.04.17,1998,Provoked,USA,Diving,M,N
+1970,1998.04.01,1998,Unprovoked,BRAZIL,Swimming,M,Y
+1971,1998.04.00,1998,Unprovoked,NEW CALEDONIA,Other,,N
+1972,1998.03.31,1998,Unprovoked,USA,Swimming,M,N
+1973,1998.03.15,1998,Unprovoked,SOUTH AFRICA,Snorkeling,M,N
+1974,1998.03.08.a,1998,Unprovoked,USA,Surfing,M,N
+1975,1998.02.23,1998,Unprovoked,USA,Swimming,M,N
+1977,1998.01.28.a,1998,Unprovoked,NEW CALEDONIA,Surfing,M,N
+1978,1998.01.25.b,1998,Unprovoked,REUNION,Swimming,M,Y
+1979,1998.01.25.a,1998,Unprovoked,SOUTH AFRICA,Surfing,M,N
+1980,1998.01.17,1998,Unprovoked,AUSTRALIA,Surfing,M,N
+1981,1998.01.14,1998,Unprovoked,MOZAMBIQUE,Surfing,M,N
+1982,1998.00.00.c,1998,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+1983,1998.00.00.b,1998,Unprovoked,REUNION,Diving,,Y
+1984,1998.00.00.a,1998,Unprovoked,USA,Fishing,M,N
+1985,1997.12.28.b,1997,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+1986,1997.12.28.a,1997,Unprovoked,SOUTH AFRICA,Other,M,N
+1988,1997.12.25.a,1997,Unprovoked,USA,Swimming,M,N
+1989,1997.11.09,1997,Unprovoked,AUSTRALIA,Diving,M,N
+1990,1997.11.05.R,1997,Unprovoked,USA,Swimming,M,N
+1992,1997.10.28.b,1997,Unprovoked,AUSTRALIA,Surfing,M,N
+1993,1997.10.28.a,1997,Unprovoked,USA,Surfing,M,N
+1994,1997.10.24,1997,Unprovoked,USA,Surfing,M,N
+1995,1997.10.21,1997,Unprovoked,USA,Surfing,M,N
+1996,1997.10.11.R,1997,Boat,SOUTH AFRICA,Fishing,,N
+1997,1997.10.04,1997,Unprovoked,USA,Swimming,F,N
+1998,1997.09.16,1997,Unprovoked,BRAZIL,Swimming,M,Y
+1999,1997.09.09,1997,Unprovoked,USA,Surfing,M,N
+2000,1997.09.08,1997,Unprovoked,USA,Surfing,,N
+2001,1997.09.06,1997,Unprovoked,USA,Surfing,M,N
+2002,1997.08.30,1997,Unprovoked,USA,Surfing,M,N
+2003,1997.08.27,1997,Unprovoked,USA,Surfing,M,N
+2004,1997.08.24,1997,Unprovoked,USA,Surfing,M,N
+2006,1997.08.14.a,1997,Unprovoked,MEXICO,Diving,M,Y
+2007,1997.08.11.c,1997,Unprovoked,USA,Other,F,N
+2008,1997.08.11.b,1997,Unprovoked,EGYPT,Fishing,M,N
+2009,1997.08.11.a,1997,Unprovoked,EGYPT,Fishing,M,Y
+2010,1997.08.10,1997,Unprovoked,USA,Surfing,M,N
+2011,1997.08.09,1997,Unprovoked,USA,Surfing,M,N
+2012,1997.08.05,1997,Unprovoked,USA,Other,F,N
+2013,1997.08.04,1997,Unprovoked,USA,Fishing,M,N
+2014,1997.08.02.b,1997,Unprovoked,USA,Surfing,M,N
+2015,1997.08.02.a,1997,Unprovoked,USA,Surfing,M,N
+2016,1997.07.27,1997,Unprovoked,AUSTRALIA,Surfing,M,N
+2017,1997.07.21,1997,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+2018,1997.07.17,1997,Unprovoked,BRAZIL,Surfing,M,N
+2019,1997.07.14,1997,Unprovoked,USA,Other,M,N
+2021,1997.07.02.R,1997,Unprovoked,BRAZIL,Surfing,,N
+2022,1997.06.24,1997,Unprovoked,USA,Fishing,M,N
+2023,1997.06.15,1997,Unprovoked,FIJI,Snorkeling,F,N
+2024,1997.06.09,1997,Unprovoked,USA,Surfing,M,N
+2026,1997.06.02,1997,Unprovoked,USA,Surfing,M,N
+2027,1997.05.31.c,1997,Unprovoked,USA,Fishing,M,N
+2028,1997.05.31.b,1997,Unprovoked,USA,Surfing,M,N
+2029,1997.05.31.a,1997,Unprovoked,USA,Surfing,M,N
+2030,1997.05.26,1997,Unprovoked,BAHAMAS,Fishing,M,N
+2031,1997.05.17,1997,Unprovoked,BAHAMAS,Fishing,M,N
+2032,1997.04.20,1997,Unprovoked,BRAZIL,Surfing,M,N
+2033,1997.02.28.b,1997,Unprovoked,AUSTRALIA,Swimming,F,N
+2034,1997.02.28.a,1997,Unprovoked,AUSTRALIA,Diving,M,N
+2036,1997.02.20,1997,Unprovoked,REUNION,Other,M,N
+2037,1997.02.03,1997,Boat,AUSTRALIA,Other,F,N
+2038,1997.01.25,1997,Unprovoked,AUSTRALIA,Snorkeling,M,N
+2039,1997.01.20,1997,Unprovoked,AUSTRALIA,Surfing,M,Y
+2040,1997.01.03.a,1997,Unprovoked,REUNION,Fishing,M,Y
+2041,1997.01.01,1997,Boat,AUSTRALIA,Other,,N
+2043,1996.12.10,1996,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2044,1996.12.00.b,1996,Unprovoked,NEW CALEDONIA,Fishing,M,Y
+2045,1996.12.00.a,1996,Unprovoked,NEW CALEDONIA,Other,F,N
+2046,1996.11.29.a,1996,Unprovoked,USA,Surfing,M,N
+2047,1996.11.18,1996,Unprovoked,USA,Surfing,M,N
+2048,1996.10.28.b,1996,Unprovoked,BRAZIL,Surfing,,N
+2049,1996.10.28.a,1996,Unprovoked,BRAZIL,Surfing,M,N
+2051,1996.10.05.,1996,Unprovoked,USA,Surfing,M,N
+2052,1996.10.03.b,1996,Unprovoked,USA,Surfing,M,N
+2053,1996.10.03.a,1996,Unprovoked,USA,Surfing,M,N
+2054,1996.10.00,1996,Unprovoked,BRAZIL,Other,,N
+2055,1996.09.18,1996,Unprovoked,USA,Swimming,M,N
+2056,1996.09.06.b,1996,Unprovoked,NEW ZEALAND,Diving,M,N
+2057,1996.09.06.a,1996,Unprovoked,USA,Surfing,M,N
+2058,1996.09.02.b,1996,Unprovoked,USA,Other,M,N
+2059,1996.09.02.a,1996,Unprovoked,USA,Other,M,N
+2061,1996.09.01.a,1996,Provoked,SOUTH AFRICA,Fishing,M,N
+2062,1996.08.29,1996,Unprovoked,USA,Surfing,M,N
+2063,1996.08.13,1996,Unprovoked,USA,Diving,M,N
+2064,1996.08.11,1996,Unprovoked,USA,Fishing,M,N
+2065,1996.07.26,1996,Unprovoked,USA,Other,F,N
+2068,1996.07.21,1996,Unprovoked,USA,Swimming,M,N
+2069,1996.07.20,1996,Unprovoked,USA,Swimming,M,N
+2071,1996.07.10,1996,Unprovoked,USA,Other,M,N
+2072,1996.07.04.b,1996,Unprovoked,USA,Other,F,N
+2073,1996.07.04.a,1996,Unprovoked,BAHAMAS,Diving,M,N
+2074,1996.06.25,1996,Unprovoked,USA,Surfing,F,N
+2075,1996.06.06,1996,Unprovoked,AUSTRALIA,Surfing,M,N
+2076,1996.06.04,1996,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2077,1996.05.28,1996,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2079,1996.05.18,1996,Unprovoked,USA,Surfing,M,N
+2081,1996.05.07,1996,Unprovoked,USA,Surfing,M,N
+2083,1996.04.25.b,1996,Unprovoked,AUSTRALIA,Swimming,M,N
+2084,1996.04.25.a,1996,Unprovoked,AUSTRALIA,Swimming,F,N
+2085,1996.04.07,1996,Unprovoked,BRAZIL,Swimming,M,Y
+2086,1996.03.05,1996,Unprovoked,AUSTRALIA,Swimming,F,N
+2087,1996.03.00,1996,Unprovoked,AUSTRALIA,Fishing,M,N
+2088,1996.02.26,1996,Unprovoked,AUSTRALIA,Other,M,N
+2089,1996.02.19.R,1996,Provoked,USA,Swimming,F,N
+2090,1996.02.10.c,1996,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+2091,1996.02.10.b,1996,Unprovoked,PAPUA NEW GUINEA,Other,,N
+2092,1996.02.10.a,1996,Unprovoked,PAPUA NEW GUINEA,Diving,,Y
+2094,1996.02.04,1996,Unprovoked,AUSTRALIA,Swimming,M,N
+2095,1996.01.23,1996,Provoked,USA,Other,M,N
+2096,1996.01.22,1996,Unprovoked,AUSTRALIA,Swimming,F,N
+2097,1996.01.16,1996,Unprovoked,USA,Snorkeling,M,N
+2099,1996.01.12,1996,Boat,AUSTRALIA,Other,,N
+2100,1996.01.10,1996,Unprovoked,REUNION,Surfing,M,Y
+2101,1996.00.00.b,1996,Unprovoked,FIJI,Other,M,Y
+2102,1996.00.00.a,1996,Unprovoked,USA,Surfing,M,N
+2104,1995.11.29,1995,Unprovoked,NEW ZEALAND,Diving,M,N
+2107,1995.11.17,1995,Unprovoked,AUSTRALIA,Other,M,N
+2108,1995.10.28.R,1995,Unprovoked,USA,Surfing,M,N
+2109,1995.10.21,1995,Unprovoked,USA,Surfing,M,N
+2110,1995.10.11,1995,Unprovoked,AUSTRALIA,Other,F,N
+2111,1995.10.01,1995,Unprovoked,USA,Surfing,M,N
+2112,1995.09.30.b,1995,Unprovoked,USA,Surfing,M,N
+2113,1995.09.30.a,1995,Unprovoked,USA,Surfing,M,N
+2114,1995.09.28,1995,Unprovoked,USA,Surfing,M,N
+2115,1995.09.19.,1995,Unprovoked,USA,Surfing,M,N
+2116,1995.09.17,1995,Unprovoked,USA,Swimming,F,N
+2117,1995.09.16,1995,Unprovoked,REUNION,Surfing,M,Y
+2118,1995.09.13,1995,Unprovoked,USA,Diving,M,Y
+2119,1995.09.11,1995,Unprovoked,AUSTRALIA,Diving,M,Y
+2120,1995.09.03.b,1995,Unprovoked,USA,Diving,M,N
+2122,1995.08.31.b,1995,Unprovoked,USA,Surfing,M,N
+2123,1995.08.31.a,1995,Unprovoked,USA,Other,M,N
+2124,1995.08.27,1995,Unprovoked,BRAZIL,Surfing,M,N
+2125,1995.08.26/b,1995,Unprovoked,USA,Surfing,M,N
+2126,1995.08.26.a,1995,Unprovoked,USA,Surfing,M,N
+2127,1995.08.25,1995,Unprovoked,USA,Swimming,M,N
+2128,1995.08.22.c,1995,Unprovoked,USA,Swimming,M,N
+2129,1995.08.22.a,1995,Unprovoked,USA,Surfing,M,N
+2130,1995.08.21,1995,Unprovoked,USA,Diving,,N
+2131,1995.08.19,1995,Unprovoked,TONGA,Fishing,M,N
+2132,1995.08.15,1995,Unprovoked,USA,Other,M,N
+2134,1995.08.10.b,1995,Unprovoked,USA,Surfing,M,N
+2135,1995.08.10.a,1995,Unprovoked,USA,Other,F,N
+2136,1995.08.07,1995,Unprovoked,USA,Surfing,M,N
+2139,1995.07.28.e,1995,Unprovoked,USA,Surfing,M,N
+2140,1995.07.28.d,1995,Unprovoked,USA,Surfing,M,N
+2141,1995.07.28.c,1995,Unprovoked,USA,Surfing,M,N
+2142,1995.07.28.b,1995,Unprovoked,USA,Other,M,N
+2143,1995.07.28.a,1995,Unprovoked,USA,Other,M,N
+2144,1995.07.24,1995,Unprovoked,USA,Swimming,F,N
+2145,1995.07.23,1995,Unprovoked,USA,Surfing,M,N
+2146,1984.11.08,1984,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2147,1995.07.07,1995,Unprovoked,BRAZIL,Surfing,M,Y
+2148,1995.07.06,1995,Unprovoked,USA,Surfing,M,N
+2149,1995.07.03,1995,Provoked,USA,Fishing,F,N
+2150,1995.07.00,1995,Provoked,USA,Other,M,N
+2151,1995.06.30,1995,Unprovoked,USA,Diving,M,N
+2152,1995.06.24,1995,Unprovoked,USA,Rowing,F,N
+2153,1995.06.23,1995,Unprovoked,USA,Other,M,N
+2154,1995.06.17.b,1995,Unprovoked,USA,Surfing,M,N
+2155,1995.06.17.a,1995,Unprovoked,USA,Swimming,M,N
+2156,1995.06.16,1995,Unprovoked,USA,Swimming,F,N
+2157,1995.06.14,1995,Unprovoked,USA,Swimming,M,N
+2158,1995.06.13,1995,Unprovoked,HONG KONG,Swimming,F,Y
+2159,1995.06.02,1995,Unprovoked,HONG KONG,Swimming,M,Y
+2160,1995.05.31,1995,Unprovoked,HONG KONG,Diving,,Y
+2161,1995.05.26,1995,Unprovoked,USA,Surfing,M,N
+2162,1995.05.24,1995,Unprovoked,FIJI,Other,M,Y
+2166,1995.04.13,1995,Unprovoked,USA,Other,M,N
+2167,1995.04.09.b,1995,Unprovoked,AUSTRALIA,Diving,M,N
+2168,1995.04.09.a,1995,Unprovoked,JAPAN,Diving,M,Y
+2169,1995.03.21,1995,Unprovoked,AUSTRALIA,Surfing,F,N
+2170,1995.03.11,1995,Unprovoked,AUSTRALIA,Surfing,M,N
+2171,1995.03.05,1995,Unprovoked,BRAZIL,Swimming,,Y
+2172,1995.02.19,1995,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2174,1995.01.24,1995,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+2175,1995.01.02,1995,Unprovoked,BRAZIL,Surfing,M,N
+2177,1995.00.00.d,1995,Provoked,AUSTRALIA,Snorkeling,M,N
+2180,1994.12.30,1994,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2181,1994.12.18,1994,Unprovoked,USA,Surfing,,N
+2182,1994.12.13,1994,Unprovoked,BRAZIL,Surfing,M,N
+2183,1994.12.11,1994,Unprovoked,BRAZIL,Surfing,M,N
+2186,1994.12.09.a,1994,Unprovoked,USA,Other,M,Y
+2187,1994.12.01,1994,Unprovoked,BRAZIL,Surfing,M,Y
+2188,1994.11.25.a,1994,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2189,1994.11.13,1994,Unprovoked,USA,Surfing,F,N
+2190,1994.11.06.a,1994,Unprovoked,USA,Surfing,,N
+2191,1994.10.18,1994,Unprovoked,BRAZIL,Surfing,,N
+2192,1994.10.17,1994,Unprovoked,BRAZIL,Surfing,M,N
+2193,1994.10.08,1994,Provoked,USA,Other,F,N
+2194,1994.10.05,1994,Unprovoked,USA,Surfing,M,N
+2195,1994.09.26,1994,Unprovoked,USA,Swimming,F,N
+2196,1994.09.21,1994,Unprovoked,USA,Surfing,M,N
+2197,1994.09.11.R,1994,Unprovoked,USA,Other,M,Y
+2198,1994.09.05,1994,Unprovoked,USA,Other,F,N
+2199,1994.08.22,1994,Unprovoked,JAPAN,Other,,N
+2200,1994.07.24,1994,Unprovoked,BRAZIL,Surfing,M,N
+2201,1994.07.09.d,1994,Unprovoked,BRAZIL,Swimming,M,Y
+2202,1994.07.09.c,1994,Unprovoked,REUNION,Surfing,M,Y
+2203,1994.07.09.b,1994,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+2204,1994.07.09.a,1994,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2205,1994.07.08.b,1994,Unprovoked,BRAZIL,Surfing,M,N
+2206,1994.07.08.a,1994,Unprovoked,USA,Surfing,M,N
+2207,1994.06.24,1994,Unprovoked,BAHAMAS,Fishing,M,N
+2208,1994.05.31.b,1994,Unprovoked,USA,Surfing,M,N
+2209,1994.05.31.a,1994,Unprovoked,USA,Surfing,M,N
+2210,1994.05.28,1994,Unprovoked,USA,Fishing,M,N
+2211,1994.05.24,1994,Unprovoked,USA,Other,F,N
+2212,1994.05.23,1994,Unprovoked,USA,Other,M,N
+2213,1994.05.15,1994,Unprovoked,USA,Surfing,M,N
+2215,1994.04.15,1994,Unprovoked,REUNION,Other,,Y
+2216,1994.04.06,1994,Unprovoked,BAHAMAS,Other,M,N
+2217,1994.04.03,1994,Unprovoked,USA,Diving,M,N
+2218,1994.04.02,1994,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+2221,1994.03.07,1994,Provoked,USA,Other,M,N
+2222,1994.03.01,1994,Unprovoked,BRAZIL,Surfing,M,N
+2223,1994.02.27,1994,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2224,1994.02.19,1994,Unprovoked,USA,Surfing,M,N
+2225,1994.02.13,1994,Provoked,USA,Fishing,M,N
+2226,1994.02.12,1994,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2227,1994.02.00,1994,Unprovoked,NEW CALEDONIA,Fishing,,Y
+2228,1994.01.31.b,1994,Unprovoked,BRAZIL,Swimming,M,N
+2229,1994.01.31.a,1994,Unprovoked,USA,Surfing,M,Y
+2230,1994.01.30,1994,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2231,1994.01.12.R,1994,Boat,AUSTRALIA,Fishing,,N
+2232,1994.01.09,1994,Unprovoked,AUSTRALIA,Swimming,M,N
+2233,1994.01.03,1994,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2234,1994.00.00.b,1994,Unprovoked,HONG KONG,Other,F,N
+2235,1994.00.00.a,1994,Unprovoked,USA,Surfing,M,N
+2236,1993.12.00,1993,Unprovoked,USA,Surfing,M,Y
+2237,1993.11.28,1993,Unprovoked,USA,Swimming,M,N
+2238,1993.11.21,1993,Unprovoked,AUSTRALIA,Diving,M,Y
+2239,1993.11.12,1993,Unprovoked,USA,Surfing,M,N
+2241,1993.10.30,1993,Unprovoked,USA,Surfing,M,N
+2242,1993.10.26,1993,Unprovoked,USA,Swimming,F,N
+2243,1993.10.10,1993,Boat,USA,Rowing,F,N
+2244,1993.10.00,1993,Unprovoked,USA,Surfing,,N
+2246,1993.09.26,1993,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2249,1993.09.14,1993,Unprovoked,USA,Other,M,N
+2250,1993.09.09,1993,Unprovoked,USA,Other,M,N
+2251,1993.09.03,1993,Unprovoked,SPAIN,Swimming,M,N
+2252,1993.08.21,1993,Unprovoked,BAHAMAS,Fishing,M,N
+2253,1993.08.19.R,1993,Unprovoked,USA,Surfing,,N
+2254,1993.08.19,1993,Unprovoked,USA,Surfing,M,N
+2255,1993.08.15.b,1993,Boat,USA,Other,,N
+2256,1993.08.15.a,1993,Unprovoked,USA,Other,F,N
+2257,1993.08.14,1993,Boat,AUSTRALIA,Fishing,,N
+2258,1993.08.12,1993,Unprovoked,USA,Diving,M,N
+2259,1993.08.00.b,1993,Unprovoked,NEW CALEDONIA,Fishing,M,Y
+2261,1993.07.30,1993,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2262,1993.07.07,1993,Unprovoked,USA,Other,F,N
+2263,1993.06.30,1993,Unprovoked,BRAZIL,Swimming,M,Y
+2264,1993.06.29,1993,Unprovoked,REUNION,Surfing,M,N
+2265,1993.06.11.b,1993,Unprovoked,HONG KONG,Swimming,M,Y
+2266,1993.06.11.a,1993,Unprovoked,MEXICO,Diving,F,Y
+2267,1993.06.10,1993,Unprovoked,USA,Other,M,N
+2268,1993.06.09,1993,Unprovoked,AUSTRALIA,Diving,M,Y
+2269,1993.06.05,1993,Unprovoked,AUSTRALIA,Diving,F,Y
+2270,1993.06.01,1993,Unprovoked,HONG KONG,Swimming,M,Y
+2271,1993.06.00,1993,Unprovoked,USA,Swimming,F,N
+2272,1993.05.00.b,1993,Unprovoked,HONG KONG,Other,F,Y
+2275,1993.03.27,1993,Unprovoked,BRAZIL,Surfing,M,N
+2276,1993.03.22,1993,Unprovoked,USA,Other,M,N
+2277,1993.03.17,1993,Unprovoked,JAPAN,Other,,N
+2278,1993.03.14,1993,Unprovoked,USA,Other,M,N
+2279,1993.03.12,1993,Unprovoked,USA,Fishing,M,N
+2280,1993.03.00,1993,Unprovoked,NEW CALEDONIA,Swimming,,N
+2281,1993.02.19,1993,Unprovoked,TONGA,Sea Disaster,M,N
+2282,1993.02.18,1993,Unprovoked,TONGA,Sea Disaster,M,N
+2283,1993.02.04,1993,Provoked,AUSTRALIA,Fishing,M,N
+2284,1993.01.23,1993,Unprovoked,BRAZIL,Surfing,M,N
+2285,1993.01.05,1993,Unprovoked,AUSTRALIA,Fishing,M,N
+2287,1993.01.02,1993,Unprovoked,USA,Surfing,M,N
+2290,1993.00.00.b,1993,Unprovoked,TONGA,Fishing,,N
+2291,1993.00.00.a,1993,Unprovoked,USA,Snorkeling,,N
+2292,1992.12.28,1992,Unprovoked,USA,Other,M,N
+2293,1992.12.23,1992,Unprovoked,USA,Other,M,N
+2294,1992.11.29,1992,Unprovoked,USA,Fishing,M,N
+2295,1992.11.25.a,1992,Unprovoked,USA,Surfing,M,N
+2296,1992.11.23,1992,Unprovoked,USA,Surfing,M,N
+2297,1992.11.14,1992,Boat,USA,Rowing,M,N
+2298,1992.11.12.R,1992,Unprovoked,FIJI,Diving,M,N
+2299,1992.11.11,1992,Unprovoked,USA,Diving,M,N
+2300,1992.11.05.b,1992,Unprovoked,USA,Surfing,M,N
+2301,1992.11.05.a,1992,Unprovoked,USA,Surfing,M,Y
+2302,1992.10.29,1992,Unprovoked,USA,Diving,M,N
+2303,1992.10.22,1992,Unprovoked,USA,Surfing,M,N
+2304,1992.10.15,1992,Unprovoked,AUSTRALIA,Diving,M,N
+2305,1992.10.11,1992,Unprovoked,BRAZIL,Surfing,,N
+2306,1992.10.01,1992,Unprovoked,AUSTRALIA,Surfing,M,Y
+2307,1992.09.18,1992,Unprovoked,BRAZIL,Surfing,M,N
+2308,1992.09.13,1992,Unprovoked,USA,Surfing,M,N
+2309,1992.09.11,1992,Unprovoked,USA,Other,F,N
+2310,1992.09.10,1992,Unprovoked,BRAZIL,Swimming,M,Y
+2311,1992.09.00,1992,Unprovoked,USA,Surfing,M,N
+2312,1992.08.29,1992,Unprovoked,BAHAMAS,Snorkeling,F,N
+2313,1992.08.25,1992,Unprovoked,AUSTRALIA,Surfing,M,N
+2315,1992.08.18,1992,Unprovoked,USA,Surfing,M,N
+2316,1992.08.17,1992,Provoked,USA,Snorkeling,M,N
+2319,1992.07.21,1992,Unprovoked,USA,Other,F,N
+2320,1992.07.08.b,1992,Unprovoked,BRAZIL,Surfing,M,N
+2321,1992.07.08.a,1992,Unprovoked,BRAZIL,Surfing,M,N
+2322,1992.06.28.b,1992,Unprovoked,BRAZIL,Swimming,M,Y
+2323,1992.06.28.a,1992,Unprovoked,REUNION,Surfing,M,Y
+2324,1992.06.19,1992,Unprovoked,VANUATU,Swimming,F,N
+2325,1992.06.17,1992,Boat,JAPAN,Other,,N
+2326,1992.06.00,1992,Unprovoked,REUNION,Diving,,N
+2328,1992.05.22,1992,Unprovoked,REUNION,Surfing,M,Y
+2329,1992.05.00,1992,Unprovoked,MEXICO,Diving,M,N
+2330,1992.04.24,1992,Unprovoked,NEW ZEALAND,Snorkeling,M,N
+2331,1992.04.09,1992,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2332,1992.03.28,1992,Unprovoked,USA,Surfing,F,N
+2333,1992.03.10,1992,Unprovoked,AUSTRALIA,Surfing,M,N
+2334,1992.03.08.c,1992,Unprovoked,JAPAN,Diving,M,Y
+2335,1992.03.08.b,1992,Boat,JAPAN,Fishing,,N
+2336,1992.03.08.a,1992,Unprovoked,USA,Surfing,M,N
+2337,1992.02.19,1992,Unprovoked,USA,Surfing,M,Y
+2338,1992.02.14,1992,Unprovoked,JAPAN,Diving,M,N
+2340,1992.01.29.b,1992,Unprovoked,REUNION,Fishing,M,N
+2341,1992.01.29.a,1992,Unprovoked,AUSTRALIA,Surfing,M,N
+2342,1992.01.23,1992,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2343,1992.01.08,1992,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2345,1992.01.03,1992,Unprovoked,JAPAN,Other,M,N
+2347,1992.00.00,1992,Unprovoked,FIJI,Other,M,Y
+2348,1991.12.04,1991,Unprovoked,USA,Diving,M,N
+2349,1991.11.26.b,1991,Unprovoked,USA,Snorkeling,F,Y
+2350,1991.11.26.a,1991,Unprovoked,USA,Snorkeling,F,N
+2351,1991.11.19,1991,Unprovoked,USA,Fishing,M,Y
+2352,1991.11.14,1991,Provoked,USA,Fishing,M,N
+2353,1991.11.00,1991,Unprovoked,AUSTRALIA,Surfing,M,N
+2354,1991.10.12,1991,Unprovoked,USA,Surfing,M,N
+2355,1991.10.05,1991,Unprovoked,USA,Surfing,M,N
+2357,1991.09.08,1991,Unprovoked,AUSTRALIA,Diving,M,Y
+2358,1991.08.30,1991,Provoked,AUSTRALIA,Other,M,N
+2359,1991.08.26,1991,Unprovoked,USA,Swimming,M,N
+2360,1991.08.12,1991,Unprovoked,USA,Other,F,N
+2361,1991.08.09,1991,Provoked,USA,Fishing,M,N
+2362,1991.07.30,1991,Boat,ITALY,Rowing,F,N
+2363,1991.07.27,1991,Unprovoked,USA,Snorkeling,M,N
+2364,1991.07.18,1991,Unprovoked,USA,Fishing,M,N
+2365,1991.07.07,1991,Unprovoked,USA,Swimming,M,N
+2366,1991.07.01.b,1991,Unprovoked,REUNION,Surfing,M,N
+2367,1991.07.01.a,1991,Unprovoked,USA,Surfing,M,N
+2368,1991.07.00,1991,Unprovoked,USA,Surfing,M,N
+2369,1991.06.29,1991,Unprovoked,HONG KONG,Other,M,Y
+2370,1991.06.28,1991,Unprovoked,HONG KONG,Fishing,M,Y
+2371,1991.06.26,1991,Unprovoked,USA,Surfing,M,N
+2372,1991.06.07.b,1991,Unprovoked,USA,Swimming,M,N
+2373,1991.06.07.a,1991,Unprovoked,HONG KONG,Swimming,F,Y
+2374,1991.05.26,1991,Unprovoked,USA,Other,M,N
+2375,1991.05.19,1991,Unprovoked,SOUTH AFRICA,Diving,M,N
+2376,1991.04.24,1991,Provoked,BRAZIL,Fishing,,N
+2377,1991.04.16.b,1991,Provoked,USA,Diving,,N
+2378,1991.04.16.a,1991,Unprovoked,USA,Surfing,M,N
+2379,1991.04.03,1991,Unprovoked,USA,Other,M,N
+2380,1991.03.03,1991,Unprovoked,AUSTRALIA,Diving,M,N
+2381,1991.02.24,1991,Unprovoked,USA,Surfing,M,N
+2382,1991.02.12,1991,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2383,1991.01.19,1991,Unprovoked,AUSTRALIA,Swimming,M,N
+2384,1991.01.09,1991,Unprovoked,AUSTRALIA,Surfing,M,N
+2385,1991.01.00,1991,Unprovoked,AUSTRALIA,Surfing,M,N
+2387,1990.11.28,1990,Unprovoked,AUSTRALIA,Swimming,M,N
+2388,1990.11.03,1990,Unprovoked,USA,Diving,F,N
+2389,1990.11.01,1990,Unprovoked,USA,Surfing,M,N
+2390,1990.10.30.b,1990,Unprovoked,USA,Surfing,M,N
+2391,1990.10.30.a,1990,Unprovoked,USA,Surfing,M,N
+2392,1990.10.27,1990,Unprovoked,AUSTRALIA,Swimming,M,N
+2393,1990.10.25,1990,Unprovoked,AUSTRALIA,Surfing,M,N
+2394,1990.10.20,1990,Unprovoked,USA,Surfing,M,N
+2395,1990.10.15,1990,Unprovoked,USA,Surfing,M,N
+2396,1990.10.12,1990,Unprovoked,USA,Surfing,M,N
+2397,1990.09.15,1990,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2398,1990.09.08,1990,Unprovoked,USA,Fishing,M,N
+2399,1990.09.05,1990,Boat,USA,Rowing,M,N
+2401,1990.08.28,1990,Unprovoked,USA,Surfing,M,N
+2402,1990.08.19.b,1990,Unprovoked,USA,Surfing,M,N
+2403,1990.08.19.a,1990,Unprovoked,USA,Fishing,M,N
+2404,1990.07.22,1990,Unprovoked,USA,Other,F,N
+2405,1990.07.08,1990,Unprovoked,USA,Surfing,M,N
+2406,1990.06.24,1990,Unprovoked,SOUTH AFRICA,Diving,F,Y
+2407,1990.06.23,1990,Unprovoked,BAHAMAS,Fishing,M,N
+2408,1990.05.13,1990,Provoked,SOUTH AFRICA,Fishing,,N
+2409,1990.05.10,1990,Unprovoked,AUSTRALIA,Snorkeling,F,N
+2410,1990.05.10,1990,Unprovoked,AUSTRALIA,Snorkeling,M,N
+2411,1990.05.06,1990,Unprovoked,SOUTH AFRICA,Other,M,N
+2412,1990.04.14,1990,Unprovoked,SOUTH AFRICA,Other,M,N
+2413,1990.04.09,1990,Unprovoked,AUSTRALIA,Surfing,M,N
+2414,1990.04.08,1990,Unprovoked,AUSTRALIA,Diving,M,Y
+2415,1990.04.07,1990,Unprovoked,AUSTRALIA,Surfing,M,N
+2416,1990.04.06,1990,Unprovoked,AUSTRALIA,Surfing,M,N
+2417,1990.04.01,1990,Unprovoked,USA,Other,M,N
+2418,1990.03.24,1990,Unprovoked,FIJI,Swimming,M,N
+2419,1990.03.05,1990,Unprovoked,REUNION,Surfing,M,N
+2420,1990.02.17,1990,Unprovoked,USA,Fishing,M,Y
+2421,1990.02.05,1990,Unprovoked,USA,Other,M,N
+2422,1990.01.12,1990,Unprovoked,USA,Surfing,M,N
+2424,1989.12.19,1989,Provoked,USA,Fishing,M,N
+2427,1989.11.22,1989,Unprovoked,AUSTRALIA,Surfing,M,N
+2428,1989.11.18,1989,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+2430,1989.11.02,1989,Unprovoked,AUSTRALIA,Swimming,M,N
+2431,1989.10.29.R,1989,Unprovoked,AUSTRALIA,Swimming,F,N
+2432,1989.10.22,1989,Unprovoked,AUSTRALIA,Surfing,M,N
+2434,1989.10.11,1989,Unprovoked,USA,Surfing,M,N
+2437,1989.09.17,1989,Unprovoked,SOUTH AFRICA,Diving,M,N
+2438,1989.09.13,1989,Provoked,USA,Fishing,M,N
+2439,1989.09.10,1989,Boat,USA,Other,,N
+2440,1989.09.09.b,1989,Unprovoked,USA,Diving,M,N
+2441,1989.09.09.a,1989,Unprovoked,USA,Surfing,M,N
+2442,1989.09.03,1989,Provoked,USA,Other,M,N
+2443,1989.08.29,1989,Provoked,AUSTRALIA,Other,M,N
+2444,1989.08.22.b,1989,Unprovoked,USA,Swimming,M,N
+2445,1989.08.22.a,1989,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2446,1989.08.13,1989,Unprovoked,AUSTRALIA,Surfing,M,N
+2447,1989.08.09,1989,Unprovoked,BAHAMAS,Fishing,F,N
+2448,1989.08.06.R,1989,Provoked,AUSTRALIA,Fishing,M,N
+2450,1989.07.20,1989,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2451,1989.07.19,1989,Unprovoked,REUNION,Surfing,M,Y
+2452,1989.07.14,1989,Unprovoked,USA,Surfing,M,N
+2453,1989.07.07,1989,Unprovoked,USA,Other,F,N
+2454,1989.06.29,1989,Unprovoked,USA,Other,M,N
+2455,1989.06.17,1989,Unprovoked,USA,Fishing,M,N
+2456,1989.06.06,1989,Unprovoked,ITALY,Surfing,M,N
+2457,1989.06.05,1989,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2458,1989.06.03,1989,Unprovoked,SOUTH AFRICA,Diving,M,N
+2460,1989.04.23,1989,Unprovoked,USA,Swimming,M,N
+2461,1989.04.12,1989,Unprovoked,USA,Surfing,M,N
+2462,1989.04.09,1989,Boat,USA,Other,,N
+2463,1989.04.03,1989,Unprovoked,USA,Other,M,N
+2464,1989.04.00,1989,Unprovoked,USA,Other,M,N
+2465,1989.03.09,1989,Unprovoked,AUSTRALIA,Surfing,M,Y
+2466,1989.03.04,1989,Boat,AUSTRALIA,Rowing,M,N
+2467,1989.02.19,1989,Provoked,SOUTH AFRICA,Fishing,M,N
+2468,1989.02.15,1989,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2469,1989.02.02,1989,Unprovoked,ITALY,Diving,M,Y
+2471,1989.01.26.a,1989,Unprovoked,USA,Rowing,F,Y
+2472,1989.01.20.b,1989,Unprovoked,USA,Surfing,M,N
+2473,1989.01.20.a,1989,Unprovoked,SOUTH AFRICA,Other,M,N
+2474,1989.01.08,1989,Unprovoked,USA,Swimming,M,Y
+2475,1989.01.03,1989,Unprovoked,AUSTRALIA,Surfing,M,N
+2476,1989.00.00.b,1989,Unprovoked,PAPUA NEW GUINEA,Diving,F,N
+2477,1989.00.00.a,1989,Unprovoked,USA,Fishing,M,N
+2479,1988.11.08,1988,Unprovoked,AUSTRALIA,Other,M,Y
+2480,1988.11.07,1988,Unprovoked,AUSTRALIA,Other,M,Y
+2481,1988.10.24,1988,Unprovoked,PHILIPPINES,Other,,Y
+2482,1988.10.23,1988,Unprovoked,USA,Surfing,M,N
+2483,1988.10.22,1988,Unprovoked,AUSTRALIA,Surfing,M,N
+2484,1988.10.14,1988,Unprovoked,USA,Surfing,M,N
+2485,1988.10.11,1988,Unprovoked,USA,Surfing,M,N
+2486,1988.10.10,1988,Unprovoked,USA,Surfing,M,N
+2487,1988.10.06,1988,Unprovoked,AUSTRALIA,Surfing,M,N
+2488,1988.10.00,1988,Unprovoked,USA,Other,F,N
+2489,1988.09.28,1988,Unprovoked,USA,Surfing,M,N
+2490,1988.09.13.b,1988,Unprovoked,USA,Treading Water,F,N
+2491,1988.09.13.a,1988,Unprovoked,USA,Snorkeling,M,Y
+2492,1988.08.22.b,1988,Provoked,USA,Diving,M,N
+2493,1988.08.22.a,1988,Unprovoked,ITALY,Other,M,N
+2494,1988.08.19,1988,Unprovoked,JAPAN,Other,M,N
+2495,1988.08.11,1988,Unprovoked,USA,Surfing,M,N
+2496,1988.07.23,1988,Unprovoked,BAHAMAS,Fishing,M,N
+2497,1988.07.19,1988,Unprovoked,BAHAMAS,Fishing,M,N
+2498,1988.07.17,1988,Unprovoked,BAHAMAS,Diving,M,N
+2499,1988.07.11,1988,Unprovoked,USA,Swimming,F,N
+2500,1988.07.04.b,1988,Unprovoked,USA,Surfing,M,N
+2501,1988.07.04.a,1988,Unprovoked,BAHAMAS,Snorkeling,M,N
+2502,1988.07.00,1988,Unprovoked,BAHAMAS,Fishing,M,N
+2503,1988.06.19,1988,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2504,1988.06.16,1988,Unprovoked,USA,Diving,M,N
+2505,1988.06.09,1988,Unprovoked,USA,Other,M,N
+2506,1988.06.05,1988,Unprovoked,USA,Swimming,M,N
+2507,1988.06.01,1988,Unprovoked,USA,Surfing,M,N
+2509,1988.05.10,1988,Unprovoked,USA,Surfing,M,N
+2510,1988.05.04,1988,Unprovoked,USA,Surfing,M,N
+2511,1988.04.28,1988,Unprovoked,REUNION,Other,M,Y
+2512,1988.04.24,1988,Unprovoked,USA,Surfing,M,N
+2513,1988.04.15a,1988,Unprovoked,USA,Swimming,M,N
+2515,1988.04.14.b,1988,Unprovoked,USA,Surfing,M,N
+2516,1988.04.14.a,1988,Unprovoked,USA,Surfing,M,N
+2518,1988.03.31,1988,Unprovoked,USA,Other,F,N
+2519,1988.03.25,1988,Unprovoked,USA,Surfing,M,N
+2520,1988.03.16,1988,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2521,1988.03.14,1988,Unprovoked,REUNION,Surfing,M,N
+2522,1988.02.15,1988,Boat,SOUTH AFRICA,Other,,N
+2523,1988.02.14,1988,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2524,1988.02.13,1988,Unprovoked,SOUTH AFRICA,Other,F,N
+2525,1988.02.12,1988,Boat,AUSTRALIA,Fishing,,N
+2529,1988.01.14,1988,Provoked,USA,Fishing,M,N
+2530,1988.01.06,1988,Provoked,SOUTH AFRICA,Other,M,N
+2531,1988.01.05.R,1988,Provoked,SOUTH AFRICA,Other,,N
+2532,1988.00.00.c,1988,Unprovoked,AUSTRALIA,Surfing,M,N
+2533,1987.12.20,1987,Unprovoked,PHILIPPINES,Other,,Y
+2534,1987.12.17,1987,Unprovoked,USA,Surfing,M,N
+2536,1987.11.21,1987,Unprovoked,USA,Surfing,M,N
+2538,1987.10.26,1987,Unprovoked,USA,Surfing,M,N
+2540,1987.10.11,1987,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2542,1987.09.18,1987,Unprovoked,AUSTRALIA,Diving,M,Y
+2543,1987.09.13,1987,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2544,1987.08.20,1987,Unprovoked,USA,Other,M,N
+2545,1987.08.15,1987,Unprovoked,USA,Surfing,M,N
+2546,1987.07.21,1987,Unprovoked,USA,Surfing,M,N
+2547,1987.07.12.b,1987,Unprovoked,USA,Surfing,F,N
+2548,1987.07.12.a,1987,Unprovoked,USA,Other,F,N
+2549,1987.07.11,1987,Boat,USA,Other,,N
+2550,1987.07.09,1987,Unprovoked,BAHAMAS,Snorkeling,M,N
+2551,1987.07.00,1987,Unprovoked,BAHAMAS,Fishing,M,N
+2552,1987.06.13,1987,Provoked,USA,Fishing,M,N
+2553,1987.05.25,1987,Unprovoked,USA,Other,M,N
+2554,1987.05.08,1987,Unprovoked,USA,Surfing,M,N
+2555,1987.05.06,1987,Provoked,AUSTRALIA,Fishing,M,N
+2557,1987.04.18,1987,Unprovoked,USA,Swimming,F,N
+2558,1987.04.15,1987,Unprovoked,USA,Swimming,M,Y
+2559,1987.04.01,1987,Unprovoked,VANUATU,Swimming,M,Y
+2560,1987.03.30.b,1987,Unprovoked,AUSTRALIA,Surfing,M,N
+2561,1987.03.30.a,1987,Provoked,SOUTH AFRICA,Other,,N
+2562,1987.02.28,1987,Unprovoked,USA,Surfing,M,N
+2563,1987.02.19,1987,Unprovoked,SOLOMON ISLANDS,Other,,Y
+2564,1987.01.28,1987,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2565,1987.01.06,1987,Unprovoked,AUSTRALIA,Swimming,M,N
+2567,1987.00.00.a,1987,Boat,ITALY,Other,M,N
+2568,1986.12.31,1986,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2569,1986.12.22,1986,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+2570,1986.12.11,1986,Unprovoked,USA,Surfing,M,N
+2571,1986.12.06.b,1986,Unprovoked,BAHAMAS,Other,M,N
+2572,1986.12.06.a,1986,Unprovoked,USA,Fishing,M,N
+2574,1986.12.00,1986,Unprovoked,NEW CALEDONIA,Fishing,,N
+2575,1986.11.30,1986,Unprovoked,USA,Surfing,M,N
+2576,1986.11.19,1986,Unprovoked,USA,Surfing,M,N
+2577,1986.11.04,1986,Unprovoked,USA,Surfing,M,N
+2578,1986.10.17,1986,Provoked,SOUTH AFRICA,Other,M,N
+2579,1986.10.03,1986,Unprovoked,USA,Swimming,F,N
+2580,1986.10.05,1986,Unprovoked,SOUTH AFRICA,Other,M,N
+2582,1986.10.00,1986,Unprovoked,USA,Surfing,M,N
+2584,1986.09.00.b,1986,Unprovoked,USA,Surfing,,N
+2585,1986.09.00.a,1986,Unprovoked,USA,Surfing,,N
+2586,1986.08.19,1986,Unprovoked,USA,Surfing,,N
+2588,1986.08.03,1986,Unprovoked,AUSTRALIA,Diving,F,N
+2590,1986.07.26,1986,Boat,AUSTRALIA,Fishing,,N
+2591,1986.07.09,1986,Unprovoked,USA,Other,M,N
+2592,1986.07.00.a,1986,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2593,1986.05.18,1986,Unprovoked,AUSTRALIA,Diving,M,N
+2595,1986.04.20,1986,Unprovoked,USA,Fishing,M,Y
+2596,1986.04.00,1986,Unprovoked,SPAIN,Diving,M,N
+2597,1986.03.18,1986,Unprovoked,SPAIN,Surfing,M,N
+2598,1986.03.15,1986,Unprovoked,SOUTH AFRICA,Other,M,N
+2599,1986.03.05,1986,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2600,1986.02.18,1986,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2601,1986.02.17,1986,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2602,1986.02.07,1986,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2603,1986.02.06,1986,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2604,1986.02.01,1986,Unprovoked,AUSTRALIA,Surfing,M,N
+2605,1986.01.12,1986,Unprovoked,USA,Surfing,M,N
+2606,1986.00.00,1986,Unprovoked,USA,Surfing,M,N
+2607,1985.12.22,1985,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2608,1985.12.10,1985,Unprovoked,USA,Other,M,N
+2609,1985.11.11,1985,Provoked,AUSTRALIA,Fishing,M,N
+2610,1985.11.05,1985,Boat,USA,Other,,N
+2611,1985.11.03,1985,Provoked,USA,Fishing,M,N
+2612,1985.10.24,1985,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2613,1985.10.22,1985,Unprovoked,USA,Diving,M,N
+2614,1985.10.18,1985,Unprovoked,USA,Surfing,M,N
+2615,1985.10.12,1985,Unprovoked,USA,Diving,M,N
+2616,1985.10.05,1985,Provoked,USA,Fishing,M,N
+2617,1985.09.28,1985,Unprovoked,USA,Fishing,M,N
+2619,1985.09.08.a,1985,Unprovoked,USA,Diving,M,N
+2621,1985.08.22,1985,Unprovoked,USA,Other,M,N
+2624,1985.07.25.b,1985,Unprovoked,USA,Other,F,N
+2625,1985.07.25.a,1985,Unprovoked,USA,Surfing,M,N
+2626,1985.07.21,1985,Boat,USA,Fishing,,N
+2627,1985.07.19,1985,Unprovoked,USA,Other,F,N
+2628,1985.07.00,1985,Unprovoked,ITALY,Snorkeling,M,N
+2629,1985.05.26,1985,Unprovoked,USA,Surfing,M,N
+2630,1985.05.08,1985,Provoked,SOUTH AFRICA,Fishing,M,N
+2631,1985.03.16,1985,Unprovoked,USA,Surfing,M,N
+2632,1985.03.03,1985,Unprovoked,AUSTRALIA,Diving,F,Y
+2633,1985.02.18,1985,Unprovoked,USA,Diving,M,N
+2634,1985.02.03,1985,Unprovoked,USA,Surfing,M,N
+2635,1985.01.27,1985,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2637,1985.01.17,1985,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2638,1985.01.16,1985,Boat,NEW ZEALAND,Other,,N
+2639,1985.01.04,1985,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2640,1985.01.00.b,1985,Unprovoked,NEW CALEDONIA,Fishing,,N
+2641,1985.01.00.a,1985,Provoked,SOUTH AFRICA,Fishing,M,N
+2642,1985.00.00.f,1985,Unprovoked,VANUATU,Other,M,Y
+2643,1985.00.00.a,1985,Unprovoked,IRAN,Fishing,M,Y
+2644,1984.12.03,1984,Boat,ITALY,Other,,N
+2645,1984.11.30,1984,Unprovoked,AUSTRALIA,Other,M,Y
+2646,1984.11.11,1984,Unprovoked,USA,Surfing,M,N
+2647,1984.11.04,1984,Provoked,USA,Fishing,M,N
+2649,1984.10.21,1984,Unprovoked,USA,Surfing,F,N
+2651,1984.10.14.a,1984,Unprovoked,USA,Surfing,M,N
+2652,1984.09.30.b,1984,Unprovoked,USA,Surfing,M,N
+2653,1984.09.30.a,1984,Unprovoked,USA,Diving,M,N
+2654,1984.09.23,1984,Unprovoked,USA,Surfing,M,N
+2655,1984.09.22.b,1984,Unprovoked,USA,Swimming,M,N
+2656,1984.09.22.a,1984,Unprovoked,USA,Surfing,M,N
+2658,1984.09.17,1984,Unprovoked,USA,Other,M,N
+2659,1984.09.15,1984,Unprovoked,USA,Diving,M,Y
+2660,1984.09.11,1984,Provoked,MEXICO,Fishing,M,N
+2663,1984.07.24.b,1984,Unprovoked,USA,Swimming,F,N
+2664,1984.07.24.a,1984,Unprovoked,USA,Swimming,F,N
+2666,1984.07.01,1984,Unprovoked,USA,Fishing,M,N
+2667,1984.07.00.a,1984,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2668,1984.06.15,1984,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2669,1984.06.03.b,1984,Unprovoked,USA,Other,F,N
+2670,1984.06.03,1984,Unprovoked,VANUATU,Swimming,M,Y
+2671,1984.05.31,1984,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2673,1984.03.14,1984,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2674,1984.03.10,1984,Boat,SOUTH AFRICA,Other,M,N
+2676,1984.02.18,1984,Provoked,SOUTH AFRICA,Fishing,M,N
+2677,1984.02.17,1984,Provoked,SOUTH AFRICA,Diving,M,N
+2679,1984.02.11,1984,Unprovoked,AUSTRALIA,Fishing,M,N
+2680,1984.01.05,1984,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2681,1984.01.04,1984,Unprovoked,SOUTH AFRICA,Other,F,Y
+2682,1984.00.00.b,1984,Provoked,USA,Other,M,N
+2683,1984.00.00.a,1984,Unprovoked,USA,Surfing,M,N
+2685,1983.12.25,1983,Unprovoked,USA,Surfing,M,N
+2686,1983.12.24,1983,Unprovoked,AUSTRALIA,Diving,M,N
+2687,1983.12.22,1983,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2688,1983.12.21,1983,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2690,1983.11.21,1983,Unprovoked,PHILIPPINES,Other,M,N
+2691,1983.11.10.R,1983,Unprovoked,USA,Surfing,M,N
+2693,1983.10.17.a,1983,Unprovoked,USA,Surfing,M,N
+2694,1983.10.13,1983,Unprovoked,USA,Other,M,N
+2695,1983.09.04,1983,Unprovoked,USA,Other,M,N
+2696,1983.08.20.b,1983,Unprovoked,USA,Surfing,M,N
+2697,1983.08.20.a,1983,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2698,1983.08.15,1983,Unprovoked,USA,Swimming,F,N
+2699,1983.08.13.b,1983,Provoked,USA,Diving,M,N
+2700,1983.08.13.a,1983,Unprovoked,USA,Diving,F,N
+2701,1983.08.06,1983,Boat,USA,Fishing,,N
+2702,1983.07.26,1983,Unprovoked,AUSTRALIA,Swimming,F,Y
+2703,1983.07.25.b,1983,Unprovoked,AUSTRALIA,Swimming,M,Y
+2704,1983.07.25.a,1983,Unprovoked,AUSTRALIA,Other,M,N
+2705,1983.07.15,1983,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2706,1983.07.12.b,1983,Unprovoked,USA,Surfing,F,N
+2707,1983.07.12.a,1983,Unprovoked,BAHAMAS,Fishing,M,N
+2708,1983.07.05,1983,Unprovoked,USA,Other,,N
+2709,1983.06.29,1983,Unprovoked,USA,Swimming,M,N
+2710,1983.06.22,1983,Unprovoked,BAHAMAS,Fishing,M,Y
+2711,1983.06.20,1983,Unprovoked,USA,Surfing,M,N
+2712,1983.06.15,1983,Unprovoked,BAHAMAS,Other,M,N
+2714,1983.06.00,1983,Unprovoked,BAHAMAS,Fishing,M,N
+2715,1983.05.31,1983,Unprovoked,USA,Other,M,N
+2716,1983.05.24,1983,Unprovoked,USA,Surfing,M,N
+2717,1983.05.21,1983,Unprovoked,USA,Surfing,M,N
+2719,1983.04.12,1983,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2720,1983.04.02.b,1983,Unprovoked,USA,Surfing,M,N
+2722,1983.03.30.a,1983,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2723,1983.03.22,1983,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2724,1983.03.10,1983,Unprovoked,USA,Surfing,M,N
+2725,1983.03.00,1983,Unprovoked,NEW CALEDONIA,Other,,N
+2726,1983.02.20,1983,Unprovoked,SOUTH AFRICA,Paddle Sport,M,N
+2727,1983.01.24,1983,Provoked,USA,Fishing,M,N
+2729,1983.01.10,1983,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2730,1983.01.08,1983,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2732,1983.00.00.c,1983,Unprovoked,VANUATU,Other,M,Y
+2733,1983.00.00.b,1983,Provoked,USA,Fishing,M,N
+2734,1982.11.00,1982,Unprovoked,USA,Other,M,N
+2735,1982.10.13,1982,Unprovoked,USA,Surfing,M,N
+2736,1982.09.30.b,1982,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2737,1982.09.30.a,1982,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2738,1982.09.27,1982,Unprovoked,USA,Surfing,M,N
+2739,1982.09.25,1982,Unprovoked,USA,Diving,M,N
+2740,1982.09.19,1982,Unprovoked,USA,Diving,M,N
+2742,1982.08.29.c,1982,Unprovoked,JAPAN,Other,M,Y
+2744,1982.08.29.a,1982,Unprovoked,SOUTH AFRICA,Swimming,F,N
+2747,1982.07.24.b,1982,Unprovoked,SOUTH AFRICA,Paddle Sport,M,N
+2748,1982.07.24.a,1982,Unprovoked,USA,Surfing,M,N
+2749,1982.07.19,1982,Unprovoked,USA,Swimming,M,N
+2751,1982.07.01,1982,Unprovoked,USA,Swimming,F,N
+2752,1982.07.00,1982,Unprovoked,NEW CALEDONIA,Other,,N
+2753,1982.06.29,1982,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+2754,1982.06.26.b,1982,Unprovoked,USA,Swimming,M,N
+2755,1982.06.26.a,1982,Unprovoked,BAHAMAS,Fishing,M,N
+2756,1982.06.25,1982,Unprovoked,USA,Other,F,N
+2757,1982.06.13,1982,Unprovoked,USA,Surfing,M,N
+2759,1982.03.10,1982,Unprovoked,USA,Surfing,M,N
+2760,1982.03.07,1982,Unprovoked,AUSTRALIA,Surfing,M,Y
+2761,1982.03.00,1982,Unprovoked,NEW CALEDONIA,Fishing,,N
+2762,1982.02.28,1982,Unprovoked,AUSTRALIA,Fishing,M,Y
+2763,1982.02.27,1982,Unprovoked,USA,Surfing,M,N
+2764,1982.02.17,1982,Provoked,SOUTH AFRICA,Fishing,M,N
+2765,1982.02.14.b,1982,Unprovoked,USA,Other,F,N
+2766,1982.02.14.a,1982,Unprovoked,USA,Swimming,F,N
+2767,1982.02.13,1982,Unprovoked,USA,Swimming,F,Y
+2768,1982.02.07.a,1982,Unprovoked,USA,Diving,M,N
+2769,1982.02.07..b,1982,Unprovoked,USA,Diving,M,Y
+2770,1982.01.29,1982,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2772,1982.00.00.b,1982,Boat,ITALY,Fishing,M,N
+2774,1981.12.19,1981,Unprovoked,USA,Surfing,M,Y
+2775,1981.12.13.b,1981,Unprovoked,AUSTRALIA,Other,,N
+2776,1981.12.13.a,1981,Unprovoked,USA,Fishing,M,N
+2777,1981.11.30,1981,Unprovoked,REUNION,Fishing,M,N
+2778,1981.10.19.b,1981,Provoked,SOUTH AFRICA,Other,M,N
+2779,1981.11.09,1981,Unprovoked,USA,Diving,M,N
+2780,1981.10.19.a,1981,Unprovoked,USA,Swimming,M,N
+2782,1981.10.16,1981,Unprovoked,USA,Surfing,M,N
+2783,1981.10.01,1981,Unprovoked,USA,Surfing,M,N
+2784,1981.09.28,1981,Unprovoked,USA,Surfing,M,N
+2785,1981.09.27,1981,Unprovoked,USA,Surfing,,N
+2786,1981.09.15,1981,Unprovoked,USA,Swimming,M,Y
+2787,1981.09.03.b,1981,Unprovoked,USA,Surfing,M,N
+2788,1981.09.03.a,1981,Unprovoked,USA,Surfing,M,N
+2789,1981.08.29,1981,Unprovoked,USA,Surfing,M,N
+2790,1981.08.24.b,1981,Provoked,USA,Fishing,M,N
+2792,1981.08.10.b,1981,Unprovoked,USA,Diving,M,N
+2793,1981.08.10.a,1981,Unprovoked,USA,Other,F,Y
+2794,1981.08.07,1981,Unprovoked,BAHAMAS,Snorkeling,M,N
+2795,1981.07.20,1981,Unprovoked,USA,Swimming,F,N
+2796,1981.07.18,1981,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2797,1981.07.07,1981,Unprovoked,USA,Fishing,M,N
+2798,1981.07.01,1981,Unprovoked,SOUTH AFRICA,Other,M,N
+2801,1981.05.24,1981,Unprovoked,USA,Fishing,M,Y
+2803,1981.05.20,1981,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2804,1981.05.19,1981,Unprovoked,USA,Diving,M,N
+2805,1981.05.16,1981,Unprovoked,USA,Diving,M,N
+2806,1981.05.10,1981,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2809,1981.05.05,1981,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2810,1981.03.25,1981,Unprovoked,USA,Other,M,N
+2811,1981.03.24,1981,Unprovoked,USA,Surfing,M,N
+2814,1981.02.19,1981,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2815,1981.02.16,1981,Unprovoked,AUSTRALIA,Other,M,N
+2817,1981.02.02,1981,Unprovoked,USA,Surfing,M,N
+2818,1981.02.00,1981,Unprovoked,BRAZIL,Fishing,,N
+2819,1981.01.30,1981,Unprovoked,USA,Fishing,M,N
+2821,1981.00.00.b,1981,Unprovoked,AUSTRALIA,Surfing,M,N
+2823,1980.12.30,1980,Unprovoked,SOUTH AFRICA,Paddle Sport,M,N
+2825,1980.11.24,1980,Unprovoked,REUNION,Fishing,M,N
+2826,1980.11.18,1980,Unprovoked,AUSTRALIA,Swimming,M,N
+2828,1980.11.11.,1980,Unprovoked,BRAZIL,Swimming,M,Y
+2829,1980.10.27,1980,Unprovoked,USA,Surfing,M,N
+2830,1980.10.17,1980,Unprovoked,USA,Surfing,M,N
+2831,1980.08.22.R,1980,Unprovoked,MEXICO,Diving,M,Y
+2832,1980.08.10,1980,Unprovoked,USA,Other,F,N
+2833,1980.08.04,1980,Unprovoked,USA,Other,M,N
+2834,1980.07.26,1980,Unprovoked,SPAIN,Diving,M,N
+2835,1980.07.27,1980,Unprovoked,USA,Surfing,M,N
+2836,1980.07.23,1980,Unprovoked,USA,Other,F,N
+2837,1980.07.00,1980,Unprovoked,USA,Surfing,M,N
+2838,1980.07.00,1980,Unprovoked,USA,Surfing,M,N
+2839,1980.06.26,1980,Provoked,USA,Diving,F,N
+2840,1980.05.15,1980,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2842,1980.04.22,1980,Unprovoked,PHILIPPINES,Other,,Y
+2843,1980.04.00,1980,Unprovoked,MEXICO,Surfing,F,N
+2844,1980.03.29,1980,Unprovoked,SOUTH AFRICA,Diving,M,Y
+2845,1980.03.28,1980,Unprovoked,BRAZIL,Swimming,M,N
+2846,1980.03.15,1980,Unprovoked,PHILIPPINES,Other,F,Y
+2847,1980.03.11,1980,Provoked,SOUTH AFRICA,Fishing,M,N
+2848,1980.01.31,1980,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2850,1980.01.15,1980,Provoked,SOUTH AFRICA,Fishing,M,N
+2851,1980.01.13,1980,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2852,1980.01.10,1980,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2857,1980.00.00.a,1980,Unprovoked,TONGA,Fishing,M,N
+2858,1979.12.21,1979,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2861,1979.11.27,1979,Unprovoked,USA,Surfing,M,N
+2862,1979.11.12,1979,Provoked,SOUTH AFRICA,Fishing,,N
+2863,1979.10.22,1979,Provoked,SOUTH AFRICA,Fishing,M,N
+2864,1979.09.14,1979,Unprovoked,AUSTRALIA,Diving,M,N
+2865,1979.08.28,1979,Unprovoked,HONG KONG,Swimming,M,Y
+2866,1979.08.26,1979,Unprovoked,HONG KONG,Other,M,Y
+2867,1979.08.05,1979,Unprovoked,USA,Rowing,M,N
+2869,1979.06.19,1979,Unprovoked,USA,Other,M,N
+2871,1979.05.05,1979,Provoked,SOUTH AFRICA,Fishing,M,N
+2872,1979.05.03,1979,Unprovoked,SOUTH AFRICA,Diving,M,Y
+2873,1979.05.00.c,1979,Unprovoked,NEW CALEDONIA,Fishing,,N
+2874,1979.05.00.b,1979,Unprovoked,NEW CALEDONIA,Other,M,Y
+2875,1979.04.08.b,1979,Unprovoked,USA,Swimming,M,N
+2876,1979.04.08.a,1979,Unprovoked,USA,Surfing,M,N
+2877,1979.03.24,1979,Unprovoked,USA,Surfing,M,N
+2878,1979.03.11,1979,Unprovoked,USA,Diving,M,N
+2879,1979.03.01,1979,Boat,SOUTH AFRICA,Other,,N
+2880,1979.03.00,1979,Unprovoked,NEW CALEDONIA,Fishing,M,Y
+2881,1979.02.21,1979,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2882,1979.00.00,1979,Unprovoked,USA,Fishing,M,Y
+2883,1978.12.29,1978,Unprovoked,AUSTRALIA,Other,M,N
+2884,1978.12.12,1978,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+2885,1978.11.26,1978,Unprovoked,USA,Surfing,M,N
+2886,1978.11.23,1978,Unprovoked,USA,Surfing,M,N
+2888,1978.09.27,1978,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2889,1978.09.16,1978,Unprovoked,ITALY,Diving,M,N
+2890,1978.09.02.R,1978,Unprovoked,AUSTRALIA,Diving,M,N
+2891,1978.08.05,1978,Unprovoked,USA,Other,M,N
+2892,1978.08.01.R,1978,Unprovoked,USA,Other,M,N
+2893,1978.07.27,1978,Unprovoked,USA,Other,M,N
+2894,1978.07.19,1978,Provoked,USA,Fishing,M,N
+2895,1978.06.21.b,1978,Unprovoked,USA,Surfing,M,N
+2896,1978.06.21.a,1978,Unprovoked,USA,Surfing,M,N
+2900,1978.04.00,1978,Unprovoked,AUSTRALIA,Diving,M,N
+2901,1978.03.05,1978,Boat,SOUTH AFRICA,Other,,N
+2902,1978.02.28,1978,Unprovoked,SOUTH AFRICA,Fishing,,N
+2903,1978.02.19,1978,Unprovoked,SOUTH AFRICA,Diving,M,N
+2904,1978.01.17,1978,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2906,1978.00.00.b,1978,Unprovoked,USA,Surfing,F,N
+2907,1978.00.00.a,1978,Unprovoked,VANUATU,Swimming,F,Y
+2908,1977.12.31,1977,Unprovoked,USA,Swimming,M,N
+2909,1977.12.19.b,1977,Unprovoked,USA,Surfing,M,N
+2910,1977.12.19.a,1977,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2911,1977.12.00,1977,Boat,SOUTH AFRICA,Fishing,,N
+2912,1977.11.12,1977,Provoked,SOUTH AFRICA,Other,M,N
+2913,1977.10.30,1977,Unprovoked,SOUTH AFRICA,Fishing,M,N
+2914,1977.08.31,1977,Unprovoked,AUSTRALIA,Surfing,M,N
+2915,1977.08.23,1977,Unprovoked,AUSTRALIA,Other,M,Y
+2916,1977.08.19,1977,Boat,SOUTH AFRICA,Fishing,M,N
+2917,1977.08.14,1977,Unprovoked,USA,Diving,M,N
+2919,1977.07.02,1977,Unprovoked,USA,Fishing,M,N
+2920,1977.06.26,1977,Provoked,USA,Fishing,M,N
+2921,1977.06.06,1977,Unprovoked,USA,Other,M,N
+2922,1977.05.26,1977,Boat,SOUTH AFRICA,Fishing,M,N
+2924,1977.04.26,1977,Unprovoked,AUSTRALIA,Other,M,N
+2925,1977.04.21,1977,Unprovoked,USA,Swimming,M,N
+2926,1977.03.17,1977,Unprovoked,SOUTH AFRICA,Swimming,M,N
+2927,1977.03.13.c,1977,Unprovoked,AUSTRALIA,Other,M,N
+2928,1977.03.13.b,1977,Unprovoked,AUSTRALIA,Other,M,Y
+2929,1977.03.13.a,1977,Unprovoked,AUSTRALIA,Other,M,Y
+2930,1977.02.26,1977,Unprovoked,AUSTRALIA,Other,M,N
+2932,1977.02.00,1977,Unprovoked,NEW CALEDONIA,Other,,N
+2933,1977.01.00,1977,Unprovoked,MEXICO,Swimming,M,Y
+2934,1976.12.29,1976,Unprovoked,AUSTRALIA,Other,M,N
+2935,1976.12.18,1976,Unprovoked,USA,Diving,M,N
+2936,1976.11.27,1976,Unprovoked,SOUTH AFRICA,Other,M,N
+2938,1976.11.25,1976,Unprovoked,USA,Surfing,M,N
+2940,1976.11.06,1976,Provoked,SOUTH AFRICA,Fishing,,N
+2941,1976.10.27,1976,Boat,SOUTH AFRICA,Other,,N
+2942,1976.10.18,1976,Unprovoked,USA,Surfing,M,N
+2943,1976.10.06,1976,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2944,1976.09.22,1976,Unprovoked,NEW CALEDONIA,Other,,N
+2945,1976.09.19,1976,Unprovoked,AUSTRALIA,Diving,M,N
+2946,1976.09.17,1976,Unprovoked,HONG KONG,Other,M,Y
+2947,1976.09.12.b,1976,Unprovoked,USA,Swimming,M,Y
+2948,1976.09.12.a,1976,Unprovoked,USA,Swimming,M,Y
+2949,1976.09.06,1976,Unprovoked,USA,Surfing,M,N
+2950,1976.08.26,1976,Unprovoked,USA,Surfing,M,N
+2951,1976.08.24,1976,Unprovoked,USA,Surfing,M,N
+2952,1976.07.24,1976,Unprovoked,USA,Fishing,M,N
+2953,1976.07.21,1976,Unprovoked,USA,Other,M,N
+2954,1976.07.16,1976,Unprovoked,USA,Diving,M,Y
+2955,1976.07.12,1976,Unprovoked,USA,Fishing,M,N
+2956,1976.06.23,1976,Unprovoked,USA,Diving,M,N
+2957,1976.06.10,1976,Unprovoked,USA,Swimming,M,N
+2958,1976.06.02.R,1976,Provoked,ITALY,Fishing,M,N
+2959,1976.06.01,1976,Boat,AUSTRALIA,Other,F,N
+2960,1976.05.02,1976,Boat,SOUTH AFRICA,Fishing,,N
+2962,1976.03.12.b,1976,Unprovoked,USA,Other,M,N
+2963,1976.03.12.a,1976,Boat,SOUTH AFRICA,Fishing,,N
+2964,1976.03.09,1976,Boat,SOUTH AFRICA,Other,,N
+2965,1976.03.02,1976,Boat,SOUTH AFRICA,Other,,N
+2966,1976.02.03,1976,Boat,SOUTH AFRICA,Other,,N
+2967,1976.01.13,1976,Provoked,SOUTH AFRICA,Fishing,,N
+2968,1976.01.12,1976,Unprovoked,AUSTRALIA,Other,F,N
+2969,1976.01.11,1976,Provoked,SOUTH AFRICA,Fishing,,N
+2970,1976.01.08,1976,Unprovoked,USA,Fishing,M,N
+2971,1976.01.02,1976,Unprovoked,NEW ZEALAND,Fishing,M,Y
+2972,1976.00.00.b,1976,Unprovoked,USA,Diving,M,Y
+2973,1975.12.29,1975,Boat,AUSTRALIA,Other,,N
+2974,1975.12.06,1975,Unprovoked,USA,Fishing,M,N
+2975,1975.12.02,1975,Provoked,AUSTRALIA,Other,M,N
+2976,1975.11.19.b,1975,Unprovoked,AUSTRALIA,Other,M,N
+2977,1975.11.19.a,1975,Unprovoked,SOUTH AFRICA,Other,M,N
+2978,1975.11.07,1975,Unprovoked,AUSTRALIA,Other,M,N
+2979,1975.11.02,1975,Unprovoked,USA,Surfing,M,N
+2981,1975.10.12,1975,Unprovoked,AUSTRALIA,Surfing,M,N
+2983,1975.09.00,1975,Unprovoked,SOUTH AFRICA,Paddle Sport,M,N
+2984,1975.08.17,1975,Unprovoked,SOUTH AFRICA,Surfing,M,N
+2985,1975.08.12,1975,Unprovoked,USA,Other,M,N
+2986,1975.08.09,1975,Unprovoked,USA,Diving,M,N
+2987,1975.08.04,1975,Unprovoked,HONG KONG,Swimming,M,N
+2988,1975.07.30.b,1975,Unprovoked,USA,Sea Disaster,F,Y
+2989,1975.07.30.a,1975,Unprovoked,AUSTRALIA,Diving,M,Y
+2990,1975.07.26.b,1975,Unprovoked,USA,Diving,M,N
+2991,1975.07.26.a,1975,Unprovoked,AUSTRALIA,Surfing,M,N
+2992,1975.07.23,1975,Unprovoked,USA,Diving,M,N
+2993,1975.07.19,1975,Unprovoked,USA,Diving,M,N
+2994,1975.07.15,1975,Unprovoked,USA,Swimming,F,N
+2995,1975.07.05,1975,Provoked,AUSTRALIA,Fishing,M,N
+2996,1975.07.04,1975,Unprovoked,USA,Surfing,M,N
+2997,1975.06.23.b,1975,Unprovoked,USA,Swimming,M,N
+2998,1975.06.23.a,1975,Unprovoked,USA,Other,F,N
+2999,1975.06.15,1975,Unprovoked,USA,Swimming,M,N
+3000,1975.06.02.R,1975,Unprovoked,USA,Surfing,M,N
+3001,1975.06.00.c,1975,Provoked,USA,Other,M,N
+3002,1975.05.25,1975,Unprovoked,USA,Surfing,M,N
+3003,1975.05.20,1975,Unprovoked,USA,Swimming,F,N
+3006,1975.04.05,1975,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3008,1975.03.18,1975,Unprovoked,AUSTRALIA,Other,F,N
+3009,1975.03.16,1975,Unprovoked,USA,Other,M,N
+3010,1975.03.13,1975,Provoked,AUSTRALIA,Diving,,N
+3011,1975.03.09,1975,Provoked,SOUTH AFRICA,Other,M,N
+3013,1975.02.23,1975,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3014,1975.02.14.R,1975,Boat,SOUTH AFRICA,Other,,N
+3015,1975.02.10,1975,Unprovoked,AUSTRALIA,Fishing,M,Y
+3016,1975.02.09,1975,Unprovoked,AUSTRALIA,Fishing,M,N
+3017,1975.02.07,1975,Unprovoked,AUSTRALIA,Other,M,N
+3018,1975.02.01,1975,Provoked,SOUTH AFRICA,Fishing,M,N
+3019,1975.01.19,1975,Unprovoked,AUSTRALIA,Surfing,M,Y
+3021,1975.00.00.a,1975,Unprovoked,REUNION,Other,M,Y
+3022,1974.12.10,1974,Unprovoked,AUSTRALIA,Other,,N
+3023,1974.11.01,1974,Unprovoked,USA,Other,M,N
+3024,1974.09.28,1974,Unprovoked,USA,Surfing,M,N
+3025,1974.09.14,1974,Unprovoked,USA,Diving,M,N
+3027,1974.09.02.b,1974,Unprovoked,USA,Diving,M,N
+3028,1974.09.02.a,1974,Unprovoked,USA,Diving,M,N
+3029,1974.09.01,1974,Unprovoked,AUSTRALIA,Fishing,M,N
+3030,1974.09.00,1974,Unprovoked,USA,Surfing,M,N
+3031,1974.08.23,1974,Unprovoked,HONG KONG,Swimming,M,N
+3032,1974.08.16.c,1974,Unprovoked,HONG KONG,Swimming,M,Y
+3033,1974.08.16.b,1974,Unprovoked,HONG KONG,Swimming,M,N
+3034,1974.08.16.a,1974,Unprovoked,HONG KONG,Swimming,M,N
+3036,1974.08.05,1974,Unprovoked,USA,Surfing,M,N
+3037,1974.07.26,1974,Unprovoked,USA,Diving,M,N
+3038,1974.07.20,1974,Unprovoked,USA,Swimming,M,Y
+3039,1974.07.02,1974,Unprovoked,USA,Other,M,Y
+3040,1974.06.20,1974,Unprovoked,USA,Swimming,F,N
+3041,1974.05.26,1974,Unprovoked,USA,Diving,M,N
+3042,1974.04.25.R,1974,Unprovoked,BRAZIL,Fishing,M,Y
+3043,1974.04.20,1974,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3044,1974.04.14,1974,Unprovoked,SOUTH AFRICA,Other,M,N
+3045,1974.04.12,1974,Unprovoked,USA,Swimming,F,N
+3046,1974.04.04,1974,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3047,1974.03.21,1974,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3048,1974.03.00,1974,Boat,SOUTH AFRICA,Fishing,,N
+3049,1974.02.13.b,1974,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3050,1974.02.13.a,1974,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3051,1974.02.00.b,1974,Boat,SOUTH AFRICA,Fishing,,N
+3052,1974.02.00.a,1974,Boat,SOUTH AFRICA,Fishing,,N
+3053,1974.01.13,1974,Unprovoked,SOUTH AFRICA,Other,M,N
+3054,1974.01.09,1974,Unprovoked,AUSTRALIA,Diving,M,Y
+3055,1974.01.07.c,1974,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3056,1974.01.07.b,1974,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3057,1974.01.07.a,1974,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3058,1974.00.00.b,1974,Unprovoked,AUSTRALIA,Fishing,M,N
+3060,1973.12.25,1973,Unprovoked,MOZAMBIQUE,Fishing,M,N
+3061,1973.12.21.b,1973,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3062,1973.12.19.R,1973,Unprovoked,PHILIPPINES,Swimming,M,Y
+3063,1973.12.18,1973,Unprovoked,USA,Swimming,M,N
+3064,1973.12.00,1973,Unprovoked,MEXICO,Swimming,M,Y
+3065,1973.11.25,1973,Unprovoked,AUSTRALIA,Other,,N
+3066,1973.11.24,1973,Unprovoked,USA,Surfing,M,N
+3067,1973.11.03,1973,Unprovoked,AUSTRALIA,Other,,N
+3068,1973.09.29,1973,Unprovoked,SOUTH AFRICA,Fishing,,Y
+3069,1973.09.14,1973,Unprovoked,BAHAMAS,Fishing,M,N
+3070,1973.09.10.R,1973,Unprovoked,HONG KONG,Swimming,M,Y
+3071,1973.09.09,1973,Unprovoked,MEXICO,Fishing,M,Y
+3072,1973.09.00,1973,Unprovoked,EGYPT,Other,M,N
+3074,1973.08.25,1973,Unprovoked,AUSTRALIA,Surfing,M,N
+3075,1973.08.16,1973,Unprovoked,USA,Other,M,N
+3076,1973.06.13,1973,Unprovoked,HONG KONG,Swimming,M,N
+3077,1973.04.04,1973,Unprovoked,MEXICO,Other,M,Y
+3078,1973.03.26,1973,Unprovoked,AUSTRALIA,Other,M,N
+3079,1973.03.05,1973,Unprovoked,MOZAMBIQUE,Fishing,M,Y
+3080,1973.03.00,1973,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3081,1973.02.27,1973,Unprovoked,MEXICO,Swimming,,Y
+3082,1973.01.21,1973,Provoked,SOUTH AFRICA,Fishing,M,N
+3083,1973.01.09,1973,Unprovoked,USA,Surfing,M,N
+3086,1973.00.00.a,1973,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3087,1972.12.31,1972,Unprovoked,SOUTH AFRICA,Other,M,N
+3088,1972.12.26,1972,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3089,1972.12.25,1972,Unprovoked,MEXICO,Surfing,M,Y
+3090,1972.12.24,1972,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3091,1972.12.22,1972,Unprovoked,AUSTRALIA,Other,M,N
+3092,1972.12.08,1972,Provoked,AUSTRALIA,Other,,N
+3093,1972.12.01,1972,Unprovoked,REUNION,Fishing,,Y
+3094,1972.10.22,1972,Unprovoked,AUSTRALIA,Fishing,M,N
+3095,1972.10.21,1972,Unprovoked,AUSTRALIA,Surfing,M,N
+3096,1972.10.14.b,1972,Unprovoked,USA,Diving,M,Y
+3097,1972.10.14.a,1972,Unprovoked,USA,Surfing,M,N
+3098,1972.10.10.R,1972,Unprovoked,NEW ZEALAND,Swimming,M,N
+3099,1972.09.09,1972,Unprovoked,USA,Surfing,M,N
+3101,1972.08.29,1972,Unprovoked,USA,Surfing,M,N
+3102,1972.08.17,1972,Unprovoked,USA,Fishing,M,N
+3103,1972.08.08,1972,Unprovoked,AUSTRALIA,Diving,M,N
+3105,1972.06.26.b,1972,Unprovoked,AUSTRALIA,Other,M,Y
+3106,1972.06.26.a,1972,Unprovoked,AUSTRALIA,Other,M,Y
+3107,1972.06.10,1972,Unprovoked,USA,Surfing,M,N
+3108,1972.05.28,1972,Unprovoked,USA,Diving,M,N
+3109,1972.05.06,1972,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+3111,1972.04.01.b,1972,Unprovoked,AUSTRALIA,Other,F,N
+3112,1972.04.01.a,1972,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3114,1972.03.16,1972,Unprovoked,USA,Fishing,M,N
+3115,1972.02.20,1972,Unprovoked,AUSTRALIA,Surfing,M,N
+3116,1972.02.12,1972,Unprovoked,AUSTRALIA,Other,,N
+3117,1972.01.01.c,1972,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3118,1972.01.01.b,1972,Unprovoked,SOUTH AFRICA,Other,F,N
+3119,1972.01.01.a,1972,Unprovoked,MOZAMBIQUE,Other,M,N
+3122,1971.12.23,1971,Unprovoked,AUSTRALIA,Other,,N
+3123,1971.12.16,1971,Unprovoked,SOUTH AFRICA,Swimming,F,N
+3124,1971.12.05,1971,Unprovoked,AUSTRALIA,Other,M,Y
+3125,1971.11.27,1971,Unprovoked,HONG KONG,Swimming,M,N
+3126,1971.11.25.R,1971,Provoked,AUSTRALIA,Other,,N
+3127,1971.10.23,1971,Unprovoked,USA,Surfing,M,N
+3128,1971.10.14,1971,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3129,1971.10.02,1971,Unprovoked,USA,Diving,M,N
+3130,1971.09.25,1971,Unprovoked,USA,Surfing,,N
+3132,1971.09.05,1971,Unprovoked,AUSTRALIA,Fishing,M,Y
+3133,1971.08.21,1971,Provoked,AUSTRALIA,Diving,M,N
+3134,1971.07.26,1971,Unprovoked,USA,Other,M,N
+3135,1971.07.19,1971,Unprovoked,USA,Diving,M,N
+3136,1971.06.30,1971,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3139,1971.04.11,1971,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3140,1971.04.06,1971,Unprovoked,MEXICO,Surfing,M,Y
+3143,1971.04.00,1971,Unprovoked,MOZAMBIQUE,Other,,Y
+3144,1971.03.30,1971,Unprovoked,NEW ZEALAND,Surfing,M,N
+3145,1971.01.02,1971,Unprovoked,AUSTRALIA,Swimming,M,N
+3146,1971.00.00.c,1971,Unprovoked,AUSTRALIA,Surfing,M,N
+3147,1971.00.00.b,1971,Unprovoked,IRAN,Other,M,N
+3148,1971.00.00.a,1971,Unprovoked,IRAN,Other,M,N
+3149,1970.12.17,1970,Unprovoked,MOZAMBIQUE,Fishing,M,Y
+3150,1970.12.13,1970,Unprovoked,MOZAMBIQUE,Fishing,M,Y
+3152,1970.12.03,1970,Unprovoked,USA,Other,M,N
+3154,1970.10.24,1970,Unprovoked,USA,Surfing,M,N
+3155,1970.10.00,1970,Unprovoked,USA,Surfing,M,N
+3158,1970.09.05,1970,Unprovoked,USA,Other,M,N
+3159,1970.09.02,1970,Provoked,AUSTRALIA,Other,M,N
+3160,1970.09.00.c,1970,Unprovoked,USA,Swimming,M,N
+3161,1970.09.00.a,1970,Unprovoked,USA,Diving,M,N
+3164,1970.06.22,1970,Provoked,USA,Fishing,M,N
+3165,1970.06.15,1970,Provoked,SOUTH AFRICA,Diving,M,N
+3168,1970.06.00,1970,Unprovoked,PHILIPPINES,Other,,Y
+3173,1970.03.23,1970,Unprovoked,USA,Other,M,N
+3175,1970.01.23.d,1970,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3176,1970.01.23.c,1970,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3177,1970.01.23.b,1970,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3178,1970.01.23.a,1970,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3179,1970.01.16,1970,Unprovoked,EGYPT,Air Disaster,M,Y
+3180,1970.01.10,1970,Unprovoked,MEXICO,Swimming,M,N
+3182,1970.01.00,1970,Unprovoked,PAPUA NEW GUINEA,Diving,M,N
+3184,1970.00.00.g,1970,Unprovoked,SPAIN,Fishing,M,N
+3185,1970.00.00.f,1970,Boat,ITALY,Fishing,M,N
+3191,1969.11.30,1969,Unprovoked,AUSTRALIA,Swimming,M,N
+3192,1969.11.11,1969,Unprovoked,USA,Diving,M,N
+3193,1969.11.05,1969,Provoked,AUSTRALIA,Other,M,N
+3194,1969.10.14,1969,Unprovoked,USA,Diving,M,N
+3195,1969.09.06,1969,Unprovoked,USA,Diving,M,N
+3196,1969.08.29,1969,Unprovoked,USA,Other,M,N
+3197,1969.08.22,1969,Provoked,USA,Fishing,M,N
+3198,1969.08.02,1969,Unprovoked,USA,Surfing,M,N
+3199,1969.08.01,1969,Unprovoked,USA,Surfing,M,N
+3202,1969.07.22,1969,Provoked,USA,Other,M,N
+3203,1969.07.20,1969,Unprovoked,USA,Diving,M,N
+3206,1969.06.00,1969,Unprovoked,USA,Other,M,N
+3207,1969.05.25,1969,Provoked,USA,Surfing,M,N
+3208,1969.05.24,1969,Provoked,USA,Diving,M,N
+3210,1969.05.14,1969,Unprovoked,AUSTRALIA,Other,,N
+3212,1969.04.19,1969,Provoked,USA,Fishing,M,N
+3213,1969.03.25,1969,Provoked,AUSTRALIA,Other,M,N
+3214,1969.03.09,1969,Unprovoked,USA,Surfing,M,N
+3215,1969.02.17.R,1969,Provoked,AUSTRALIA,Fishing,M,N
+3217,1969.01.27,1969,Unprovoked,AUSTRALIA,Diving,M,N
+3218,1969.01.00,1969,Unprovoked,AUSTRALIA,Other,M,N
+3219,1969.00.00,1969,Provoked,BAHAMAS,Other,,N
+3221,1968.12.26,1968,Provoked,AUSTRALIA,Other,M,N
+3222,1968.12.25,1968,Unprovoked,NEW ZEALAND,Surfing,M,N
+3223,1968.12.09,1968,Unprovoked,AUSTRALIA,Other,M,N
+3224,1968.12.02,1968,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3226,1968.11.06,1968,Boat,SOUTH AFRICA,Fishing,M,N
+3227,1968.11.02,1968,Provoked,AUSTRALIA,Other,M,N
+3228,1968.10.29,1968,Provoked,BAHAMAS,Other,M,N
+3229,1968.10.13,1968,Unprovoked,USA,Fishing,M,N
+3230,1968.10.10,1968,Unprovoked,PHILIPPINES,Other,,N
+3232,1968.09.15,1968,Unprovoked,NEW ZEALAND,Fishing,M,Y
+3233,1968.08.24,1968,Unprovoked,USA,Other,,N
+3234,1968.08.21,1968,Unprovoked,USA,Other,M,N
+3235,1968.08.13,1968,Unprovoked,FRENCH POLYNESIA,Swimming,M,N
+3238,1968.07.27,1968,Unprovoked,USA,Diving,M,N
+3239,1968.07.23,1968,Unprovoked,USA,Other,M,N
+3240,1968.07.16,1968,Unprovoked,USA,Fishing,M,N
+3241,1968.07.10,1968,Unprovoked,BAHAMAS,Swimming,M,Y
+3243,1968.06.25,1968,Unprovoked,BAHAMAS,Fishing,M,N
+3244,1968.06.09,1968,Unprovoked,USA,Other,M,N
+3247,1968.05.00,1968,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3249,1968.04.20,1968,Unprovoked,USA,Other,M,N
+3250,1968.04.15,1968,Unprovoked,AUSTRALIA,Diving,M,N
+3251,1968.04.11.R,1968,Unprovoked,PAPUA NEW GUINEA,Swimming,M,Y
+3252,1968.04.07,1968,Provoked,AUSTRALIA,Other,M,N
+3253,1968.03.25,1968,Unprovoked,SOUTH AFRICA,Other,M,N
+3254,1968.03.10,1968,Unprovoked,USA,Surfing,M,N
+3256,1968.02.26,1968,Unprovoked,USA,Surfing,M,N
+3257,1968.02.20,1968,Unprovoked,AUSTRALIA,Swimming,F,N
+3258,1968.02.18,1968,Provoked,NEW ZEALAND,Other,F,N
+3259,1968.02.04,1968,Unprovoked,AUSTRALIA,Fishing,M,N
+3260,1968.02.02,1968,Unprovoked,AUSTRALIA,Other,,N
+3261,1968.02.00,1968,Unprovoked,MOZAMBIQUE,Diving,,N
+3262,1968.01.17,1968,Unprovoked,PAPUA NEW GUINEA,Swimming,,Y
+3266,1967.12.30,1967,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3268,1967.12.18,1967,Unprovoked,FIJI,Other,M,N
+3269,1967.12.17,1967,Unprovoked,AUSTRALIA,Swimming,M,Y
+3270,1967.12.14,1967,Provoked,USA,Other,M,N
+3271,1967.11.30.b,1967,Provoked,AUSTRALIA,Diving,M,N
+3272,1967.11.30.a,1967,Unprovoked,AUSTRALIA,Other,M,N
+3273,1967.11.15,1967,Provoked,FIJI,Diving,M,N
+3274,1967.11.04,1967,Unprovoked,PHILIPPINES,Other,,Y
+3276,1967.10.26.R,1967,Unprovoked,MEXICO,Swimming,,Y
+3277,1967.10.17,1967,Unprovoked,USA,Other,M,N
+3278,1967.10.00,1967,Unprovoked,TONGA,Swimming,M,N
+3280,1967.09.13,1967,Provoked,ITALY,Diving,M,N
+3282,1967.09.07.a,1967,Unprovoked,USA,Fishing,,N
+3283,1967.09.06,1967,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3284,1967.09.01,1967,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3285,1967.08.27,1967,Provoked,USA,Other,M,N
+3286,1967.08.26,1967,Unprovoked,JAPAN,Other,M,Y
+3287,1967.08.25,1967,Unprovoked,ITALY,Fishing,M,N
+3288,1967.08.19,1967,Unprovoked,AUSTRALIA,Fishing,M,Y
+3292,1967.08.07,1967,Unprovoked,USA,Fishing,M,N
+3293,1967.08.00.b,1967,Unprovoked,BAHAMAS,Other,M,N
+3295,1967.07.29,1967,Unprovoked,USA,Snorkeling,M,N
+3298,1967.06.13,1967,Provoked,USA,Fishing,M,N
+3299,1967.06.00,1967,Provoked,ITALY,Fishing,M,N
+3300,1967.05.13,1967,Provoked,AUSTRALIA,Other,M,N
+3301,1967.05.09,1967,Provoked,AUSTRALIA,Other,M,N
+3303,1967.03.20,1967,Provoked,NEW ZEALAND,Diving,M,N
+3304,1967.03.19,1967,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3305,1967.03.12,1967,Provoked,AUSTRALIA,Fishing,M,N
+3307,1967.03.09,1967,Unprovoked,NEW ZEALAND,Other,M,Y
+3308,1967.03.01,1967,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3309,1967.02.06,1967,Unprovoked,MEXICO,Swimming,M,Y
+3310,1967.01.27,1967,Boat,SOUTH AFRICA,Fishing,,N
+3311,1967.01.22,1967,Provoked,SOUTH AFRICA,Fishing,M,N
+3312,1967.01.21,1967,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3313,1967.01.06,1967,Provoked,AUSTRALIA,Other,M,N
+3314,1966.12.31,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3315,1966.12.27.b,1966,Provoked,AUSTRALIA,Fishing,M,N
+3316,1966.12.27.a,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3318,1966.12.26,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3320,1966.11.00,1966,Unprovoked,PAPUA NEW GUINEA,Other,F,Y
+3321,1966.10.30,1966,Unprovoked,PAPUA NEW GUINEA,Swimming,F,Y
+3322,1966.10.29,1966,Unprovoked,PAPUA NEW GUINEA,Swimming,F,Y
+3323,1966.09.27,1966,Unprovoked,AUSTRALIA,Diving,M,N
+3324,1966.09.19,1966,Provoked,USA,Fishing,M,N
+3327,1966.09.10,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3328,1966.09.08.b,1966,Provoked,USA,Other,M,N
+3330,1966.08.28,1966,Boat,AUSTRALIA,Other,M,N
+3332,1966.08.27.a,1966,Unprovoked,BAHAMAS,Snorkeling,F,N
+3337,1966.08.13,1966,Unprovoked,ITALY,Other,M,N
+3339,1966.08.00.a,1966,Unprovoked,USA,Other,M,N
+3340,1966.07.31,1966,Unprovoked,USA,Diving,M,N
+3341,1966.07.19,1966,Provoked,USA,Other,M,N
+3342,1966.07.17.b,1966,Unprovoked,USA,Fishing,M,N
+3344,1966.07.14,1966,Unprovoked,PAPUA NEW GUINEA,Swimming,F,Y
+3347,1966.06.22,1966,Provoked,USA,Other,M,N
+3348,1966.06.11,1966,Provoked,USA,Fishing,M,N
+3349,1966.06.04,1966,Unprovoked,USA,Swimming,M,N
+3350,1966.06.02,1966,Provoked,FRENCH POLYNESIA,Fishing,M,N
+3351,1966.05.20.c,1966,Unprovoked,AUSTRALIA,Other,M,Y
+3352,1966.05.20.b,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3353,1966.05.20.a,1966,Unprovoked,AUSTRALIA,Other,M,Y
+3355,1966.05.16.a,1966,Unprovoked,PHILIPPINES,Other,M,Y
+3356,1966.04.08,1966,Unprovoked,USA,Swimming,M,N
+3357,1966.04.00,1966,Unprovoked,AUSTRALIA,Other,M,N
+3358,1966.03.20,1966,Provoked,AUSTRALIA,Fishing,,N
+3360,1966.02.27,1966,Unprovoked,AUSTRALIA,Other,M,N
+3361,1966.01.29,1966,Provoked,SOUTH AFRICA,Other,M,N
+3363,1966.01.22,1966,Unprovoked,USA,Fishing,M,N
+3364,1966.01.15,1966,Unprovoked,AUSTRALIA,Fishing,M,N
+3366,1966.01.11,1966,Unprovoked,SOUTH AFRICA,Other,M,N
+3367,1966.01.10,1966,Unprovoked,AUSTRALIA,Other,M,N
+3368,1966.01.09,1966,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3369,1966.01.08,1966,Unprovoked,NEW ZEALAND,Surfing,F,Y
+3370,1966.01.05,1966,Unprovoked,USA,Swimming,M,N
+3372,1965.12.28,1965,Unprovoked,AUSTRALIA,Fishing,M,N
+3374,1965.12.10,1965,Boat,AUSTRALIA,Fishing,,N
+3375,1965.11.21.b,1965,Provoked,AUSTRALIA,Fishing,M,Y
+3378,1965.11.03.a,1965,Unprovoked,AUSTRALIA,Surfing,M,N
+3380,1965.10.16.b,1965,Unprovoked,BAHAMAS,Other,M,N
+3381,1965.10.16.a,1965,Unprovoked,BAHAMAS,Other,F,Y
+3383,1965.10.00,1965,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3384,1965.09.21,1965,Provoked,PAPUA NEW GUINEA,Other,M,N
+3385,1965.09.12,1965,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3386,1965.09.08,1965,Unprovoked,MEXICO,Other,M,N
+3388,1965.08.26,1965,Unprovoked,USA,Swimming,M,N
+3389,1965.07.30,1965,Provoked,BAHAMAS,Other,M,N
+3390,1965.07.26,1965,Unprovoked,MEXICO,Swimming,M,Y
+3394,1965.06.09,1965,Unprovoked,MEXICO,Swimming,M,N
+3395,1965.06.00.b,1965,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3397,1965.05.29,1965,Unprovoked,MEXICO,Swimming,M,Y
+3398,1965.05.28,1965,Unprovoked,MEXICO,Swimming,M,Y
+3399,1965.05.00.c,1965,Unprovoked,EGYPT,Other,M,N
+3401,1965.05.00.a,1965,Unprovoked,MEXICO,Swimming,M,N
+3402,1965.04.29,1965,Unprovoked,USA,Other,M,N
+3404,1965.04.10,1965,Unprovoked,USA,Fishing,M,N
+3406,1965.04.04.a,1965,Unprovoked,USA,Other,M,N
+3408,1965.03.14,1965,Unprovoked,USA,Diving,M,N
+3409,1965.02.14,1965,Unprovoked,SOUTH AFRICA,Other,M,N
+3410,1965.02.04,1965,Unprovoked,USA,Diving,M,N
+3412,1965.01.23,1965,Unprovoked,SOUTH AFRICA,Other,M,N
+3413,1965.01.16,1965,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3414,1965.01.10,1965,Unprovoked,AUSTRALIA,Swimming,M,N
+3416,1965.00.00.g,1965,Unprovoked,USA,Other,M,N
+3417,1965.00.00.f,1965,Provoked,USA,Surfing,M,N
+3418,1965.00.00.e,1965,Provoked,USA,Other,M,N
+3420,1965.00.00.c,1965,Unprovoked,EGYPT,Fishing,M,N
+3421,1965.00.00.b,1965,Unprovoked,VANUATU,Other,M,Y
+3423,1964.12.25,1964,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3424,1964.12.10.b,1964,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3425,1964.12.10.a,1964,Boat,AUSTRALIA,Fishing,,N
+3426,1964.12.09,1964,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+3428,1964.11.29,1964,Unprovoked,AUSTRALIA,Diving,M,N
+3429,1964.11.18,1964,Unprovoked,AUSTRALIA,Swimming,M,Y
+3430,1964.11.13,1964,Provoked,AUSTRALIA,Other,M,N
+3431,1964.11.05,1964,Boat,USA,Fishing,,N
+3432,1964.10.31,1964,Provoked,SOUTH AFRICA,Surfing,M,N
+3434,1964.10.04,1964,Unprovoked,AUSTRALIA,Surfing,M,N
+3438,1964.08.26,1964,Unprovoked,USA,Swimming,M,N
+3439,1964.08.23,1964,Unprovoked,MEXICO,Other,M,N
+3441,1964.08.21,1964,Unprovoked,USA,Swimming,M,N
+3442,1964.08.08,1964,Unprovoked,USA,Fishing,M,N
+3443,1964.08.03,1964,Unprovoked,JAPAN,Swimming,M,N
+3444,1964.08.00,1964,Unprovoked,PANAMA,Fishing,M,N
+3445,1964.07.27,1964,Provoked,USA,Other,M,N
+3446,1964.07.16,1964,Unprovoked,SOUTH AFRICA,Other,M,N
+3449,1964.07.08.a,1964,Provoked,USA,Other,M,N
+3450,1964.07.00.b,1964,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3451,1964.07.00.a,1964,Boat,PAPUA NEW GUINEA,Rowing,,N
+3454,1964.06.24,1964,Boat,USA,Fishing,,N
+3455,1964.06.17,1964,Boat,PAPUA NEW GUINEA,Fishing,M,N
+3456,1964.06.23,1964,Unprovoked,FIJI,Fishing,M,N
+3458,1964.05.30,1964,Unprovoked,PANAMA,Other,M,N
+3459,1964.05.08,1964,Unprovoked,FIJI,Fishing,M,Y
+3460,1964.05.00,1964,Unprovoked,PANAMA,Diving,M,Y
+3461,1964.04.07,1964,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3462,1964.03.28.b,1964,Unprovoked,AUSTRALIA,Surfing,M,N
+3463,1964.03.28.a,1964,Unprovoked,PAPUA NEW GUINEA,Rowing,M,Y
+3464,1964.03.05,1964,Unprovoked,USA,Diving,M,N
+3466,1964.02.17.R,1964,Provoked,FIJI,Fishing,,N
+3467,1964.02.14.b,1964,Unprovoked,NEW CALEDONIA,Diving,M,Y
+3468,1964.02.14.a,1964,Unprovoked,FIJI,Fishing,M,Y
+3469,1964.02.11,1964,Unprovoked,NEW ZEALAND,Diving,M,N
+3470,1964.02.10,1964,Unprovoked,NEW ZEALAND,Fishing,M,N
+3471,1964.02.08,1964,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3472,1964.02.05.b,1964,Unprovoked,NEW ZEALAND,Other,M,N
+3473,1964.02.05.a,1964,Unprovoked,NEW ZEALAND,Swimming,M,Y
+3475,1964.02.01,1964,Boat,NEW ZEALAND,Other,,N
+3476,1964.02.00.b,1964,Unprovoked,USA,Other,M,N
+3478,1964.01.27,1964,Unprovoked,FIJI,Fishing,,Y
+3479,1964.01.23,1964,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3480,1964.01.22,1964,Unprovoked,SOUTH AFRICA,Other,M,N
+3481,1964.01.21,1964,Boat,SOUTH AFRICA,Other,,N
+3482,1964.01.18,1964,Unprovoked,AUSTRALIA,Diving,M,N
+3483,1964.01.11,1964,Unprovoked,USA,Fishing,M,N
+3484,1964.01.06.R,1964,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3485,1964.01.04,1964,Unprovoked,FIJI,Swimming,F,N
+3487,1964.01.01.a,1964,Unprovoked,SOUTH AFRICA,Diving,M,N
+3489,1963.12.29,1963,Unprovoked,SOUTH AFRICA,Other,F,N
+3490,1963.12.26.b,1963,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3491,1963.12.26.a,1963,Unprovoked,AUSTRALIA,Other,M,N
+3492,1963.12.25,1963,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3494,1963.12.22.a,1963,Provoked,SOUTH AFRICA,Other,M,N
+3495,1963.12.21,1963,Provoked,AUSTRALIA,Fishing,M,N
+3496,1963.12.20.b,1963,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3497,1963.12.20.a,1963,Unprovoked,SOUTH AFRICA,Other,M,Y
+3498,1963.12.08,1963,Unprovoked,AUSTRALIA,Fishing,M,N
+3500,1963.11.30.b,1963,Unprovoked,NEW ZEALAND,Other,M,N
+3501,1963.11.30.a,1963,Provoked,PAPUA NEW GUINEA,Fishing,F,N
+3502,1963.11.28,1963,Unprovoked,FIJI,Fishing,F,N
+3503,1963.11.25,1963,Unprovoked,FIJI,Other,M,N
+3504,1963.11.16.R,1963,Unprovoked,ITALY,Fishing,M,N
+3505,1963.11.14,1963,Provoked,AUSTRALIA,Other,M,N
+3506,1963.11.12,1963,Provoked,USA,Other,M,N
+3507,1963.11.05.R,1963,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3509,1963.10.16,1963,Unprovoked,USA,Surfing,M,N
+3513,1963.09.22,1963,Unprovoked,SOLOMON ISLANDS,Other,M,Y
+3514,1963.09.13,1963,Provoked,AUSTRALIA,Surfing,M,N
+3515,1963.09.10,1963,Provoked,USA,Fishing,M,N
+3518,1963.07.15,1963,Unprovoked,USA,Swimming,M,N
+3519,1963.07.11,1963,Provoked,USA,Fishing,M,N
+3521,1963.07.00,1963,Unprovoked,PANAMA,Other,M,Y
+3523,1963.06.01.a,1963,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3525,1963.05.14,1963,Unprovoked,PHILIPPINES,Other,,Y
+3526,1963.04.22,1963,Provoked,AUSTRALIA,Fishing,M,N
+3527,1963.04.20,1963,Unprovoked,USA,Swimming,M,Y
+3528,1963.04.17,1963,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3529,1963.04.13,1963,Unprovoked,AUSTRALIA,Surfing,M,N
+3530,1963.04.12,1963,Unprovoked,USA,Surfing,M,N
+3532,1963.03.30,1963,Unprovoked,SOLOMON ISLANDS,Other,M,Y
+3533,1963.02.27,1963,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+3534,1963.02.24,1963,Unprovoked,AUSTRALIA,Fishing,M,N
+3535,1963.02.08,1963,Unprovoked,FIJI,Fishing,M,N
+3538,1963.01.30,1963,Unprovoked,FIJI,Diving,M,N
+3539,1963.01.28,1963,Unprovoked,AUSTRALIA,Other,F,Y
+3541,1963.01.22,1963,Boat,SOUTH AFRICA,Fishing,,N
+3542,1963.01.14,1963,Provoked,NEW ZEALAND,Fishing,,N
+3543,1963.01.12,1963,Provoked,SOUTH AFRICA,Fishing,M,N
+3544,1963.01.11,1963,Unprovoked,SOUTH AFRICA,Diving,M,N
+3545,1963.01.06,1963,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3546,1963.01.04,1963,Provoked,AUSTRALIA,Fishing,,N
+3547,1963.01.00,1963,Boat,MOZAMBIQUE,Other,,N
+3550,1962.12.30,1962,Provoked,SOUTH AFRICA,Diving,M,N
+3551,1962.12.09,1962,Unprovoked,AUSTRALIA,Fishing,M,Y
+3552,1962.12.00,1962,Boat,SOUTH AFRICA,Fishing,,N
+3553,1962.11.29,1962,Unprovoked,AUSTRALIA,Fishing,M,N
+3555,1962.11.11,1962,Unprovoked,USA,Fishing,M,N
+3556,1962.11.10,1962,Boat,AUSTRALIA,Fishing,,N
+3558,1962.10.28,1962,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3559,1962.10.25,1962,Unprovoked,MEXICO,Other,M,Y
+3561,1962.10.14,1962,Boat,AUSTRALIA,Other,M,N
+3563,1962.10.00,1962,Unprovoked,PANAMA,Other,M,Y
+3565,1962.09.22,1962,Unprovoked,MEXICO,Swimming,M,N
+3567,1962.09.02,1962,Unprovoked,ITALY,Fishing,M,Y
+3570,1962.08.30.a,1962,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3571,1962.08.29,1962,Provoked,USA,Diving,M,N
+3572,1962.08.26,1962,Boat,USA,Other,,N
+3573,1962.08.23,1962,Boat,SOUTH AFRICA,Fishing,,N
+3574,1962.08.19,1962,Unprovoked,USA,Surfing,M,Y
+3575,1962.08.12,1962,Unprovoked,USA,Other,M,N
+3576,1962.08.01,1962,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3577,1962.08.00.b,1962,Unprovoked,ITALY,Diving,M,N
+3579,1962.07.28,1962,Unprovoked,USA,Other,M,N
+3581,1962.07.19,1962,Provoked,USA,Fishing,M,N
+3582,1962.07.10,1962,Unprovoked,USA,Other,M,N
+3583,1962.07.07,1962,Unprovoked,USA,Other,M,N
+3586,1962.06.21,1962,Boat,SOUTH AFRICA,Other,,N
+3587,1962.06.17,1962,Unprovoked,USA,Other,M,N
+3588,1962.06.11.b,1962,Unprovoked,USA,Other,M,N
+3589,1962.06.11.b,1962,Unprovoked,USA,Other,M,Y
+3590,1962.06.11.a,1962,Unprovoked,USA,Other,M,Y
+3591,1962.06.10.b,1962,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+3592,1962.06.10.a,1962,Unprovoked,USA,Other,M,N
+3593,1962.06.07,1962,Boat,AUSTRALIA,Fishing,,N
+3594,1962.06.04,1962,Provoked,USA,Diving,M,N
+3595,1962.06.03,1962,Unprovoked,USA,Diving,M,N
+3596,1962.05.29,1962,Unprovoked,USA,Other,M,N
+3597,1962.05.12,1962,Unprovoked,USA,Other,,Y
+3598,1962.05.00.R,1962,Boat,FIJI,Fishing,,N
+3599,1962.04.20,1962,Provoked,AUSTRALIA,Fishing,,N
+3600,1962.04.09,1962,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3601,1962.04.07,1962,Unprovoked,SOUTH AFRICA,Other,M,N
+3602,1962.04.05,1962,Provoked,SOUTH AFRICA,Fishing,,N
+3603,1962.03.25.b,1962,Provoked,NEW ZEALAND,Other,M,N
+3604,1962.03.25.a,1962,Boat,AUSTRALIA,Fishing,,N
+3605,1962.03.24,1962,Unprovoked,PAPUA NEW GUINEA,Swimming,M,Y
+3606,1962.02.23,1962,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+3607,1962.02.18,1962,Provoked,NEW ZEALAND,Swimming,M,N
+3608,1962.02.15,1962,Unprovoked,AUSTRALIA,Fishing,M,N
+3609,1962.02.07,1962,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3610,1962.02.05,1962,Unprovoked,SOUTH AFRICA,Other,M,Y
+3611,1962.02.04,1962,Unprovoked,AUSTRALIA,Swimming,M,N
+3613,1962.02.00,1962,Unprovoked,SOLOMON ISLANDS,Fishing,M,Y
+3614,1962.01.27,1962,Unprovoked,NEW ZEALAND,Other,M,N
+3616,1962.01.21,1962,Provoked,AUSTRALIA,Fishing,M,N
+3618,1962.01.16,1962,Provoked,NEW ZEALAND,Fishing,,N
+3619,1962.01.15,1962,Unprovoked,NEW ZEALAND,Fishing,M,N
+3620,1962.01.14.c,1962,Unprovoked,USA,Fishing,M,N
+3621,1962.01.14.b,1962,Provoked,AUSTRALIA,Fishing,,N
+3622,1962.01.14.a,1962,Unprovoked,AUSTRALIA,Surfing,M,N
+3623,1962.01.11.c,1962,Boat,AUSTRALIA,Fishing,,N
+3624,1962.01.11.b,1962,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3625,1962.01.11.a,1962,Unprovoked,NEW ZEALAND,Surfing,F,N
+3626,1962.01.10,1962,Boat,AUSTRALIA,Fishing,,N
+3628,1962.01.07.b,1962,Provoked,AUSTRALIA,Other,,N
+3629,1962.01.07.a,1962,Unprovoked,AUSTRALIA,Surfing,,N
+3630,1962.01.06,1962,Boat,SOUTH AFRICA,Fishing,,N
+3631,1962.01.02,1962,Provoked,AUSTRALIA,Fishing,,N
+3633,1962.00.00.c,1962,Unprovoked,SPAIN,Other,F,N
+3635,1962.00.00.a,1962,Unprovoked,AUSTRALIA,Diving,M,N
+3636,1961.12.28.c,1961,Unprovoked,AUSTRALIA,Other,F,Y
+3637,1961.12.28.b,1961,Unprovoked,AUSTRALIA,Other,M,N
+3638,1961.12.28.a,1961,Unprovoked,SOUTH AFRICA,Other,M,N
+3639,1961.12.27,1961,Provoked,AUSTRALIA,Fishing,M,N
+3640,1961.12.19,1961,Boat,AUSTRALIA,Fishing,,N
+3641,1961.12.18.b,1961,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3642,1961.12.18.a,1961,Unprovoked,AUSTRALIA,Surfing,M,Y
+3643,1961.12.13,1961,Unprovoked,AUSTRALIA,Swimming,M,N
+3645,1961.10.27,1961,Unprovoked,PHILIPPINES,Other,M,N
+3647,1961.10.00.b,1961,Boat,VANUATU,Rowing,M,N
+3648,1961.10.00.a,1961,Unprovoked,USA,Other,M,Y
+3649,1961.09.26,1961,Provoked,USA,Other,M,N
+3654,1961.09.02.R,1961,Provoked,ITALY,Fishing,M,N
+3656,1961.08.20,1961,Unprovoked,USA,Swimming,M,N
+3657,1961.08.16,1961,Unprovoked,USA,Other,M,N
+3659,1961.08.02,1961,Unprovoked,USA,Fishing,M,N
+3660,1961.08.01,1961,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3661,1961.07.29,1961,Provoked,USA,Fishing,M,N
+3663,1961.07.07.b,1961,Provoked,AUSTRALIA,Fishing,,N
+3664,1961.07.00.b,1961,Unprovoked,ITALY,Fishing,M,N
+3665,1961.07.00.a,1961,Provoked,PANAMA,Fishing,M,Y
+3666,1961.06.24,1961,Unprovoked,USA,Fishing,M,Y
+3667,1961.06.18,1961,Unprovoked,USA,Other,M,N
+3668,1961.06.06.R,1961,Boat,USA,Fishing,M,N
+3670,1961.06.01,1961,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3671,1961.05.21,1961,Unprovoked,USA,Diving,M,N
+3673,1961.05.15,1961,Unprovoked,USA,Treading Water,M,N
+3674,1961.05.07,1961,Provoked,AUSTRALIA,Fishing,M,N
+3676,1961.04.25,1961,Provoked,AUSTRALIA,Fishing,M,N
+3677,1961.04.21,1961,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3678,1961.04.17,1961,Provoked,SOUTH AFRICA,Diving,M,N
+3679,1961.04.16.b,1961,Unprovoked,USA,Fishing,M,N
+3680,1961.04.16.a,1961,Provoked,AUSTRALIA,Fishing,M,N
+3681,1961.04.14,1961,Unprovoked,AUSTRALIA,Other,M,N
+3682,1961.04.09,1961,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3684,1961.04.03,1961,Unprovoked,AUSTRALIA,Fishing,M,N
+3685,1961.04.00,1961,Provoked,AUSTRALIA,Fishing,M,N
+3686,1961.03.30,1961,Unprovoked,AUSTRALIA,Fishing,M,N
+3687,1961.03.18,1961,Unprovoked,AUSTRALIA,Swimming,M,N
+3688,1961.03.14,1961,Provoked,AUSTRALIA,Fishing,F,N
+3689,1961.03.12,1961,Unprovoked,AUSTRALIA,Fishing,M,N
+3691,1961.03.07,1961,Provoked,SOUTH AFRICA,Fishing,M,N
+3692,1961.03.00,1961,Unprovoked,FIJI,Other,M,N
+3693,1961.02.17.b,1961,Provoked,USA,Other,M,N
+3694,1961.02.17.a,1961,Unprovoked,AUSTRALIA,Other,F,N
+3696,1961.02.12,1961,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3697,1961.02.01.b,1961,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3698,1961.02.01.a,1961,Unprovoked,AUSTRALIA,Other,M,N
+3700,1961.01.25,1961,Boat,SOUTH AFRICA,Fishing,,N
+3701,1961.01.22,1961,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3702,1961.01.15,1961,Provoked,AUSTRALIA,Other,M,N
+3703,1961.01.06.c,1961,Unprovoked,SOUTH AFRICA,Other,M,N
+3705,1961.01.06.a,1961,Provoked,AUSTRALIA,Fishing,M,N
+3706,1961.01.05,1961,Unprovoked,MOZAMBIQUE,Swimming,M,N
+3707,1961.01.03.b,1961,Unprovoked,SOUTH AFRICA,Other,M,N
+3709,1961.01.02.R,1961,Boat,AUSTRALIA,Other,,N
+3710,1961.00.00.e,1961,Boat,AUSTRALIA,Fishing,,N
+3712,1961.00.00.d,1961,Unprovoked,NEW CALEDONIA,Fishing,,N
+3714,1961.00.00.a,1961,Unprovoked,USA,Other,,Y
+3715,1960.12.27.b,1960,Unprovoked,USA,Fishing,M,Y
+3716,1960.12.27.a.,1960,Unprovoked,AUSTRALIA,Other,F,N
+3717,1960.12.24,1960,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3718,1960.12.20,1960,Unprovoked,AUSTRALIA,Fishing,M,N
+3719,1960.12.01,1960,Unprovoked,AUSTRALIA,Fishing,M,N
+3720,1960.11.27,1960,Unprovoked,AUSTRALIA,Swimming,M,N
+3722,1960.11.11,1960,Provoked,AUSTRALIA,Other,M,N
+3723,1960.11.06,1960,Unprovoked,AUSTRALIA,Fishing,M,N
+3724,1960.11.00.d,1960,Boat,SOUTH AFRICA,Other,,N
+3726,1960.11.00.b,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3727,1960.10.25,1960,Unprovoked,USA,Other,M,N
+3728,1960.10.24,1960,Boat,SOUTH AFRICA,Fishing,,N
+3730,1960.10.00.e,1960,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3733,1960.10.00.b,1960,Boat,SOUTH AFRICA,Fishing,,N
+3735,1960.09.24,1960,Provoked,USA,Fishing,M,N
+3737,1960.09.18,1960,Boat,AUSTRALIA,Other,,N
+3740,1960.08.30,1960,Unprovoked,USA,Swimming,M,N
+3743,1960.08.24,1960,Unprovoked,USA,Diving,M,N
+3744,1960.08.22.R.,1960,Unprovoked,PAPUA NEW GUINEA,Diving,M,N
+3745,1960.08.22,1960,Unprovoked,USA,Other,M,N
+3746,1960.08.21,1960,Unprovoked,USA,Other,M,N
+3748,1960.08.10,1960,Provoked,USA,Other,M,N
+3750,1960.08.04.a,1960,Unprovoked,USA,Fishing,M,N
+3751,1960.08.00,1960,Unprovoked,USA,Swimming,M,Y
+3752,1960.07.27,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3753,1960.07.05,1960,Unprovoked,USA,Other,M,N
+3754,1960.07.03,1960,Provoked,USA,Fishing,M,N
+3755,1960.07.02.a,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3756,1960.06.29,1960,Provoked,USA,Surfing,M,N
+3757,1960.06.27.b,1960,Provoked,NEW ZEALAND,Fishing,,N
+3759,1960.06.24,1960,Unprovoked,USA,Diving,M,N
+3761,1960.06.05,1960,Unprovoked,PHILIPPINES,Diving,M,Y
+3762,1960.06.04,1960,Unprovoked,USA,Swimming,M,N
+3763,1960.05.29,1960,Unprovoked,PANAMA,Fishing,M,N
+3765,1960.05.19,1960,Unprovoked,USA,Swimming,F,N
+3766,1960.05.16,1960,Provoked,USA,Other,,N
+3767,1960.05.01,1960,Unprovoked,PAPUA NEW GUINEA,Other,,Y
+3768,1960.04.30,1960,Unprovoked,SOUTH AFRICA,Other,M,N
+3769,1960.04.24,1960,Unprovoked,USA,Diving,M,N
+3770,1960.04.22,1960,Provoked,AUSTRALIA,Fishing,M,N
+3771,1960.04.20.R,1960,Provoked,SOUTH AFRICA,Fishing,M,N
+3773,1960.04.12,1960,Unprovoked,AUSTRALIA,Surfing,M,N
+3774,1960.04.10,1960,Provoked,AUSTRALIA,Fishing,M,N
+3775,1960.04.03.b,1960,Unprovoked,AUSTRALIA,Fishing,M,N
+3776,1960.04.03.a,1960,Unprovoked,AUSTRALIA,Other,M,N
+3777,1960.04.01,1960,Provoked,AUSTRALIA,Fishing,,N
+3778,1960.04.00.c,1960,Unprovoked,FIJI,Fishing,F,Y
+3779,1960.04.00.b,1960,Provoked,PHILIPPINES,Fishing,M,Y
+3780,1960.04.00.a,1960,Boat,SOUTH AFRICA,Fishing,,N
+3781,1960.03.31,1960,Unprovoked,USA,Other,M,N
+3783,1960.02.29,1960,Unprovoked,AUSTRALIA,Fishing,M,N
+3784,1960.02.27.b,1960,Unprovoked,NEW ZEALAND,Fishing,M,N
+3787,1960.02.19,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3788,1960.02.10.,1960,Provoked,AUSTRALIA,Fishing,,N
+3789,1960.02.07,1960,Provoked,AUSTRALIA,Fishing,M,N
+3791,1960.01.30,1960,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3793,1960.01.21,1960,Boat,AUSTRALIA,Other,,N
+3794,1960.01.16,1960,Unprovoked,AUSTRALIA,Diving,M,Y
+3795,1960.01.13,1960,Provoked,AUSTRALIA,Fishing,M,N
+3796,1960.01.07,1960,Boat,AUSTRALIA,Other,,N
+3797,1960.01.01,1960,Provoked,SOUTH AFRICA,Other,F,N
+3803,1960.00.00.e,1960,Unprovoked,FIJI,Fishing,M,N
+3804,1960.00.00.d,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3805,1960.00.00.c,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3806,1960.00.00.b,1960,Unprovoked,MOZAMBIQUE,Swimming,F,Y
+3807,1960.00.00.a,1960,Unprovoked,SOUTH AFRICA,Other,F,N
+3808,1959.12.29,1959,Boat,AUSTRALIA,Other,,N
+3809,1959.12.28,1959,Boat,AUSTRALIA,Fishing,,N
+3810,1959.12.26,1959,Unprovoked,PAPUA NEW GUINEA,Swimming,,Y
+3811,1959.12.19.b,1959,Unprovoked,AUSTRALIA,Other,M,Y
+3812,1959.12.19.a,1959,Unprovoked,PHILIPPINES,Other,M,Y
+3813,1959.12.11,1959,Provoked,AUSTRALIA,Fishing,M,N
+3815,1959.12.03,1959,Boat,NEW ZEALAND,Fishing,M,N
+3817,1959.11.29,1959,Unprovoked,AUSTRALIA,Surfing,M,N
+3818,1959.11.28,1959,Unprovoked,AUSTRALIA,Other,M,N
+3819,1959.11.22,1959,Unprovoked,AUSTRALIA,Other,M,N
+3821,1959.11.15,1959,Boat,SOUTH AFRICA,Fishing,,N
+3822,1959.11.12.R,1959,Provoked,AUSTRALIA,Fishing,,N
+3823,1959.11.10,1959,Unprovoked,USA,Swimming,M,N
+3824,1959.11.09,1959,Provoked,AUSTRALIA,Fishing,M,N
+3825,1959.11.01,1959,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3826,1959.10.07,1959,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+3827,1959.10.05,1959,Unprovoked,PAPUA NEW GUINEA,Other,,N
+3828,1959.10.04,1959,Unprovoked,USA,Diving,M,N
+3829,1959.10.02,1959,Unprovoked,FIJI,Other,M,Y
+3830,1959.10.00,1959,Unprovoked,FIJI,Fishing,M,N
+3831,1959.09.30,1959,Unprovoked,PHILIPPINES,Swimming,M,N
+3833,1959.09.26.b,1959,Unprovoked,USA,Other,M,N
+3835,1959.09.11,1959,Boat,USA,Other,,N
+3838,1959.09.00,1959,Unprovoked,MEXICO,Other,F,Y
+3844,1959.08.15.a,1959,Unprovoked,USA,Fishing,M,Y
+3845,1959.08.14.b,1959,Provoked,USA,Fishing,M,N
+3846,1959.08.14.a,1959,Unprovoked,PHILIPPINES,Fishing,,Y
+3847,1959.08.13,1959,Provoked,USA,Fishing,M,N
+3849,1959.08.11,1959,Unprovoked,JAPAN,Swimming,M,Y
+3850,1959.08.10,1959,Unprovoked,USA,Other,F,N
+3853,1959.07.30,1959,Provoked,USA,Other,,N
+3854,1959.07.28,1959,Unprovoked,USA,Fishing,M,N
+3855,1959.07.25.b,1959,Unprovoked,JAPAN,Other,M,Y
+3856,1959.07.25.a,1959,Boat,USA,Other,,N
+3857,1959.07.23.b,1959,Boat,USA,Fishing,,N
+3858,1959.07.23.a,1959,Provoked,USA,Other,M,N
+3860,1959.07.02,1959,Provoked,USA,Diving,M,N
+3862,1959.07.00.a,1959,Unprovoked,MEXICO,Other,M,Y
+3864,1959.06.14.b,1959,Unprovoked,MEXICO,Swimming,M,Y
+3865,1959.06.14.a,1959,Unprovoked,USA,Diving,M,Y
+3867,1959.05.30,1959,Provoked,SOUTH AFRICA,Fishing,M,N
+3868,1959.05.16,1959,Unprovoked,USA,Other,F,N
+3869,1959.05.07,1959,Unprovoked,USA,Other,M,Y
+3870,1959.05.03,1959,Unprovoked,USA,Fishing,M,N
+3873,1959.04.11,1959,Unprovoked,AUSTRALIA,Diving,M,N
+3874,1959.04.09.b,1959,Unprovoked,USA,Fishing,M,N
+3875,1959.04.09..a,1959,Unprovoked,SOUTH AFRICA,Fishing,M,N
+3876,1959.04.05,1959,Unprovoked,AUSTRALIA,Fishing,M,N
+3877,1959.03.29,1959,Unprovoked,USA,Swimming,M,N
+3878,1959.03.08,1959,Unprovoked,PHILIPPINES,Other,M,Y
+3879,1959.03.00,1959,Boat,USA,Other,M,N
+3880,1959.02.28,1959,Boat,AUSTRALIA,Fishing,M,N
+3882,1959.02.06,1959,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3883,1959.02.02,1959,Unprovoked,SOLOMON ISLANDS,Swimming,M,Y
+3884,1959.02.01,1959,Unprovoked,SOUTH AFRICA,Other,M,N
+3885,1959.01.31,1959,Unprovoked,AUSTRALIA,Other,M,N
+3887,1959.01.25,1959,Unprovoked,AUSTRALIA,Swimming,M,N
+3888,1959.01.17.b,1959,Unprovoked,AUSTRALIA,Other,M,Y
+3889,1959.01.17.a,1959,Unprovoked,AUSTRALIA,Surfing,M,N
+3890,1959.01.15,1959,Unprovoked,SOUTH AFRICA,Swimming,M,N
+3892,1959.01.02,1959,Unprovoked,MOZAMBIQUE,Fishing,M,Y
+3893,1959.01.00,1959,Unprovoked,AUSTRALIA,Fishing,M,N
+3897,1959.00.00.d,1959,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3898,1959.00.00.c,1959,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3899,1959.00.00.b,1959,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+3900,1959.00.00.a,1959,Provoked,PAPUA NEW GUINEA,Fishing,M,N
+3902,1958.12.27,1958,Unprovoked,PAPUA NEW GUINEA,Other,,N
+3903,1958.12.23,1958,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3904,1958.12.13,1958,Unprovoked,USA,Surfing,M,Y
+3906,1958.11.23,1958,Unprovoked,AUSTRALIA,Swimming,M,Y
+3908,1958.11.07.R,1958,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3909,1958.11.05,1958,Boat,USA,Fishing,,N
+3910,1958.10.12,1958,Unprovoked,USA,Swimming,M,N
+3911,1958.10.05,1958,Unprovoked,USA,Other,M,N
+3912,1958.10.00.b,1958,Provoked,MEXICO,Other,M,N
+3913,1958.10.00.a,1958,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+3915,1958.09.06,1958,Unprovoked,BAHAMAS,Fishing,M,N
+3916,1958.09.01,1958,Provoked,USA,Fishing,M,N
+3917,1958.08.31,1958,Boat,MEXICO,Other,,N
+3919,1958.07.31.R,1958,Unprovoked,MEXICO,Swimming,F,Y
+3920,1958.07.27.b,1958,Unprovoked,USA,Swimming,M,N
+3921,1958.07.27.a,1958,Unprovoked,USA,Swimming,M,N
+3922,1958.07.10,1958,Unprovoked,USA,Other,M,Y
+3926,1958.07.02,1958,Provoked,USA,Diving,M,N
+3927,1958.07.01,1958,Unprovoked,PAPUA NEW GUINEA,Swimming,M,Y
+3928,1958.07.00.b,1958,Unprovoked,BAHAMAS,Fishing,M,N
+3929,1958.07.00.a,1958,Unprovoked,USA,Other,M,N
+3930,1958.06.26,1958,Provoked,USA,Other,M,N
+3931,1958.06.24,1958,Unprovoked,USA,Treading Water,M,N
+3932,1958.06.17,1958,Provoked,USA,Swimming,M,N
+3935,1958.04.30,1958,Provoked,USA,Diving,M,N
+3937,1958.04.05,1958,Unprovoked,SOUTH AFRICA,Other,F,Y
+3938,1958.04.03,1958,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3939,1958.04.00,1958,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3941,1958.02.01,1958,Provoked,USA,Fishing,M,N
+3942,1958.01.27,1958,Unprovoked,AUSTRALIA,Fishing,M,N
+3943,1958.01.19,1958,Unprovoked,AUSTRALIA,Surfing,M,N
+3945,1958.01.09,1958,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+3946,1958.00.00.j,1958,Provoked,TONGA,Fishing,M,N
+3948,1958.00.00.h,1958,Provoked,PANAMA,Diving,M,N
+3949,1958.00.00.f,1958,Unprovoked,PAPUA NEW GUINEA,Other,,Y
+3950,1958.00.00.e,1958,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3951,1958.00.00.d,1958,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3952,1958.00.00.c,1958,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+3953,1958.00.00.b,1958,Boat,SOUTH AFRICA,Fishing,,N
+3954,1958.00.00.a,1958,Unprovoked,SOUTH AFRICA,Fishing,M,Y
+3955,1957.12.31,1957,Unprovoked,AUSTRALIA,Fishing,M,N
+3956,1957.12.30,1957,Unprovoked,SOUTH AFRICA,Other,F,N
+3957,1957.12.26,1957,Unprovoked,SOUTH AFRICA,Diving,M,N
+3958,1957.12.23,1957,Unprovoked,SOUTH AFRICA,Other,M,Y
+3959,1957.12.20,1957,Unprovoked,SOUTH AFRICA,Other,M,Y
+3960,1957.12.18,1957,Unprovoked,SOUTH AFRICA,Surfing,M,N
+3962,1957.11.04.R,1957,Boat,AUSTRALIA,Fishing,,N
+3963,1957.10.24,1957,Unprovoked,SOLOMON ISLANDS,Other,M,Y
+3964,1957.10.23,1957,Unprovoked,SOLOMON ISLANDS,Other,F,Y
+3966,1957.08.00,1957,Provoked,USA,Other,M,N
+3967,1957.07.24,1957,Provoked,USA,Fishing,M,N
+3968,1957.07.15,1957,Unprovoked,USA,Swimming,M,Y
+3969,1957.07.09,1957,Unprovoked,AUSTRALIA,Diving,M,N
+3971,1957.05.11,1957,Unprovoked,AUSTRALIA,Fishing,M,N
+3972,1957.05.07,1957,Unprovoked,SOLOMON ISLANDS,Fishing,M,N
+3973,1957.05.00,1957,Unprovoked,USA,Other,M,N
+3974,1957.04.28,1957,Unprovoked,USA,Swimming,M,Y
+3975,1957.04.23,1957,Unprovoked,AUSTRALIA,Surfing,M,N
+3976,1957.04.22,1957,Provoked,USA,Other,M,N
+3977,1957.04.13,1957,Unprovoked,AUSTRALIA,Swimming,M,N
+3978,1957.04.07.b,1957,Unprovoked,PAPUA NEW GUINEA,Diving,M,N
+3979,1957.04.07.a,1957,Unprovoked,SOLOMON ISLANDS,Diving,M,N
+3980,1957.02.24,1957,Unprovoked,FIJI,Fishing,M,N
+3981,1957.02.05,1957,Unprovoked,USA,Other,M,N
+3983,1957.02.00,1957,Unprovoked,USA,Diving,M,N
+3984,1957.01.05,1957,Unprovoked,SOUTH AFRICA,Other,M,Y
+3986,1957.00.00.j,1957,Unprovoked,USA,Swimming,,N
+3988,1957.00.00.h,1957,Boat,CUBA,Fishing,,N
+3989,1957.00.00.g,1957,Unprovoked,CUBA,Fishing,M,Y
+3990,1957.00.00.f,1957,Unprovoked,USA,Diving,M,N
+3991,1957.00.00.e,1957,Unprovoked,FIJI,Fishing,M,N
+3992,1957.00.00.d,1957,Unprovoked,IRAN,Other,M,N
+3993,1957.00.00.b,1957,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3994,1957.00.00.c,1957,Unprovoked,IRAN,Other,M,N
+3995,1957.00.00.a,1957,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+3996,1956.12.26,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3997,1956.12.24,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+3999,1956.12.09,1956,Provoked,NEW ZEALAND,Fishing,M,N
+4000,1956.10.27,1956,Unprovoked,SOUTH AFRICA,Diving,M,N
+4001,1956.10.20,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4003,1956.10.00,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+4004,1956.09.23,1956,Unprovoked,USA,Surfing,M,N
+4007,1956.09.00.a,1956,Unprovoked,ITALY,Diving,M,N
+4008,1956.08.25,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+4009,1956.08.20,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4010,1956.08.15.R,1956,Unprovoked,USA,Diving,M,Y
+4011,1956.08.15.b,1956,Provoked,AUSTRALIA,Diving,M,N
+4012,1956.08.15.a,1956,Unprovoked,USA,Swimming,M,N
+4013,1956.08.01,1956,Unprovoked,SOUTH AFRICA,Diving,M,N
+4017,1956.08.00.b,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4018,1956.08.00.a,1956,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4019,1956.07.28,1956,Provoked,USA,Other,M,Y
+4020,1956.07.26,1956,Provoked,USA,Fishing,M,N
+4022,1956.07.17,1956,Unprovoked,USA,Other,F,N
+4023,1956.07.12,1956,Unprovoked,USA,Swimming,M,N
+4024,1956.06.28,1956,Unprovoked,AUSTRALIA,Fishing,M,N
+4027,1956.05.26.R,1956,Boat,SOUTH AFRICA,Fishing,,N
+4028,1956.05.07,1956,Unprovoked,CUBA,Diving,M,Y
+4029,1956.05.00,1956,Unprovoked,AUSTRALIA,Diving,,N
+4031,1956.03.11,1956,Unprovoked,AUSTRALIA,Swimming,M,N
+4032,1956.03.04,1956,Unprovoked,AUSTRALIA,Swimming,M,Y
+4033,1956.03.00.b,1956,Unprovoked,AUSTRALIA,Other,M,N
+4034,1956.02.26,1956,Unprovoked,AUSTRALIA,Diving,M,Y
+4035,1956.02.10.R,1956,Unprovoked,AUSTRALIA,Swimming,M,N
+4036,1956.01.16.R,1956,Unprovoked,AUSTRALIA,Diving,M,N
+4038,1956.01.05,1956,Unprovoked,AUSTRALIA,Surfing,M,N
+4039,1956.00.00.h,1956,Unprovoked,PAPUA NEW GUINEA,Diving,M,N
+4042,1956.00.00.e,1956,Provoked,USA,Other,M,N
+4044,1956.00.00.c,1956,Unprovoked,PAPUA NEW GUINEA,Other,,N
+4045,1956.00.00.b,1956,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+4046,1956.00.00.a,1956,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+4047,1955.12.31,1955,Boat,AUSTRALIA,Other,,N
+4048,1955.12.11,1955,Boat,USA,Fishing,,N
+4049,1955.11.16,1955,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+4050,1955.11.00,1955,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4051,1955.10.16,1955,Provoked,AUSTRALIA,Fishing,M,N
+4054,1955.09.20,1955,Unprovoked,USA,Other,M,N
+4055,1955.09.04,1955,Unprovoked,USA,Swimming,M,N
+4056,1955.09.03,1955,Unprovoked,USA,Other,M,N
+4057,1955.08.30.b,1955,Unprovoked,JAPAN,Fishing,M,Y
+4058,1955.08.30.a,1955,Provoked,USA,Surfing,M,N
+4061,1955.08.04.R,1955,Provoked,USA,Fishing,M,N
+4063,1955.08.00.a,1955,Boat,AUSTRALIA,Fishing,,N
+4064,1955.07.25,1955,Unprovoked,JAPAN,Other,M,Y
+4065,1955.07.23,1955,Unprovoked,USA,Other,M,N
+4068,1955.05.08,1955,Provoked,USA,Fishing,M,N
+4069,1955.05.00,1955,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4070,1955.04.13.R,1955,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4071,1955.04.12,1955,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4072,1955.04.00,1955,Unprovoked,USA,Fishing,M,N
+4073,1955.03.09,1955,Unprovoked,AUSTRALIA,Surfing,M,Y
+4074,1955.03.00.b,1955,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+4075,1955.03.00.a,1955,Provoked,AUSTRALIA,Other,M,N
+4076,1955.02.10,1955,Unprovoked,USA,Diving,M,N
+4077,1955.02.06,1955,Unprovoked,USA,Fishing,M,N
+4078,1955.02.05,1955,Unprovoked,AUSTRALIA,Swimming,M,Y
+4080,1955.02.01.,1955,Boat,AUSTRALIA,Other,,N
+4081,1955.02.00,1955,Boat,AUSTRALIA,Other,,N
+4082,1955.01.17,1955,Unprovoked,AUSTRALIA,Other,M,Y
+4083,1955.01.15,1955,Unprovoked,SOUTH AFRICA,Other,M,Y
+4085,1955.00.00.d,1955,Provoked,CUBA,Fishing,M,N
+4089,1955.00.00.a,1955,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+4091,1954.12.11,1954,Unprovoked,AUSTRALIA,Swimming,M,Y
+4092,1954.12.09,1954,Unprovoked,PAPUA NEW GUINEA,Swimming,M,Y
+4093,1954.12.04,1954,Unprovoked,SOUTH AFRICA,Swimming,M,N
+4094,1954.11.20,1954,Unprovoked,USA,Fishing,M,N
+4095,1954.10.07,1954,Unprovoked,USA,Other,M,Y
+4099,1954.09.21,1954,Unprovoked,USA,Swimming,M,N
+4100,1954.09.15,1954,Unprovoked,HONG KONG,Swimming,M,Y
+4101,1954.09.04,1954,Unprovoked,AUSTRALIA,Fishing,M,Y
+4102,1954.08.19,1954,Unprovoked,ITALY,Fishing,M,N
+4103,1954.08.12.b,1954,Provoked,CUBA,Fishing,M,N
+4104,1954.08.12.a,1954,Provoked,CUBA,Fishing,M,N
+4107,1954.07.27,1954,Boat,ITALY,Fishing,M,N
+4109,1954.07.04.R,1954,Unprovoked,USA,Other,,N
+4113,1954.06.29,1954,Provoked,USA,Other,M,N
+4114,1954.06.27,1954,Unprovoked,AUSTRALIA,Diving,M,N
+4115,1954.06.00,1954,Unprovoked,HONG KONG,Swimming,M,Y
+4116,1954.05.26.R,1954,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+4117,1954.05.00,1954,Unprovoked,PAPUA NEW GUINEA,Other,,N
+4120,1954.02.27,1954,Unprovoked,AUSTRALIA,Swimming,M,Y
+4121,1954.01.30,1954,Unprovoked,AUSTRALIA,Swimming,M,N
+4122,1954.01.22.b,1954,Unprovoked,AUSTRALIA,Fishing,M,N
+4124,1954.01.15,1954,Unprovoked,PAPUA NEW GUINEA,Other,M,N
+4125,1954.00.00.e,1954,Unprovoked,IRAN,Other,M,Y
+4127,1954.00.00.c,1954,Unprovoked,MEXICO,Diving,M,Y
+4128,1954.00.00.b,1954,Unprovoked,USA,Fishing,M,N
+4129,1954.00.00.a,1954,Unprovoked,PAPUA NEW GUINEA,Swimming,M,N
+4130,1954.00.00 g,1954,Unprovoked,IRAN,Other,F,Y
+4131,1954.00.00 f,1954,Unprovoked,IRAN,Other,M,N
+4132,1953.12.30,1953,Unprovoked,SOUTH AFRICA,Swimming,F,N
+4133,1953.12.22,1953,Unprovoked,SOUTH AFRICA,Swimming,M,N
+4134,1953.12.13,1953,Unprovoked,AUSTRALIA,Swimming,M,N
+4135,1953.12.00,1953,Unprovoked,AUSTRALIA,Surfing,M,N
+4136,1953.10.00,1953,Provoked,AUSTRALIA,Other,M,N
+4137,1953.09.27,1953,Unprovoked,PHILIPPINES,Other,M,Y
+4138,1953.09.20.R,1953,Unprovoked,USA,Diving,M,N
+4139,1953.09.18,1953,Unprovoked,USA,Other,M,N
+4140,1953.09.03.R,1953,Unprovoked,USA,Surfing,M,N
+4141,1953.09.02,1953,Unprovoked,USA,Other,M,N
+4143,1953.07.31,1953,Unprovoked,MEXICO,Other,F,Y
+4144,1953.07.26,1953,Unprovoked,USA,Fishing,M,Y
+4145,1953.07.16,1953,Provoked,USA,Fishing,M,N
+4146,1953.07.15,1953,Unprovoked,USA,Other,F,N
+4149,1953.07.04,1953,Unprovoked,USA,Other,M,N
+4150,1953.07.00,1953,Unprovoked,PANAMA,Other,M,N
+4151,1953.06.00,1953,Provoked,AUSTRALIA,Other,M,N
+4152,1953.04.07,1953,Boat,AUSTRALIA,Other,,N
+4153,1953.04.04,1953,Unprovoked,USA,Swimming,F,N
+4154,1953.04.00.b,1953,Unprovoked,IRAN,Other,M,N
+4155,1953.04.00.a,1953,Unprovoked,IRAN,Swimming,M,N
+4156,1953.03.22,1953,Unprovoked,AUSTRALIA,Fishing,M,N
+4157,1953.03.19.R,1953,Unprovoked,AUSTRALIA,Fishing,M,N
+4159,1953.03.00.a,1953,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+4160,1953.02.18,1953,Provoked,USA,Other,M,N
+4161,1953.02.15,1953,Unprovoked,AUSTRALIA,Fishing,M,N
+4162,1953.02.00,1953,Unprovoked,AUSTRALIA,Fishing,M,N
+4163,1953.01.20,1953,Provoked,AUSTRALIA,Fishing,M,N
+4164,1953.01.08,1953,Boat,AUSTRALIA,Fishing,,N
+4165,1953.00.00.c,1953,Unprovoked,AUSTRALIA,Fishing,M,N
+4166,1953.00.00.b,1953,Unprovoked,PAPUA NEW GUINEA,Other,M,Y
+4167,1953.00.00.a,1953,Unprovoked,USA,Other,F,N
+4168,1952.12.24,1952,Unprovoked,AUSTRALIA,Other,M,N
+4169,1952.12.21,1952,Unprovoked,AUSTRALIA,Fishing,M,N
+4171,1952.08.04,1952,Provoked,ITALY,Fishing,M,N
+4172,1952.08.03,1952,Unprovoked,USA,Swimming,M,Y
+4173,1952.12.07,1952,Unprovoked,USA,Surfing,M,Y
+4174,1952.12.03,1952,Unprovoked,USA,Fishing,M,Y
+4175,1952.10.12,1952,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4177,1952.08.05,1952,Provoked,ITALY,Fishing,,Y
+4178,1952.07.27.d,1952,Boat,USA,Fishing,,N
+4179,1952.07.27.c,1952,Provoked,USA,Fishing,M,N
+4180,1952.07.27.b,1952,Provoked,USA,Fishing,M,N
+4181,1952.07.27.a,1952,Unprovoked,USA,Other,M,Y
+4182,1952.07.13,1952,Provoked,USA,Fishing,M,N
+4183,1952.07.05,1952,Unprovoked,USA,Fishing,M,N
+4184,1952.05.27,1952,Unprovoked,USA,Swimming,M,N
+4185,1952.05.07.R,1952,Unprovoked,AUSTRALIA,Fishing,M,N
+4187,1952.04.06,1952,Boat,AUSTRALIA,Fishing,,N
+4191,1952.01.07,1952,Unprovoked,AUSTRALIA,Surfing,M,N
+4193,1952.00.00.d,1952,Unprovoked,PAPUA NEW GUINEA,Fishing,M,N
+4194,1952.00.00.c,1952,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+4195,1952.00.00.b,1952,Unprovoked,PAPUA NEW GUINEA,Fishing,M,Y
+4196,1952.00.00.a,1952,Unprovoked,USA,Swimming,M,Y
+4197,1951.12.21,1951,Unprovoked,MOZAMBIQUE,Swimming,M,Y
+4198,1951.12.16,1951,Provoked,AUSTRALIA,Fishing,M,N
+4199,1951.12.06,1951,Unprovoked,AUSTRALIA,Other,M,Y
+4200,1951.11.29,1951,Unprovoked,SOUTH AFRICA,Swimming,M,N
+4202,1951.11.28.a,1951,Unprovoked,SOUTH AFRICA,Other,M,N
+4203,1951.11.23.R,1951,Unprovoked,PHILIPPINES,Other,M,Y
+4204,1951.10.22,1951,Unprovoked,AUSTRALIA,Swimming,M,Y
+4206,1951.09.29,1951,Unprovoked,ITALY,Swimming,F,Y
+4207,1951.09.03.R,1951,Unprovoked,ITALY,Fishing,M,N
+4208,1951.09.02-R,1951,Unprovoked,AUSTRALIA,Other,M,Y
+4211,1951.08.16.R,1951,Unprovoked,ITALY,Diving,M,N
+4213,1951.07.19.R,1951,Unprovoked,USA,Other,M,N
+4215,1951.06.25,1951,Unprovoked,USA,Fishing,M,Y
+4216,1951.06.00,1951,Unprovoked,FRENCH POLYNESIA,Fishing,M,N
+4217,1951.05.22,1951,Unprovoked,MEXICO,Diving,M,N
+4218,1951.05.09.R,1951,Provoked,ITALY,Other,,N
+4219,1951.03.26,1951,Provoked,AUSTRALIA,Other,M,N
+4220,1951.03.24,1951,Unprovoked,AUSTRALIA,Fishing,M,N
+4221,1951.03.15,1951,Unprovoked,SOUTH AFRICA,Surfing,M,N
+4222,1951.02.19,1951,Unprovoked,SOUTH AFRICA,Surfing,M,N
+4223,1951.02.03,1951,Unprovoked,AUSTRALIA,Fishing,M,N
+4224,1951.02.01,1951,Unprovoked,AUSTRALIA,Swimming,M,N
+4225,1951.01.21,1951,Unprovoked,SOUTH AFRICA,Swimming,M,Y
+4228,1950.12.31,1950,Unprovoked,AUSTRALIA,Other,M,N
+4229,1950.12.19.R,1950,Unprovoked,AUSTRALIA,Swimming,,N
+4230,1950.12.16,1950,Unprovoked,AUSTRALIA,Other,M,Y
+4231,1950.11.29,1950,Provoked,AUSTRALIA,Diving,M,N
+4232,1950.11.25,1950,Unprovoked,AUSTRALIA,Surfing,M,N
+4233,1950.11.12,1950,Boat,AUSTRALIA,Rowing,M,N
+4234,1950.10.08,1950,Unprovoked,USA,Surfing,M,N
+4235,1950.10.04,1950,Unprovoked,AUSTRALIA,Fishing,M,N
+4238,1950.07.27.R,1950,Boat,AUSTRALIA,Fishing,,N
+4239,1950.07.21,1950,Unprovoked,JAPAN,Swimming,M,Y
+4240,1950.07.19,1950,Provoked,ITALY,Fishing,,N
+4241,1950.07.14,1950,Unprovoked,CUBA,Other,M,N
+4242,1950.07.10,1950,Unprovoked,USA,Swimming,M,N
+4244,1950.07.00,1950,Unprovoked,USA,Diving,M,N
+4245,1950.06.25,1950,Unprovoked,USA,Swimming,M,N
+4246,1950.06.06,1950,Unprovoked,USA,Other,M,Y
+4247,1950.05.24,1950,Unprovoked,SOUTH AFRICA,Other,M,N
+4248,1950.05.01,1950,Boat,ITALY,Fishing,M,N
+4249,1950.04.09.b,1950,Unprovoked,AUSTRALIA,Fishing,M,Y
+4250,1950.04.09.a,1950,Unprovoked,SOUTH AFRICA,Fishing,M,N
+4251,1950.03.26,1950,Unprovoked,SOUTH AFRICA,Other,M,N
+4252,1950.03.08,1950,Unprovoked,SOUTH AFRICA,Other,M,Y
+4254,1950.02.18.R,1950,Unprovoked,AUSTRALIA,Fishing,M,N
+4255,1950.02.11,1950,Unprovoked,SOUTH AFRICA,Surfing,M,Y
+4257,1950.01.12.R,1950,Unprovoked,AUSTRALIA,Swimming,M,N
+4258,1950.00.00.m,1950,Boat,AUSTRALIA,Other,M,N
+4263,1950.00.00.h,1950,Unprovoked,USA,Other,M,N
+4265,1950.00.00.f,1950,Unprovoked,PANAMA,Swimming,M,N
+4268,1950.00.00.c,1950,Unprovoked,NEW CALEDONIA,Fishing,M,N
+4269,1950.00.00.b,1950,Unprovoked,NEW CALEDONIA,Diving,M,N
+4270,1950.00.00.a,1950,Unprovoked,FIJI,Other,M,N
