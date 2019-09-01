@@ -62,13 +62,13 @@ def retornoTiposFish(text):
 
 
 def checkUrlValid(text):
-    """analiza si un string contiene una url válida (404 no valida) y la devuelve si lo es, si no devuelve UNKNOWN"""
+    """analiza si un string contiene una url válida (404 valida) y la devuelve si lo es, si no devuelve UNKNOWN"""
     r= requests.Response()
     try:
         
         r = requests.get(text, allow_redirects=True)
         code = int(r.status_code)
-        print(code)
+        
         del r
         if code == 200:
             return text
@@ -77,26 +77,12 @@ def checkUrlValid(text):
     except:
             return "UNKNOWN" 
 
-import urllib.request
 
-def url_is_alive(url):
-    """
-    Checks that a given URL is reachable.
-    :param url: A URL
-    :rtype: bool
-    """
-    request = urllib.request.Request(url)
-    request.get_method = lambda: 'HEAD'
-
-    try:
-        urllib.request.urlopen(request)
-        return True
-    except urllib.request.HTTPError:
-        return False
 
 
 def cleanShark(text,speciesList):
-    #UNKNOWN Thought , OR, ?,Possibly, involvement not cofirmed,probably
+    """Detecta el tipo de tiburón del string pasandole una lista de especies, si no encuentra o el string 
+    es confuso devuelve UNKNOWN o SHARK INVOLVMENT NOT CONFIRMED"""
     t = ""
     t = str(text.upper())
   
@@ -121,13 +107,11 @@ def cleanShark(text,speciesList):
             return "UNKNOWN"
         
     
+    
         
 
-
-        
-
-def getLength(text):
-    """Busca en species patrones de longitud para inicializar una columna nueva"""
+"""def getLength(text):
+    
     t = str(text)
     t = t.replace("["," ")
     t = t.replace("]"," ")
@@ -140,8 +124,38 @@ def getLength(text):
         if len(longitud) != 0:
             return " ".join([ele[0] for ele in longitud])
         else:
+            return("UNKNOWN")"""
+
+def getLength(text):
+    """Busca en species patrones de longitud y los devuelve"""
+    t = str(text)
+    t = t.replace("["," ")
+    t = t.replace("]"," ")
+    t = t.replace(" ","")
+    
+    longitud = re.findall("(\d[1-9.]+m)",t)
+    if len(longitud)>0:
+        listaMetros = [float(ele[0]) for ele in longitud if ele[0] not in "."]
+        return getAvgM(listaMetros)
+    else:
+        longitud = re.findall("([\d{.}]+(')?')",t)
+        if len(longitud) != 0:
+            return getAvgMConvertingPieNinches(longitud)
+            
+        else:
             return("UNKNOWN")
-
-
         
+def getAvgM(listaMetros):
+    if len(listaMetros) == 0:
+        return "UNKNOWN"
+    return round(sum(listaMetros)/len(listaMetros),3)
 
+def getAvgMConvertingPieNinches(listLenTwoTuple):
+    lista = [ele[0] for ele in listLenTwoTuple]
+    for i in range(len(lista)):
+        if lista[i].find("''")!=-1:
+            lista[i]=float(lista[i].replace("''",""))*12
+        else:
+            lista[i]=float(lista[i].replace("'",""))
+    lista = [(ele * 0.3048) for ele in lista]
+    return getAvgM(lista)
