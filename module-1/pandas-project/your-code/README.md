@@ -11,9 +11,9 @@ Procedure analysis technique:
 
 First, the data will be cleaned using pandas and python. This will include removing unnecessary columns and any data corrupt enought to be considered inconclusive, homogenize columns and add guessed values where needed.  
 
-Once this data is clean, we wil use python to create a new dataframe with all the outliers. Pandas will be used to extract two csv files, one containing the clean data and a second one with the outliers.
+Once this data is clean, we wil use python to create a new dataframe with all the outliers. Pandas will be used to extract a csv file containing the clean data.
 
-Using MySQL Workbench this data will be inserted into two different tables in a data base called shark_attacks, previously created. Here we will do one last check to make sure our data is clean and ready to use. Also using some sql queries might be usefull to re-organised the data to make it easier to manipulate.
+Using MySQL Workbench this data will be inserted into a data base called shark_attacks, previously created. Here we will do one last check to make sure our data is clean and ready to use. Also using some sql queries might be usefull to re-organised the data to make it easier to manipulate.
 
 Finally, the analysis will be made using Tableua, a powerfull BI tool, this way it will be easier to present the result of the analysis in a visual and interactive way. 
 
