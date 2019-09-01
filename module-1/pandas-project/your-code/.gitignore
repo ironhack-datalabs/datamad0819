@@ -4,3 +4,4 @@ input
 __pycache__
 #carpeta con ignore csv
 outputignore
+.\hrefvalids.csv
