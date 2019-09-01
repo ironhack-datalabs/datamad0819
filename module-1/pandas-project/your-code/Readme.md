@@ -83,6 +83,7 @@ Para el analisis de datos he hecho una comparativa entre los datos  comparando l
 ## Trabajo Futuro
 En este apartado explico el futuro trabajo que se puede hacer para realizar un analisis mucho mas profundo. 
 
-En un primer lugar se puede sacar más información de la que hay en el dataset. En mi opinión hay muchas columnas que no se puede saber la información exacta, sin embargo, si que es verdad que se podria sacar bastante información gracias a las columnas 'investigator or Source' y 'pdf' ya que si se busca en Google existe una informaciión detallada sobre el accidente. 
+   - En un primer lugar se puede sacar más información de la que hay en el dataset. En mi opinión hay muchas columnas que no se puede saber la información exacta, sin embargo, si que es verdad que se podria sacar bastante información gracias a las columnas 'investigator or Source' y 'pdf' ya que si se busca en Google existe una informaciión detallada sobre el accidente. 
 
-En la columna Sex, yo he considerado el codigo 'people' para solucionar los accidentes con mas personas, sin embargo, se ha dejado algunas columnas como UNKNOWN las  cuales algunas columnas se pueden solucionar viendo el nombre de la peresona.
+   - En la columna Sex, yo he considerado el codigo 'people' para solucionar los accidentes con mas personas, sin embargo, se ha dejado algunas columnas como UNKNOWN las  cuales algunas columnas se pueden solucionar viendo el nombre de la personas.
+   - En cuanto a las columnas de Year y Country seria conveniente crear rangos de etiquetas como por ejemplos continentes o rango de edades para que se vean mejor en el histograma
