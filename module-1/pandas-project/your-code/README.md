@@ -54,7 +54,7 @@ The steps are further explained in the main.ipynb file, along with the code.
 ## Conclusions
 
 1. The USA is the country with more shark attacks, followed by Australia
-2. Florida is the are with more shark attacks, followed by New South Wales
+2. Florida is the area with more shark attacks, followed by New South Wales
 3. 88,83% of the victims of shark attacks are men and just 11,17% are women
 4. The average age of the victims is 27 years
 5. The attacks are mostly in the afternoon
