@@ -25,3 +25,9 @@ def get_month_from_date(df):
 
         temp_lst.append(temp_row)
     return temp_lst
+
+def drop_wrong_months(df):
+    # drop rows in month that doesm't match with de first filter.
+    month = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
+    return df[df.Month.isin(month)]
+    
