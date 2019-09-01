@@ -10,7 +10,7 @@ This proyect consist in import and cleaning a pandas DataFrame  and export it to
 * output folder contains clean.csv with the result 
 
 ## Steps
-* Import the csv file and analyze ir
+* Import the csv file and analyze it
 * Cleaning null values
 * Cleaning columns
     * Cleaning "fatal"
