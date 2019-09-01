@@ -76,6 +76,8 @@ Este proceso de limpieza de datos se corresponde al fichero shark_clean.  En est
          - Floating
          - Bathing
 
+   - Por último he creado dos columnas: una llamada 'month' donde se guarda los meses del año y otra 'season' donde se guarda las estaciones del año. Ambas columnas creadas automaticamente con funciones con apply.
+
 ##Analisis de datos
 
 Para el analisis de datos he hecho una comparativa entre los datos  comparando los accidentes mortales con los que no a través de histogramas. Este proceso de analisis de datos se corresponde al fichero shark_  analytic.
