@@ -1,1 +1,32 @@
-El trabajo comienza.
+Limpieza de Global Shark Attack Incidents:
+Total filas: 5992
+Total columnas: 24
+
+Nada mas descargar la base de datos, en un vistazo inicial se observan dos columnas con muchos datos NaN, las cuales reciben el nombre de "Unnamed: 22, Unnamed: 23"
+Las cuales habrá que estudiar con mayor profundad para ver la utilidad de los mismos.
+
+Para ello y una vista general de toda la tabla, vamos a ver el total de datos NaN que hay en cada columna.
+Observamos que los valores de dichas columnas son en su totalidad NaN, por ello decidimos borrar.
+
+También parece que las columnas "Case Number.1" y "Case Number.2" son iguales. Por ello borramos
+una de ellas.
+
+Al parecer estas dos columnas son iguales también a "Case Number". Por ello decido borrar las dos anteriores y ver si la columna "Case Number" tiene duplicados.
+
+Nos devuelve que hay 16 valores duplicados. Pero antes de decidir borrarlos prefiero que me los muestre 
+para ver si realemente son datos duplicados, o que tienen la misma fecha solo.
+
+Lo que demuestra que tienen asignadas misma fecha pero que en realidad son datos independientes. Por ello
+decido dejar dichos datos y asignar la fecha correcta de aquellos que se vea cual es. 
+
+Buscando un poco sobre ataques a tiburones se ve que la mayoría de los titulares sobre ataques son en las costas de Floria.
+Por ello y para orientar la limpieza de datos.
+Podemos comenzar viendo si realmente la mayoria de los ataques son allí.
+
+Efectivamente Florida presenta unos 990 ataques. Una gran diferencia con respecto al segundo lugar.
+
+
+Tras esto quiero averiguar si la llegada del (Carcharhinus longimanus) tiburón oceanico de puntas blanca
+(el mas peligroso de todos)a las costas de BAHAMAS por el mes de mayo, provoca un incremento de los ataques.
+
+Para ello modifico la columna de fecha para poder evaluar los meses de abril/mayo/junio. 
