@@ -2,22 +2,22 @@
 
 ## Introduction
 
-This proyect consist in import and cleaning a pandas DataFrame  and export it to a csv file
+This proyect consist in import and cleaning a pandas DataFrame  and export it to a csv file. The steps are explained in the comments in pandasProyect.ipynb and functions.py is commented
 
 ## Steps
 * Import the csv file and analyze ir
 * Cleaning null values
 * Cleaning columns
-** Cleaning "fatal"
-** Cleaning "type"
-** Cleaning "activity"
-** Adding "country"
-** Cleaning "sex"
-** Cleaning "species"
-*** Searching for patterns length in "species" and adding the column "lenght" using them
-*** Cleaning "species"
-** Testing the URLs in "href" column (Incomplete)
-** Writing the cleaning.csv whith clean columns in output folder
+    * Cleaning "fatal"
+    * Cleaning "type"
+    * Cleaning "activity"
+    * Adding "country"
+    * Cleaning "sex"
+    * Cleaning "species"
+        * Searching for patterns length in "species" and adding the column "lenght" using them
+        * Cleaning "species"
+    * Testing the URLs in "href" column (Incomplete)
+    * Writing the cleaning.csv whith clean columns in output folder
 
 ## Conclusions
 * Regular expresions in python are powerful in data cleaning
