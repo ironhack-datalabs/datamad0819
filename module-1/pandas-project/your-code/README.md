@@ -1,3 +1,4 @@
+![Sea Monster](images/Sea-Monster-39.07.jpg)
 
 # Project: The Dangers of World Exploration by Sea: The empire of Sharks
 
