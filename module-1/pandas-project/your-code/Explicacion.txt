@@ -1,0 +1,15 @@
+total filas: 5992
+total columnas: 24
+
+¿que pais es mas peligroso para hacer surf, canada o estados unidos?
+
+Primero vamos a estandarizar los nombres de las columnas, para que no tengan espacios ni comas y esten todos en minuscula.
+En segundo lugar, quitaremos (si hay algun valor) las columnas que tengan mas de 4000 valores nulos y eliminamos las columnas que no sirvan para sacar conclusiones.
+
+Planteo la hipotesis con las variables('country', 'activity', 'fatal') que van a influenciar el output.
+Despues unifico en activity todos los deportes que sean 'surf'.
+Hago lo mismo con los tipos de yes and no en 'fatal_y/n'
+
+Cambio el nombre de la columna 'fatal_y/n' por: is_fatal
+
+Y por ultimo, hago dos condicionales con USA y Australia, para ver en que pais ha habido mas ataques fatales.
