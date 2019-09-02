@@ -1,11 +1,11 @@
 
 
-# Análisis sobre los ataques de tiburones a nivel global
+# Analysis on shark attacks globally
 
-    Finalizado el análisis de datos sobre los ataques de tiburones a nivel global, podemos sacar las siguientes conclusiones:
+    After the analysis of data on shark attacks globally, we can draw the following conclusions:
 
-        1 - El número de ataques al sexo masculino es casi x10 que el numero de ataques al sexo femenino
-        2 - Haciendo un filtrado de los ataques, sabiendo que mas del 90% de los ataques no fue identificado el tipo de tiburón, dentro de los             identificados mas de un 40% fueron ataques de tiburones blancos
-        3 - USA, es con diferencia el país en el que mas ataques se producen
+        1 - The number of attacks on male sex is almost x10 than the number of attacks on female sex
+        2 - Filtering the attacks, knowing that more than 90% of the attacks were not identified the type of shark, within those identified               more than 40% were white shark attacks
+        3 - USA, is by far the country in which more attacks happen
 
 
