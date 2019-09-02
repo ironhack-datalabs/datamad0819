@@ -22,7 +22,7 @@ This proyect consist in import and cleaning a pandas DataFrame  and export it to
         * Searching for patterns length in "species" and adding the column "lenght" using them
         * Cleaning "species"
     * Testing the URLs in "href" column (Incomplete)
-    * Writing the cleaning.csv whith clean columns in output folder
+* Writing the cleaning.csv whith clean columns in output folder
 
 ## Conclusions
 * "Href" and "Href Formula" are the same, their rows not are the same only 54 times, so I coold drop one
