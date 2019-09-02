@@ -9,7 +9,7 @@ def get_poor_rows(df,nulls = 2):
 
 
 def drop_by_index(df, indexes):
-    # Drop rows by a given index or list of indexes.
+    # Drop rows by a given list of indexes.
     return df.drop(df.iloc[indexes].index)
 
 
