@@ -27,19 +27,16 @@ Efectivamente Florida presenta unos 990 ataques. Una gran diferencia con respect
 
 
 Tras esto quiero averiguar si la llegada del (Carcharhinus longimanus) tiburón oceanico de puntas blanca
-a las costas de BAHAMAS por el mes de mayo, provoca un incremento de los ataques.Como quiero analizar 
-en base a la columna ("Date") Decido borrar los datos "NaN" que pudiera tener.
+a las costas de BAHAMAS por el mes de mayo, provoca un incremento de los ataques.
 
-(PREGUNTAR) 
-Para ello modifico la columna de fecha para poder evaluar los meses de abril/mayo/junio. 
-Pensaba hacer una funcion donde poder unirlas en etiqueta según las estaciones del año. Pero no deja de salirme un error que no soy capaz de quitar.
+Para ello modifico la columna de fecha para poder evaluar los meses de abril/mayo/junio. Hago dos funciones. La primera "calendario" modifica los valores de "Date" de 1-12. Y la otra funcion (estaciones) las agrupa segun las estaciones. Como han salido 928 valores NaN en la columna "Date". Decido eliminarlos para que no influyan en el analisis.
 
+Visto que algunas columnas están nombradas con espacios y mayusculas. Creo una funcion que las limpia y renombro varias de ellas para evitar confusión.
 
-Ahora separaria en dos la columna de "Sex" para poder analizarla por separado. Previamente quito los
-valores vacios con drop o con fillna(), adjudicandoles un valor 2. 
+Ahora hago un condicional para saber el numero de ataques en bahamas en base a las estaciones. Viendose que hay mas ataques registrados en verano. (56/90)
 
-Posteriormete veria que tipo de tiburon es el que mas ataques presenta. Se ve que es el tiburon blanco.
+Confirmo que no haya valores nulos en las columnas usadas. Y evaluo las distintas especies de tiburon que han provocado los ataques en primavera en bahamas. De las que sale que solo uno de ellos ha sido confirmado por Carcharhinus y otro que se cree que también pudo ser. Aunque hay 6 que están sin identificar. 
 
+Lo que queda reflejado como conclusión que la llegada de este tiburón a las costas de Bahamas no significa un incremento de los ataques. Aunque no se ha tenido en cuenta en el analisis la cantidad de gente que visita Bahamas en verano. Lo cual puede alterar muy drasticamente el analisis, al sacar esa variable de la ecuación.
 
-
-
+Por ultimo miro que especie de tiburon es la que mas ataque provoca. Lo que devuelve el tiburon blanco. Lo que queda por analizar si es porque es el mas conocido por la población o porque realmente sean los mas agresivos.
