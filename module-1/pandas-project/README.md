@@ -27,70 +27,12 @@ La última operación de filtrado que hemos realizado ha sido eliminar las filas
 year = df["Year"].value_counts()
 year
  
-2015    139
-2011    128
-2014    125
-0       124
-2013    122
-2008    121
-2009    120
-2012    117
-2007    112
-2006    103
-2016    103
-2005    103
-2010    101
-2000     97
-1959     93
-1960     93
-2001     92
-2004     92
-2003     92
-2002     88
-1962     86
-1961     78
-1995     76
-1964     66
-1998     65
-1999     65
-1996     61
-1963     61
-1966     58
-1997     57
-       ... 
-1785      1
-1834      1
-1791      1
-1733      1
-1721      1
-1637      1
-1617      1
-77        1
-5         1
-1703      1
-1755      1
-1767      1
-1771      1
-1779      1
-1787      1
-1803      1
-1749      1
-1807      1
-1811      1
-1819      1
-1805      1
-1831      1
-1555      1
-1738      1
-1859      1
-1742      1
-1758      1
-1818      1
-1822      1
  
 
 Vemos que la mayoría de los sucesos se han producido desde 1959 a la actualidad, por lo que vamos a eliminar las columnas de los sucesos que se han producido en años anteriores, ya que han sido muy poco numerosos y los datos de los años son muy dispersos (muy pocos datos, repartidos en un rango de años muy amplio). Además, decidimos eliminar las filas correspondientes al año cero, ya que se consideran erróneos y por lo tanto no confiables ni relevantes:
+
 df2 = df.drop(df[(df.Year < 1959)].index)
+
 El Dataframe resultante está compuesto por 3901 filas × 20 columnas.
 
 El último paso es analizar los datos que hemos conservado. 
