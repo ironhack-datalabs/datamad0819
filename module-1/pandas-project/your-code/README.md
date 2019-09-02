@@ -25,6 +25,7 @@ This proyect consist in import and cleaning a pandas DataFrame  and export it to
     * Writing the cleaning.csv whith clean columns in output folder
 
 ## Conclusions
+* "Href" and "Href Formula" are the same, their rows not are the same only 54 times, so I coold drop one
 * Regular expresions in python are powerful in data cleaning
 * Searching for hidden patterns in a dirty data set will be very important for extract new data
 * Study python requests library can be interesting for extract and evaluate data in the internet
