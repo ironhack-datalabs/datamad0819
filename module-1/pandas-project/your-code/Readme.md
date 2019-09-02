@@ -1,11 +1,11 @@
 
-#Ataque de tiburones
+# Ataque de tiburones
 
 Este proyecto trata sobre un analisis de datos sobre distintos ataques de tiburones ocurrido en distintas zonas del mundo y en distintas fechas para averiguar conclusiones sobre estos ataques.
 
 El dataset del cual se va a realizar este estudio se encuentra en el siguiente [enlace](https://www.kaggle.com/teajay/global-shark-attacks/version/1). Este proyecto se desarrolla sobretodo en dos proyectos de jypiter. Uno destinado a la limpieza de datos y las decisiones tomadas. Y otro al analisis de datos,
 
-##Columnas
+## Columnas
 
 - **Case number**: id del ataque. Este dato esta formado por la fecha y una letra indicando si es el primero o más del primer día. Ejemplo: 2016.09.18.c.
 - **Date**: fecha con formato 'dd-mm-yy'(num-str-num).
@@ -34,7 +34,7 @@ El dataset del cual se va a realizar este estudio se encuentra en el siguiente [
 
 
 
-##Limpieza de datos
+## Limpieza de datos
 
 Este proceso de limpieza de datos se corresponde al fichero shark_clean.  En este apartado se explica los pasos que he realizado a la hora de realizar este analisis.
 #### Estudio del dataset
@@ -54,7 +54,7 @@ Este proceso de limpieza de datos se corresponde al fichero shark_clean.  En est
 2. Analizar si hay columnas duplicadas y ver en que columnas hay valores nulos para tener una referencia de inicio para la limpieza de datos.
    1. Para las columnas con muchos valores nulos etiqueto los valore NaN como 'UNKNOWN' , ya que estas columnas requiere de mucho tiempo para completarlas:
 
-      - Age.
+      - Age: A través de esta columna, he creado otra que se corresponde a rango de edades.
       - Time.
       - Species.   
 
@@ -78,7 +78,7 @@ Este proceso de limpieza de datos se corresponde al fichero shark_clean.  En est
 
    - Por último he creado dos columnas: una llamada 'month' donde se guarda los meses del año y otra 'season' donde se guarda las estaciones del año. Ambas columnas creadas automaticamente con funciones con apply.
 
-##Analisis de datos
+## Análisis de datos
 
 Para el analisis de datos he hecho una comparativa entre los datos  comparando los accidentes mortales con los que no a través de histogramas. Este proceso de analisis de datos se corresponde al fichero shark_  analytic.
 

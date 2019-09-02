@@ -9,7 +9,18 @@ def cleanColumn(old,new,dataset,col):
 
     return dataset
 
+sharks = ["tiger","white","mako","bull","tiger","raggedtooth",
+"hammerhead","nurse","lemon","blacktip","sevengill"]
 
+def catalogarSpecies(col):
+    """ Cataloga los tibutones mas comunes"""
+    col = str(col).lower()
+
+    for shark in sharks:
+        if shark in col:
+            return shark
+        
+    return "UNKNOWN"
 
 
 
@@ -112,3 +123,18 @@ def createSeason(col):
     except:
         return "UNKNOWN"
 
+
+range_age = ['0-10', '10-20', '20-30', '30-40', '40-50','60-70','70-80','80-90','90-100']
+
+
+def calculateRangeAge(col):
+    try:
+
+        for age in range_age:
+            min_age,max_age = age.split("-")
+
+            if int(col) >= int(min_age) and int(col) <= int(max_age):
+                return age
+    except:
+        return "UNKNOWN"
+        
