@@ -22,7 +22,7 @@ The project has the following structure:
     
     - Pandas Project.ipynb: Jupyter notebook file with operations made in the notebook.
 
-## 4.- Analysis
+## 4.- Cleaning
 
 As expected, the data file was not going to be a very tidy dataset. To perform some cleaning, I followed the subsequent steps: 
 
@@ -44,6 +44,9 @@ As expected, the data file was not going to be a very tidy dataset. To perform s
     8.- Time_aux: time column is analysed and mapped into day-time categories to facilitate future analysis. Although there a 50% of values missing, the column has not been dropped as time looks essential for analysis. 
 
    
-     
+## 5.- Hypothesis
+
+First_Hypothesis = in the USA there are more attacks during the summer season, due to more tourists
+
 
 
