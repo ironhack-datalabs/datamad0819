@@ -1,2 +1,2 @@
-def actividadesMasPeligrosas('Activity'):
-    return text.value_counts().head(5)
+def actividadesMasPeligrosas(dfActivity):
+    return dfActivity.value_counts().head(5)
