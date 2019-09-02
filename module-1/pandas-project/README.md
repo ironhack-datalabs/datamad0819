@@ -1,47 +1,123 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+Pandas-project
 
-# Project: Data Cleaning and Manipulation with Pandas
+El pandas-project del módulo 1 consiste en limpiar un Dataframe de datos recogidos en relación a los ataques de tiburón producidos alrededor del mundo y a lo largo de la historia, por lo que la cantidad de datos recopilados era muy grande (5992 filas x 24 columnas).
+En este sentido lo mas importante ha sido filtrar los datos para elegir con cuál quedarnos y cuáles eran prescindibles.
+Lo primero que hemos hecho ha sido una operación para renombrar algunas columnas para que nos fuese más sencillo trabajar con ellas:
 
-## Overview
+	df = df.rename(columns={"Case Number.1": "Uno", "Case Number.2": "Dos", "href formula": "hformula"})  
 
-The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). You will need to import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file.
+Como se puede apreciar hemos cambiado el nombre de las columnas “Case Number.1”, “Case Number.2” y “href formula” a “Uno”, “Dos” y “hformula” respectivamente.
+El siguiente paso ha sido comprobar si alguna columna tenías todos sus valores nulos, ya que, de este modo, serían completamente prescindibles. A través de la formula “isnull” de Pandas, hemos comprobado que las columnas “Unnamed: 22” y “Unnamed: 23” tenían todos sus valores nulos.
+null_cols = df.isnull().sum()
+null_cols[null_cols>0]
+El siguiente paso ha sido eliminarlas: 
+drop_cols = (null_cols[null_cols > 5000].index)
+df = df.drop(drop_cols, axis=1)   
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+Otra de las comprobaciones que hemos hecho ha sido comparar las columnas “Case Number.1” con “Case Number.2” y “href formula” con “href” ya que ha simple vista parecían idénticas. Efectivamente tenían muchos valores en común por lo que hemos decidido eliminar las columnas “Case Number.2” y “href formula”
 
----
+Siguiendo con la tarea del filtrado, hemos comprobado que no había filas idénticas, y efectivamente así ha sido:
+before = len(df)
+df = df.drop_duplicates()              
+after = len(df)
+print (before - after)
+Con esta fórmula el resultado es cero, por lo que no hay coincidencias de filas repetidas.
 
-## Technical Requirements
+La última operación de filtrado que hemos realizado ha sido eliminar las filas cuyo año de suceso nos parecía irrelevante por el numero de sucesos producidos durante ese periodo de tiempo. Es decir, hemos hecho una suma de los sucesos agrupados en años y hemos obtenido lo siguiente:
+year = df["Year"].value_counts()
+year
+ 
+2015    139
+2011    128
+2014    125
+0       124
+2013    122
+2008    121
+2009    120
+2012    117
+2007    112
+2006    103
+2016    103
+2005    103
+2010    101
+2000     97
+1959     93
+1960     93
+2001     92
+2004     92
+2003     92
+2002     88
+1962     86
+1961     78
+1995     76
+1964     66
+1998     65
+1999     65
+1996     61
+1963     61
+1966     58
+1997     57
+       ... 
+1785      1
+1834      1
+1791      1
+1733      1
+1721      1
+1637      1
+1617      1
+77        1
+5         1
+1703      1
+1755      1
+1767      1
+1771      1
+1779      1
+1787      1
+1803      1
+1749      1
+1807      1
+1811      1
+1819      1
+1805      1
+1831      1
+1555      1
+1738      1
+1859      1
+1742      1
+1758      1
+1818      1
+1822      1
+ 
 
-The technical requirements for this project are as follows:
+Vemos que la mayoría de los sucesos se han producido desde 1959 a la actualidad, por lo que vamos a eliminar las columnas de los sucesos que se han producido en años anteriores, ya que han sido muy poco numerosos y los datos de los años son muy dispersos (muy pocos datos, repartidos en un rango de años muy amplio). Además, decidimos eliminar las filas correspondientes al año cero, ya que se consideran erróneos y por lo tanto no confiables ni relevantes:
+df2 = df.drop(df[(df.Year < 1959)].index)
+El Dataframe resultante está compuesto por 3901 filas × 20 columnas.
 
-* The dataset that we provide you is a significantly messy data set. Apply the different cleaning and manipulation techniques you have learned.
-* Import the data using Pandas.
-* Examine the data for potential issues.
-* Use at least 8 of the cleaning and manipulation methods you have learned on the data.
-* Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
-* Export a clean CSV version of your data using Pandas.
+El último paso es analizar los datos que hemos conservado. 
+1.	pais = df["Country"].value_counts()
+USA             1693
+AUSTRALIA        668
+SOUTH AFRICA     423
+BRAZIL            95
+BAHAMAS           81
 
-## Necessary Deliverables
+2.	act = df["Activity"].value_counts()
 
-The following deliverables should be pushed to your Github repo for this chapter.
+Surfing         891
+Swimming        467
+Spearfishing    278
+Fishing         219
+Wading          122
 
-* **A cleaned CSV data file** containing the results of your data wrangling work.
-* **A Jupyter Notebook (data-wrangling.ipynb)** containing all Python code and commands used in the importing, cleaning, manipulation, and exporting of your data set.
-* **A ``README.md`` file** containing a detailed explanation of the process followed in the importing, cleaning, manipulation, and exporting of your data as well as your results, obstacles encountered, and lessons learned.
 
-## Suggested Ways to Get Started
+3.	type = df["Type"].value_counts()
 
-* **Examine the data and try to understand what the fields mean** before diving into data cleaning and manipulation methods.
-* **Break the project down into different steps** - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-* **Use the tools in your tool kit** - your knowledge of Python, data structures, Pandas, and data wrangling.
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
+Unprovoked      2933
+Provoked         368
+Invalid          332
+Boat             187
+Sea Disaster      81
 
-## Useful Resources
-
-* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-* [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-* [StackOverflow Pandas Questions](https://stackoverflow.com/questions/tagged/pandas)
-* [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
-* [Kaggle Data Sets](https://www.kaggle.com/datasets)
+Conclusión:
+Vemos que la mayoría de los ataques se han producido en USA (1693), seguido muy de lejos por Australia (668) y South Africa (423). Por otro lado vemos que la principal actividad relacionada con los ataques de tiburón es el surf (891), 467 de los casos han sido a gente que estaba nadando, resulta también llamativo que casi 500 casos tengan que ver con actividades relacionadas con la pesca.
+Por último, vemos un dato que destaca en el tipo de ataques, ya que 2.933 casos han sido considerados como no provocados.
