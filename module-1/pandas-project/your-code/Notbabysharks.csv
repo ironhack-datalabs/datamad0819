@@ -1,0 +1,905 @@
+,Case Number,Date,Year,Type,Country,Area,Location,Activity,Fatal (Y/N),original order
+0,2016.09.18.c,18-Sep-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5993
+1,2016.09.18.b,18-Sep-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5992
+2,2016.09.18.a,18-Sep-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5991
+3,2016.09.17,17-Sep-16,2016,Unprovoked,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,N,5990
+4,2016.09.15,16-Sep-16,2016,Unprovoked,AUSTRALIA,Victoria,Bells Beach,Surfing,N,5989
+10,2016.09.05.a,05-Sep-16,2016,Unprovoked,AUSTRALIA,Western Australia,Injidup ,Surfing,N,5983
+13,2016.08.29.b,29-Aug-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5980
+14,2016.08.29.a,29-Aug-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5979
+15,2016.08.27,27-Aug-16,2016,Unprovoked,REUNION,,Boucan Canot,Surfing,N,5978
+19,2016.08.04,04-Aug-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5974
+24,2016.07.26,26-Jul-16,2016,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,N,5969
+25,2016.07.24,24-Jul-16,2016,Unprovoked,JAPAN,Kochi Prefecture,Irino Beach,Surfing,N,5968
+26,2016.07.23.b,23-Jul-16,2016,Unprovoked,AUSTRALIA,Tasmania,Clifton Beach,Surfing,N,5967
+30,2016.07.16.b,16-Jul-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5963
+41,2016.06.25,25-Jun-16,2016,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,N,5952
+46,2016.06.15.b,15-Jun-16,2016,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,N,5947
+50,2016.06.07,07-Jun-16,2016,Invalid,USA,South Carolina,"Folly Beach, Charleston County",Surfing,N,5943
+56,2016.05.31,31-May-16,2016,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,Y,5937
+66,2016.04.25,25-Apr-16,2016,Unprovoked,INDONESIA,Bali,Balian,Surfing,N,5927
+67,2016.04.23,23-Apr-16,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5926
+77,2016.03.30,30-Mar-16,2016,Unprovoked,AUSTRALIA,New South Wales,Bombo Beach,Surfing,N,5916
+79,2016.03.28.a,28-Mar-16,2016,Unprovoked,AUSTRALIA,New South Wales,North Cronulla Beach,Surfing,N,5914
+81,2016.03.13,13-Mar-16,2016,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,N,5912
+91,2016.02.10,10-Feb-16,2016,Invalid,AUSTRALIA,Tasmania,Nettley Bay,Surfing,N,5902
+95,2016.01.28,28-Jan-16,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,N,5898
+96,2016.01.25,25-Jan-16,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,N,5897
+100,2016.01.11.R,Reported 11-Jan-2016,2016,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,N,5893
+106,2015.12.21.b,21-Dec-15,2015,Unprovoked,AUSTRALIA,New South Wales,Bondi Beach,Surfing,N,5887
+112,2015.11.16,16-Nov-15,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,N,5880
+114,2015.11.15.a,15-Nov-15,2015,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,N,5878
+115,2015.11.10,10-Nov-15,2015,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Surfing,N,5877
+116,2015.12.23,07-Nov-15,2015,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,N,5876
+122,2015.10.25,25-Oct-15,2015,Unprovoked,SOUTH AFRICA,Western Cape Province,Stil Bay,Surfing,N,5870
+123,2015.10.21,21-Oct-15,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,N,5869
+124,2015.10.19,19-Oct-15,2015,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,N,5868
+126,2015.10.17.b,17-Oct-15,2015,Invalid,USA,Hawaii,"Waikiki, ",Surfing,N,5866
+130,2015.10.09.a,09-Oct-15,2015,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,N,5862
+132,2015.10.07,07-Oct-15,2015,Unprovoked,AUSTRALIA,Western Australia,Pyramids Beach,Surfing,N,5860
+135,2015.10.04,04-Oct-15,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5857
+136,2015.09.29,29-Sep-15,2015,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,N,5856
+139,2015.09.20.d,20-Sep-15,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5853
+144,2015.09.17,17-Sep-15,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,N,5848
+145,2015.09.08,08-Sep-15,2015,Unprovoked,AUSTRALIA,New South Wales,North Shelly Beach,Surfing,N,5847
+152,2015.08.29.b,29-Aug-15,2015,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,N,5840
+153,2015.08.29.a,29-Aug-15,2015,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,N,5839
+155,2015.08.22.a,22-Aug-15,2015,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Surfing,N,5837
+156,2015.08.20,20-Aug-15,2015,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,N,5836
+161,2015.07.31,31-Jul-15,2015,Unprovoked,AUSTRALIA,New South Wales,Evans Head,Surfing,N,5831
+162,2015.07.26.b,26-Jul-15,2015,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,5830
+166,2015.07.23.a,23-Jul-15,2015,Unprovoked,AUSTRALIA,Victoria,Tyrendarra Beach near Portland,Surfing,N,5826
+167,2015.07.22,22-Jul-15,2015,Unprovoked,REUNION,,St. Leu,Surfing,N,5825
+168,2015.07.19,19-Jul-15,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,N,5824
+169,2015.07-10,10-Jul-15,2015,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,N,5823
+174,2015.07.03,03-Jul-15,2015,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,N,5818
+177,2015.06.30.b,30-Jun-15,2015,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,N,5815
+182,2015.06.26.b,26-Jun-15,2015,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,N,5810
+187,2015.06.24.a,24-Jun-15,2015,Invalid,AUSTRALIA,Western Australia,Denmark,Surfing,N,5805
+197,2015.06.01,01-Jun-15,2015,Unprovoked,REUNION,Le Port,Folette,Surfing,N,5795
+202,2015.05.20,20-May-15,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5790
+206,2015.05.03,03-May-15,2015,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,N,5786
+210,2015.04.25,25-Apr-15,2015,Unprovoked,AUSTRALIA,South Australia,Fishery Bay,Surfing,N,5782
+214,2015.04.12,12-Apr-15,2015,Unprovoked,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,Y,5778
+215,2015.03.31,31-Mar-15,2015,Invalid,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",Surfing,N,5777
+227,2015.02.09,09-Feb-15,2015,Unprovoked,AUSTRALIA,New South Wales,Shelly Beach,Surfing,Y,5765
+228,2015.02.08,08-Feb-15,2015,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,N,5764
+232,2015.01.24,24-Jan-15,2015,Unprovoked,AUSTRALIA,New South Wales,Flat Rock,Surfing,N,5760
+239,2015.01.03,03-Jan-15,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,Surfing,N,5753
+241,2014.12.29.b,29-Dec-14,2014,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,N,5751
+245,2014.12.28.b,28-Dec-14,2014,Unprovoked,USA,California,"Monta�a de Oro State Park, San Luis Obispo County ",Surfing,N,5747
+250,2014.11.29,29-Nov-14,2014,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",Surfing,N,5742
+253,2014.11.16,16-Nov-14,2014,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,N,5739
+256,2014.11.10,10-Nov-14,2014,Unprovoked,AUSTRALIA,New South Wales,Moonee Beach,Surfing,N,5737
+257,2014.11.08,08-Nov-14,2014,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,N,5736
+258,2014.10.31,31-Oct-14,2014,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,N,5735
+259,2014.10.30,29-Oct-14,2014,Provoked,AUSTRALIA,New South Wales,Wallabi Point,Surfing,N,5734
+263,2014.10.18,18-Oct-14,2014,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,N,5730
+264,2014.10.17,17-Oct-14,2014,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,N,5729
+269,2014.10.05.b,05-Oct-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5723
+270,2014.10.05.a,05-Oct-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5722
+273,2014.10.02.b,02-Oct-14,2014,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,N,5719
+274,2014.10.02.a,02-Oct-14,2014,Unprovoked,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,N,5718
+275,2014.09.21,21-Sep-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5717
+277,2014.09.13,13-Sep-14,2014,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,N,5715
+284,2014.08.29.b,29-Aug-14,2014,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,5708
+288,2014.08.27.b,27-Aug-14,2014,Unprovoked,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,N,5704
+300,2014.08.02,02-Aug-14,2014,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,N,5692
+302,2014.08.01,01-Aug-14,2014,Unprovoked,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,N,5690
+305,2014.07.22,22-Jul-14,2014,Unprovoked,REUNION,Saint-Leu,,Surfing,N,5687
+312,2014.07.09,09-Jul-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5680
+314,2014.07.05.a,05-Jul-14,2014,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,N,5678
+318,2014.06.18.b,18-Jun-14,2014,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,N,5674
+324,2014.06.08,08-Jun-14,2014,Unprovoked,JAPAN,Atsumi peninsula,Aichi,Surfing,N,5668
+327,2014.06.01.b,01-Jun-14,2014,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,N,5665
+334,2014.05.14,14-May-14,2014,Unprovoked,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,N,5659
+336,2014.05.11,11-May-14,2014,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Surfing,N,5657
+339,2014.05.01,01-May-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5654
+345,2014.04.04.b,04-Apr-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5648
+346,2014.04.04.a,04-Apr-14,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5647
+351,2014.03.21,21-Mar-14,2014,Unprovoked,USA,Florida,Macarthur State Park,Surfing,N,5642
+353,2014.03.18.b,18-Mar-14,2014,Unprovoked,AUSTRALIA,Victoria,Winkipop Beach,Surfing,N,5640
+357,2014.03.02,02-Mar-14,2014,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,N,5636
+362,2014.02.07,07-Feb-14,2014,Unprovoked,NEW ZEALAND,South Island,Porpoise Bay,Surfing,N,5631
+368,2013.12.16,16-Dec-13,2013,Unprovoked,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,N,5625
+371,2013.12.10,10-Dec-13,2013,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,N,5622
+372,2013.12.05,05-Dec-13,2013,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,N,5621
+376,2013.11.23.a,23-Nov-13,2013,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,Y,5617
+377,2013.11.22,22-Nov-13,2013,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,N,5616
+378,2013.11.12,12-Nov-13,2013,Unprovoked,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,N,5615
+381,2013.11.07.a,07-Nov-13,2013,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,N,5612
+386,2013.10.24,24-Oct-13,2013,Unprovoked,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,N,5607
+388,2013.10.20,20-Oct-13,2013,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,N,5605
+392,2013.10.05,06-Oct-13,2013,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,N,5601
+394,2013.09.29.b,29-Sep-13,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,5599
+398,2013.09.21.a, 21-Sep-2013,2013,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,N,5595
+400,2013.09.12, 12-Sep-2013,2013,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,N,5593
+402,2013.09.07.b, 07-Sep-2013,2013,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,N,5591
+414,2013.08.18, 18-Aug-2013,2013,Unprovoked,USA,Hawaii,Pohoiki ,Surfing,N,5579
+415,2013.08.17,17-Aug-13,2013,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,N,5578
+418,2013.08.11,11-Aug-13,2013,Unprovoked,USA,South Carolina,Folly Beach,Surfing,N,5575
+425,2013.07.29.a,  29-Jul-2013,2013,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,N,5568
+443,2013.06.16,16-Jun-13,2013,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,N,5550
+444,2013.06.15,15-Jun-13,2013,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,N,5549
+447,2013.06.06.a,06-Jun-13,2013,Unprovoked,AUSTRALIA,New South Wales,Target Beach,Surfing,N,5546
+452,2013.05.14,14-May-14,2013,Unprovoked,ECUADOR,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,N,5541
+453,2013.05.08.b,08-May-13,2013,Invalid,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,Y,5540
+455,2013.05.04.a,04-May-13,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,5538
+461,2013.04.13.b,13-Apr-13,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5532
+466,2013.04.02.a,02-Apr-13,2013,Unprovoked,USA,Hawaii,Ka�anapali Shores,Surfing,N,5527
+467,2013.03.31,31-Mar-13,2013,Invalid,AUSTRALIA,New South Wales,Terrigal Beach,Surfing,N,5526
+472,2013.03.16.a,16-Mar-13,2013,Unprovoked,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,N,5521
+478,2013.02.21.b,21-Feb-13,2013,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,N,5515
+479,2013.02.21.a,21-Feb-13,2013,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,N,5514
+480,2013.02.10,10-Feb-13,2013,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,N,5513
+484,2013.01.25,25-Jan-13,2013,Unprovoked,AUSTRALIA,Queensland,Noosa,Surfing,N,5509
+486,2013.01.16,16-Jan-13,2013,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,N,5507
+490,2012.12.30,30-Dec-12,2012,Unprovoked,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,Surfing,N,5503
+493,2012.12.19,19-Dec-12,2012,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Surfing,N,5500
+494,2012.12.05,05-Dec-12,2012,Unprovoked,USA,Hawaii,Kauai,Surfing,N,5499
+500,2012.11.19,19-Nov-12,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,5493
+502,2012.11.04.a,04-Nov-12,2012,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,N,5491
+503,2012.10.30,30-Oct-12,2012,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,N,5490
+505,2012.10.23,23-Oct-12,2012,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Y,5488
+507,2012.10.18.b,18-Oct-12,2012,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,5486
+513,2012.09.25,25-Sep-12,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,5480
+514,2012.09.24,24-Sep-12,2012,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,N,5479
+515,2012.09.16,16-Sep-12,2012,Unprovoked,USA,Florida," Cocoa Beach, Brevard  County",Surfing,N,5478
+517,2012.09.09,09-Sep-12,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5476
+518,2012.09.08.b,08-Sep-12,2012,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,N,5475
+520,2012.09.06.b,06-Sep-12,2012,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,N,5473
+521,2012.09.06.a,06-Sep-12,2012,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,N,5472
+522,2012.09.04,04-Sep-12,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,5471
+527,2012.08.28,28-Aug-12,2012,Unprovoked,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,Surfing,N,5466
+532,2012.08.05,06-Aug-12,2012,Unprovoked,REUNION,Saint Leu,,Surfing,N,5461
+534,2012.07.31.b,31-Jul-12,2012,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,N,5459
+535,2012.07.31.a,31-Jul-12,2012,Unprovoked,AUSTRALIA,South Australia,Streaky Bay,Surfing,N,5458
+536,2012.07.30.b,30-Jul-12,2012,Unprovoked,USA,Hawaii,"Maha�ulepu Beach, Kauai",Surfing,N,5457
+539,2012.07.23,23-Jul-12,2012,Unprovoked,REUNION,Trois-Bassins,,Surfing,Y,5454
+541,2012.07.19,19-Jul-12,2012,Invalid,CANADA,British Colombia,"Tofino, Vancouver",Surfing,N,5452
+542,2012.07.14,14-Jul-12,2012,Unprovoked,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,Y,5451
+547,2012.07.06,06-Jul-12,2012,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,N,5446
+550,2012.06.26.b,26-Jun-12,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5443
+552,2012.06.22.b,22-Jun-12,2012,Unprovoked,AUSTRALIA,Tasmania,South Cape Bay,Surfing,N,5441
+562,2012.06.12,12-Jun-12,2012,Unprovoked,AUSTRALIA,Victoria,Port Campbell,Surfing,N,5431
+565,2012.06.02.b,02-Jun-12,2012,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,N,5428
+569,2012.05.23,23-May-12,2012,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,N,5424
+575,2012.04.19.b,19-Apr-12,2012,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,N,5418
+578,2012.04.03,03-Apr-12,2012,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,N,5415
+581,2012.03.24,24-Mar-12,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5412
+583,2012.03.20,20-Mar-12,2012,Unprovoked,AUSTRALIA,Queensland,Nobby's Beach,Surfing,N,5410
+584,2012.03.15,15-Mar-12,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,N,5409
+585,2012.03.14.b,14-Mar-12,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5408
+586,2012.03.14.a,14-Mar-12,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5407
+587,2012.03.06.b,06-Mar-12,2012,Unprovoked,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,N,5406
+596,2012.02.06,06-Feb-12,2012,Unprovoked,AUSTRALIA,Queensland,Wurtulla,Surfing,N,5397
+601,2012.01.18.a,18-Jan-12,2012,Unprovoked,AUSTRALIA,New South Wales,Redhead Beach,Surfing,N,5392
+603,2012.01.13,13-Jan-12,2012,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,N,5390
+604,2012.01.03,03-Jan-12,2012,Unprovoked,AUSTRALIA,New South Wales,North Avoca Beach,Surfing,N,5389
+608,2011.12.25,25-Dec-11,2011,Unprovoked,ECUADOR,Santa Elena,Barand�a Beach,Surfing,N,5385
+609,2011.12.23,23-Dec-11,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,N,5384
+612,2011.12.11,11-Dec-11,2011,Unprovoked,AUSTRALIA,New South Wales,Angourie,Surfing,N,5381
+614,2011.12.07.a,07-Dec-11,2011,Unprovoked,AUSTRALIA,New South Wales,Maroubra,Surfing,N,5379
+615,2011.12.06,06-Dec-11,2011,Unprovoked,USA,Oregon,Seaside Cove,Surfing,N,5378
+617,2011.12.02,02-Dec-11,2011,Unprovoked,AUSTRALIA,New South Wales,Broken Head,Surfing,N,5376
+618,2011.11.29,29-Nov-11,2011,Unprovoked,INDONESIA,Bali,Tabanan,Surfing,N,5375
+622,2011.11.12,12-Nov-11,2011,Unprovoked,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",Surfing,N,5371
+624,2011.10.29.,  29-Oct-2011,2011,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,N,5369
+625,2011.10.28.R,Reported 28-Oct-2011,2011,Unprovoked,SCOTLAND,Moray,Spey Bay,Surfing,N,5368
+628,2011.10.20,20-Oct-11,2011,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,N,5365
+630,2011.10.11,11-Oct-11,2011,Unprovoked,USA,Florida,Cape Canaveral,Surfing,N,5363
+631,2011.10.10,10-Oct-11,2011,Unprovoked,USA,Oregon,Seaside,Surfing,N,5362
+636,2011.09.30,30-Sep-11,2011,Invalid,USA,Puerto Rico,Hatillo Beach,Surfing,N,5357
+644,2011.09.16,16-Sep-11,2011,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,N,5349
+645,2011.09.11.b,11-Sep-11,2011,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,N,5348
+647,2011.09.04.b,04-Sep-11,2011,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,N,5346
+649,2011.09.02,02-Sep-11,2011,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5344
+650,2011.08.31,31-Aug-11,2011,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,N,5343
+654,2011.08.24.b,24-Aug-11,2011,Unprovoked,USA,North Carolina,"Buxton Beach, Dare County",Surfing,N,5339
+656,2011.08.23,23-Aug-11,2011,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,Y,5337
+661,2011.08.16.c,16-Aug-11,2011,Unprovoked,FRENCH POLYNESIA,Society Islands,"Teahupoo, Tahiti",Surfing,N,5332
+670,2011.07.22,22-Jul-11,2011,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",Surfing,N,5323
+677,2011.07.06,06-Jul-11,2011,Unprovoked,REUNION,Saint-Gilles,Roches Noires,Surfing,N,5316
+680,2011.06.29,29-Jun-11,2011,Unprovoked,BRAZIL,Pernambuco,Praia do Pina,Surfing,N,5313
+683,2011.06.24,24-Jun-11,2011,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,N,5310
+686,2011.06.19.a,19-Jun-11,2011,Unprovoked,COSTA RICA,Guanacaste,Playa Grande,Surfing,Y,5307
+695,2011.05.29,29-May-11,2011,Unprovoked,SOUTH AFRICA,Western Cape Province,Robberg Beach,Surfing,N,5298
+696,2011.05.25,25-May-11,2011,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,N,5297
+701,2011.05.13.a,13-May-11,2011,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,N,5292
+708,2011.04.16,16-Apr-11,2011,Unprovoked,NEW ZEALAND,South Island,Snapper Point,Surfing,N,5285
+709,2011.04.12,13-Apr-11,2011,Unprovoked,INDONESIA,Bali,Balian,Surfing,N,5284
+713,2011.03.23,23-Mar-11,2011,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Surfing,N,5280
+718,2011.03.10,10-Mar-11,2011,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,N,5275
+721,2011.02.19,18-Feb-11,2011,Unprovoked,REUNION,Saint Gilles ,Trois-Roches,Surfing,N,5272
+731,2011.01.15,15-Jan-11,2011,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,Y,5262
+735,2010.12.17,17-Dec-10,2010,Unprovoked,FIJI,Vitu Levu,Sigatoka,Surfing,N,5258
+736,2010.12.11,11-Dec-10,2010,Unprovoked,USA,Hawaii,"Tavares Bay, Maui",Surfing,N,5257
+738,2010.12.03.R,Reported 03-Dec-2010,2010,Unprovoked,INDONESIA,Bali,Balian,Surfing,N,5255
+747,2010.11.14,14-Nov-10,2010,Unprovoked,INDONESIA,Bali,Balian,Surfing,N,5246
+751,2010.10.28,28-Oct-10,2010,Unprovoked,USA,Oregon,Florence,Surfing,N,5242
+757,2010.10.09,09-Oct-10,2010,Unprovoked,AUSTRALIA,New South Wales,Mullaway Headland,Surfing,N,5236
+759,2010.10.02.a,02-Oct-10,2010,Unprovoked,BAHAMAS,Abaco Islands,Elbow Cay,Surfing,N,5234
+760,2010.10.01,01-Oct-10,2010,Unprovoked,SOUTH AFRICA,Western Cape Province,"Melkbaai, Strand",Surfing,N,5233
+761,2010.09.27,27-Sep-10,2010,Unprovoked,USA,Oregon,Winchester Bay,Surfing,N,5232
+762,2010.09.24,24-Sep-10,2010,Unprovoked,USA,Virginia,Sandridge Beach,Surfing,N,5231
+764,2010.09.13, 13-Sep-2010,2010,Unprovoked,AUSTRALIA,New South Wales,Fraser's Reef,Surfing,N,5229
+767,2010.09.04, 04-Sep-2010,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5226
+768,2010.09.03.b,03-Sep-10,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5225
+769,2010.09.03.a,03-Sep-10,2010,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5224
+773,2010.08.17,17-Aug-10,2010,Unprovoked,AUSTRALIA,Western Australia,Cowaramup Bay,Surfing,Y,5220
+777,2010.08.08,08-Aug-10,2010,Unprovoked,AUSTRALIA,New South Wales,Crescent Head,Surfing,N,5216
+778,2010.08.07.b,07-Aug-10,2010,Unprovoked,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,N,5215
+784,2010.07.23,23-Jul-10,2010,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,N,5209
+787,2010.07.17.a,17-Jul-10,2010,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,N,5206
+793,2010.07.02.b,02-Jul-10,2010,Unprovoked,USA,California,"Pismo Beach, San Luis  Obispo County",Surfing,N,5200
+795,2010.06.27,27-Jun-10,2010,Unprovoked,USA,Texas,"Eight Mile Beach, Galveston",Surfing,N,5198
+800,2010.06.06,06-Jun-10,2010,Unprovoked,AUSTRALIA,Western Australia,"Conspicuous Beach, near Walpole",Surfing,N,5193
+801,2010.06.00,Jun-10,2010,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Surfing,N,5192
+805,2010.05.18.a,18-May-10,2010,Unprovoked,AUSTRALIA,New South Wales,Point Plomer,Surfing,N,5188
+809,2010.04.19,19-Apr-10,2010,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,N,5184
+810,2010.04.13,13-Apr-10,2010,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"East Beach, Port Alfred",Surfing,N,5183
+812,2010.03.27, 27-Mar-2010,2010,Unprovoked,REUNION,Saint-Benoit,Bittern,Surfing,N,5181
+814,2010.02.16,16-Feb-10,2010,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Surfing,N,5179
+817,2010.02.11,11-Feb-10,2010,Unprovoked,AUSTRALIA,New South Wales,"Mona Vale Beach, Sydney",Surfing,N,5176
+824,2010.01.30,31-Jan-10,2010,Unprovoked,BRAZIL,Rio Grande Do Sul,"Atlantis Beach, near Tramandai",Surfing,N,5169
+825,2010.01.27,27-Jan-10,2010,Unprovoked,AUSTRALIA,Queensland,Archie's Beach,Surfing,N,5168
+826,2010.01.22.b,22-Jan-10,2010,Unprovoked,UNITED ARAB EMIRATES (UAE),Dubai,"Umm Suqeim Beach, Dubai",Surfing,N,5167
+827,2010.01.22.a,22-Jan-10,2010,Unprovoked,AUSTRALIA,Victoria,Geelong,Surfing,N,5166
+834,2010.01.05,05-Jan-10,2010,Unprovoked,SOUTH AFRICA,Eastern Province,"Nahoon, East London",Surfing,N,5159
+841,2009.12.18,18-Dec-09,2009,Invalid,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Surfing,N,5152
+843,2009.12.13,13-Dec-09,2009,Unprovoked,AUSTRALIA,New South Wales,Coffee Head,Surfing,N,5150
+846,2009.11.25,25-Nov-09,2009,Invalid,USA,California,"Huntington Beach, Orange County",Surfing,N,5147
+849,2009.11.16.a,16-Nov-09,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,N,5144
+850,2009.11.13,13-Nov-09,2009,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,N,5143
+851,2009.11.11,11-Nov-09,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5142
+853,2009.11.05,05-Nov-09,2009,Unprovoked,USA,California,"Davenport, Santa Cruz County",Surfing,N,5140
+857,2009.10.24,24-Oct-09,2009,Unprovoked,USA,California,"San Onofre, San Diego County ",Surfing,N,5136
+858,2009.10.19,19-Oct-09,2009,Unprovoked,USA,Hawaii,"Kalama Park, Maui",Surfing,N,5135
+862,2009.10.09,09-Oct-09,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,N,5131
+872,2009.08.30,30-Aug-09,2009,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,N,5121
+873,2009.08.29,29-Aug-09,2009,Unprovoked,SOUTH AFRICA,Western Cape Province,Glentana,Surfing,Y,5120
+877,2009.08.06,06-Aug-09,2009,Unprovoked,USA,Hawaii,Kawa'a ,Surfing,N,5116
+880,2009.07.30,30-Jul-09,2009,Unprovoked,AUSTRALIA,New South Wales,Broken Head,Surfing,N,5113
+890,2009.07.07,07-Jul-09,2009,Unprovoked,SOUTH AFRICA,Western Cape Province,"Jogensfontein, Stilbaai",Surfing,N,5103
+893,2009.06.27,27-Jun-09,2009,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,N,5100
+894,2009.06.21,21-Jun-09,2009,Invalid,USA,California,"Shell Beach, San Luis Obispo County",Surfing,N,5099
+902,2009.05.17,17-May-09,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5091
+903,2009.05.16.b,16-May-09,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5090
+904,2009.05.16.a,16-May-09,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5089
+908,2009.04.25.R,Reported 25-Apr-2009,2009,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,N,5085
+909,2009.04.21,21-Apr-09,2009,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5084
+911,2009.04.19,19-Apr-09,2009,Unprovoked,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,N,5082
+913,2009.04.17.,17-Apr-09,2009,Unprovoked,USA,Florida,"Walton Rocks, St Lucie County",Surfing,N,5080
+919,2009.03.21,21-Mar-09,2009,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,Y,5074
+920,2009.03.20,20-Mar-09,2009,Unprovoked,AUSTRALIA,New South Wales,Blue Bay,Surfing,N,5073
+921,2009.03.19.b,19-Mar-09,2009,Unprovoked,AUSTRALIA,New South Wales,South Broulee,Surfing,N,5072
+922,2009.03.19.a,19-Mar-09,2009,Unprovoked,AUSTRALIA,New South Wales,Bateman's Bay,Surfing,N,5071
+923,2009.03.18.a,18-Mar-09,2009,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,5070
+927,2009.03.06,06-Mar-09,2009,Unprovoked,NEW CALEDONIA,South Province,Bourail,Surfing,Y,5066
+930,2009.03.01.a,01-Mar-09,2009,Unprovoked,AUSTRALIA,New South Wales,Avalon,Surfing,N,5063
+932,2009.02.18,18-Feb-09,2009,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,N,5061
+933,2009.02.12,12-Feb-09,2009,Unprovoked,AUSTRALIA,New South Wales,"Bondi Beach, Sydney",Surfing,N,5060
+936,2009.02.07.b,07-Feb-09,2009,Unprovoked,AUSTRALIA,New South Wales,Cellito Beach,Surfing,N,5057
+937,2009.02.07.a,07-Feb-09,2009,Unprovoked,AUSTRALIA,New South Wales,Sandon,Surfing,N,5056
+946,2009.01.16,16-Jan-09,2009,Unprovoked,NEW ZEALAND,South Island,Karitane Beach,Surfing,N,5047
+949,2009.01.11.b,11-Jan-09,2009,Unprovoked,AUSTRALIA,Tasmania,Binalong Bay,Surfing,N,5044
+950,2009.01.11.a,11-Jan-09,2009,Unprovoked,AUSTRALIA,New South Wales,Fingal Beach,Surfing,N,5043
+952,2009.01.10.a,10-Jan-09,2009,Unprovoked,ECUADOR,Galapagos Islands,Isla Isabella,Surfing,N,5041
+974,2008.10.11,11-Oct-08,2008,Unprovoked,AUSTRALIA,New South Wales,Lake Macquarie,Surfing,N,5019
+977,2008.09.28.b,28-Sep-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5016
+978,2008.09.28.a,28-Sep-08,2008,Unprovoked,USA,Florida,Bethune Beach,Surfing,N,5015
+981,2008.09.09,09-Sep-08,2008,Unprovoked,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,N,5012
+982,2008.09.08,08-Sep-08,2008,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,N,5011
+983,2008.09.07,07-Sep-08,2008,Unprovoked,AUSTRALIA,New South Wales,"Clarks Beach, Byron Bay",Surfing,N,5010
+984,2008.09.06.b,06-Sep-08,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,5009
+985,2008.09.06.a,06-Sep-08,2008,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,5008
+986,2008.09.01,01-Sep-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5007
+987,2008.09.00,Sep-08,2008,Unprovoked,USA,Florida,Hutchinson Island,Surfing,N,5006
+988,2008.08.30.c,30-Aug-08,2008,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,N,5005
+991,2008.08.28,28-Aug-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5002
+992,2008.08.27,27-Aug-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,5001
+994,2008.08.22,24-Aug-08,2008,Invalid,USA,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,N,4999
+1000,2008.07.30.R,30-Jul-08,2008,Unprovoked,AUSTRALIA,Victoria,Levys Beach,Surfing,N,4993
+1005,2008.07.25.b,25-Jul-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4988
+1009,2008.07.23,23-Jul-08,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4984
+1013,2008.07.11,11-Jul-08,2008,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Surfing,N,4980
+1021,2008.06.26.b,26-Jun-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4972
+1023,2008.06.24,24-Jun-08,2008,Unprovoked,BRAZIL,Bahia,Guarajuba,Surfing,N,4970
+1026,2008.06.11,11-Jun-08,2008,Unprovoked,BRAZIL,Pernambuco,"Punta Del Chifre, Olinda",Surfing,N,4967
+1031,2008.05.26,26-May-08,2008,Unprovoked,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",Surfing,N,4962
+1033,2008.05.24.a,24-May-08,2008,Unprovoked,MEXICO,Guerro,Playa Linda,Surfing,N,4960
+1034,2008.05.23,23-May-08,2008,Unprovoked,MEXICO,Guerro,Pantla Beach,Surfing,Y,4959
+1040,2008.04.28.b,28-Apr-08,2008,Unprovoked,MEXICO,Guerro,Troncones Beach,Surfing,Y,4953
+1041,2008.04.28.a,28-Apr-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4952
+1042,2008.04.27,27-Apr-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4951
+1044,2008.04.26.a,26-Apr-08,2008,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4949
+1046,2008.04.20.b,20-Apr-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4947
+1050,2008.04.17,17-Apr-08,2008,Invalid,AUSTRALIA,Queensland,"Duranbah, Greenmount Beach",Surfing,N,4943
+1051,2008.04.15,15-Apr-08,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,N,4942
+1054,2008.04.08.R,Reported 08-Apr-2008,2008,Unprovoked,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,N,4939
+1058,2008.03.28.b,28-Mar-08,2008,Unprovoked,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,N,4935
+1063,2008.03.07,07-Mar-08,2008,Unprovoked,USA,California," Huntington Beach, Orange County",Surfing,N,4930
+1066,2008.02.15,15-Feb-08,2008,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4927
+1067,2008.02.07,07-Feb-08,2008,Unprovoked,AUSTRALIA,New South Wales,Horseshoe Bay,Surfing,N,4926
+1073,2008.01.10,10-Jan-08,2008,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,N,4920
+1075,2008.00.00.a,Summer-2008,2008,Unprovoked,MEXICO,Baja California,Playas de Tijuana,Surfing,N,4918
+1076,2007.12.21,21-Dec-07,2007,Unprovoked,ECUADOR,Galapagos Islands,San Cristobal Island,Surfing,N,4917
+1078,2007.12.18,18-Dec-07,2007,Unprovoked,AUSTRALIA,New South Wales,Jimmy's Beach,Surfing,N,4915
+1081,2007.12.10,10-Dec-07,2007,Unprovoked,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,N,4912
+1082,2007.12.09,09-Dec-07,2007,Unprovoked,NEW ZEALAND,South Island,Kaikoura,Surfing,N,4911
+1085,2007.11.08,08-Nov-07,2007,Unprovoked,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing,N,4908
+1086,2007.11.07,07-Nov-07,2007,Unprovoked,SOUTH AFRICA,Western Cape Province,The Strand,Surfing,N,4907
+1087,2007.11.06,06-Nov-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4906
+1088,2007.11.04,04-Nov-07,2007,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,N,4905
+1089,2007.11.03,03-Nov-07,2007,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Bonza Bay,Surfing,N,4904
+1094,2007.10.07,07-Oct-07,2007,Unprovoked,USA,California,"Venice Pier, Venice, Los Angeles County",Surfing,N,4899
+1095,2007.10.06,06-Oct-07,2007,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,N,4898
+1096,2007.09.30.c,30-Sep-07,2007,Unprovoked,USA,California,"Santa Monica, Los Angeles County",Surfing,N,4897
+1100,2007.09.27.b,27-Sep-07,2007,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,N,4893
+1103,2007.09.22.a,22-Sep-07,2007,Unprovoked,USA,Florida,Huguenot Park,Surfing,N,4890
+1104,2007.09.20,20-Sep-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4889
+1107,2007.09.16.a,16-Sep-07,2007,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,N,4886
+1115,2007.08.28.a,28-Aug-07,2007,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,N,4878
+1116,2007.08.26,26-Aug-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4877
+1117,2007.08.25,25-Aug-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4876
+1121,2007.08.19.b,19-Aug-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4872
+1129,2007.07.29,29-Jul-07,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4864
+1130,2007.07.28,28-Jul-07,2007,Unprovoked,USA,California,"Imperial Beach, San Diego County",Surfing,N,4863
+1140,2007.07.05,05-Jul-07,2007,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4853
+1145,2007.06.25,25-Jun-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4848
+1146,2007.06.24,24-Jun-07,2007,Unprovoked,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,N,4847
+1147,2007.06.17,17-Jun-07,2007,Invalid,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,N,4846
+1149,2007.06.05,05-Jun-07,2007,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, Crescent Head",Surfing,N,4844
+1154,2007.05.12,12-May-07,2007,Unprovoked,AUSTRALIA,Victoria,Warrnambool,Surfing,N,4839
+1155,2007.05.10,10-May-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4838
+1164,2007.04.20,20-Apr-07,2007,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4829
+1166,2007.04.09,09-Apr-07,2007,Unprovoked,NEW CALEDONIA,South Province,Dumb�a,Surfing,N,4827
+1168,2007.03.31.b,31-Mar-07,2007,Unprovoked,USA,Florida,"Normandy Beach, Hutchinson Island,  St. Lucie County",Surfing,N,4825
+1171,2007.03.21,21-Mar-07,2007,Unprovoked,USA,Florida,Jupiter Inlet,Surfing,N,4822
+1172,2007.03.20,20-Mar-07,2007,Unprovoked,AUSTRALIA,New South Wales,South Golden Beach,Surfing,N,4821
+1175,2007.03.11,11-Mar-07,2007,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,N,4818
+1185,2007.01.09,09-Jan-07,2007,Unprovoked,AUSTRALIA,New South Wales,Sandbar Beach,Surfing,N,4808
+1186,2007.01.07,07-Jan-07,2007,Invalid,USA,New York,"Smith Point, Long Island",Surfing,N,4807
+1187,2007.01.05,01-Jan-07,2007,Unprovoked,USA,Hawaii,"Majors Bay, Kaua'i",Surfing,N,4806
+1188,2006.12.18,18-Dec-06,2006,Unprovoked,AUSTRALIA,Victoria,"Winki Pop, Bells Beach",Surfing,N,4805
+1189,2006.12.11,11-Dec-06,2006,Unprovoked,NEW ZEALAND,North Island,"Raglan, Manu Bay",Surfing,N,4804
+1190,2006.12.10,10-Dec-06,2006,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,N,4803
+1196,2006.10.31,31-Oct-06,2006,Unprovoked,USA,Oregon,"Siletz River mouth, Lincoln County",Surfing,N,4797
+1198,2006.10.10,10-Oct-06,2006,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,4795
+1199,2006.10.07,07-Oct-06,2006,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island",Surfing,N,4794
+1204,2006.09.29,29-Sep-06,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4789
+1206,2006.09.16,16-Sep-06,2006,Unprovoked,USA,North Carolina,Onslow Beach,Surfing,N,4787
+1208,2006.09.11,11-Sep-06,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4785
+1213,2006.09.02,02-Sep-06,2006,Unprovoked,SOUTH AFRICA,Western Cape Province,Noordhoek,Surfing,N,4780
+1214,2006.08.29.b,29-Aug-06,2006,Unprovoked,USA,Oregon,"Florence, Lane County",Surfing,N,4779
+1215,2006.08.29.a,29-Aug-06,2006,Unprovoked,AUSTRALIA,South Australia,"Pennington Bay, Kangaroo Island",Surfing,N,4778
+1220,2006.08.20.a,20-Aug-06,2006,Unprovoked,REUNION,Saint-Pierre,Pointe du Diable,Surfing,Y,4773
+1221,2006.08.15,15-Aug-06,2006,Unprovoked,SOUTH AFRICA,Western Cape Province,Danger Reef,Surfing,N,4772
+1226,2006.07.31.a,31-Jul-06,2006,Unprovoked,USA,Oregon,Oswald State Park,Surfing,N,4767
+1228,2006.07.29.a,29-Jul-06,2006,Unprovoked,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,N,4765
+1230,2006.07.25,25-Jul-06,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4763
+1246,2006.06.20,20-Jun-06,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4747
+1249,2006.06.15,15-Jun-06,2006,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4744
+1251,2006.06.05,05-Jun-06,2006,Unprovoked,AUSTRALIA,South Australia,Waitpinga,Surfing,N,4742
+1254,2006.05.27,27-May-06,2006,Unprovoked,USA,Hawaii,"North Shore, O'ahu",Surfing,N,4739
+1256,2006.05.21,21-May-06,2006,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,N,4737
+1262,2006.04.21,21-Apr-06,2006,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,N,4731
+1265,2006.04.11,11-Apr-06,2006,Unprovoked,AUSTRALIA,New South Wales,Newcastle Beach,Surfing,N,4728
+1270,2006.03.23,23-Mar-06,2006,Unprovoked,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,N,4723
+1272,2006.03.19,18-Mar-06,2006,Unprovoked,FIJI,Vitu Levu,Sigatoka,Surfing,N,4721
+1273,2006.03.15,15-Mar-06,2006,Unprovoked,AUSTRALIA,New South Wales,"Bondi, Sydney",Surfing,N,4720
+1279,2006.02.08,08-Feb-06,2006,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,4714
+1289,2006.01.04,04-Jan-06,2006,Unprovoked,USA,Florida,"Round Island Park, Indian River County",Surfing,N,4704
+1291,2005.12.24,24-Dec-05,2005,Unprovoked,USA,Oregon,"Tillamook Head, Clatsop County",Surfing,N,4702
+1296,2005.11.29.R,Reported 29-Nov-2005,2005,Unprovoked,USA,Florida,"Cape San Blas, Gulf County",Surfing,N,4697
+1297,2005.11.27,27-Nov-05,2005,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4696
+1299,2005.11.25.b,25-Nov-05,2005,Unprovoked,AUSTRALIA,Victoria,Flinders,Surfing,N,4694
+1300,2005.11.25.a,25-Nov-05,2005,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,4693
+1302,2005.11.21,21-Nov-05,2005,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,N,4691
+1303,2005.11.20,20-Nov-05,2005,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,N,4690
+1306,2005.11.12,12-Nov-05,2005,Unprovoked,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,N,4687
+1307,2005.11.02.b,02-Nov-05,2005,Unprovoked,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Surfing,N,4686
+1308,2005.11.02.a,02-Nov-05,2005,Unprovoked,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,N,4685
+1312,2005.10.21,21-Oct-05,2005,Unprovoked,USA,California,"Klamath River mouth, Del Norte County",Surfing,N,4681
+1313,2005.10.19,19-Oct-05,2005,Unprovoked,USA,California,"Salmon Beach, Sonoma County",Surfing,N,4680
+1315,2005.10.13,13-Oct-05,2005,Unprovoked,USA,Hawaii,"Honokowai, Maui",Surfing,N,4678
+1320,2005.09.27.R,Reported      27-Sep-2005,2005,Unprovoked,AUSTRALIA,New South Wales,Arakoon's Little Bay,Surfing,N,4673
+1321,2005.09.24,24-Sep-05,2005,Unprovoked,AUSTRALIA,South Australia,Kangaroo Island,Surfing,N,4672
+1322,2005.09.23,23-Sep-05,2005,Unprovoked,AUSTRALIA,Western Australia,"Scarborough Beach, Perth",Surfing,N,4671
+1323,2005.09.22,22-Sep-05,2005,Invalid,USA,Florida,"Tigertail Beach, Collier County",Surfing,N,4670
+1325,2005.09.11,11-Sep-05,2005,Unprovoked,USA,South Carolina,Folly Beach,Surfing,Y,4668
+1328,2005.09.04.a,04-Sep-05,2005,Unprovoked,AUSTRALIA,South Australia,"Fishery Bay, Eyre Peninsula",Surfing,N,4665
+1332,2005.08.24.a,24-Aug-05,2005,Unprovoked,USA,California,"Scripps, LaJolla, San Diego County",Surfing,N,4661
+1337,2005.08.12,12-Aug-05,2005,Unprovoked,USA,North Carolina,"Carolina Beach off Texas Avenue, New Hanover County",Surfing,N,4656
+1341,2005.07.23,23-Jul-05,2005,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,N,4652
+1342,2005.07.22,22-Jul-05,2005,Invalid,USA,Florida,"Quarter mile south of Ponce de Leon Inlet, Volusia County",Surfing,N,4651
+1352,2005.06.21,20-Jun-05,2005,Unprovoked,MEXICO ,Baja California,San Luis beach,Surfing,N,4641
+1357,2005.06.05,05-Jun-05,2005,Invalid,USA,New Jersey,"Surf City, Long Beach Island, Ocean County",Surfing,N,4636
+1362,2005.05.25,25-May-05,2005,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Kei River Mouth,Surfing,N,4631
+1367,2005.05.02,02-May-05,2005,Unprovoked,USA,Hawaii,"Noreiga's, Maui",Surfing,N,4626
+1371,2005.04.16.a,16-Apr-05,2005,Unprovoked,AUSTRALIA,New South Wales,Bronte Beach,Surfing,N,4622
+1373,2005.04.09,09-Apr-05,2005,Invalid,USA,Florida,"Central Gulf Coast, St. John County",Surfing,N,4620
+1374,2005.04.07,07-Apr-05,2005,Unprovoked,USA,Texas,"Isla Blanca Park, South Padre Island, Cameron County",Surfing,N,4619
+1377,2005.03.28,28-Mar-05,2005,Unprovoked,SOUTH AFRICA,Western Cape Province,Noordhoek,Surfing,N,4616
+1378,2005.03.27.R,Reported    27-Mar-2005,2005,Unprovoked,AUSTRALIA,New South Wales,,Surfing,N,4615
+1379,2005.03.25,25-Mar-05,2005,Unprovoked,VENEZUELA,,Punta Caracas,Surfing,N,4614
+1387,2005.02.16,16-Feb-05,2005,Unprovoked,USA,Hawaii,"Rocky Point, north shore of O'ahu",Surfing,N,4606
+1389,2005.02.04,04-Feb-05,2005,Unprovoked,BRAZIL,Bahia,Ilh�us,Surfing,N,4604
+1397,2004.11.27,27-Nov-04,2004,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,4596
+1400,2004.11.11.b,11-Nov-04,2004,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,N,4593
+1406,2004.10.21,21-Oct-04,2004,Unprovoked,AUSTRALIA,New South Wales,Stockton Beach,Surfing,N,4587
+1407,2004.10.10,10-Oct-04,2004,Unprovoked,USA,California,"Limantour Beach, Point Reyes National Seashore",Surfing,N,4586
+1409,2004.10.09.a,09-Oct-04,2004,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey�s Bay,Surfing,N,4584
+1411,2004.10.02,02-Oct-04,2004,Unprovoked,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,N,4582
+1412,2004.10.01,01-Oct-04,2004,Unprovoked,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",Surfing,N,4581
+1414,2004.09.20,20-Sep-04,2004,Unprovoked,USA,Oregon,Gold  Beach,Surfing,N,4579
+1420,2004.08.20,20-Aug-04,2004,Unprovoked,USA,California,"204s, San Clemente, Orange County",Surfing,N,4573
+1425,2004.07.31,31-Jul-04,2004,Unprovoked,USA,Florida,"Cocoa  Beach, Brevard County",Surfing,N,4568
+1427,2004.07.28,28-Jul-04,2004,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Surfing,N,4566
+1433,2004.07.10,10-Jul-04,2004,Unprovoked,AUSTRALIA,Western Australia,"Lefthanders Beach, Margaret River",Surfing,Y,4560
+1436,2004.06.26.b,26-Jun-04,2004,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,N,4557
+1444,2004.05.28,28-May-04,2004,Unprovoked,USA,California,"Salmon Creek, Sonoma County",Surfing,N,4549
+1456,2004.04.07,07-Apr-04,2004,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Surfing,Y,4537
+1457,2004.04.05,05-Apr-04,2004,Unprovoked,SOUTH AFRICA,Western Cape Province,"Surfers' Corner, Muizenberg, False Bay",Surfing,N,4536
+1458,2004.04.04,04-Apr-04,2004,Invalid,USA,Hawaii,Velzyland,Surfing,Y,4535
+1460,2004.03.31.a,31-Mar-04,2004,Unprovoked,USA,Florida,"Stuart Rocks, Martin County",Surfing,N,4533
+1462,2004.03.28,28-Mar-04,2004,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,N,4531
+1463,2004.03.27.b,27-Mar-04,2004,Unprovoked,REUNION,Saint-Beno�t,Spot de la gare,Surfing,N,4530
+1467,2004.03.16,16-Mar-04,2004,Unprovoked,USA,Hawaii,"Kalihiwai Beach, Kauai",Surfing,N,4526
+1470,2004.02.26,26-Feb-04,2004,Unprovoked,NEW ZEALAND,"South Island, near Karitane north of Dunedin",South Beach,Surfing,N,4523
+1476,2004.01.23,23-Jan-04,2004,Unprovoked,URUGUAY,Rocha,Ensenada de la Coronilla,Surfing,N,4517
+1482,2004.01.07,07-Jan-04,2004,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"West Beach, Port Alfred",Surfing,N,4511
+1485,2004.00.00,2004,2004,Unprovoked,AUSTRALIA,Western Australia,Redgate Beach,Surfing,N,4508
+1494,2003.11.22,22-Nov-03,2003,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,4499
+1496,2003.11.12.a,12-Nov-03,2003,Unprovoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,N,4497
+1501,2003.10.31.c,31-Oct-03,2003,Unprovoked,USA,Florida,"Ponte Vedra Beach, St. Johns County",Surfing,N,4492
+1502,2003.10.31.b,31-Oct-03,2003,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Seal Rocks",Surfing,N,4491
+1503,2003.10.31.a,31-Oct-03,2003,Unprovoked,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,N,4490
+1504,2003.10.27,27-Oct-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4489
+1506,2003.10.14,14-Oct-03,2003,Unprovoked,USA,Florida,Near Patrick Air Force Base Brevard County,Surfing,N,4487
+1508,2003.10.05.e,05-Oct-03,2003,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,N,4485
+1509,2003.10.05.d,05-Oct-03,2003,Unprovoked,USA,Florida,"Stuart Park Beach, Martin County",Surfing,N,4484
+1510,2003.10.05.c,05-Oct-03,2003,Provoked,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,N,4483
+1514,2003.09.28,28-Sep-03,2003,Unprovoked,USA,Florida,"North Hutchinson Island, St. Lucie Couny",Surfing,N,4479
+1515,2003.09.21,21-Sep-03,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4478
+1516,2003.09.19,19-Sep-03,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4477
+1517,2003.09.17,17-Sep-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4476
+1518,2003.09.14.c,14-Sep-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4475
+1530,2003.07.20,20-Jul-03,2003,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4463
+1534,2003.07.05.a,05-Jul-03,2003,Unprovoked,USA,Florida,"Canova Beach, Brevard County",Surfing,N,4459
+1539,2003.06.30,30-Jun-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4454
+1540,2003.06.26,26-Jun-03,2003,Unprovoked,USA,Florida,St Augustine Beach. St. Johns County,Surfing,N,4453
+1546,2003.06.08,08-Jun-03,2003,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4447
+1548,2003.05.25,25-May-03,2003,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",Surfing,N,4445
+1551,2003.05.07,07-May-03,2003,Provoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4442
+1556,2003.04.23.b,23-Apr-03,2003,Unprovoked,BRAZIL,Pernambuco,"Pau Amarelo Beach, Paulista District (17 km from Recife)",Surfing,N,4437
+1558,2003.04.21.b,21-Apr-03,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County ",Surfing,N,4435
+1559,2003.04.21.a,21-Apr-03,2003,Unprovoked,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County ",Surfing,N,4434
+1560,2003.04.20.c,20-Apr-03,2003,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,N,4433
+1561,2003.04.20.b,20-Apr-03,2003,Unprovoked,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",Surfing,N,4432
+1562,2003.04.20.a,20-Apr-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4431
+1564,2003.04.18,18-Apr-03,2003,Unprovoked,USA,Florida,"North Beach, Patrick AFB, Brevard County",Surfing,N,4429
+1566,2003.04.11,11-Apr-03,2003,Unprovoked,VENEZUELA,Nueva Esparta,"El Yaqu, Isla de Margarita",Surfing,N,4427
+1567,2003.04.09,09-Apr-03,2003,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,4426
+1568,2003.04.04,04-Apr-03,2003,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4425
+1576,2003.01.03,03-Jan-03,2003,Unprovoked,COSTA RICA,North Pacific coast,Playa Tamarindo ,Surfing,N,4417
+1577,2003.01.02,02-Jan-03,2003,Unprovoked,AUSTRALIA,Western Australia,Left break at the �Hot Spot� at Sheringa Beach,Surfing,N,4416
+1583,2002.12.01,01-Dec-02,2002,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,Y,4410
+1588,2002.11.11,11-Nov-02,2002,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4405
+1593,2002.10.11,11-Oct-02,2002,Unprovoked,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",Surfing,N,4400
+1594,2002.10.05.b,05-Oct-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4399
+1595,2002.10.05.a,05-Oct-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4398
+1596,2002.10.03,03-Oct-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4397
+1597,2002.09.30,30-Sep-02,2002,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,N,4396
+1598,2002.09.29,29-Sep-02,2002,Unprovoked,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,N,4395
+1603,2002.09.21.a,21-Sep-02,2002,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,N,4390
+1609,2002.08.28,28-Aug-02,2002,Unprovoked,USA,Hawaii,"Kewalo Basin Channel, O'ahu",Surfing,N,4384
+1611,2002.08.14,14-Aug-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4382
+1612,2002.08.11,11-Aug-02,2002,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,N,4381
+1616,2002.07.26,26-Jul-02,2002,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Surfing,N,4377
+1618,2002.07.10,10-Jul-02,2002,Provoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4375
+1620,2002.07.09.a,10-Jul-02,2002,Unprovoked,BRAZIL,Pernambuco,"Piedade Beach, Recife",Surfing,N,4373
+1622,2002.06.20.b,20-Jun-02,2002,Unprovoked,AUSTRALIA,Queensland,Sunshine Beach,Surfing,N,4371
+1628,2002.06.11.a,10-Jun-02,2002,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Surfing,N,4365
+1629,2002.06.09.b,09-Jun-02,2002,Unprovoked,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,4364
+1632,2002.05.31.b,31-May-02,2002,Unprovoked,USA,California,"Stinson Beach, Marin County",Surfing,N,4361
+1636,2002.05.21.R,Reported 21-May-2002,2002,Unprovoked,COSTA RICA,Guanacaste,Playa Grande,Surfing,N,4357
+1639,2002.05.10,10-May-02,2002,Unprovoked,BRAZIL,Pernambuco,"Pina, Recife",Surfing,N,4354
+1644,2002.04.18,18-Apr-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4349
+1654,2002.03.15.a,15-Mar-02,2002,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4339
+1657,2002.02.16,16-Feb-02,2002,Unprovoked,AUSTRALIA,Queensland,Sunshine Beach,Surfing,N,4336
+1660,2002.01.30.b,30-Jan-02,2002,Unprovoked,AUSTRALIA,New South Wales,Just north of Fingal Spit,Surfing,N,4333
+1666,2001.12.21,21-Dec-01,2001,Invalid,AUSTRALIA,Western Australia,"Honeycombs, 250 km south of Perth",Surfing,N,4327
+1667,2001.11.23,23-Nov-01,2001,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock Beach, Lennox Head",Surfing,N,4326
+1668,2001.11.14,14-Nov-01,2001,Unprovoked,USA,Hawaii,"Kapalua, Maui",Surfing,N,4325
+1675,2001.09.18,18-Sep-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4318
+1678,2001.09.15.a,15-Sep-01,2001,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Surfing,N,4315
+1692,2001.08.22,22-Aug-01,2001,Unprovoked,USA,Florida,"Daytona, Volusia County ",Surfing,N,4301
+1693,2001.08.21,21-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4300
+1694,2001.08.19.c,19-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4299
+1695,2001.08.19.b,19-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4298
+1696,2001.08.19.a,19-Aug-01,2001,Unprovoked,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,N,4297
+1697,2001.08.18.c,18-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4296
+1698,2001.08.18.b,18-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4295
+1699,2001.08.18.a,18-Aug-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4294
+1709,2001.07.15.b,15-Jul-01,2001,Unprovoked,USA,Florida,"Santa Rosa Island, Escambia County",Surfing,N,4284
+1711,2001.07.06.b,06-Jul-01,2001,Unprovoked,MEXICO,Baja California,Ensenada,Surfing,N,4282
+1724,2001.05.08,08-May-01,2001,Unprovoked,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,N,4269
+1725,2001.05.04,04-May-01,2001,Unprovoked,AUSTRALIA,New South Wales,Noraville,Surfing,N,4268
+1726,2001.05.03,03-May-01,2001,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,N,4267
+1729,2001.04.13.b,13-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4264
+1730,2001.04.13.a,13-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4263
+1732,2001.04.12.d,12-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4261
+1733,2001.04.12.c,12-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4260
+1735,2001.04.12.a,12-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,N,4258
+1736,2001.04.11.d,11-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4257
+1737,2001.04.11.c,11-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,N,4256
+1738,2001.04.11.a,11-Apr-01,2001,Unprovoked,USA,Hawaii,"Ewa Beach, O'ahu",Surfing,N,4255
+1739,2001.04.10,10-Apr-01,2001,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4254
+1740,2001.04.08.b,08-Apr-01,2001,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,N,4253
+1744,2001.04.02.a,02-Apr-01,2001,Unprovoked,AUSTRALIA,New South Wales,Nambucca River Entrance,Surfing,N,4249
+1746,2001.03.09,09-Mar-01,2001,Unprovoked,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",Surfing,N,4247
+1752,2001.02.04,04-Feb-01,2001,Unprovoked,AUSTRALIA,New South Wales,Broome Head,Surfing,N,4241
+1756,2001.01.09,09-Jan-01,2001,Unprovoked,USA,California,"Sunset Cliffs, San Diego",Surfing,N,4237
+1763,2000.12.00,Dec-00,2000,Unprovoked,NEW ZEALAND,Cook Islands,"Arorangi, Rarotonga",Surfing,Y,4230
+1770,2000.11.04,04-Nov-00,2000,Unprovoked,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",Surfing,N,4223
+1772,2000.10.20,20-Oct-00,2000,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",Surfing,N,4221
+1775,2000.10.09,09-Oct-00,2000,Unprovoked,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",Surfing,N,4218
+1776,2000.10.06.b,06-Oct-00,2000,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4217
+1778,2000.10.02,02-Oct-00,2000,Unprovoked,USA,North Carolina,"Wrightsville Beach, New Hanover County",Surfing,N,4215
+1780,2000.09.25,25-Sep-00,2000,Unprovoked,AUSTRALIA,South Australia,"Black Point, Eyre Peninsula",Surfing,Y,4213
+1781,2000.09.24,24-Sep-00,2000,Unprovoked,AUSTRALIA,South Australia,Cactus Beach near Penong,Surfing,Y,4212
+1783,2000.09.16.b,16-Sep-00,2000,Unprovoked,OKINAWA,Miyako Island,Sunayama Beach,Surfing,Y,4210
+1786,2000.09.12,12-Sep-00,2000,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,N,4207
+1792,2000.09.08.a,08-Sep-00,2000,Unprovoked,REUNION,Saint-Pierre,Pic du Diable ,Surfing,N,4201
+1806,2000.07.17,17-Jul-00,2000,Unprovoked,USA,North Carolina,"Oceanic Pier, Wrightsville Beach, New Hanover County",Surfing,N,4187
+1807,2000.07.16.b,16-Jul-00,2000,Unprovoked,USA,North Carolina,"Holden Beach, Brunswick County",Surfing,N,4186
+1808,2000.07.16.a,16-Jul-00,2000,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,4185
+1809,2000.07.15.b,15-Jul-00,2000,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Cape Recife,Surfing,N,4184
+1810,2000.07.15.a,15-Jul-00,2000,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,South of Durban,Surfing,N,4183
+1825,2000.06.10,10-Jun-00,2000,Unprovoked,USA,Texas,"J.P. Luby Surf Park, Corpus Christi",Surfing,N,4168
+1839,2000.03.24,24-Mar-00,2000,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,N,4154
+1841,2000.03.14,14-Mar-00,2000,Unprovoked,AUSTRALIA,New South Wales,"McMasters Beach, Central Coast",Surfing,N,4152
+1850,2000.02.03,03-Feb-00,2000,Unprovoked,NEW ZEALAND,South Island,Oreti Beach (reported as the 4th person bitten in NZ in 2000),Surfing,N,4143
+1851,2000.02.01,01-Feb-00,2000,Unprovoked,AUSTRALIA,South Australia,"Point Sinclair, Cactus Beach near Penong",Surfing,N,4142
+1855,1999.12.31.c,31-Dec-99,1999,Unprovoked,NEW ZEALAND,South Island,Oreti Beach,Surfing,N,4138
+1858,1999.12.26,26-Dec-99,1999,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,N,4135
+1861,1999.12.02,02-Dec-99,1999,Unprovoked,USA,Florida,"Boynton Beach, Palm Beach County",Surfing,N,4132
+1862,1999.11.30,30-Nov-99,1999,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,N,4131
+1865,1999.11.13,13-Nov-99,1999,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,Surfing,N,4128
+1871,1999.10.20,20-Oct-99,1999,Unprovoked,USA,Florida,"Pet Den, Satellite Beach, Brevard County",Surfing,N,4122
+1877,1999.09.05,05-Sep-99,1999,Unprovoked,USA,Florida,"Fort Pierce Inlet, St. Lucie County",Surfing,N,4116
+1880,1999.08.26,26-Aug-99,1999,Unprovoked,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Surfing,N,4113
+1881,1999.08.24,24-Aug-99,1999,Unprovoked,USA,North Carolina,"Fort Fisher, New Hanover County",Surfing,N,4112
+1883,1999.08.21,21-Aug-99,1999,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4110
+1887,1999.07.29,29-Jul-99,1999,Unprovoked,SOUTH AFRICA,Western Cape Province,Kogebaai,Surfing,N,4106
+1889,1999.07.21,21-Jul-99,1999,Unprovoked,USA,Hawaii,Honoli'i in Hilo (west side of Big Island),Surfing,N,4104
+1893,1999.07.03,03-Jul-99,1999,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Cintsa East, East London",Surfing,N,4100
+1895,1999.06.17,17-Jun-99,1999,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,N,4098
+1899,1999.05.01,01-May-99,1999,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,N,4094
+1902,1999.04.01,01-Apr-99,1999,Unprovoked,USA,Florida,"Hobe Sound Beach, Palm Beach County",Surfing,N,4091
+1911,1999.02.23,23-Feb-99,1999,Unprovoked,AUSTRALIA,New South Wales,Scotts Head,Surfing,N,4082
+1912,1999.02.03,03-Feb-99,1999,Unprovoked,USA,Florida,"Hobe Sound, Martin County",Surfing,N,4081
+1920,1998.12.24,24-Dec-98,1998,Provoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,N,4073
+1922,1998.12.20.R,Reported 20-Dec-1998,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"King's Beach, Port Elizabeth",Surfing,N,4071
+1924,1998.12.15,15-Dec-98,1998,Unprovoked,AUSTRALIA,South Australia,Middleton Beach,Surfing,N,4069
+1926,1998.11.14,14-Nov-98,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4067
+1928,1998.11.05,05-Nov-98,1998,Unprovoked,USA,Oregon,Winchester Bay,Surfing,N,4065
+1930,1998.11.02.a,02-Nov-98,1998,Unprovoked,BRAZIL,Pernambuco," Boa Viagem Beach, Recife",Surfing,Y,4063
+1932,1998.10.18,18-Oct-98,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Glengariff,Surfing,N,4061
+1933,1998.10.10,10-Oct-98,1998,Unprovoked,USA,Florida,"Sebastian Inlet, Indian River County",Surfing,N,4060
+1934,1998.10.04,04-Oct-98,1998,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,N,4059
+1937,1998.09.27,27-Sep-98,1998,Unprovoked,USA,Florida,"The Rocks, Hutchinson Island, Martin County",Surfing,N,4056
+1938,1998.09.22,22-Sep-98,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4055
+1940,1998.09.14,14-Sep-98,1998,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,N,4053
+1942,1998.08.30,30-Aug-98,1998,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,4051
+1951,1998.07.26,26-Jul-98,1998,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,4042
+1952,1998.07.25,25-Jul-98,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4041
+1954,1998.07.11,11-Jul-98,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,Surfing,N,4039
+1955,1998.07.06.a,06-Jul-98,1998,Unprovoked,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Surfing,N,4038
+1958,1998.06.08,08-Jun-98,1998,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,4035
+1959,1998.06.05,05-Jun-98,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,N,4034
+1960,1998.05.30,30-May-98,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Pollock Beach,Surfing,N,4033
+1963,1998.05.25,25-May-98,1998,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,4030
+1979,1998.01.25.a,25-Jan-98,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,N,4014
+1980,1998.01.17,17-Jan-98,1998,Unprovoked,AUSTRALIA,South Australia,Middleton Beach,Surfing,N,4013
+1981,1998.01.14,14-Jan-98,1998,Unprovoked,MOZAMBIQUE,Maputo Province,Ponta do Ouro,Surfing,N,4012
+1982,1998.00.00.c,1998,1998,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Hole-in-the Wall,Surfing,Y,4011
+1994,1997.10.24,24-Oct-97,1997,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,N,3999
+1995,1997.10.21,21-Oct-97,1997,Unprovoked,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,N,3998
+1999,1997.09.09,09-Sep-97,1997,Unprovoked,USA,Florida,Volusia County  ,Surfing,N,3994
+2000,1997.09.08,08-Sep-97,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3993
+2001,1997.09.06,06-Sep-97,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3992
+2002,1997.08.30,30-Aug-97,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3991
+2011,1997.08.09,09-Aug-97,1997,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3982
+2016,1997.07.27,27-Jul-97,1997,Unprovoked,AUSTRALIA,Queensland,"Pincushion, north of Maroochydore Beach",Surfing,N,3977
+2017,1997.07.21,21-Jul-97,1997,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Breezy Point, Ntlonyana",Surfing,Y,3976
+2018,1997.07.17,17-Jul-97,1997,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,3975
+2021,1997.07.02.R, 2-Jul-1997,1997,Unprovoked,BRAZIL,Pernambuco,Paiva,Surfing,N,3972
+2024,1997.06.09,09-Jun-97,1997,Unprovoked,USA,Florida, Palm Beach County,Surfing,N,3969
+2028,1997.05.31.b,31-May-97,1997,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,N,3965
+2029,1997.05.31.a,31-May-97,1997,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,N,3964
+2042,1996.12.29,29-Dec-96,1996,Unprovoked,AUSTRALIA,Queensland,Coolum Beach,Surfing,UNKNOWN,3951
+2043,1996.12.10,10-Dec-96,1996,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Duck Pond, Sardina Bay near Port Elizabeth",Surfing,N,3950
+2046,1996.11.29.a,29-Nov-96,1996,Unprovoked,USA,California,"Salmon Creek Beach, Sonoma County",Surfing,N,3947
+2047,1996.11.18,18-Nov-96,1996,Unprovoked,USA,Florida,"Coral Cove Park, Palm Beach County",Surfing,N,3946
+2048,1996.10.28.b,28-Oct-96,1996,Unprovoked,BRAZIL,Pernambuco,Barra de Jangada,Surfing,N,3945
+2049,1996.10.28.a,28-Oct-96,1996,Unprovoked,BRAZIL,Pernambuco,Barra de Jangada,Surfing,N,3944
+2051,1996.10.05.,05-Oct-96,1996,Unprovoked,USA,California,"Dillon Beach, Marin County",Surfing,N,3942
+2052,1996.10.03.b,03-Oct-96,1996,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3941
+2053,1996.10.03.a,03-Oct-96,1996,Unprovoked,USA,California,"North Salmon Creek Beach, Sonoma County",Surfing,N,3940
+2075,1996.06.06,06-Jun-96,1996,Unprovoked,AUSTRALIA,Victoria,"Suicide Point, Point Leo",Surfing,N,3918
+2076,1996.06.04,04-Jun-96,1996,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,LaMercy,Surfing,N,3917
+2077,1996.05.28,28-May-96,1996,Unprovoked,SOUTH AFRICA,Western Cape Province,"The Steps, Wilderness",Surfing,N,3916
+2079,1996.05.18,18-May-96,1996,Unprovoked,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,N,3914
+2081,1996.05.07,07-May-96,1996,Unprovoked,USA,Florida,"Shark Shallows, Ponce Inlet, Volusia County",Surfing,N,3912
+2100,1996.01.10,10-Jan-96,1996,Unprovoked,REUNION,Saint-Paul ,Embouchure de l'�tang de Saint Paul,Surfing,Y,3893
+2102,1996.00.00.a,1996,1996,Unprovoked,USA,North Carolina,,Surfing,N,3891
+2109,1995.10.21,21-Oct-95,1995,Unprovoked,USA,Florida,"North Beach, St. Lucie County",Surfing,N,3884
+2111,1995.10.01,01-Oct-95,1995,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,N,3882
+2112,1995.09.30.b,30-Sep-95,1995,Unprovoked,USA,Florida,"Crescent Beach, St. Augustine, St. Johns County",Surfing,N,3881
+2113,1995.09.30.a,30-Sep-95,1995,Unprovoked,USA,Florida,"North Beach, Hutchinson Island, St. Lucie County",Surfing,N,3880
+2115,1995.09.19.,19-Sep-95,1995,Unprovoked,USA,Florida,"Matanzas Bay Inlet, St. Johns County",Surfing,N,3878
+2122,1995.08.31.b,31-Aug-95,1995,Unprovoked,USA,Florida,"North Beach Inlet, St. Lucie County",Surfing,N,3871
+2124,1995.08.27,27-Aug-95,1995,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,3869
+2125,1995.08.26/b,26-Aug-95,1995,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,N,3868
+2126,1995.08.26.a,26-Aug-95,1995,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,N,3867
+2129,1995.08.22.a,22-Aug-95,1995,Unprovoked,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,N,3864
+2134,1995.08.10.b,10-Aug-95,1995,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,3859
+2139,1995.07.28.e,28-Jul-95,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3854
+2140,1995.07.28.d,28-Jul-95,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3853
+2141,1995.07.28.c,28-Jul-95,1995,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3852
+2146,1984.11.08,08-Nov-84,1984,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Gonubie River Mouth,Surfing,N,3847
+2147,1995.07.07,07-Jul-95,1995,Unprovoked,BRAZIL,Pernambuco,Candeias,Surfing,Y,3847
+2148,1995.07.06,06-Jul-95,1995,Unprovoked,USA,Texas,Port Aransas,Surfing,N,3846
+2154,1995.06.17.b,17-Jun-95,1995,Unprovoked,USA,South Carolina,"Garden City Beach, Horry County",Surfing,N,3840
+2161,1995.05.26,26-May-95,1995,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Surfing,N,3833
+2170,1995.03.11,11-Mar-95,1995,Unprovoked,AUSTRALIA,South Australia,Cactus Beach,Surfing,N,3824
+2175,1995.01.02,02-Jan-95,1995,Unprovoked,BRAZIL,Pernambuco,Piedade,Surfing,N,3819
+2182,1994.12.13,13-Dec-94,1994,Unprovoked,BRAZIL,Pernambuco,Piedade,Surfing,N,3812
+2183,1994.12.11,11-Dec-94,1994,Unprovoked,BRAZIL,Pernambuco,Paiva,Surfing,N,3811
+2187,1994.12.01,01-Dec-94,1994,Unprovoked,BRAZIL,Pernambuco,Paiva,Surfing,Y,3807
+2190,1994.11.06.a,06-Nov-94,1994,Unprovoked,USA,Hawaii,"Kealia Beach, Kaua'i",Surfing,N,3804
+2191,1994.10.18,18-Oct-94,1994,Unprovoked,BRAZIL,Pernambuco,Piedade,Surfing,N,3803
+2192,1994.10.17,17-Oct-94,1994,Unprovoked,BRAZIL,Pernambuco,Piedade,Surfing,N,3802
+2194,1994.10.05,05-Oct-94,1994,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,N,3800
+2196,1994.09.21,21-Sep-94,1994,Unprovoked,USA,Oregon,"Short Sand Beach, Oswald West State Park",Surfing,N,3798
+2200,1994.07.24,24-Jul-94,1994,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,3794
+2203,1994.07.09.b,09-Jul-94,1994,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",Surfing,Y,3791
+2204,1994.07.09.a,09-Jul-94,1994,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",Surfing,N,3790
+2205,1994.07.08.b,08-Jul-94,1994,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,3789
+2206,1994.07.08.a,08-Jul-94,1994,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3788
+2208,1994.05.31.b,31-May-94,1994,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,N,3786
+2209,1994.05.31.a,31-May-94,1994,Unprovoked,USA,Florida," Daytona Beach, Volusia County",Surfing,N,3785
+2213,1994.05.15,15-May-94,1994,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3781
+2222,1994.03.01,01-Mar-94,1994,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,N,3772
+2224,1994.02.19,19-Feb-94,1994,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,N,3770
+2226,1994.02.12,12-Feb-94,1994,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Beachview Holiday Resort,Surfing,N,3768
+2229,1994.01.31.a,31-Jan-94,1994,Unprovoked,USA,Hawaii,"Velzyland, north shore of O'ahu",Surfing,Y,3765
+2235,1994.00.00.a,1994,1994,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Surfing,N,3759
+2236,1993.12.00,Dec-93,1993,Unprovoked,USA,Hawaii,Waipo,Surfing,Y,3758
+2241,1993.10.30,30-Oct-93,1993,Unprovoked,USA,California,"""Bunkers"" Eureka, Humboldt County",Surfing,N,3753
+2244,1993.10.00,Oct-93,1993,Unprovoked,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,N,3750
+2247,1993.09.16.b,16-Sep-93,1993,Unprovoked,EL SALVADOR,La Libertad,near El Cocal Beach,Surfing,N,3747
+2248,1993.09.16.a,16-Sep-93,1993,Unprovoked,EL SALVADOR,La Libertad,El Cocal Beach,Surfing,Y,3746
+2253,1993.08.19.R,Reported      19-Aug-1993,1993,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,N,3741
+2261,1993.07.30,30-Jul-93,1993,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Pollock Beach, Port Elizabeth",Surfing,N,3733
+2275,1993.03.27,27-Mar-93,1993,Unprovoked,BRAZIL,Pernambuco,Paiva,Surfing,N,3719
+2287,1993.01.02,02-Jan-93,1993,Unprovoked,USA,Oregon,"Bastendorf Beach, Coos County",Surfing,N,3707
+2288,1993.00.00.d,Fall 1993,1993,Unprovoked,ANGOLA,West Africa,,Surfing,N,3706
+2295,1992.11.25.a,25-Nov-92,1992,Unprovoked,USA,Florida,"Brevard County, a mile north of Sebastian Inlet",Surfing,N,3699
+2296,1992.11.23,23-Nov-92,1992,Unprovoked,USA,Florida,,Surfing,N,3698
+2300,1992.11.05.b,06-Nov-92,1992,Unprovoked,USA,Florida,"North Jetty Park, Fort Pierce, St Lucie County",Surfing,N,3694
+2303,1992.10.22,22-Oct-92,1992,Unprovoked,USA,Hawaii,"Lanaikea, O'ahu",Surfing,N,3691
+2306,1992.10.01,01-Oct-92,1992,Unprovoked,AUSTRALIA,Queensland,"North Point Beach, Moreton Island",Surfing,Y,3688
+2308,1992.09.13,13-Sep-92,1992,Unprovoked,USA,Oregon,"Gold Beach, Curry County",Surfing,N,3686
+2313,1992.08.25,25-Aug-92,1992,Unprovoked,AUSTRALIA,South Australia,"Lipson Cove, Tumby Bay",Surfing,N,3681
+2315,1992.08.18,18-Aug-92,1992,Unprovoked,USA,California,"Klamath River, Del Norte County",Surfing,N,3679
+2320,1992.07.08.b,08-Jul-92,1992,Unprovoked,BRAZIL,Maranh�o,"Praia da Marcela, S�o Marcos Bay",Surfing,N,3674
+2321,1992.07.08.a,08-Jul-92,1992,Unprovoked,BRAZIL,Maranh�o,"Praia da Marcela, S�o Marcos Bay",Surfing,N,3673
+2323,1992.06.28.a,28-Jun-92,1992,Unprovoked,REUNION,Saint-Paul,Cap de la Marianne,Surfing,Y,3671
+2328,1992.05.22,22-May-92,1992,Unprovoked,REUNION,Saint-Joseph,Lieu-dit Cayenne,Surfing,Y,3666
+2331,1992.04.09,09-Apr-92,1992,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,N,3663
+2333,1992.03.10,10-Mar-92,1992,Unprovoked,AUSTRALIA,Victoria,Point Lonsdale,Surfing,N,3661
+2339,1992.02.09,09-Feb-92,1992,Invalid,AUSTRALIA,Tasmania,"Clifton Beach, southwest of Hobart",Surfing,N,3655
+2354,1991.10.12,12-Oct-91,1991,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,3640
+2355,1991.10.05,05-Oct-91,1991,Unprovoked,USA,California,"Horseshoe Reef, Scott Creek, Davenport, Santa Cruz County",Surfing,N,3639
+2366,1991.07.01.b,01-Jul-91,1991,Unprovoked,REUNION,L'Etang-Sal�,"Ravine des Sables, Saint Leu",Surfing,N,3628
+2367,1991.07.01.a,01-Jul-91,1991,Unprovoked,USA,California,"8.5 miles south of Ano Nuevo State Reserve, Davenport County",Surfing,N,3627
+2371,1991.06.26,26-Jun-91,1991,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,N,3623
+2381,1991.02.24,24-Feb-91,1991,Unprovoked,USA,Oregon,"Neskowin, Tillamook County",Surfing,N,3613
+2389,1990.11.01,01-Nov-90,1990,Unprovoked,USA,Florida,"Spanish River Park Beach, Palm Beach County",Surfing,N,3605
+2390,1990.10.30.b,30-Oct-90,1990,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,3604
+2391,1990.10.30.a,30-Oct-90,1990,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,N,3603
+2393,1990.10.25,25-Oct-90,1990,Unprovoked,AUSTRALIA,South Australia,Goolwa Beach,Surfing,N,3601
+2394,1990.10.20,20-Oct-90,1990,Unprovoked,USA,Florida,"North end of County Beach, Palm Beach County",Surfing,N,3600
+2395,1990.10.15,15-Oct-90,1990,Unprovoked,USA,Hawaii,"Hanalei Point, Kaua'i",Surfing,N,3599
+2396,1990.10.12,12-Oct-90,1990,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,N,3598
+2401,1990.08.28,28-Aug-90,1990,Unprovoked,USA,California,"Trinidad Head, Humboldt County",Surfing,N,3593
+2402,1990.08.19.b,19-Aug-90,1990,Unprovoked,USA,Texas,"Mustang Island, Nueces County",Surfing,N,3592
+2405,1990.07.08,08-Jul-90,1990,Unprovoked,USA,Florida,"Perdido Key near the Florida Panhandle, Escambia County",Surfing,N,3589
+2413,1990.04.09,09-Apr-90,1990,Unprovoked,AUSTRALIA,Queensland,Greenmount Beach,Surfing,N,3581
+2415,1990.04.07,07-Apr-90,1990,Unprovoked,AUSTRALIA,Queensland,Fingal Beach,Surfing,N,3579
+2416,1990.04.06,06-Apr-90,1990,Unprovoked,AUSTRALIA,Queensland,Fingal Beach,Surfing,N,3578
+2419,1990.03.05,05-Mar-90,1990,Unprovoked,REUNION,Sainte-Marie,Baie de la Mare,Surfing,N,3575
+2423,1990.00.00,1990,1990,Unprovoked,USA,Florida,"Pensacola, Escambia County",Surfing,UNKNOWN,3571
+2427,1989.11.22,22-Nov-89,1989,Unprovoked,AUSTRALIA,Victoria,Kilcunda,Surfing,N,3567
+2432,1989.10.22,22-Oct-89,1989,Unprovoked,AUSTRALIA,Tasmania,Shelly Point ,Surfing,N,3562
+2434,1989.10.11,11-Oct-89,1989,Unprovoked,USA,Texas,Surfside Beach,Surfing,N,3560
+2436,1989.10.01,01-Oct-89,1989,Unprovoked,AUSTRALIA,Victoria,"Surfers Point, Phillip Island",Surfing,UNKNOWN,3558
+2441,1989.09.09.a,09-Sep-89,1989,Unprovoked,USA,North Carolina,"Salvo, Dare County",Surfing,N,3553
+2445,1989.08.22.a,22-Aug-89,1989,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,N,3549
+2446,1989.08.13,13-Aug-89,1989,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,N,3548
+2450,1989.07.20,20-Jul-89,1989,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,Surfing,N,3544
+2451,1989.07.19,19-Jul-89,1989,Unprovoked,REUNION,Sainte-Suzanne,Temple Tamoule,Surfing,Y,3543
+2452,1989.07.14,14-Jul-89,1989,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3542
+2457,1989.06.05,05-Jun-89,1989,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,Surfing,N,3537
+2465,1989.03.09,09-Mar-89,1989,Unprovoked,AUSTRALIA,South Australia,"Waitpinga Beach, near Victor Harbor, Encounter Bay",Surfing,Y,3529
+2483,1988.10.22,22-Oct-88,1988,Unprovoked,AUSTRALIA,Victoria,Phillip Island,Surfing,N,3511
+2484,1988.10.14,14-Oct-88,1988,Unprovoked,USA,Florida,"Boca Raton, Palm Beach County",Surfing,N,3510
+2485,1988.10.11,11-Oct-88,1988,Unprovoked,USA,Florida,"Fort Pierce, St. Lucie County ",Surfing,N,3509
+2486,1988.10.10,10-Oct-88,1988,Unprovoked,USA,Florida,"Playalinda, Brevard County",Surfing,N,3508
+2487,1988.10.06,06-Oct-88,1988,Unprovoked,AUSTRALIA,South Australia,Moama Beach,Surfing,N,3507
+2489,1988.09.28,28-Sep-88,1988,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3505
+2495,1988.08.11,11-Aug-88,1988,Unprovoked,USA,California,"Klamath River, Del Norte County",Surfing,N,3499
+2507,1988.06.01,01-Jun-88,1988,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,3487
+2509,1988.05.10,10-May-88,1988,Unprovoked,USA,Florida,"Paradise Beach Park, Brevard County",Surfing,N,3485
+2512,1988.04.24,24-Apr-88,1988,Unprovoked,USA,California,"North of Morro Rock, San Luis Obispo County",Surfing,N,3482
+2515,1988.04.14.b,14-Apr-88,1988,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,N,3479
+2520,1988.03.16,16-Mar-88,1988,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Isipingo,Surfing,N,3474
+2521,1988.03.14,14-Mar-88,1988,Unprovoked,REUNION,Saint-Pierre,Pic du Diable,Surfing,N,3473
+2523,1988.02.14,14-Feb-88,1988,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,N,3471
+2527,1988.01.27,27-Jan-88,1988,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Surfing,N,3467
+2532,1988.00.00.c,1988,1988,Unprovoked,AUSTRALIA,New South Wales,Sydney,Surfing,N,3462
+2534,1987.12.17,17-Dec-87,1987,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,N,3460
+2536,1987.11.21,21-Nov-87,1987,Unprovoked,USA,Florida,"North of Jupiter Inlet, Palm Beach County",Surfing,N,3458
+2538,1987.10.26,26-Oct-87,1987,Unprovoked,USA,California,"Davenport Light, San Mateo County",Surfing,N,3456
+2543,1987.09.13,13-Sep-87,1987,Unprovoked,SOUTH AFRICA,Western Cape Province,Still Bay,Surfing,N,3451
+2546,1987.07.21,21-Jul-87,1987,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,3448
+2554,1987.05.08,08-May-87,1987,Unprovoked,USA,Florida,"St Augustine, St. Johns County",Surfing,N,3440
+2560,1987.03.30.b,30-Mar-87,1987,Unprovoked,AUSTRALIA,Western Australia,Fourth Beach / Twilgth Beach,Surfing,N,3434
+2570,1986.12.11,11-Dec-86,1986,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,3424
+2575,1986.11.30,30-Nov-86,1986,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,3419
+2576,1986.11.19,19-Nov-86,1986,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,N,3418
+2577,1986.11.04,04-Nov-86,1986,Unprovoked,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,N,3417
+2582,1986.10.00,Oct-86,1986,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,N,3412
+2584,1986.09.00.b,Sep-86,1986,Unprovoked,USA,Florida,"Ormond Beach / Daytona Beach, Volusia County",Surfing,N,3410
+2585,1986.09.00.a,Sep-86,1986,Unprovoked,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,N,3409
+2586,1986.08.19,19-Aug-86,1986,Unprovoked,USA,North Carolina,"Masonboro Inlet, New Hanover County",Surfing,N,3408
+2599,1986.03.05,05-Mar-86,1986,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"The Fence, King's Beach, Port Elizabeth",Surfing,N,3395
+2600,1986.02.18,18-Feb-86,1986,Unprovoked,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,N,3394
+2601,1986.02.17,17-Feb-86,1986,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Cape Recife,Surfing,N,3393
+2604,1986.02.01,01-Feb-86,1986,Unprovoked,AUSTRALIA,Victoria,Jan Juc Beach,Surfing,N,3390
+2605,1986.01.12,12-Jan-86,1986,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,N,3389
+2606,1986.00.00,1986,1986,Unprovoked,USA,California,"Linda Mar Beach, Pedro Point, San Mateo County",Surfing,N,3388
+2607,1985.12.22,22-Dec-85,1985,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Garvies Beach,Surfing,N,3387
+2625,1985.07.25.a,25-Jul-85,1985,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3369
+2631,1985.03.16,16-Mar-85,1985,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,N,3363
+2634,1985.02.03,03-Feb-85,1985,Unprovoked,USA,Florida,"15 miles north of Sebastian Inlet, Brevard County",Surfing,N,3360
+2637,1985.01.17,17-Jan-85,1985,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Umbogintwini,Surfing,N,3357
+2646,1984.11.11,11-Nov-84,1984,Unprovoked,USA,Florida,"Jupiter Island Beach, Martin County",Surfing,N,3348
+2651,1984.10.14.a,14-Oct-84,1984,Unprovoked,USA,Florida,"Bob Graham Beach, Martin County",Surfing,N,3342
+2654,1984.09.23,23-Sep-84,1984,Unprovoked,USA,Florida,Volusia County,Surfing,N,3339
+2656,1984.09.22.a,22-Sep-84,1984,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,N,3337
+2668,1984.06.15,15-Jun-84,1984,Unprovoked,SOUTH AFRICA,Western Cape Province,"Muizenberg, False Bay",Surfing,N,3325
+2673,1984.03.14,14-Mar-84,1984,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Surfing,N,3320
+2683,1984.00.00.a,1984,1984,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,N,3310
+2685,1983.12.25,25-Dec-83,1983,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Surfing,N,3308
+2691,1983.11.10.R,Reported      10-Nov-1983,1983,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,3302
+2693,1983.10.17.a,17-Oct-83,1983,Unprovoked,USA,Florida,"Stuart Beach, Martin County",Surfing,N,3300
+2696,1983.08.20.b,20-Aug-83,1983,Unprovoked,USA,Oregon,"Cape Kiwanda,Tillamook County",Surfing,N,3297
+2705,1983.07.15,15-Jul-83,1983,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Seal Point, Cape St. Francis",Surfing,N,3288
+2716,1983.05.24,24-May-83,1983,Unprovoked,USA,Florida," Riviera Beach, Palm Beach County",Surfing,N,3277
+2717,1983.05.21,21-May-83,1983,Unprovoked,USA,Florida,"Haulover Inlet, Dade County",Surfing,N,3276
+2718,1983.04.19,19-Apr-83,1983,Unprovoked,USA,Florida,,Surfing,UNKNOWN,3275
+2720,1983.04.02.b,02-Apr-83,1983,Unprovoked,USA,Florida,"Lake Worth Beach, Palm Beach County",Surfing,N,3273
+2723,1983.03.22,22-Mar-83,1983,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,N,3270
+2724,1983.03.10,10-Mar-83,1983,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,N,3269
+2736,1982.09.30.b,30-Sep-82,1982,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,3257
+2737,1982.09.30.a,30-Sep-82,1982,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,N,3256
+2738,1982.09.27,27-Sep-82,1982,Unprovoked,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,N,3255
+2743,1982.08.29.b,29-Aug-82,1982,Invalid,USA,California,"Morro Rock, Morro Bay, San Obispo County",Surfing,N,3250
+2753,1982.06.29,29-Jun-82,1982,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Ntlonyana Bay,Surfing,Y,3240
+2759,1982.03.10,10-Mar-82,1982,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,N,3234
+2760,1982.03.07,07-Mar-82,1982,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,Y,3233
+2763,1982.02.27,27-Feb-82,1982,Unprovoked,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,N,3230
+2774,1981.12.19,19-Dec-81,1981,Unprovoked,USA,California,"South Moss Beach, Spanish Bay, Monterey Peninsula",Surfing,Y,3219
+2781,1981.10.17,17-Oct-81,1981,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Surfing,UNKNOWN,3212
+2782,1981.10.16,16-Oct-81,1981,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3211
+2783,1981.10.01,01-Oct-81,1981,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,N,3210
+2784,1981.09.28,28-Sep-81,1981,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3209
+2785,1981.09.27,27-Sep-81,1981,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,N,3208
+2787,1981.09.03.b,03-Sep-81,1981,Unprovoked,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,N,3206
+2788,1981.09.03.a,03-Sep-81,1981,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3205
+2789,1981.08.29,29-Aug-81,1981,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3204
+2796,1981.07.18,18-Jul-81,1981,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,N,3197
+2803,1981.05.20,20-May-81,1981,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,N,3190
+2806,1981.05.10,10-May-81,1981,Unprovoked,SOUTH AFRICA,Eastern Cape Province,King�s Beach,Surfing,N,3187
+2809,1981.05.05,05-May-81,1981,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Ntlonyane Bay,Surfing,N,3184
+2811,1981.03.24,24-Mar-81,1981,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,N,3182
+2817,1981.02.02,02-Feb-81,1981,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,N,3176
+2829,1980.10.27,27-Oct-80,1980,Unprovoked,USA,Oregon,Off Umpqua River,Surfing,N,3164
+2830,1980.10.17,17-Oct-80,1980,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,N,3163
+2837,1980.07.00,Late Jul-1980,1980,Unprovoked,USA,North Carolina,"Emerald Isle Pier (near Morehead City), Carteret County",Surfing,N,3156
+2838,1980.07.00,Early Jul-1980,1980,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,3155
+2840,1980.05.15,15-May-80,1980,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Fuller�s Bay,Surfing,N,3153
+2855,1980.00.00.c,1980s ,1980,Invalid,GREECE,Island of Kos,,Surfing,N,3138
+2861,1979.11.27,27-Nov-79,1979,Unprovoked,USA,Oregon,"Haystack Rock, Cannon Beach, Clatsop County",Surfing,N,3132
+2877,1979.03.24,24-Mar-79,1979,Unprovoked,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,N,3116
+2885,1978.11.26,26-Nov-78,1978,Unprovoked,USA,Hawaii,"Ewa, O'ahu",Surfing,N,3108
+2886,1978.11.23,23-Nov-78,1978,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Surfing,N,3107
+2895,1978.06.21.b,21-Jun-78,1978,Unprovoked,USA,Florida,"South of Neptune Beach, Duval County",Surfing,N,3098
+2896,1978.06.21.a,21-Jun-78,1978,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,N,3097
+2904,1978.01.17,07-Jan-78,1978,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Glenashley,Surfing,N,3089
+2906,1978.00.00.b,1978,1978,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,3087
+2909,1977.12.19.b,19-Dec-77,1977,Unprovoked,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,N,3084
+2910,1977.12.19.a,19-Dec-77,1977,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Qolera River,Surfing,N,3083
+2914,1977.08.31,31-Aug-77,1977,Unprovoked,AUSTRALIA,South Australia,"Cactus Beach, near Ceduna",Surfing,N,3079
+2938,1976.11.25,25-Nov-76,1976,Unprovoked,USA,Florida,"Delray Beach, Palm Beach County",Surfing,N,3055
+2942,1976.10.18,18-Oct-76,1976,Unprovoked,USA,California,"Moonstone Beach, Humboldt County",Surfing,N,3051
+2943,1976.10.06,06-Oct-76,1976,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,N,3050
+2949,1976.09.06,06-Sep-76,1976,Unprovoked,USA,Florida,"Sebastian, Indian River County",Surfing,N,3044
+2951,1976.08.24,24-Aug-76,1976,Unprovoked,USA,Oregon,Winchester Bay,Surfing,N,3042
+2979,1975.11.02,02-Nov-75,1975,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,N,3014
+2981,1975.10.12,12-Oct-75,1975,Unprovoked,AUSTRALIA,New South Wales,"Lennox Head, Ballina",Surfing,N,3012
+2982,1975.10.04,04-Oct-75,1975,Invalid,USA,California,"Seal Beach, Orange County",Surfing,UNKNOWN,3011
+2984,1975.08.17,17-Aug-75,1975,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,N,3009
+2991,1975.07.26.a,26-Jul-75,1975,Unprovoked,AUSTRALIA,Queensland,Maroochydore,Surfing,N,3002
+2996,1975.07.04,04-Jul-75,1975,Unprovoked,USA,Florida,"Indiatlantic, Brevard County",Surfing,N,2997
+3000,1975.06.02.R,Reported 02-Jun-1975,1975,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,N,2993
+3002,1975.05.25,25-May-75,1975,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,2991
+3013,1975.02.23,23-Feb-75,1975,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Surfing,N,2980
+3019,1975.01.19,19-Jan-75,1975,Unprovoked,AUSTRALIA,South Australia,Coffin Bay,Surfing,Y,2974
+3024,1974.09.28,28-Sep-74,1974,Unprovoked,USA,California,"North of Point Sur, Monterey County",Surfing,N,2969
+3030,1974.09.00,Sep-74,1974,Unprovoked,USA,Oregon,Myers Creek,Surfing,N,2963
+3036,1974.08.05,05-Aug-74,1974,Unprovoked,USA,California,"San Gregorio Beach, San Mateo County",Surfing,N,2957
+3046,1974.04.04,04-Apr-74,1974,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Surfing,N,2947
+3047,1974.03.21,21-Mar-74,1974,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Surfing,N,2946
+3066,1973.11.24,24-Nov-73,1973,Unprovoked,USA,Florida,"Ormond By The Sea, Volusia County",Surfing,N,2927
+3074,1973.08.25,25-Aug-73,1973,Unprovoked,AUSTRALIA,Queensland,"Point Lookout, Stradbroke Island",Surfing,N,2919
+3083,1973.01.09,09-Jan-73,1973,Unprovoked,USA,Hawaii,"Ho'okipa Beach, Pa'ia, Maui",Surfing,N,2910
+3086,1973.00.00.a,1973,1973,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,N,2907
+3095,1972.10.21,21-Oct-72,1972,Unprovoked,AUSTRALIA,New South Wales,Tabourie Beach,Surfing,N,2898
+3097,1972.10.14.a,14-Oct-72,1972,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,2896
+3099,1972.09.09,09-Sep-72,1972,Unprovoked,USA,California,"Point Sur, Monterey County",Surfing,N,2894
+3101,1972.08.29,29-Aug-72,1972,Unprovoked,USA,Florida,"Crescent Beach, St. Johns County",Surfing,N,2892
+3107,1972.06.10,10-Jun-72,1972,Unprovoked,USA,Florida,"Cocoa Beach, Brevard County",Surfing,N,2886
+3115,1972.02.20,20-Feb-72,1972,Unprovoked,AUSTRALIA,Victoria,"Wilson's Promontory, Waratah Bay",Surfing,N,2878
+3127,1971.10.23,23-Oct-71,1971,Unprovoked,USA,Florida,"Ft. Pierce, St Lucie County",Surfing,N,2866
+3130,1971.09.25,25-Sep-71,1971,Unprovoked,USA,North Carolina,"Emerald Isle, Carteret County",Surfing,N,2863
+3136,1971.06.30,30-Jun-71,1971,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,N,2857
+3140,1971.04.06,06-Apr-71,1971,Unprovoked,MEXICO,Guerrero,"Copacabana Beach, Acapulco",Surfing,Y,2853
+3144,1971.03.30,30-Mar-71,1971,Unprovoked,NEW ZEALAND,South Island,Dunedin,Surfing,N,2849
+3146,1971.00.00.c,1971,1971,Unprovoked,AUSTRALIA,South Australia,Southport,Surfing,N,2847
+3155,1970.10.00,Oct-70,1970,Unprovoked,USA,Florida,"Matanzas Inlet, St Johns County",Surfing,N,2838
+3198,1969.08.02,02-Aug-69,1969,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,N,2795
+3209,1969.05.22,22-May-69,1969,Unprovoked,DOMINICAN REPUBLIC,,,Surfing,UNKNOWN,2784
+3214,1969.03.09,09-Mar-69,1969,Unprovoked,USA,Hawaii,"Makaha, O'ahu",Surfing,N,2779
+3222,1968.12.25,25-Dec-68,1968,Unprovoked,NEW ZEALAND,South Island,"St. Clair Beach, Dunedin",Surfing,N,2771
+3231,1968.09.22,22-Sep-68,1968,Invalid,USA,Florida,"Riviera Beach, Palm Beach County",Surfing,UNKNOWN,2762
+3254,1968.03.10,10-Mar-68,1968,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Surfing,N,2739
+3256,1968.02.26,26-Feb-68,1968,Unprovoked,USA,Florida,Palm Beach County,Surfing,N,2737
+3265,1968.00.00.a,1968,1968,Invalid,USA,Florida,"Jensen Beach, Martin County",Surfing,UNKNOWN,2728
+3266,1967.12.30,30-Dec-67,1967,Unprovoked,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,N,2727
+3297,1967.07.00,Jul-67,1967,Invalid,USA,South Carolina,,Surfing,N,2696
+3378,1965.11.03.a,03-Nov-65,1965,Unprovoked,AUSTRALIA,Queensland,Oak Beach,Surfing,N,2615
+3403,1965.04.25,25-Apr-65,1965,Invalid,USA,California,"Pacifica, San Mateo County",Surfing,Y,2590
+3417,1965.00.00.f,1965,1965,Provoked,USA,California,"Dana Point, San Clemente, Orange County",Surfing,N,2576
+3462,1964.03.28.b,28-Mar-64,1964,Unprovoked,AUSTRALIA,South Australia,Surfers Paradise Beach near Victor Harbour,Surfing,N,2531
+3514,1963.09.13,13-Sep-63,1963,Provoked,AUSTRALIA,New South Wales,Wanda Beach,Surfing,N,2479
+3622,1962.01.14.a,14-Jan-62,1962,Unprovoked,AUSTRALIA,New South Wales,"Lennox Head, Ballina",Surfing,N,2371
+3629,1962.01.07.a,07-Jan-62,1962,Unprovoked,AUSTRALIA,New South Wales,Sydney,Surfing,N,2364
+3773,1960.04.12,12-Apr-60,1960,Unprovoked,AUSTRALIA,New South Wales,"Horseshoe Bay, near Kempsey",Surfing,N,2220
+3975,1957.04.23,23-Apr-57,1957,Unprovoked,AUSTRALIA,New South Wales,"Merewether Beach, Newcastle",Surfing,N,2018
+4058,1955.08.30.a,30-Aug-55,1955,Provoked,USA,California,"Zuma Beach, Santa Monica, Los Angeles County",Surfing,N,1935
+4191,1952.01.07,07-Jan-52,1952,Unprovoked,AUSTRALIA,New South Wales,Evans Head,Surfing,N,1802
+4292,1949.01.14,14-Jan-49,1949,Invalid,AUSTRALIA,New South Wales,Off North Bondi,Surfing,N,1701
+4353,1947.04.06,06-Apr-47,1947,Unprovoked,AUSTRALIA,New South Wales,Palm Beach,Surfing,N,1640
+4430,1944.01.14,14-Jan-44,1944,Unprovoked,AUSTRALIA,New South Wales,"First Beach, Forster",Surfing,N,1563
+4660,1936.01.05,05-Jan-36,1936,Invalid,AUSTRALIA,Queensland,"Main Beach, Southport",Surfing,N,1333
+4687,1935.03.11,11-Mar-35,1935,Unprovoked,AUSTRALIA,New South Wales,Newcastle,Surfing,N,1306
+5004,1922.01.04,04-Jan-22,1922,Unprovoked,AUSTRALIA,New South Wales,"Stockton Beach, Newcastle",Surfing,Y,989
+5048,1918.03.22,22-Mar-18,1918,Unprovoked,AUSTRALIA,New South Wales,Newcastle,Surfing,N,945
+5808,1828.00.00,1828,1828,Unprovoked,USA,Hawaii,"Uo, Lahaina, Maui",Surfing,Y,185
+5837,1779.00.00,1779,1779,Unprovoked,USA,Hawaii,"Maliu, Hawai'i",Surfing,Y,156
+5891,ND-0122,Beforer 1994,0,Unprovoked,USA,Florida,"Lost Tree Village, Palm Beach County",Surfing,N,102
