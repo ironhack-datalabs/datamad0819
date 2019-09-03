@@ -207,15 +207,23 @@ def printSquare():
 
 
 # 22. Find all of the numbers from 1-1000 that are divisible by any single digit besides 1 (2-9). 
-# Use results as the name of the list 
+# Use results as the name of the list a = (lambda num: num if True in [True for i in range(2,10) if 
 
-#a = (lambda num: num if True in [True for i in range(2,10) if 
+results = list(set([i for i in range(1,1001) for j in range(2,10) if i%j == 0]))
 
-"""
+
 # 23. Define a customised exception to handle not accepted values. 
 # You have the following user inputs and the Num_of_sections can not be less than 2.
 # Hint: Create a class derived from the pre-defined Exception class in Python
 
 Total_Marks = int(input("Enter Total Marks Scored: ")) 
 Num_of_Sections = int(input("Enter Num of Sections: "))
-"""
+
+class CustomValueError(ValueError):
+ def __init__(self, arg):
+  self.strerror = arg
+  self.args = {arg}
+
+if (Total_Marks+2)>= Num_of_Sections:
+    raise CustomValueError("Error en la entrada") 
+
