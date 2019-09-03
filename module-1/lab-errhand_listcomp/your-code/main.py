@@ -94,7 +94,7 @@ print(random_lists)
 
 list_of_lists = [[1,2,3],[4,5,6],[7,8,9]]
 
-flatten_list = [list_of_lists[i][j] for j in range(len(list_of_lists)) for i in range(len(list_of_lists))]
+flatten_list = [list_of_lists[i][j] for i in range(len(list_of_lists)) for j in range(len(list_of_lists[i]))]
 print(flatten_list)
 
 #13. Convert the numbers of the following nested list to floats. Use floats as the name of the list. 
