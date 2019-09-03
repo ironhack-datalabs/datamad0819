@@ -7,46 +7,49 @@ my_listComprehension = [1/egg for egg in eggs]
 print(my_listComprehension)
 
 #Insert here the module/library import statements 
-
-
+import random
 
 
 #1. Calculate the square number of the first 20 numbers. Use square as the name of the list.
 # Remember to use list comprehensions and to print your results
 
-
+square = [i**2 for i in range(0,20)]
+print(square)
 
 
 #2. Calculate the first 50 power of two. Use power_of_two as the name of the list.
 # Remember to use list comprehensions and to print your results
 
-
+power_of_two = [x**2 for x in range(1,51)]
+print (power_of_two)
 
 
 #3. Calculate the square root of the first 100 numbers. Use sqrt as the name of the list.
 # You will probably need to install math library with pip and import it in this file.  
 # Remember to use list comprehensions and to print your results
 
-
+sqrt = [i**0.5 for i in range(0,101)]
+print(sqrt)
 
 
 #4. Create this list [-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0]. Use my_list as the name of the list.
 # Remember to use list comprehensions and to print your results
 
-
-
+lista = range(-1,10)
+my_list = [((i*-1)-1) for i in lista]
+print (my_list[::-1])
 
 #5. Find the odd numbers from 1-100. Use odds as the name of the list. 
 # Remember to use list comprehensions and to print your results
 
-
-
+odds = [x for x in range(1,100,2)]
+print(odds)
 
 #6. Find all of the numbers from 1-1000 that are divisible by 7. Use divisible_by_seven as the name of the list.
 # Remember to use list comprehensions and to print your results
 
-
-
+divisible_by_seven = [x for x in range(1,1001) if x%7 == 0]
+print(divisible_by_seven)
 
 #7. Remove all of the vowels in a string. Hint: make a list of the non-vowels. Use non_vowels as the name of the list.
 # Remember to use list comprehensions and to print your results
@@ -55,21 +58,26 @@ print(my_listComprehension)
 teststring = 'Find all of the words in a string that are monosyllabic'
 
 
-
-
 #8. Find the capital letters (and not white space) in the sentence 'The Quick Brown Fox Jumped Over The Lazy Dog'. 
 # Use capital_letters as the name of the list.  
 # Remember to use list comprehensions and to print your results
 
-
+phrase = "The Quick Brown Fox Jumped Over The Lazy Dog"
+capital_letters = [x for x in phrase if x.isupper()]
+print (capital_letters)
 
 
 #9. Find all the consonants in the sentence 'The quick brown fox jumped over the lazy dog'.
 # Use consonants as the name of the list.
 # Remember to use list comprehensions and to print your results.
 
+phrase = 'The quick brown fox jumped over the lazy dog'
+vocals = ['a','e','i','o','u', ' ']
+consonants = [x for x in phrase if x not in vocals]
+print (consonants)
 
 
+'''
 
 
 #10. Find the folders you have in your madrid-oct-2018 local repo. Use files as name of the list.  
@@ -106,7 +114,7 @@ list_of_lists = [['40', '20', '10', '30'], ['20', '20', '20', '20', '20', '30', 
 
 
 for i in ['a','b','c']:
-    print i**2
+    print (i**2)
 
 
 #15. Handle the exception thrown by the code below by using try and except blocks. 
@@ -189,3 +197,4 @@ Total_Marks = int(input("Enter Total Marks Scored: "))
 Num_of_Sections = int(input("Enter Num of Sections: "))
 
 
+'''
