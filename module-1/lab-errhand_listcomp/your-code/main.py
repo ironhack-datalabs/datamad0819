@@ -7,45 +7,48 @@ my_listComprehension = [1/egg for egg in eggs]
 print(my_listComprehension)
 
 #Insert here the module/library import statements 
-import statements 
+#import statements 
 
 
 
 #1. Calculate the square number of the first 20 numbers. Use square as the name of the list.
 # Remember to use list comprehensions and to print your results
 square = [(x+1)**2 for x in range(20)]
-
+print('1:',square)
 
 
 #2. Calculate the first 50 power of two. Use power_of_two as the name of the list.
 # Remember to use list comprehensions and to print your results
-power_of_two = [2**(x=1) for x in range(50)]
-
+power_of_two = [2**(x+1) for x in range(50)]
+print('2:',power_of_two)
 
 
 #3. Calculate the square root of the first 100 numbers. Use sqrt as the name of the list.
 # You will probably need to install math library with pip and import it in this file.  
 # Remember to use list comprehensions and to print your results
 sqrt = [(x+1)**(1/2) for x in range(100) ]
+print('3:',sqrt)
 
 
 
 #4. Create this list [-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0]. Use my_list as the name of the list.
 # Remember to use list comprehensions and to print your results
 
-my_List = [x for x in range(-10,0,-1)]
+my_List = [x for x in range(-10,1)]
+print('4:',my_List)
 
 
 #5. Find the odd numbers from 1-100. Use odds as the name of the list. 
 # Remember to use list comprehensions and to print your results
 odds = [x for x in range(100) if x%2 != 0]
+print('5:',odds)
 
 
 
 #6. Find all of the numbers from 1-1000 that are divisible by 7. Use divisible_by_seven as the name of the list.
 # Remember to use list comprehensions and to print your results
 divisible_by_seven = [x for x in range(1000) if x%7 == 0]
-
+print('6:',divisible_by_seven)
 
 
 #7. Remove all of the vowels in a string. Hint: make a list of the non-vowels. Use non_vowels as the name of the list.
@@ -53,15 +56,15 @@ divisible_by_seven = [x for x in range(1000) if x%7 == 0]
 # You can use the following test string but feel free to modify at your convenience
 
 teststring = 'Find all of the words in a string that are monosyllabic'
-non_vowels = ''.join([x for x in testering if x not in ['a','e','i','o','u']])
-
+non_vowels = ''.join([x for x in teststring if x not in ['a','e','i','o','u']])
+print('7:',non_vowels)
 
 
 #8. Find the capital letters (and not white space) in the sentence 'The Quick Brown Fox Jumped Over The Lazy Dog'. 
 # Use capital_letters as the name of the list.  
 # Remember to use list comprehensions and to print your results
 capital_letters = [x for x in 'The Quick Brown Fox Jumped Over The Lazy Dog' if x.isupper()]
-
+print('8:',capital_letters)
 
 
 #9. Find all the consonants in the sentence 'The quick brown fox jumped over the lazy dog'.
@@ -69,7 +72,7 @@ capital_letters = [x for x in 'The Quick Brown Fox Jumped Over The Lazy Dog' if 
 # Remember to use list comprehensions and to print your results.
 
 consonants = [x for x in 'The Quick Brown Fox Jumped Over The Lazy Dog' if x not in ['a','e','i','o','u']]
-
+print('9:',consonants)
 
 
 #10. Find the folders you have in your madrid-oct-2018 local repo. Use files as name of the list.  
@@ -78,14 +81,14 @@ consonants = [x for x in 'The Quick Brown Fox Jumped Over The Lazy Dog' if x not
 import os
 
 library = [f for f in os.listdir('../../../../datamad0819') ]
-
+print('10:',library)
 
 #11. Create 4 lists of 10 random numbers between 0 and 100 each. Use random_lists as the name of the list. 
 #You will probably need to import random module
 # Remember to use list comprehensions and to print your results
 import random
 
-
+'''
 
 
 
@@ -193,3 +196,4 @@ Total_Marks = int(input("Enter Total Marks Scored: "))
 Num_of_Sections = int(input("Enter Num of Sections: "))
 
 
+'''
