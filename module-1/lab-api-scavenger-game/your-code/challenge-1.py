@@ -1,4 +1,3 @@
-# enter your code below
 import requests
 import os 
 from dotenv import load_dotenv
@@ -17,7 +16,7 @@ def authRequest(url, params={}):
     return response.json()
 
 
-data = authRequest("https://api.github.com/users/ironhack-datalabs/repos?type=private")
+#data = authRequest("https://api.github.com/users/ironhack-datalabs/repos?type=private")
 #hey = [repo["full_name"] for repo in data]
 #print(hey)
 
