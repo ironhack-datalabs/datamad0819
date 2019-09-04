@@ -1,5 +1,16 @@
-# IMPORTING LIBRARIES
+######################################################
+#           ~ lab-api-scavenger-game ~               #
+# These are the solutions to a lesson on using APIs  #
+# as part of the Data Analytics Bootcamp by Ironhack #
+# Madrid.                ~ created by Felipe Ferrero #
+#       ~ Feel free to use and modify freely. ~      #
+######################################################
 
+# This code takes information from a .env file as enviroment variables
+# and uses them to access the GitHub API, retrieve statistics in json
+# format and read specific files spread throughout a repository. 
+
+# IMPORTING LIBRARIES
 from dotenv import load_dotenv
 import os
 from functions import authRequest
@@ -11,7 +22,7 @@ print('######################\n# API Scavenger Game #\n######################\n'
 
 # LOAD ENV VARIABLES
 load_dotenv()
-usr = os.getenv('USR_IRON')
+usr = os.getenv('USR')
 repo_name = os.getenv('REPO_DATA')
 
 # SET URL WITH ENV VARIABLES
@@ -21,10 +32,12 @@ url = 'https://api.github.com/repos/{}/{}/forks'.format(usr,repo_name)
 repo = authRequest(url)
 
 #### CHALLENGE 1:
+
+# GET LANGUAGE INFO FROM ALL FORKS
 print('# Challenge 1:')
-# GET LANGUAGE INFO FROM ALL FORKS:
 lang = []
 print('Retrieving information.')
+
 # ITERATING FORKS
 for fork in repo:
     url_lang = 'https://api.github.com/repos/{}/languages'.format(fork['full_name'])
@@ -50,9 +63,10 @@ stats_values = [usr,repo_name,last_week[0],last_week[1],last_year[0],last_year[1
 print('Statistics for {}/{}:\nCommits last week:\n     • {} by owner\n     • {} by everyone\nCommits last year:\n     • {} by owner\n     • {} by everyone'.format(*stats_values))
 
 #### CHALLENGE 3:
+
+# GETTING FOLDER NAMES
 print('\n# Challenge 3:')
 print('Retrieving information.')
-# GETTING FOLDER NAMES
 repo_name = os.getenv('REPO_SCAV')
 url_contents = 'https://api.github.com/repos/{}/{}/contents'.format(usr,repo_name)
 repo_contents = authRequest(url_contents)
