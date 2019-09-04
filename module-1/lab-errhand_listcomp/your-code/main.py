@@ -8,50 +8,67 @@ print(my_listComprehension)
 
 #Insert here the module/library import statements 
 
+import math
+import os
+import random
 
 
 
 #1. Calculate the square number of the first 20 numbers. Use square as the name of the list.
 # Remember to use list comprehensions and to print your results
 
+print("------EJERCICIO 1 ------- \n")
+square = [ num**2 for num in range(0,20)  ]
+
+print(square)
+
 
 
 
 #2. Calculate the first 50 power of two. Use power_of_two as the name of the list.
 # Remember to use list comprehensions and to print your results
+print("------EJERCICIO 2 ------- \n")
+power_of_two = [2**num for num in range(0,50)]
 
-
-
+ 
+print(power_of_two)
 
 #3. Calculate the square root of the first 100 numbers. Use sqrt as the name of the list.
 # You will probably need to install math library with pip and import it in this file.  
 # Remember to use list comprehensions and to print your results
-
-
+print("------EJERCICIO 3 ------- \n")
+sqrt = [math.sqrt(num) for num in range(0,100)]
+print(sqrt)
 
 
 #4. Create this list [-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0]. Use my_list as the name of the list.
 # Remember to use list comprehensions and to print your results
+print("------EJERCICIO 4 ------- \n")
 
+my_list = [num for num in range(-10,1)]
 
-
+print(my_list)
 
 #5. Find the odd numbers from 1-100. Use odds as the name of the list. 
 # Remember to use list comprehensions and to print your results
+print("------EJERCICIO 5 ------- \n")
 
+odds = [num for num in range(1,101) if num %2 == 1   ]
+print(odds)
 
 
 
 #6. Find all of the numbers from 1-1000 that are divisible by 7. Use divisible_by_seven as the name of the list.
 # Remember to use list comprehensions and to print your results
-
-
+print("------EJERCICIO 6 ------- \n")
+divisible_by_seven = [num for num in range(1,101) if num %7 == 0   ]
+print(divisible_by_seven)
 
 
 #7. Remove all of the vowels in a string. Hint: make a list of the non-vowels. Use non_vowels as the name of the list.
 # Remember to use list comprehensions and to print your results
 # You can use the following test string but feel free to modify at your convenience
-
+print("------EJERCICIO 7 ------- \n")
 teststring = 'Find all of the words in a string that are monosyllabic'
 
 
@@ -60,14 +77,21 @@ teststring = 'Find all of the words in a string that are monosyllabic'
 #8. Find the capital letters (and not white space) in the sentence 'The Quick Brown Fox Jumped Over The Lazy Dog'. 
 # Use capital_letters as the name of the list.  
 # Remember to use list comprehensions and to print your results
+print("------EJERCICIO 8 ------- \n")
+string = 'The Quick Brown Fox Jumped Over The Lazy Dog'
 
-
-
+capital_letters = [char for char in string if char.isupper()]
+print(capital_letters)
+#isupper()
 
 #9. Find all the consonants in the sentence 'The quick brown fox jumped over the lazy dog'.
 # Use consonants as the name of the list.
 # Remember to use list comprehensions and to print your results.
+print("------EJERCICIO 9 ------- \n")
+vocals = "aeiouAEIOU"
 
+consonants = [char for char in string if char not in vocals]
+print(consonants)
 
 
 
@@ -75,20 +99,23 @@ teststring = 'Find all of the words in a string that are monosyllabic'
 #10. Find the folders you have in your madrid-oct-2018 local repo. Use files as name of the list.  
 # You will probably need to import os library and some of its modules. You will need to make some online research.
 # Remember to use list comprehensions and to print your results.
+print("------EJERCICIO 10 ------- \n")
 
-
+files = [ os.path.join("/.", a) for a in  os.listdir("./")]
+print(files)
 
 #11. Create 4 lists of 10 random numbers between 0 and 100 each. Use random_lists as the name of the list. 
 #You will probably need to import random module
 # Remember to use list comprehensions and to print your results
+print("------EJERCICIO 11 ------- \n")
 
 
+"""random_lists = [ random.randint(0,100) for i   ]
+print(random.randint(0,100))"""
 
 
 #12. Flatten the following list of lists. Use flatten_list as the name of the output.
 # Remember to use list comprehensions and to print your results
-
-list_of_lists = [[1,2,3],[4,5,6],[7,8,9]]
 
 
 
