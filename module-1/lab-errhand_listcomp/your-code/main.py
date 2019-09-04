@@ -112,6 +112,7 @@ flatten_list=[x for list in list_of_lists for x in list]
 print(flatten_list)
 
 
+
 #13. Convert the numbers of the following nested list to floats. Use  as the name of the list. 
 # Remember to use list comprehensions and to print your results.
 print("\n\n-----Ejercicio 13------")
@@ -122,13 +123,15 @@ list_of_lists = [['40', '20', '10', '30'], ['20', '20', '20', '20', '20', '30', 
 floats=[[float(x) for x in list] for list in list_of_lists]
 print(floats)
 
-'''
+
 #14. Handle the exception thrown by the code below by using try and except blocks. 
 print("\n\n-----Ejercicio 14------")
 
 for i in ['a','b','c']:
-    print i**2
-
+    try:
+        print i**2
+    except:
+        print("No se puede utilizar el operador ** con variables tipo str")
 
 #15. Handle the exception thrown by the code below by using try and except blocks. 
 #Then use a finally block to print 'All Done.'
@@ -137,30 +140,48 @@ print("\n\n-----Ejercicio 15------")
 x = 5
 y = 0
 
-z = x/y
-
+try:
+    z = x/y
+except:
+    print("no se puede dividir por 0")
 
 
 
 #16. Handle the exception thrown by the code below by using try and except blocks. 
 # Check in provided resources the type of error you may use. 
 print("\n\n-----Ejercicio 16------")
-abc=[10,20,20]
-print(abc[3])
 
+abc=[10,20,20]
+try:
+    print(abc[3])
+except:
+    print("el valor 3 esta fuera de la lista")
 
 #17. Handle at least two kind of different exceptions when dividing a couple of numbers provided by the user. 
 # Hint: take a look on python input function. 
 # Check in provided resources the type of error you may use. 
 print("\n\n-----Ejercicio 17------")
 
+x = 5
+y = "a"
+
+try:
+    z = x/y
+except ZeroDivisionError as zeroErr:
+    print("no se puede dividir por 0")
+except TypeError as typeErr:
+    print("El operador '/' solo soperte numerical types")
 
 
 #18. Handle the exception thrown by the code below by using try and except blocks. 
 # Check in provided resources the type of error you may use. 
 print("\n\n-----Ejercicio 18------")
-f = open('testfile','r')
-f.write('Test write this')
+try:
+    f = open('testfile','r')
+    f.write('Test write this')
+except IOError as e:
+    print("Fichero no encontrado")
+
 
 
 
@@ -168,10 +189,17 @@ f.write('Test write this')
 #19. Handle the exceptions that can be thrown by the code below using try and except blocks. 
 #Hint: the file could not exist and the data could not be convertable to int
 print("\n\n-----Ejercicio 19------")
-#fp = open('myfile.txt')
- #   line = f.readline()
-  #  i = int(s.strip())
 
+
+
+try:
+    fp = open('myfile.txt')
+    line = f.readline()
+    i = int(s.strip())
+except IOError as errFile:
+    print("Fichero no encontrado")
+except ValueError as errValue:
+    print("No se puede converir a string")
 
 
 
@@ -185,6 +213,8 @@ def linux_interaction():
     print('Doing something.')
 
 
+
+'''
 # Bonus Questions:
 
 # You will need to make some research on dictionary comprehension to solve the following questions
