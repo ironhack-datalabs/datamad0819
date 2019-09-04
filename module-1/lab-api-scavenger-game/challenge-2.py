@@ -16,7 +16,12 @@ def authRequest(url, params={}):
     #print('headers',response.headers())
     return response.json()
 
-    commits = authRequest(urlcommits,since= 2019-08-26T00:00Z, until= 2019-09-01T23:59Z)
 
-    counter = len(commits)
-    print(counter)
+
+
+commits = authRequest(urlcommits, params={ "since": '2018-08-26T00:00:00Z', "until": '2019-09-01T23:59:59Z'})
+
+#counter = len(commits)
+
+print('total commits in last year',len(commits))
+
