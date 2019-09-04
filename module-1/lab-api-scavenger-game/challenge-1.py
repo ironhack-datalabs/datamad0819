@@ -23,3 +23,8 @@ forks = authRequest(urlforks)
 people_forking = [fork["owner"]["login"] for fork in forks]
 print(people_forking)
 
+#lenguajes usados:
+
+languages = set([fork['language']for fork in forks])
+
+print('languages used:',languages )
