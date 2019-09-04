@@ -8,5 +8,4 @@ def authRequest(url, params={}):
        "Authorization": "token {}".format(github_token)
     }
     response = requests.get(url,headers=headers, params=params)
-    
     return response.json()

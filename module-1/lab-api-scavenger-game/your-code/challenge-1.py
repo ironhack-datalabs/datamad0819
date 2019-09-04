@@ -1,13 +1,9 @@
 # IMPORTING LIBRARIES
 
 from dotenv import load_dotenv
-import requests
-import json
 import os
 from functions import authRequest
-from datetime import datetime, timedelta
-import re
-import base64
+from base64 import b64decode
 
 # LAB-API-SCAVENGER-GAME
 print('\n █████╗ ██████╗ ██╗\n██╔══██╗██╔══██╗██║\n███████║██████╔╝██║\n██╔══██║██╔═══╝ ██║\n██║  ██║██║     ██║\n╚═╝  ╚═╝╚═╝     ╚═╝')
@@ -25,10 +21,10 @@ url = 'https://api.github.com/repos/{}/{}/forks'.format(usr,repo_name)
 repo = authRequest(url)
 
 #### CHALLENGE 1:
-
+print('# Challenge 1:')
 # GET LANGUAGE INFO FROM ALL FORKS:
 lang = []
-print('Retrieving a lot of information, might take a minute.')
+print('Retrieving information.')
 # ITERATING FORKS
 for fork in repo:
     url_lang = 'https://api.github.com/repos/{}/languages'.format(fork['full_name'])
@@ -37,45 +33,25 @@ for fork in repo:
     print('.', end='', flush=True)
 
 # PRINT LANGUAGES USED IN TERMINAL
-print('\n\n# Challenge 1:')
-print('Languages used in all forks of {1}/{2}: {0}\n'.format(set(lang), usr, repo_name))
+print('\nLanguages used in all forks of {1}/{2}: {0}\n'.format(set(lang), usr, repo_name))
 
 #### CHALLENGE 2:
 
-# GET COMMITS FOR PAST WEEK FOR ALL BRANCHES IN ALL FORKS FOR THE PAST WEEK
-# ASSIGNING DATE VARIABLE
-date = datetime.now().replace(microsecond=0)
-since = date - timedelta(days=7)
-since = str(since.isoformat())+'Z'
-
-print('Retrieving a lot of information, might take a minute.')
-forks = 0
-branches = 0
-commits = []
-
-# ITERATING FORKS
-for fork in repo:
-    url_branch = 'https://api.github.com/repos/{}/branches'.format(fork['full_name'])
-    repo_branch = authRequest(url_branch)
-    forks +=1
-    # ITERATING BRANCHES
-    for branch in repo_branch:
-        url_commit = branch['commit']['url']
-        repo_commit = authRequest(url_commit,params={'since':since})
-        # COUNTING NUMBER OF COMMITS
-        commits.append(len(repo_commit))
-        branches +=1
-    print('.', end='', flush=True)
-# SUMMING TOTAL
-commit_count=sum(commits)
+# GET COMMITS STATISTICS
+print('\n# Challenge 2:')
+print('Retrieving information.\n.......................')
+stats_url = 'https://api.github.com/repos/{}/{}/stats/participation'.format(usr,repo_name)
+stats = authRequest(stats_url)
+last_week = (stats['owner'][-1],stats['all'][-1])
+last_year = (sum(stats['owner']),sum(stats['all']))
 
 # PRINT NUMBER OF COMMITS IN TERMINAL
-print('\n\n# Challenge 2:')
-print('{0} commits made to {4} branches of {5} forks of {1}/{2} since {3} \n'.format(commit_count, usr, repo_name, since, branches, forks))
+stats_values = [usr,repo_name,last_week[0],last_week[1],last_year[0],last_year[1]]
+print('Statistics for {}/{}:\nCommits last week:\n     • {} by owner\n     • {} by everyone\nCommits last year:\n     • {} by owner\n     • {} by everyone'.format(*stats_values))
 
 #### CHALLENGE 3:
-
-print('Retrieving a lot of information, might take a minute.')
+print('\n# Challenge 3:')
+print('Retrieving information.')
 # GETTING FOLDER NAMES
 repo_name = os.getenv('REPO_SCAV')
 url_contents = 'https://api.github.com/repos/{}/{}/contents'.format(usr,repo_name)
@@ -107,8 +83,7 @@ for scav_file in scav_files:
 # DECODING TEXT FROM base64
 text_decoded = []
 for word in text:
-    text_decoded.append(str(base64.b64decode(word)).replace("b'",'').replace("\\n'",''))
+    text_decoded.append(str(b64decode(word)).replace("b'",'').replace("\\n'",''))
 text_decoded = ' '.join(text_decoded)
-print('\n\n# Challenge 3:')
-print('The secret message is: ""{}""'.format(text_decoded))
+print('\nThe secret message is:\n       """ {} """\n\n'.format(text_decoded))
  
