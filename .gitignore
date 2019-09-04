@@ -2,3 +2,6 @@
 .idea
 venv/
 .ipynb_checkpoints
+.env
+module-1/lab-api-scavenger-game/__pycache__/functions.cpython-36.pyc
+module-1/lab-api-scavenger-game/your-code/__pycache__/functions.cpython-36.pyc
