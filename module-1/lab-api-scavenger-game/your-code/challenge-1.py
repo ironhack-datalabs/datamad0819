@@ -18,13 +18,22 @@ data = authRequest("https://api.github.com/repos/ironhack-datalabs/datamad0819/f
 datamad0819_list = list(dict.fromkeys([h["language"] for h in data]))
 print(datamad0819_list)
 
-#
+
 # parte 2
 data = authRequest("https://api.github.com/repos/ironhack-datalabs/datamad0819/commits")
 datamad0819_list = ([h["commit"] for h in data])
+#print(datamad0819_list)
+for i in datamad0819_list:
+    print (datamad0819_list[2])
+    
 x = len(datamad0819_list)
 print(x)
-    
+
+
+#parte3
+hidden = authRequest("https://api.github.com/repos/ironhack-datalabs/scavenger")
+
+
 
 
 
