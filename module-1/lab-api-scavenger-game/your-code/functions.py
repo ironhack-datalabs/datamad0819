@@ -7,7 +7,7 @@ def authRequest(url, params={}):
    a json object with the retrieved information. 
    A GiHub personal token is required on a .env file
    as TOKEN=<token> in order for it to be used as 
-   enviroment variable.
+   environment variable.
    Optionally, parameters for the query may be passed
    to authRequest as a dictonary.
    Check API documentation for information on valid 

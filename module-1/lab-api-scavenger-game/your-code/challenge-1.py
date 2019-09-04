@@ -6,7 +6,7 @@
 #       ~ Feel free to use and modify freely. ~      #
 ######################################################
 
-# This code takes information from a .env file as enviroment variables
+# This code takes information from a .env file as environment variables
 # and uses them to access the GitHub API, retrieve statistics in json
 # format and read specific files spread throughout a repository. 
 
@@ -100,4 +100,3 @@ for word in text:
     text_decoded.append(str(b64decode(word)).replace("b'",'').replace("\\n'",''))
 text_decoded = ' '.join(text_decoded)
 print('\nThe secret message is:\n       """ {} """\n\n'.format(text_decoded))
- 
