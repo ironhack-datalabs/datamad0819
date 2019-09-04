@@ -46,12 +46,12 @@ for fork in repo:
     print('.', end='', flush=True)
 
 # PRINT LANGUAGES USED IN TERMINAL
-print('\nLanguages used in all forks of {1}/{2}: {0}\n'.format(set(lang), usr, repo_name))
+print('\nLanguages used in all forks of {1}/{2}: {0}'.format(set(lang), usr, repo_name))
 
 #### CHALLENGE 2:
 
 # GET COMMITS STATISTICS
-print('\n# Challenge 2:')
+print('\n\n# Challenge 2:')
 print('Retrieving information.\n.......................')
 stats_url = 'https://api.github.com/repos/{}/{}/stats/participation'.format(usr,repo_name)
 stats = authRequest(stats_url)
@@ -65,7 +65,7 @@ print('Statistics for {}/{}:\nCommits last week:\n     • {} by owner\n     •
 #### CHALLENGE 3:
 
 # GETTING FOLDER NAMES
-print('\n# Challenge 3:')
+print('\n\n# Challenge 3:')
 print('Retrieving information.')
 repo_name = os.getenv('REPO_SCAV')
 url_contents = 'https://api.github.com/repos/{}/{}/contents'.format(usr,repo_name)
