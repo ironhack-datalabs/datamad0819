@@ -9,6 +9,7 @@ github_token = os.getenv("github_token")
 def authRequest(url, params={}):
     headers = {
        "Authorization": "token {}".format(github_token)
+
     }
     response = requests.get(url,headers=headers, params=params)
     print(response.status_code)
