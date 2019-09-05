@@ -20,6 +20,22 @@ to_do = "commits"
 n_commit = "100"
 
 
+##Ver: 1.- Getting commits with SINCE argument
+
+url = "https://api.github.com/repos/{}/{}/{}".format(owner,repo_name,to_do)
+date = "2019-08-08T00:00:00Z"
+r = requests.get(url, headers = headers, params={"since":date})
+rd = r.json()
+dates=[]
+for ele in rd:
+        dates.append(ele["commit"]["committer"]["date"])
+
+print("Since {} there has been {} commits".format(date[:10],len(dates)))
+
+
+##Ver: 2.- GEtting all commits
+
+
 url = "https://api.github.com/repos/{}/{}/{}".format(owner,repo_name,to_do)
 r = requests.get(url, headers = headers)
 rd = r.json()
