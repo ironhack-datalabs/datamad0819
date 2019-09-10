@@ -6,10 +6,10 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# Lectura del csv # TENGO QUE CAMBIAR EL DIRECTORIO DEL CSV!!!
+# Lectura del csv 
 
 
-data = pd.read_csv("./input/globalterrorismdb_0718dist.csv", encoding = "ISO-8859-1", dtype='unicode')
+data = pd.read_csv("./originaldata/globalterrorismdb_0718dist.csv", encoding = "ISO-8859-1", dtype='unicode')
 
 # Limpieza de columnas
 
@@ -98,42 +98,7 @@ atentados = {
 
 atentadosNY["urlatentado"] = list(atentados.values())
 
-# Creación de una columna con el comentario encontrado
+# Creación de un csv con los datos filtrados por EEUU
 
-api_key = os.getenv("api_key")
+atentadosEEUU.to_csv("./input/atentadosEEUU.csv")
 
-#print(api_key)
-
-lista = []
-
-for item in atentadosNY["urlatentado"]:
-    if item == 0:
-        lista.append(0)
-    else:
-        lista.append(authRequest(item, api_key))
-
-
-comentarios = []
-
-for item in lista:
-    comentarios.append(comments(item))
-
-
-atentadosNY["comments"] = comentarios
-
-# Creación de una columna con el número de comentarios para cada artículo
-
-numero_comentarios = []
-
-for item in lista:
-    numero_comentarios.append(num_comments(item))
-
-
-atentadosNY["num_comments"] = numero_comentarios
-
-
-# Creación de dos csv, uno con los datos de Estados Unidos y otro con los de NY
-
-
-atentadosEEUU.to_csv("./output/atentadosEEUU.csv")
-atentadosNY.to_csv("./output/atentadosNY.csv")
