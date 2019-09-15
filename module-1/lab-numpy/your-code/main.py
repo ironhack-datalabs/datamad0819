@@ -76,8 +76,10 @@ d_mean = d.mean()
 
 f = np.empty((2,3,5))
 
+------------------------------------------------------------------------------------------------------------------------------------
 
-"""
+#EJERCICIOS ACTUALIZADOS A DÍA 15/09
+
 #16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
 If a value in d is larger than d_mean but smaller than d_max, assign 75 to the corresponding value in f.
 If a value equals to d_mean, assign 50 to the corresponding value in f.
@@ -85,11 +87,11 @@ Assign 0 to the corresponding value(s) in f for d_min in d.
 Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
+    
+
+
+
 """
-
-
-
-
 """
 #17. Print d and f. Do you have your expected f?
 For instance, if your d is:
@@ -109,10 +111,8 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
        [[ 25.,  25.,  25.,  25., 100.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
-"""
 
 
-"""
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
 ("A", "B", "C", "D", and "E") to label the array elements? You are expecting the result to be:
 array([[[ 'D',  'D',  'D',  'B',  'D'],
@@ -123,4 +123,22 @@ array([[[ 'D',  'D',  'D',  'B',  'D'],
         [ 'D',  'D',  'D',  'D',  'D'],
         [ 'B',  'D',   'A',  'D', 'D']]])
 Again, you don't need Numpy in this question.
-"""
+
+
+l = f.astype(str)
+
+for array in range(l.shape[0]):
+    for lst in range(l.shape[1]):
+        for elem in range(l.shape[2]):
+            if d[array][lst][elem] > d_min and d[array][lst][elem] < d_mean: 
+                l[array][lst][elem] = 'A'
+            elif d[array][lst][elem] == d_mean:
+                l[array][lst][elem] = 'B'
+            elif d[array][lst][elem] > d_mean and d[array][lst][elem] < d_max:
+                l[array][lst][elem] = 'C'
+            elif d[array][lst][elem] == d_max:
+                l[array][lst][elem] = 'D'
+            elif d[array][lst][elem] == d_min:
+                l[array][lst][elem] = 'E'
+                
+print(l)
