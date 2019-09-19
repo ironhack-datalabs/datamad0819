@@ -13,6 +13,8 @@ CREATE SCHEMA IF NOT EXISTS `lab_mysql` DEFAULT CHARACTER SET utf8 COLLATE utf8_
 USE `lab_mysql`;\
 \
 \
+
+    
 -- -----------------------------------------------------\
 -- Table `lab_mysql`.`SALESPERSON`\
 -- -----------------------------------------------------\
