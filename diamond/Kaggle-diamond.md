@@ -1,0 +1,1 @@
+Enlace al repositorio de los diamantes: https://github.com/josele639/kaggle-diamond
